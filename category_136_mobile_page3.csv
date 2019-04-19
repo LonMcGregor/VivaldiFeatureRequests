@@ -1,0 +1,47 @@
+ID,Title,Author,Date,Votes,Tags
+25350,Mobile Browser Version,szenfner,2018-02-22T13:04:44.849Z,128,SYNC:MOBILE:IN PROGRESS:ANDROID
+31075,A light version in addition to the standard one,Ornorm,2018-10-09T23:03:26.159Z,9,MOBILE
+27229,Vivaldi Mail app for mobile phones,CheVe11e_191,2018-05-06T18:23:02.293Z,15,MOBILE:EMAIL:ANDROID:APP
+31078,Support Extensions,LonM,2018-10-10T07:21:50.291Z,38,EXTENSIONS:MOBILE
+36631,Respect system wide font size settings,zakius,2019-04-17T12:21:05.534Z,0,
+36484,Quick scrolling capabilities,ROTFL,2019-04-11T16:31:08.805Z,1,MOBILE:SCROLLING
+36044,Theme engine.,k9ketan,2019-03-31T08:14:54.302Z,6,THEMES:MOBILE
+36184,Play video in background,honorine.brice,2019-04-03T16:29:15.857Z,0,VIDEO:MOBILE:VIDEOPLAYBACK
+36043,Bookmark Bar integration.,k9ketan,2019-03-31T08:12:15.238Z,0,BOOKMARKS:BOOKMARKS BAR:MOBILE
+32025,Native adblocking,hexianpeel,2018-11-07T15:47:41.187Z,27,MOBILE:ADBLOCK
+35837,Collect links from other apps (like Firefox),sdtbluethink,2019-03-27T10:28:16.961Z,1,MOBILE
+35781,Force desktop version of a site.,luetage,2019-03-25T19:26:52.294Z,8,MOBILE
+35336,Developer Tools (Inspect),truetiem,2019-03-09T05:32:11.875Z,0,MOBILE:DEVELOPER TOOLS
+25202,Support Progressive Web App Installation,LonM,2018-02-18T16:08:50.586Z,16,MOBILE
+33873,Captive Portal Detection,MikeZ,2019-01-17T09:59:16.258Z,1,MOBILE
+33875,Expandable "back" history,ROTFL,2019-01-17T11:19:25.954Z,5,MOBILE:BACK BUTTON
+31772,Mobile Vivaldi for iOS,alternative,2018-10-29T13:23:53.821Z,11,MOBILE
+32020,"Seamless browsing experience" aka. realtime tabs syncing with PC,jacekn,2018-11-07T14:14:14.917Z,16,TABS:SYNC:MOBILE:SESSIONS
+31115,"Computerish" tab bar,GoldNoway,2018-10-11T13:43:58.884Z,7,TABS:MOBILE
+33006,Tab Queue,MichaelKirk,2018-12-13T16:51:33.977Z,1,MOBILE
+33409,Support of Background's Floating Video Window,nazar1,2018-12-25T19:22:55.574Z,1,MOBILE
+31062,Include notes browser / editor in mobile version,ROTFL,2018-10-09T20:59:40.887Z,8,NOTES:MOBILE:IN PROGRESS
+32062,Orientation locking option,GoldNoway,2018-11-08T13:39:59.437Z,4,MOBILE
+32412,Optimization for lower (than Chrome) power consumption,ROTFL,2018-11-21T09:15:44.250Z,3,MOBILE:BATTERY SAVING
+27122,Vivaldi Mobile: Address Bar at Bottom,LongLife,2018-05-02T14:04:02.069Z,41,ADDRESS BAR:MOBILE:IN PROGRESS
+32059,Thumb reachability and gestures for one-hand use (see Yandex),Pandorino,2018-11-08T12:17:13.768Z,14,MOBILE:USER INTERFACE
+32140,Voice Support for Quick Commands,MasterLeo29,2018-11-11T20:11:43.286Z,3,MOBILE:VOICE
+31551,Support for Amazon Kindle Fire,greybeard,2018-10-23T15:35:42.753Z,3,MOBILE
+32061,Don't require google play  make APK available,x-15a2,2018-11-08T13:02:05.100Z,11,MOBILE
+32057,Support for Andriod Autofill framework,Rafale,2018-11-08T11:20:58.475Z,5,MOBILE
+32053,Text Wrap option,dmitrik,2018-11-08T10:40:07.550Z,13,MOBILE
+32048,Sync Bookmarks and Passwords,buss,2018-11-08T08:57:05.660Z,14,SYNC:MOBILE:IN PROGRESS
+32042,User Javascript/Greasemonkey support,Viqsi,2018-11-08T03:24:19.713Z,6,JAVASCRIPT:MOBILE
+31296,Reader View for Vivaldi Mobile,antoine.luboz,2018-10-16T09:37:30.148Z,18,READER VIEW
+32021,Finger Gestures & Tab Groups,Steffie,2018-11-07T14:39:17.775Z,12,MOBILE
+31319,Enhanced share feature,antoine.luboz,2018-10-16T20:14:57.946Z,3,MOBILE:SHARING
+31068,Include QR code scanner in mobile version,ROTFL,2018-10-09T21:23:55.797Z,7,MOBILE:QR CODES
+31080,Easy way to switch pages to "offline" mode,Guilimote,2018-10-10T08:55:52.315Z,7,MOBILE:OFFLINE
+31065,Make it easier to integrate mobile version with third-party software,ROTFL,2018-10-09T21:12:12.635Z,2,MOBILE:ANDROID:THIRD-PARTY:INTEGRATION:TASKER
+31072,Utilize fingerprint scanner,ROTFL,2018-10-09T22:24:16.422Z,11,MOBILE:FINGERPRINT
+31070,Use mobile instance for two-factor authentication,ROTFL,2018-10-09T21:36:07.243Z,2,MOBILE:SECURITY:2FA
+31069,QR login system for Vivaldi.net like on Aliexpress.com,ROTFL,2018-10-09T21:31:46.464Z,1,MOBILE:LOGIN:QR CODES
+31067,Notify user when new device is added to Sync,ROTFL,2018-10-09T21:21:57.071Z,7,SYNC:MOBILE:SECURITY:DEVICE MANAGER
+31061,Import bookmarks from other mobile browsers,ROTFL,2018-10-09T20:56:02.618Z,3,BOOKMARKS:MOBILE:IMPORT
+29294,Vivaldi mobile as a multi media remote for the desktop client,HalleAndert,2018-08-10T21:58:08.453Z,2,MOBILE:MEDIA
+24538,Sync with Android contacts / calendar,ROTFL,2018-02-02T11:28:27.990Z,7,SYNC:MOBILE:ANDROID:CALENDAR:CONTACTS
