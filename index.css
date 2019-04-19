@@ -10,11 +10,13 @@ nav {
 nav tag-item {
     margin: 2px;
     padding: 2px;
+    background: cyan
 }
 
 tag-item {
-    background: cyan
+
 }
+
 
 tag-item[selected] {
     font-weight: bold;

@@ -6,7 +6,9 @@
 # write to file
 
 ALL_DATA = []
-TAGS = set()
+TAGS = {
+    "": 0
+}
 DATA_FILES = [
     ["category_113_feature-requests.csv", ""],
     ["category_127_address-bar.csv", "ADDRESS BAR"],
@@ -28,10 +30,13 @@ def readAFile(filename, base_tag):
             items = csv.split(",")
             tags = items[5].split(":")
             for tag in tags:
-                TAGS.add(tag)
+                if tag in TAGS:
+                    TAGS[tag] += 1
+                else:
+                    TAGS[tag] = 1
             if base_tag != "" and base_tag not in tags:
                 tags.append(base_tag)
-            topic = '["' + '","'.join(items[0:4]) + '",' + '["' + '","'.join(tags) + '"]]'
+            topic = '["' + '","'.join(items[0:5]) + '",' + '["' + '","'.join(tags) + '"]]'
             ALL_DATA.append(topic)
 
 for file in DATA_FILES:
@@ -42,6 +47,7 @@ with open("data.js", "w", encoding="utf-8") as datafile:
     for item in ALL_DATA:
         datafile.write(item + ",\n")
     datafile.write("];\n")
-    datafile.write('const TAGS = ["')
-    datafile.write('",\n"'.join(TAGS))
-    datafile.write('"];\n')
+    datafile.write('const TAGS = [')
+    for tag, count in TAGS.items():
+        datafile.write('["' + tag + '", ' + str(count) + '],\n')
+    datafile.write('];\n')

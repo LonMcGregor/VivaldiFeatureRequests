@@ -9,15 +9,19 @@ class TagToggledEvent extends Event {
 }
 
 class TagItem extends HTMLElement {
-    constructor(tagText) {
+    constructor(name, count) {
         super();
 
         const shadow = this.attachShadow({mode: 'open'});
 
         const span = document.createElement("span");
-        span.innerText = tagText;
+        span.innerText = name;
+
+        const cpsan = document.createElement("span");
+        cpsan.innerText = count;
 
         shadow.appendChild(span);
+        shadow.appendChild(cpsan);
     }
 
     toggleSelection(){
@@ -52,6 +56,6 @@ customElements.define('feature-request', FeatureRequest);
 
 
 // maybe a new tag should be created automatically when a feature request that contains one is created
-TAGS.forEach(tag => document.querySelector("nav").appendChild(new TagItem(tag)));
+TAGS.forEach(tag => document.querySelector("nav").appendChild(new TagItem(tag[0], tag[1])));
 
 DATA.forEach(item => document.querySelector("main").appendChild(new FeatureRequest(item[0], item[1], item[2], item[3], item[4])));
