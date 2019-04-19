@@ -28,7 +28,7 @@ def readAFile(filename, base_tag):
             tags = items[5].split(":")
             if base_tag != "" and base_tag not in tags:
                 tags.append(base_tag)
-            topic = '"' + '","'.join(items[0:4]) + '",' + '["' + '","'.join(tags) + '"]'
+            topic = '["' + '","'.join(items[0:4]) + '",' + '["' + '","'.join(tags) + '"]]'
             ALL_DATA.append(topic)
 
 for file in DATA_FILES:
