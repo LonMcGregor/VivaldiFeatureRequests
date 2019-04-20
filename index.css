@@ -14,12 +14,12 @@ nav tag-item {
 }
 
 tag-item {
-
 }
 
 
-tag-item[selected] {
-    font-weight: bold;
+tag-item[unselected] {
+    text-decoration: line-through;
+    opacity: 0.5
 }
 
 main {
@@ -36,4 +36,8 @@ main feature-request {
 
 feature-request {
     background: orange;
+}
+
+feature-request[hidden] {
+    visibility: hidden;
 }
