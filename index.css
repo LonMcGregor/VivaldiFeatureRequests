@@ -1,7 +1,7 @@
 nav {
     display: flex;
     background: blue;
-    flex-flow: row wrap;
+    flex-flow: row-reverse wrap-reverse;
     justify-content: space-evenly;
     align-items: center;
     align-content: center;
@@ -18,14 +18,13 @@ tag-item {
 
 
 tag-item[unselected] {
-    text-decoration: line-through;
     opacity: 0.5
 }
 
 main {
     display: flex;
     background: red;
-    flex-flow: column nowrap;
+    flex-flow: column-reverse nowrap;
 
 }
 

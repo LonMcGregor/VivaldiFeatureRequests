@@ -21,6 +21,8 @@ class TagItem extends HTMLElement {
 
         this.selected = true;
 
+        this.style.order = this.count;
+
         shadow.appendChild(span);
         shadow.appendChild(cpsan);
     }
@@ -48,14 +50,21 @@ class FeatureRequest extends HTMLElement {
     constructor(id, title, author, date, score, tags) {
         super();
 
+        this.id = id;
+        this.title = title;
+        this.author = author;
+        this.date = date;
+        this.score = score;
+        this.tags = tags;
+
         const shadow = this.attachShadow({mode: 'open'});
 
         const titletag = document.createElement("a");
         titletag.innerText = title;
-        const scoretag = document.createElement("a");
+        titletag.href = "https://forum.vivaldi.net/topic/" + this.id;
+        const scoretag = document.createElement("span");
         scoretag.innerText = score;
         const taglist = document.createElement("div");
-        this.tags = tags;
         this.tags.forEach(tag => {
             const tagspan = document.createElement("span");
             tagspan.innerText = tag;
@@ -64,9 +73,23 @@ class FeatureRequest extends HTMLElement {
 
         this.visible = true;
 
+        this.style.order = this.score;
+
         shadow.appendChild(scoretag);
         shadow.appendChild(titletag);
         shadow.appendChild(taglist);
+    }
+
+    titleMatch(term){
+        let cleanedTerm = term.trim().toLowerCase();
+        cleanedTerm = cleanedTerm.substr(cleanedTerm.length-1)==="s" ? cleanedTerm.substr(0, cleanedTerm.length-1) : cleanedTerm;
+        return this.title.toLowerCase().indexOf(cleanedTerm) > -1;
+    }
+
+    titleMatches(terms, matchAll){
+        let x = terms.map(term => this.titleMatch(term));
+        x = x.reduce((prev, current) => matchAll ? (prev && current) : (prev || current), matchAll)
+        return x;
     }
 
     hasTag(name){
@@ -113,12 +136,27 @@ function filter(){
     let enabledTags = Array.from(document.querySelectorAll("tag-item"));
     enabledTags = enabledTags.filter(tag => tag.selected);
     enabledTags = enabledTags.map(tag => tag.name);
+
+    let searchText = document.querySelector("input[type='text']").value;
+    searchText = searchText.split(" ");
+    searchText = searchText.map(term => term.trim());
+    searchText = searchText.filter(term => term !== "");
+
+    const and = document.querySelector("input[value='AND']").checked;
+    const searchAllTerms = and;
+
     Array.from(document.querySelectorAll("feature-request")).forEach(request => {
-        request.hasTags(enabledTags) ? request.show() : request.hide();
+        let matched = searchText.length > 0
+            ? request.hasTags(enabledTags) && request.titleMatches(searchText, searchAllTerms)
+            : request.hasTags(enabledTags);
+        matched ? request.show() : request.hide();
     });
 }
 
 document.addEventListener("TagToggled", filter);
+document.querySelector("input[type='text']").addEventListener("input", filter);
+document.querySelector("input[value='AND']").addEventListener("input", filter);
+document.querySelector("input[value='OR']").addEventListener("input", filter);
 
 filter();
 
