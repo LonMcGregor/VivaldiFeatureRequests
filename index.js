@@ -21,10 +21,20 @@ class TagItem extends HTMLElement {
 
         this.selected = true;
 
-        this.style.order = this.count;
+        this.style.order = "-" + this.count;
 
         shadow.appendChild(span);
         shadow.appendChild(cpsan);
+
+
+        const shadowStyle = document.createElement('style');
+        shadowStyle.textContent = `
+            span {
+                text-transform: lowercase;
+                margin: 2px;
+            }
+        `;
+        shadow.appendChild(shadowStyle);
     }
 
     setSelected(bool){
@@ -73,11 +83,32 @@ class FeatureRequest extends HTMLElement {
 
         this.visible = true;
 
-        this.style.order = this.score;
+        this.style.order = "-" + this.score;
+
+
+        const shadowStyle = document.createElement('style');
+        shadowStyle.textContent = `
+            a {
+                text-size: large;
+                margin: 4px;
+            }
+            div {
+                padding: 4px;
+                margin: 2px;
+            }
+            div > span {
+                text-transform: lowercase;
+                border: 1px solid #eeeeee;
+                border-radius: 3px;
+                margin: 4px;
+                padding: 2px;
+            }
+        `;
 
         shadow.appendChild(scoretag);
         shadow.appendChild(titletag);
         shadow.appendChild(taglist);
+        shadow.appendChild(shadowStyle);
     }
 
     titleMatch(term){
