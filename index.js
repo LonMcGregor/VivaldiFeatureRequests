@@ -4,9 +4,116 @@
 // show all requests
 // when a tag is selected filter just those requests, and "gray out" any tags that no longer occur
 
-class TagItem extends HTMLElement {
-    constructor(name, count) {
+class FilterForm extends HTMLElement {
+    constructor(){
         super();
+
+        const shadow = this.attachShadow({mode: 'open'});
+
+        const text = document.createElement("input");
+        text.type = "search";
+        shadow.appendChild(text);
+        this.text = text;
+
+        const and = document.createElement("label");
+        and.innerHTML = `
+        <input type="radio" name="searchType" value="AND" checked="">
+        AND
+        `;
+        shadow.appendChild(and);
+        this.andInput = and.querySelector("input");
+
+        const or = document.createElement("label");
+        or.innerHTML = `
+        <input type="radio" name="searchType" value="OR">
+        OR
+        `;
+        shadow.appendChild(or);
+        this.orInput = or.querySelector("input");
+
+        const shadowStyle = document.createElement('style');
+        shadowStyle.textContent = `
+            span {
+                text-transform: lowercase;
+                margin: 2px;
+            }
+        `;
+        shadow.appendChild(shadowStyle);
+    }
+
+    get filterTerms(){
+        let searchText = this.text.value;
+        searchText = searchText.split(" ");
+        searchText = searchText.map(term => term.trim());
+        searchText = searchText.filter(term => term !== "");
+        return searchText;
+    }
+
+    get filterText(){
+        return this.text.value;
+    }
+
+    set filterText(newtext){
+        this.text.value = newtext;
+    }
+
+    get matchAll(){
+        return this.andInput.checked;
+    }
+
+    set matchAll(newmatchall){
+        this.andInput.checked = newmatchall;
+        this.orInput.checked = !newmatchall;
+    }
+
+    filterUpdated() {
+        this.dispatchEvent(new CustomEvent('FilterUpdated', {bubbles: true}));
+    }
+
+    connectedCallback() {
+        this.andInput.addEventListener('input', this.filterUpdated.bind(this));
+        this.orInput.addEventListener('input', this.filterUpdated.bind(this));
+        this.text.addEventListener('input', this.filterUpdated.bind(this));
+    }
+
+    disconnectedCallback() {
+        this.andInput.removeEventListener('input', this.filterUpdated);
+        this.orInput.removeEventListener('input', this.filterUpdated);
+        this.text.removeEventListener('input', this.filterUpdated);
+    }
+}
+
+class FilterableElement extends HTMLElement {
+    constructor(filterText) {
+        super();
+        this.filterText = filterText;
+        this.visible = true;
+    }
+
+    match(term){
+        let cleanedTerm = term.trim().toLowerCase();
+        cleanedTerm = cleanedTerm.substr(cleanedTerm.length-1)==="s" ? cleanedTerm.substr(0, cleanedTerm.length-1) : cleanedTerm;
+        return this.filterText.toLowerCase().indexOf(cleanedTerm) > -1;
+    }
+
+    matches(terms, matchAll){
+        let x = terms.map(term => this.match(term));
+        x = x.reduce((prev, current) => matchAll ? (prev && current) : (prev || current), matchAll)
+        return x;
+    }
+
+    get visible(){
+        return !this.hasAttribute("hidden");
+    }
+
+    set visible(newvisible){
+        newvisible ? this.removeAttribute("hidden") : this.setAttribute("hidden", true);
+    }
+}
+
+class TagItem extends FilterableElement {
+    constructor(name, count) {
+        super(name);
 
         this.name = name;
         this.count = count;
@@ -25,7 +132,6 @@ class TagItem extends HTMLElement {
 
         shadow.appendChild(span);
         shadow.appendChild(cpsan);
-
 
         const shadowStyle = document.createElement('style');
         shadowStyle.textContent = `
@@ -56,9 +162,9 @@ class TagItem extends HTMLElement {
     }
 }
 
-class FeatureRequest extends HTMLElement {
+class FeatureRequest extends FilterableElement {
     constructor(id, title, author, date, score, tags) {
-        super();
+        super(title);
 
         this.id = id;
         this.title = title;
@@ -81,10 +187,7 @@ class FeatureRequest extends HTMLElement {
             taglist.appendChild(tagspan);
         });
 
-        this.visible = true;
-
         this.style.order = "-" + this.score;
-
 
         const shadowStyle = document.createElement('style');
         shadowStyle.textContent = `
@@ -111,18 +214,6 @@ class FeatureRequest extends HTMLElement {
         shadow.appendChild(shadowStyle);
     }
 
-    titleMatch(term){
-        let cleanedTerm = term.trim().toLowerCase();
-        cleanedTerm = cleanedTerm.substr(cleanedTerm.length-1)==="s" ? cleanedTerm.substr(0, cleanedTerm.length-1) : cleanedTerm;
-        return this.title.toLowerCase().indexOf(cleanedTerm) > -1;
-    }
-
-    titleMatches(terms, matchAll){
-        let x = terms.map(term => this.titleMatch(term));
-        x = x.reduce((prev, current) => matchAll ? (prev && current) : (prev || current), matchAll)
-        return x;
-    }
-
     hasTag(name){
         return this.tags.indexOf(name) > -1;
     }
@@ -132,21 +223,11 @@ class FeatureRequest extends HTMLElement {
         x = x.reduce((prev, current) => prev && current, true)
         return x;
     }
-
-    hide(){
-        this.setAttribute("hidden", true);
-        this.visible = false;
-    }
-
-    show(){
-        this.removeAttribute("hidden");
-        this.visible = true;
-    }
-
 }
 
 customElements.define('tag-item', TagItem);
 customElements.define('feature-request', FeatureRequest);
+customElements.define('filter-form', FilterForm);
 
 
 // maybe a new tag should be created automatically when a feature request that contains one is created
@@ -159,37 +240,42 @@ TAGS.forEach(tag => {
 
 DATA.forEach(item => {
     const fr = new FeatureRequest(item[0], item[1], item[2], item[3], item[4], item[5]);
-    fr.hide();
     document.querySelector("main").appendChild(fr);
 });
 
-function filter(){
+function getEnabledTags(){
     let enabledTags = Array.from(document.querySelectorAll("tag-item"));
     enabledTags = enabledTags.filter(tag => tag.selected);
-    enabledTags = enabledTags.map(tag => tag.name);
+    return enabledTags.map(tag => tag.name);
+}
 
-    let searchText = document.querySelector("input[type='text']").value;
-    searchText = searchText.split(" ");
-    searchText = searchText.map(term => term.trim());
-    searchText = searchText.filter(term => term !== "");
+function onTagToggled(){
+    onRequestFilterUpdate({target:{filterTerms:[]}});
+}
 
-    const and = document.querySelector("input[value='AND']").checked;
-    const searchAllTerms = and;
-
+function onRequestFilterUpdate(filterEvent){
+    const enabledTags = getEnabledTags();
+    const searchText = filterEvent.target.filterTerms;
+    const searchAllTerms = filterEvent.target.matchAll;
     Array.from(document.querySelectorAll("feature-request")).forEach(request => {
-        let matched = searchText.length > 0
-            ? request.hasTags(enabledTags) && request.titleMatches(searchText, searchAllTerms)
+        request.visible = searchText.length > 0
+            ? request.hasTags(enabledTags) && request.matches(searchText, searchAllTerms)
             : request.hasTags(enabledTags);
-        matched ? request.show() : request.hide();
     });
 }
 
-document.addEventListener("TagToggled", filter);
-document.querySelector("input[type='text']").addEventListener("input", filter);
-document.querySelector("input[value='AND']").addEventListener("input", filter);
-document.querySelector("input[value='OR']").addEventListener("input", filter);
+function filterTags(filterEvent){
+    const searchText = filterEvent.target.filterTerms;
+    const searchAllTerms = filterEvent.target.matchAll;
+    const tags = Array.from(document.querySelectorAll("tag-item"));
+    tags.forEach(tag => {
+        tag.visible = searchText.length > 0 ? tag.matches(searchText, searchAllTerms) : true
+    });
+}
 
-filter();
+document.addEventListener("TagToggled", onTagToggled);
+document.querySelector("#requestFilter").addEventListener("FilterUpdated", onRequestFilterUpdate);
+document.querySelector("#tagFilter").addEventListener("FilterUpdated", filterTags);
 
 /**
  * add the tags - all disabled by default

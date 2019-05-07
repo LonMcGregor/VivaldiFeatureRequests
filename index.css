@@ -44,6 +44,6 @@ feature-request:hover {
     border-left: 4px solid red;
 }
 
-feature-request[hidden] {
+feature-request[hidden], tag-item[hidden] {
     visibility: hidden;
 }
