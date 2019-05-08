@@ -1,154 +1,152 @@
 ID,Title,Author,Date,Votes,Tags
-36643,Option to open all bookmarks in a folder in the bookmark menu,Blubbeh,2019-04-17T21:39:52.070Z,2,BOOKMARKS:MENU
-29182,Option to Place Bookmarks Bar on the Side,AshRek,2018-08-04T11:09:50.318Z,2,BOOKMARKS BAR:AUTO-HIDE
-36689,Option Bookmarks Left/Right Side,Jemcrystal,2019-04-19T11:33:00.470Z,0,DUPLICATE
-36684,open bookmarks in browser new tab page suboption,urfausto,2019-04-19T08:06:27.313Z,0,TABS:BOOKMARKS:START PAGE
-35004,Add bookmark button to the left of address bar?,alexshush,2019-02-26T14:33:00.062Z,2,BOOKMARKS:ADDRESS BAR:TOOLBAR
-24365,More Customization for the Speed Dial,rekuzar,2018-02-01T05:16:43.636Z,60,SPEED DIAL:CUSTOMIZE:THUMBNAILS:IN PROGRESS:EDIT
-36527,Synchronizing Bookmarks with Firefox,pedja,2019-04-13T10:14:03.743Z,0,BOOKMARKS:SYNC
-36524,Setting bookmark to always open in private windows,pedja,2019-04-13T09:46:53.454Z,2,BOOKMARKS:PRIVACY:PRIVATE WINDOW:PRIVATE MODE
-24327,Option to Lock Speed Dial Entries,david.cortes,2018-01-31T20:24:22.942Z,23,SPEED DIAL:IN PROGRESS:LOCK
-36374,Add stack to bookmarks with a specific name,Kaosce,2019-04-09T07:18:06.304Z,2,BOOKMARKS:TAB STACKS
-25338,Right-click Editing of Bookmarks Name and URL,browseruser,2018-02-22T08:56:23.160Z,17,BOOKMARKS:CONTEXT MENU:URL
-34285,Add 'Folder' field to bookmark properties in bookmark panel.,MoonDogg,2019-02-02T19:45:50.293Z,2,BOOKMARKS PANEL
-36215,Opening a folder of bookmarks via a nickname should open in new background tabs...,TsunamiZ,2019-04-04T08:48:45.637Z,0,TABS:BOOKMARKS:NICKNAMES
-36122,Bookmarks bar right click menu  command to "sort alphabetically once"...,TsunamiZ,2019-04-02T09:02:38.681Z,1,BOOKMARKS:SORT
-26593,Collapse Folders when Adding a Bookmark,oskark,2018-04-10T13:18:21.888Z,9,BOOKMARKS
-36117,Navigate bookmark tab and panel via the keyboard,libcub,2019-04-02T07:25:42.910Z,1,BOOKMARKS:KEYBOARD:BOOKMARKS PANEL
-25418,Sort Bookmarks by Folders First,neltherion,2018-02-24T06:09:51.112Z,25,BOOKMARKS:SORT BOOKMARKS
-35999,Bookmarks Toolbar improvements,ygrno,2019-03-29T16:47:01.382Z,0,BOOKMARKS
-35898,URL templates as bookmarks,CassandraNewell,2019-03-28T00:55:08.795Z,0,BOOKMARKS:SPEED DIAL
-24491,Duplicated bookmark detection / cleanup,ROTFL,2018-02-01T23:55:00.884Z,47,BOOKMARKS:DUPLICATES:CLEANUP
-24479,Sync custom Speed Dial thumbnails,ROTFL,2018-02-01T22:57:16.058Z,26,SPEED DIAL:SYNC:THUMBNAILS
-24326,Split Bookmark Pane,Rongar,2018-01-31T20:23:27.406Z,14,BOOKMARKS:PANELS
-33796,Apply Speed Dial Background Image with Drag 'n Drop,Hadden89,2019-01-13T15:45:05.050Z,6,BOOKMARKS:START PAGE:DRAGANDDROP:BACKGROUND
-26410,Drag-Configurable Bookmarks Bar Folder Menus,DominateEye,2018-04-02T19:39:26.104Z,32,BOOKMARKS BAR:CONTEXT MENU:IN PROGRESS:DRAGANDDROP
-35110,Select unique Bookmark Bar per Vivaldi instance,MoonDogg,2019-03-01T18:19:55.747Z,1,BOOKMARKS BAR
-30201,Dedicated Bookmarks Folder for Search Engines,duarte.framos,2018-09-21T00:53:24.445Z,15,SEARCH ENGINES:BOOKMARK FOLDER
-32307,Autohide  Hide  Make Navigation Bar Transparent on Start Page,AlexSkywalker,2018-11-17T13:55:29.748Z,2,START PAGE:AUTO-HIDE:NAVIGATION BAR
-28804,Can't tell folders and bookmarks apart when bookmark bar is set to "text only"...,TsunamiZ,2018-07-20T00:27:47.624Z,2,BOOKMARKS:BOOKMARKS BAR
-25692,Import Firefox Tags as Nicknames,pinakel,2018-03-06T10:14:04.416Z,5,BOOKMARKS:IMPORT:NICKNAMES:TAGS
-29371,Bookmark Manager Improvements,kmedeiros,2018-08-14T18:23:57.897Z,29,BOOKMARKS:MANAGEBOOKMARKS
-35003,Bookmark Bar Features,alexshush,2019-02-26T14:03:33.498Z,1,BOOKMARKS BAR
-24157,Remember Last Active Speed Dial Folder per Window,PlusMinus0,2018-01-31T09:36:38.540Z,10,SPEED DIAL:WINDOW
-34852,Drag-and-drop folder creation in Speed Dial?,Darthagnon,2019-02-20T15:39:49.731Z,1,BOOKMARKS:DRAGANDDROP:BOOKMARK FOLDER
-34851,Visual Bookmarks manager view option for vivaldi://bookmarks,Darthagnon,2019-02-20T15:35:51.121Z,1,BOOKMARKS:APPEARANCE:VISIBILITY
-34774,Editing bookmarks in the sidebar.,LAPIII,2019-02-18T18:07:28.985Z,0,RESOLVED
-34773,Indicator that website is bookmarked.,LAPIII,2019-02-18T18:03:13.640Z,0,RESOLVED
-34622,This is a critical important opportunity  it must be! I hope the developers will hear us!,AlexZorg,2019-02-13T21:51:56.635Z,0,
-25693,Add "Open Bookmarks in Tiles" to Bookmark Folder Context Menu,dragon.sails2,2018-03-06T10:19:21.756Z,5,BOOKMARKS:CONTEXT MENU:TILING
-34480,Use Web Search for Custom Bookmark Thumbnails,greibush,2019-02-08T16:22:10.007Z,0,BOOKMARKS:CUSTOMIZE:THUMBNAILS
-33320,Notes for the Bookmark Panel,Martin.Storch,2018-12-21T22:03:23.272Z,9,BOOKMARKS:NOTES
-34405,Colored Bookmark Folders and Separator Bars,tristanhenderson,2019-02-07T11:53:44.143Z,7,BOOKMARKS:GUI
-29179,Customize behavior for opening a folder of bookmarks at once...,TsunamiZ,2018-08-04T09:27:01.976Z,2,BOOKMARKS:ACTIVE TABS
-34121,Bookmarks "date-time" field to enable maintaining chronological order,mini,2019-01-25T21:41:31.700Z,5,BOOKMARKS
-34018,Bookmark  Option to Replace with Current URL,TsunamiZ,2019-01-22T15:26:29.992Z,1,BOOKMARKS
-24161,Full Mouse Gesture Support in Speed Dial,LonM,2018-01-31T09:38:00.556Z,24,SPEED DIAL:MOUSE GESTURES
-33748,Sublevels (sub-bookmarks) for bookmarks,SVGuss,2019-01-10T22:33:30.308Z,1,BOOKMARKS:FOLDER
-33702,Option to Bookmark the Page Automatically,XepherXV,2019-01-09T03:55:33.010Z,0,BOOKMARKS
-24113,Go Back to Parent Folder in Speed Dial,RayAlpha,2018-01-31T08:30:28.188Z,19,SPEED DIAL:NAVIGATION
-33392,Show Bookmark Bar Folder Names on Hover,minsk1511,2018-12-25T00:41:56.643Z,1,BOOKMARKS BAR:FOLDER
-33374,Full-text Search,nfsmaniac,2018-12-23T23:38:32.495Z,3,BOOKMARKS:SEARCH
-33314,Drag Bookmark To Tab,mohkamfer,2018-12-21T19:20:46.164Z,0,TABS:BOOKMARKS:BOOKMARKS BAR:DRAGANDDROP
-24497,Keep multiple backups of sessions / bookmarks / notes / ...,ROTFL,2018-02-02T00:21:33.395Z,31,BOOKMARKS:NOTES:SESSIONS:BACKUP
-33112,More Features and Settings for Start Page,Fever,2018-12-16T04:11:10.191Z,0,BOOKMARKS:CUSTOMIZE:START PAGE
-26215,Drag and Drop to Reorder Speed Dial Pages,The_Fireplace,2018-03-26T22:07:49.130Z,15,SPEED DIAL:DRAGANDDROP:NAVIGATION BAR
-32509,Drag and Drop Bookmark Position in Folder,matiasmovie,2018-11-25T00:23:49.392Z,2,BOOKMARKS:DRAGANDDROP:BOOKMARK FOLDER:POSITION
-33118,Bookmark Bar - Open All in Tabs,campanij,2018-12-16T13:39:58.441Z,3,BOOKMARKS BAR
-30275,Option to Disable Reload Button on Speed Dial,Stardust,2018-09-23T20:34:56.788Z,3,SPEED DIAL:RELOAD
-32095,Option for Colored Bookmark Folders,FatihSultan,2018-11-09T17:13:00.112Z,6,BOOKMARKS:COLOR:BOOKMARKS PANEL
-28926,URL Easy Update,Too_many_browsers,2018-07-24T09:37:14.005Z,0,BOOKMARKS
-32249,Search Field on Add Bookmark Dialog,dalinar,2018-11-15T08:09:41.780Z,3,BOOKMARKS:SEARCH
-32590,Send Bookmark to Folder,matiasmovie,2018-11-28T15:16:09.686Z,0,BOOKMARKS:BOOKMARK FOLDER
-32537,Option to Drag Trash Folder in Bookmarks and Notes Panels,WolfeP,2018-11-26T06:42:10.833Z,2,BOOKMARKS:BOOKMARKS PANEL
-32474,Sort Alphabetically while Adding a Bookmark,internetuser999,2018-11-23T15:28:11.346Z,1,BOOKMARKS:SORT BOOKMARKS
-32403,Middle-click on a Bookmarks Bar Folder Should Open Two Tabs,indieloser,2018-11-21T07:30:09.509Z,0,BOOKMARKS BAR:TAB:MIDDLE-CLICK:FOLDER BROWSE
-32401,Create Start Page Folders by Drag and Drop,Pesala,2018-11-21T06:22:19.667Z,3,SPEED DIAL:THUMBNAILS:DRAGANDDROP
-32277,Bookmark Tab Stack to a Specific Folder,gzg06,2018-11-16T13:55:26.001Z,1,BOOKMARKS:TAB STACKS
-29084,Assign Shortcuts to Speed Dials,Darth904,2018-07-30T23:10:36.256Z,7,SHORTCUTS:SPEED DIAL
-32015,Make all imported bookmarks show icons immediately,yukitaga,2018-11-07T11:10:15.065Z,0,BOOKMARKS:IMPORT:FAVICONS
-32013,Date Visited in Bookmark Panel Details Pane,O_Love,2018-11-07T10:42:45.950Z,2,BOOKMARKS:VISITED
-27150,Use Icon from Web App Manifest.json on Speed Dial,mrmamen,2018-05-03T11:12:23.876Z,15,SPEED DIAL:ICONS
-29009,Option for Most Visited Sites on Speed Dial,Beardedgeek72,2018-07-26T22:18:50.836Z,8,SPEED DIAL:MOST VISITED
-31650,Hide All Favicons Option,joelandsonja,2018-10-25T20:36:23.430Z,3,BOOKMARKS:BOOKMARKS BAR:ICONS:BOOKMARK FOLDER
-26286,Add Bookmarks to Top or Bottom of Folder,ronyxs,2018-03-28T22:15:39.624Z,4,BOOKMARKS
-31458,Pinboard,patrick2,2018-10-20T19:00:22.901Z,0,BOOKMARKS
-31113,Bookmark Auto-Backup,acnapyx,2018-10-11T13:02:38.715Z,2,BOOKMARKS:BACKING UP
-31110,Display a Favicon of my own for a Bookmark,drkh,2018-10-11T09:33:05.432Z,8,BOOKMARKS:FAVICONS
-24392,Delete Bookmark Thumbnails,Pesala,2018-02-01T10:05:22.543Z,13,BOOKMARKS:THUMBNAILS
-31105,Show decoded URLs in popups on mouse hover,drkh,2018-10-11T03:53:18.530Z,0,BOOKMARKS:BOOKMARKS BAR:BOOKMARKS PANEL
-30930,Touch Screen Support for Speed Dial,wolvenstorm,2018-10-06T08:47:52.909Z,2,SPEED DIAL:SCROLLING:TOUCH SCREEN
-30768,Function to Reload Bookmark Icons,tehstoni,2018-10-02T12:36:24.663Z,6,BOOKMARKS:BOOKMARKS BAR:ICONS:IMPORT
-30469,Different Profiles to Sync Bookmarks,Totonyus,2018-09-27T13:42:08.914Z,10,BOOKMARKS:SYNC
-30460,Enlarge Bookmarks Bar Icons on Hover,andydelz,2018-09-27T12:25:38.708Z,6,BOOKMARKS BAR:ICONS:HOVER
-30259,Basic site icons for our bookmarks...,TsunamiZ,2018-09-23T11:59:10.829Z,1,BOOKMARKS:ICONS
-30277,Speed Dial Navigation Using Arrow Keys,Stardust,2018-09-23T21:09:56.820Z,4,SHORTCUTS:SPEED DIAL:NAVIGATION
-30223,Open Bookmarks in Nested Folders in New or Background Tabs,NemoAnonymous,2018-09-22T01:36:54.416Z,0,BOOKMARK FOLDER
-30210,Screen Capture Tool: Save as Bookmark Thumbnail,kingsteved,2018-09-21T17:38:43.926Z,10,BOOKMARKS:THUMBNAILS:SCREEN CAPTURE
-24228,Dedicated Bookmarks Folder for Web Panels,luetage,2018-01-31T10:55:13.995Z,40,BOOKMARKS:PANELS
-30149,Focus Bookmarks List in Bookmarks Tab,AXK,2018-09-18T18:24:46.768Z,2,BOOKMARKS:FOCUS
-30135,Enlarge Bookmark Thumbnails in Speed Dial,capedghost,2018-09-18T07:53:19.209Z,0,THUMBNAILS:SPEED DIAL SIZE
-30128,Enable Ctrl+Z to Undo Bookmark Changes,klav,2018-09-17T21:10:09.401Z,6,BOOKMARKS:SHORTCUTS
-30066,Change Speed Dial Thumbnail Delete Icon,MaxKarlErnst,2018-09-15T07:49:56.424Z,2,SPEED DIAL:ICONS
-24184,Collapse/Expand Folder Trees with FlipBack/FlipForward,Pesala,2018-01-31T09:45:54.906Z,2,BOOKMARKS:PANELS:GUI:MOUSE GESTURES
-30059,Add Smart Bookmarks,MaxKarlErnst,2018-09-14T18:27:14.164Z,1,BOOKMARKS:TAGS
-29522,Speed Dial Autoupdate,fiskrond,2018-08-22T05:27:08.068Z,3,SPEED DIAL:AUTOUPDATE
-24629,Option for Bookmarks Bar Folder to Stay Open after Opening a Bookmark,eXzentrik,2018-02-03T13:15:10.977Z,15,BOOKMARKS BAR
-29937,Center align Speed Dial with "None" Max Columns,zook,2018-09-10T03:53:30.402Z,0,SPEED DIAL
-29701,Share Sync with Google Accounts or 3rd-party Sign-in,APassingMe,2018-08-30T21:13:30.840Z,0,SYNC
-28972,Keep Current Bookmark Selected After Cancelling Tree Search,Marc Sigrist,2018-07-25T16:35:26.573Z,9,BOOKMARKS:SEARCH:TREE-STYLE
-24394,Remove the Expand/Collapse Folder Triangles,Pesala,2018-02-01T10:13:56.638Z,7,BOOKMARKS:GUI
-29335,Linkify Bookmarks Folders for Speed Dial,Ouroboros4545,2018-08-12T14:45:08.234Z,1,BOOKMARKS:SPEED DIAL
-29120,Bookmark Folder URL Filter,Ryo500,2018-08-01T18:31:07.206Z,0,BOOKMARKS
-29144,Allow Users to Bookmark vivaldi://about,browser-vivalid-work-home,2018-08-02T16:30:22.687Z,2,BOOKMARKS
-24171,Completely Delete an Empty Item,LonM,2018-01-31T09:40:40.243Z,7,BOOKMARKS:NOTES:DELETE
-28833,Export Bookmarks from Bookmarks Manager,latisullivan,2018-07-21T00:47:08.135Z,6,BOOKMARKS:EXPORT:MANAGEBOOKMARKS
-25561,Limit the Width of Bookmark Menu Folders,Pesala,2018-03-01T13:20:37.984Z,13,BOOKMARKS:GUI:CUSTOMIZE:MENUS:BOOKMARK FOLDER
-24274,Bookmarks Page Sorting,Yur,2018-01-31T14:29:50.010Z,10,BOOKMARKS:SORT
-24531,Create New Folder when Bookmarking Page,dominicw2,2018-02-02T10:58:05.477Z,36,BOOKMARKS:GUI:BOOKMARK FOLDER
-27892,Naming New Speed Dial Bookmarks While Adding them,AllanPettersson,2018-06-08T09:35:08.696Z,2,SPEED DIAL:RENAME
-26393,Add folder option to Bookmark Panel/Manager items,ozoratsubasa,2018-04-02T00:17:40.083Z,3,BOOKMARKS PANEL:MANAGEBOOKMARKS
-27827,Allow Editing of URL in Speed Dial,Hadden89,2018-06-03T22:24:00.806Z,7,SPEED DIAL:URL:EDIT
-27609,Smart Bookmarking/Foldering,Ouroboros4545,2018-05-23T21:15:15.239Z,0,BOOKMARKS:BOOKMARK FOLDER
-24595,Add Searchable Tags for Bookmarks,josephj11,2018-02-02T21:44:18.401Z,46,BOOKMARKS:TAGS
-25188,Add a Button to Collapse Folders,CheVe11e_191,2018-02-18T09:42:55.197Z,10,BOOKMARKS:PANELS:NOTES:WINDOW:BUTTON
-27159,Allow renaming separators,CheVe11e_191,2018-05-03T15:11:11.461Z,8,BOOKMARKS:NOTES:SEPARATOR
-26991,Bookmark Tab Stack to a Folder via a Dialogue,ardea,2018-04-27T09:52:06.476Z,1,BOOKMARKS:TAB STACKS
-26978,Allow to Hide Preview on Add Bookmark Dialogue,Hadden89,2018-04-26T20:53:31.591Z,3,BOOKMARKS:PREVIEW
-26907,Export Bookmark Nicknames,zdm,2018-04-25T06:30:48.426Z,2,BOOKMARKS:EXPORT:NICKNAMES
-26455,Multiple Nicknames for Bookmarks,jwoodard80,2018-04-04T13:46:01.175Z,8,BOOKMARKS:NICKNAMES
-26789,New Speed Dial: Refresh Thumbnail by Default,aBjelke,2018-04-19T11:42:17.748Z,2,SPEED DIAL:THUMBNAILS
-26634,Make bookmark separators visible on Speed Dial,ROTFL,2018-04-12T05:36:04.408Z,2,SPEED DIAL:SEPARATOR
-26453,Fullscreen Mode Option for Bookmarks,terere,2018-04-04T11:31:22.868Z,1,BOOKMARKS:BOOKMARKS BAR:FULLSCREEN
-26411,Independent New Tab Position Setting for Speed Dial Tabs,DominateEye,2018-04-02T19:49:53.464Z,0,SPEED DIAL:NEW TAB
-26320,Private Mode for Bookmarks,terere,2018-03-30T10:03:44.076Z,3,BOOKMARKS:PRIVATE MODE
-26128,Return to same Speed Dial page when Opening a New Tab,mbdiener,2018-03-23T15:25:51.740Z,2,SPEED DIAL
-25855,Ability to load Favicons of the Bookmarks in One Click,longvoid,2018-03-13T17:23:28.358Z,2,BOOKMARKS:FAVICONS
-25616,Next/Previous Arrows in Speed Dial,solidsnake,2018-03-03T16:59:41.012Z,3,SPEED DIAL:NAVIGATION
-25680,Option for Rounded Speed Dial Thumbnails,Artex,2018-03-06T02:39:45.099Z,5,SPEED DIAL:CUSTOMIZE
-25622,Speed Dial Custom Thumbnail via URL,kd8bny,2018-03-03T21:19:06.532Z,5,SPEED DIAL:THUMBNAILS:URL
-25388,Scripted bookmarks,eriklothe,2018-02-23T12:35:46.015Z,2,BOOKMARKS:SCRIPTING
-25371,Smart Bookmarking: Suggest a "Better" Page,ryofurue,2018-02-23T03:26:26.228Z,2,BOOKMARKS
-25286,Bookmark Description in a Second Language,SVGuss,2018-02-20T22:39:04.783Z,0,BOOKMARKS
-25240,Enable JSON export and import of bookmarks  ability to overwrite existing,RBV,2018-02-19T17:20:06.323Z,1,IMPORT:EXPORT
-25108,Extensions to Speed Dial,mentat,2018-02-15T14:39:50.080Z,3,EXTENSIONS:SPEED DIAL
-24229,Windows 8 / Metro Style Speed Dial,Nekomajin,2018-01-31T10:55:49.609Z,13,SPEED DIAL:THUMBNAILS:WINDOWS
-24960,Edit the Speed Dial URL from the Context Menu,jonr257,2018-02-11T17:02:09.956Z,10,SPEED DIAL:CONTEXT MENU
-24121,Drag and Drop Speed Dials into and out of Folders,GoldNoway,2018-01-31T09:02:06.546Z,15,SPEED DIAL:DRAGANDDROP
-24940,Speed Dial Tabs should be Discarded when Startup Option is "Last Session",AnrDaemon,2018-02-11T02:43:45.503Z,3,SPEED DIAL:STARTUP
-24927,Speed Dial Tile Group,nfsmaniac,2018-02-10T20:05:38.693Z,2,SPEED DIAL:TAB GROUPS
-24638,Allow Bookmark / History / Calendar Details to be Shown with a Horizontal Layout,Hadden89,2018-02-03T14:28:10.716Z,6,BOOKMARKS:GUI:HISTORY:FORMATTING
-24592,Drop-down bookmarks menu button on the Address Bar,Stardust,2018-02-02T20:31:35.359Z,17,BOOKMARKS:ADDRESS BAR:MENUS
-24867,Auto Detect Logos + Select Part of the Page for Speed Dial and Bookmark Thumbnails,hrh_fourtyseven,2018-02-09T05:56:27.575Z,18,SPEED DIAL:THUMBNAILS
-24663,Possibility to search and open bookmark just by keyboard,tprochazka,2018-02-04T01:25:34.291Z,3,BOOKMARKS:KEYBOARD
-24711,A new kind of bookmark that actively saves your place in browsing,TyrianMollusk,2018-02-05T12:20:56.358Z,4,BOOKMARKS
-24667,Open History and Bookmark Tabs from the History and Bookmark Panels,Seasonly,2018-02-04T09:56:43.490Z,8,BOOKMARKS:SHORTCUTS:PANELS
-24643,Auto Update Speed Dial Thumbnails,CheVe11e_191,2018-02-03T18:05:51.787Z,4,SPEED DIAL:SYNC
-24609,Navigate Bookmark Bar with Keyboard,Pesala,2018-02-03T05:31:33.059Z,2,BOOKMARKS:GUI:BOOKMARKS BAR
-24532,Bookmark Same Page in Multiple Folders,dominicw2,2018-02-02T11:00:06.673Z,10,BOOKMARKS
-24347,Store Custom Speed Dial Thumbnails,AltCode,2018-01-31T22:39:30.488Z,22,SPEED DIAL:THUMBNAILS
-24244,Device-specific Speed Dials,awking,2018-01-31T11:18:46.638Z,17,SPEED DIAL:SYNC
-24316,Option for Bookmarks and Speed Dials to Save Zoom Settings,ghpy,2018-01-31T19:52:41.489Z,8,BOOKMARKS:SPEED DIAL:ZOOM
-24239,Local Speed Dial Menu,awking,2018-01-31T11:10:21.270Z,7,SPEED DIAL
-24199,Permanently Delete Bookmarks or Notes with Shift Delete,Pesala,2018-01-31T09:58:39.228Z,21,BOOKMARKS:SHORTCUTS:NOTES
 24168,Support for Speed Dial Thumbnail Packs,LonM,2018-01-31T09:39:56.530Z,7,SPEED DIAL:THUMBNAIL PACK
+24199,Permanently Delete Bookmarks or Notes with Shift Delete,Pesala,2018-01-31T09:58:39.228Z,22,BOOKMARKS:SHORTCUTS:NOTES
+24239,Local Speed Dial Menu,awking,2018-01-31T11:10:21.270Z,7,SPEED DIAL
+24316,Option for Bookmarks and Speed Dials to Save Zoom Settings,ghpy,2018-01-31T19:52:41.489Z,8,BOOKMARKS:SPEED DIAL:ZOOM
+24244,Device-specific Speed Dials,awking,2018-01-31T11:18:46.638Z,17,SPEED DIAL:SYNC
+24347,Store Custom Speed Dial Thumbnails,AltCode,2018-01-31T22:39:30.488Z,23,SPEED DIAL:THUMBNAILS
+24532,Bookmark Same Page in Multiple Folders,dominicw2,2018-02-02T11:00:06.673Z,10,BOOKMARKS
+24609,Navigate Bookmark Bar with Keyboard,Pesala,2018-02-03T05:31:33.059Z,2,BOOKMARKS:GUI:BOOKMARKS BAR
+24643,Auto Update Speed Dial Thumbnails,CheVe11e_191,2018-02-03T18:05:51.787Z,4,SPEED DIAL:SYNC
+24667,Open History and Bookmark Tabs from the History and Bookmark Panels,Seasonly,2018-02-04T09:56:43.490Z,8,BOOKMARKS:SHORTCUTS:PANELS
+24711,A new kind of bookmark that actively saves your place in browsing,TyrianMollusk,2018-02-05T12:20:56.358Z,4,BOOKMARKS
+24663,Possibility to search and open bookmark just by keyboard,tprochazka,2018-02-04T01:25:34.291Z,3,BOOKMARKS:KEYBOARD
+24867,Auto Detect Logos + Select Part of the Page for Speed Dial and Bookmark Thumbnails,hrh_fourtyseven,2018-02-09T05:56:27.575Z,18,SPEED DIAL:THUMBNAILS
+24592,Drop-down bookmarks menu button on the Address Bar,Stardust,2018-02-02T20:31:35.359Z,17,BOOKMARKS:ADDRESS BAR:MENUS
+24638,Allow Bookmark / History / Calendar Details to be Shown with a Horizontal Layout,Hadden89,2018-02-03T14:28:10.716Z,6,BOOKMARKS:GUI:HISTORY:FORMATTING
+24927,Speed Dial Tile Group,nfsmaniac,2018-02-10T20:05:38.693Z,2,SPEED DIAL:TAB GROUPS
+24940,Speed Dial Tabs should be Discarded when Startup Option is "Last Session",AnrDaemon,2018-02-11T02:43:45.503Z,3,SPEED DIAL:STARTUP
+24121,Drag and Drop Speed Dials into and out of Folders,GoldNoway,2018-01-31T09:02:06.546Z,17,SPEED DIAL:DRAGANDDROP
+24960,Edit the Speed Dial URL from the Context Menu,jonr257,2018-02-11T17:02:09.956Z,10,SPEED DIAL:CONTEXT MENU
+24229,Windows 8 / Metro Style Speed Dial,Nekomajin,2018-01-31T10:55:49.609Z,13,SPEED DIAL:THUMBNAILS:WINDOWS
+25108,Extensions to Speed Dial,mentat,2018-02-15T14:39:50.080Z,3,EXTENSIONS:SPEED DIAL
+25240,Enable JSON export and import of bookmarks  ability to overwrite existing,RBV,2018-02-19T17:20:06.323Z,1,IMPORT:EXPORT
+25286,Bookmark Description in a Second Language,SVGuss,2018-02-20T22:39:04.783Z,0,BOOKMARKS
+25371,Smart Bookmarking: Suggest a "Better" Page,ryofurue,2018-02-23T03:26:26.228Z,2,BOOKMARKS
+25388,Scripted bookmarks,eriklothe,2018-02-23T12:35:46.015Z,2,BOOKMARKS:SCRIPTING
+25622,Speed Dial Custom Thumbnail via URL,kd8bny,2018-03-03T21:19:06.532Z,6,SPEED DIAL:THUMBNAILS:URL
+25680,Option for Rounded Speed Dial Thumbnails,Artex,2018-03-06T02:39:45.099Z,5,SPEED DIAL:CUSTOMIZE
+25616,Next/Previous Arrows in Speed Dial,solidsnake,2018-03-03T16:59:41.012Z,3,SPEED DIAL:NAVIGATION
+25855,Ability to load Favicons of the Bookmarks in One Click,longvoid,2018-03-13T17:23:28.358Z,2,BOOKMARKS:FAVICONS
+26128,Return to same Speed Dial page when Opening a New Tab,mbdiener,2018-03-23T15:25:51.740Z,2,SPEED DIAL
+26320,Private Mode for Bookmarks,terere,2018-03-30T10:03:44.076Z,3,BOOKMARKS:PRIVATE MODE
+26411,Independent New Tab Position Setting for Speed Dial Tabs,DominateEye,2018-04-02T19:49:53.464Z,0,SPEED DIAL:NEW TAB
+26453,Fullscreen Mode Option for Bookmarks,terere,2018-04-04T11:31:22.868Z,1,BOOKMARKS:BOOKMARKS BAR:FULLSCREEN
+26634,Make bookmark separators visible on Speed Dial,ROTFL,2018-04-12T05:36:04.408Z,2,SPEED DIAL:SEPARATOR
+26789,New Speed Dial: Refresh Thumbnail by Default,aBjelke,2018-04-19T11:42:17.748Z,2,SPEED DIAL:THUMBNAILS
+26455,Multiple Nicknames for Bookmarks,jwoodard80,2018-04-04T13:46:01.175Z,8,BOOKMARKS:NICKNAMES
+26907,Export Bookmark Nicknames,zdm,2018-04-25T06:30:48.426Z,2,BOOKMARKS:EXPORT:NICKNAMES
+26978,Allow to Hide Preview on Add Bookmark Dialogue,Hadden89,2018-04-26T20:53:31.591Z,3,BOOKMARKS:PREVIEW
+26991,Bookmark Tab Stack to a Folder via a Dialogue,ardea,2018-04-27T09:52:06.476Z,1,BOOKMARKS:TAB STACKS
+27159,Allow renaming separators,CheVe11e_191,2018-05-03T15:11:11.461Z,8,BOOKMARKS:NOTES:SEPARATOR
+25188,Add a Button to Collapse Folders,CheVe11e_191,2018-02-18T09:42:55.197Z,10,BOOKMARKS:PANELS:NOTES:WINDOW:BUTTON
+24595,Add Searchable Tags for Bookmarks,josephj11,2018-02-02T21:44:18.401Z,47,BOOKMARKS:TAGS
+27609,Smart Bookmarking/Foldering,Ouroboros4545,2018-05-23T21:15:15.239Z,0,BOOKMARKS:BOOKMARK FOLDER
+27827,Allow Editing of URL in Speed Dial,Hadden89,2018-06-03T22:24:00.806Z,7,SPEED DIAL:URL:EDIT
+26393,Add folder option to Bookmark Panel/Manager items,ozoratsubasa,2018-04-02T00:17:40.083Z,3,BOOKMARKS PANEL:MANAGEBOOKMARKS
+27892,Naming New Speed Dial Bookmarks While Adding them,AllanPettersson,2018-06-08T09:35:08.696Z,2,SPEED DIAL:RENAME
+24531,Create New Folder when Bookmarking Page,dominicw2,2018-02-02T10:58:05.477Z,37,BOOKMARKS:GUI:BOOKMARK FOLDER
+24274,Bookmarks Page Sorting,Yur,2018-01-31T14:29:50.010Z,10,BOOKMARKS:SORT
+25561,Limit the Width of Bookmark Menu Folders,Pesala,2018-03-01T13:20:37.984Z,13,BOOKMARKS:GUI:CUSTOMIZE:MENUS:BOOKMARK FOLDER
+28833,Export Bookmarks from Bookmarks Manager,latisullivan,2018-07-21T00:47:08.135Z,6,BOOKMARKS:EXPORT:MANAGEBOOKMARKS
+24171,Completely Delete an Empty Item,LonM,2018-01-31T09:40:40.243Z,7,BOOKMARKS:NOTES:DELETE
+29144,Allow Users to Bookmark vivaldi://about,browser-vivalid-work-home,2018-08-02T16:30:22.687Z,2,BOOKMARKS
+29120,Bookmark Folder URL Filter,Ryo500,2018-08-01T18:31:07.206Z,0,BOOKMARKS
+29335,Linkify Bookmarks Folders for Speed Dial,Ouroboros4545,2018-08-12T14:45:08.234Z,1,BOOKMARKS:SPEED DIAL
+24394,Remove the Expand/Collapse Folder Triangles,Pesala,2018-02-01T10:13:56.638Z,7,BOOKMARKS:GUI
+28972,Keep Current Bookmark Selected After Cancelling Tree Search,Marc Sigrist,2018-07-25T16:35:26.573Z,9,BOOKMARKS:SEARCH:TREE-STYLE
+29701,Share Sync with Google Accounts or 3rd-party Sign-in,APassingMe,2018-08-30T21:13:30.840Z,0,SYNC
+29937,Center align Speed Dial with "None" Max Columns,zook,2018-09-10T03:53:30.402Z,0,SPEED DIAL
+29522,Speed Dial Autoupdate,fiskrond,2018-08-22T05:27:08.068Z,3,SPEED DIAL:AUTOUPDATE
+30059,Add Smart Bookmarks,MaxKarlErnst,2018-09-14T18:27:14.164Z,1,BOOKMARKS:TAGS
+24184,Collapse/Expand Folder Trees with FlipBack/FlipForward,Pesala,2018-01-31T09:45:54.906Z,2,BOOKMARKS:PANELS:GUI:MOUSE GESTURES
+30066,Change Speed Dial Thumbnail Delete Icon,MaxKarlErnst,2018-09-15T07:49:56.424Z,2,SPEED DIAL:ICONS
+30128,Enable Ctrl+Z to Undo Bookmark Changes,klav,2018-09-17T21:10:09.401Z,6,BOOKMARKS:SHORTCUTS
+30135,Enlarge Bookmark Thumbnails in Speed Dial,capedghost,2018-09-18T07:53:19.209Z,0,SPEED DIAL:THUMBNAILS:SPEED DIAL SIZE
+30149,Focus Bookmarks List in Bookmarks Tab,AXK,2018-09-18T18:24:46.768Z,2,BOOKMARKS:FOCUS
+24228,Dedicated Bookmarks Folder for Web Panels,luetage,2018-01-31T10:55:13.995Z,41,BOOKMARKS:PANELS
+30210,Screen Capture Tool: Save as Bookmark Thumbnail,kingsteved,2018-09-21T17:38:43.926Z,10,BOOKMARKS:THUMBNAILS:SCREEN CAPTURE
+30223,Open Bookmarks in Nested Folders in New or Background Tabs,NemoAnonymous,2018-09-22T01:36:54.416Z,0,BOOKMARK FOLDER
+30277,Speed Dial Navigation Using Arrow Keys,Stardust,2018-09-23T21:09:56.820Z,4,SHORTCUTS:SPEED DIAL:NAVIGATION
+30259,Basic site icons for our bookmarks...,TsunamiZ,2018-09-23T11:59:10.829Z,1,BOOKMARKS:ICONS
+30460,Enlarge Bookmarks Bar Icons on Hover,andydelz,2018-09-27T12:25:38.708Z,6,BOOKMARKS BAR:ICONS:HOVER
+30469,Different Profiles to Sync Bookmarks,Totonyus,2018-09-27T13:42:08.914Z,10,BOOKMARKS:SYNC
+30768,Function to Reload Bookmark Icons,tehstoni,2018-10-02T12:36:24.663Z,6,BOOKMARKS:BOOKMARKS BAR:ICONS:IMPORT
+30930,Touch Screen Support for Speed Dial,wolvenstorm,2018-10-06T08:47:52.909Z,2,SPEED DIAL:SCROLLING:TOUCH SCREEN
+31105,Show decoded URLs in popups on mouse hover,drkh,2018-10-11T03:53:18.530Z,0,BOOKMARKS:BOOKMARKS BAR:BOOKMARKS PANEL
+24392,Delete Bookmark Thumbnails,Pesala,2018-02-01T10:05:22.543Z,14,BOOKMARKS:THUMBNAILS
+31110,Display a Favicon of my own for a Bookmark,drkh,2018-10-11T09:33:05.432Z,9,BOOKMARKS:FAVICONS
+31113,Bookmark Auto-Backup,acnapyx,2018-10-11T13:02:38.715Z,2,BOOKMARKS:BACKUP
+31458,Pinboard,patrick2,2018-10-20T19:00:22.901Z,0,BOOKMARKS
+26286,Add Bookmarks to Top or Bottom of Folder,ronyxs,2018-03-28T22:15:39.624Z,5,BOOKMARKS
+31650,Hide All Favicons Option,joelandsonja,2018-10-25T20:36:23.430Z,3,BOOKMARKS:BOOKMARKS BAR:ICONS:BOOKMARK FOLDER
+29009,Option for Most Visited Sites on Speed Dial,Beardedgeek72,2018-07-26T22:18:50.836Z,8,SPEED DIAL:MOST VISITED
+27150,Use Icon from Web App Manifest.json on Speed Dial,mrmamen,2018-05-03T11:12:23.876Z,15,SPEED DIAL:ICONS
+32013,Date Visited in Bookmark Panel Details Pane,O_Love,2018-11-07T10:42:45.950Z,2,BOOKMARKS:VISITED
+32015,Make all imported bookmarks show icons immediately,yukitaga,2018-11-07T11:10:15.065Z,0,BOOKMARKS:IMPORT:FAVICONS
+29084,Assign Shortcuts to Speed Dials,Darth904,2018-07-30T23:10:36.256Z,7,SHORTCUTS:SPEED DIAL
+32277,Bookmark Tab Stack to a Specific Folder,gzg06,2018-11-16T13:55:26.001Z,1,BOOKMARKS:TAB STACKS
+32401,Create Start Page Folders by Drag and Drop,Pesala,2018-11-21T06:22:19.667Z,3,SPEED DIAL:THUMBNAILS:DRAGANDDROP
+32403,Middle-click on a Bookmarks Bar Folder Should Open Two Tabs,indieloser,2018-11-21T07:30:09.509Z,0,BOOKMARKS BAR:TAB:MIDDLE-CLICK:FOLDER BROWSE
+32474,Sort Alphabetically while Adding a Bookmark,internetuser999,2018-11-23T15:28:11.346Z,1,BOOKMARKS:SORT BOOKMARKS
+32537,Option to Drag Trash Folder in Bookmarks and Notes Panels,WolfeP,2018-11-26T06:42:10.833Z,2,BOOKMARKS:BOOKMARKS PANEL
+32590,Send Bookmark to Folder,matiasmovie,2018-11-28T15:16:09.686Z,0,BOOKMARKS:BOOKMARK FOLDER
+32249,Search Field on Add Bookmark Dialog,dalinar,2018-11-15T08:09:41.780Z,3,BOOKMARKS:SEARCH
+28926,URL Easy Update,Too_many_browsers,2018-07-24T09:37:14.005Z,0,BOOKMARKS
+32095,Option for Colored Bookmark Folders,FatihSultan,2018-11-09T17:13:00.112Z,6,BOOKMARKS:COLOR:BOOKMARKS PANEL
+30275,Option to Disable Reload Button on Speed Dial,Stardust,2018-09-23T20:34:56.788Z,3,SPEED DIAL:RELOAD
+33118,Bookmark Bar - Open All in Tabs,campanij,2018-12-16T13:39:58.441Z,3,BOOKMARKS BAR
+32509,Drag and Drop Bookmark Position in Folder,matiasmovie,2018-11-25T00:23:49.392Z,2,BOOKMARKS:DRAGANDDROP:BOOKMARK FOLDER:POSITION
+26215,Drag and Drop to Reorder Speed Dial Pages,The_Fireplace,2018-03-26T22:07:49.130Z,16,SPEED DIAL:DRAGANDDROP:NAVIGATION BAR
+33112,More Features and Settings for Start Page,Fever,2018-12-16T04:11:10.191Z,0,BOOKMARKS:CUSTOMIZE:START PAGE
+24497,Keep multiple backups of sessions / bookmarks / notes / ...,ROTFL,2018-02-02T00:21:33.395Z,31,BOOKMARKS:NOTES:SESSIONS:BACKUP
+33314,Drag Bookmark To Tab,mohkamfer,2018-12-21T19:20:46.164Z,0,TABS:BOOKMARKS:BOOKMARKS BAR:DRAGANDDROP
+33374,Full-text Search,nfsmaniac,2018-12-23T23:38:32.495Z,3,BOOKMARKS:SEARCH
+33392,Show Bookmark Bar Folder Names on Hover,minsk1511,2018-12-25T00:41:56.643Z,1,BOOKMARKS BAR:FOLDER
+24113,Go Back to Parent Folder in Speed Dial,RayAlpha,2018-01-31T08:30:28.188Z,19,SPEED DIAL:NAVIGATION
+33702,Option to Bookmark the Page Automatically,XepherXV,2019-01-09T03:55:33.010Z,1,BOOKMARKS
+33748,Sublevels (sub-bookmarks) for bookmarks,SVGuss,2019-01-10T22:33:30.308Z,1,BOOKMARKS:FOLDER
+24161,Full Mouse Gesture Support in Speed Dial,LonM,2018-01-31T09:38:00.556Z,24,SPEED DIAL:MOUSE GESTURES
+34018,Bookmark  Option to Replace with Current URL,TsunamiZ,2019-01-22T15:26:29.992Z,1,BOOKMARKS
+34121,Bookmarks "date-time" field to enable maintaining chronological order,mini,2019-01-25T21:41:31.700Z,5,BOOKMARKS
+29179,Customize behavior for opening a folder of bookmarks at once...,TsunamiZ,2018-08-04T09:27:01.976Z,2,BOOKMARKS:ACTIVE TABS
+34405,Colored Bookmark Folders and Separator Bars,tristanhenderson,2019-02-07T11:53:44.143Z,7,BOOKMARKS:GUI
+34480,Use Web Search for Custom Bookmark Thumbnails,greibush,2019-02-08T16:22:10.007Z,0,BOOKMARKS:CUSTOMIZE:THUMBNAILS
+25693,Add "Open Bookmarks in Tiles" to Bookmark Folder Context Menu,dragon.sails2,2018-03-06T10:19:21.756Z,5,BOOKMARKS:CONTEXT MENU:TILING
+34622,This is a critical important opportunity  it must be! I hope the developers will hear us!,AlexZorg,2019-02-13T21:51:56.635Z,0,
+34773,Indicator that website is bookmarked.,LAPIII,2019-02-18T18:03:13.640Z,0,RESOLVED
+34774,Editing bookmarks in the sidebar.,LAPIII,2019-02-18T18:07:28.985Z,0,RESOLVED
+34851,Visual Bookmarks manager view option for vivaldi://bookmarks,Darthagnon,2019-02-20T15:35:51.121Z,1,BOOKMARKS:THUMBNAILS:APPEARANCE
+34852,Drag-and-drop folder creation in Speed Dial?,Darthagnon,2019-02-20T15:39:49.731Z,1,BOOKMARKS:DRAGANDDROP:BOOKMARK FOLDER
+24157,Remember Last Active Speed Dial Folder per Window,PlusMinus0,2018-01-31T09:36:38.540Z,10,SPEED DIAL:WINDOW
+35003,Bookmark Bar Features,alexshush,2019-02-26T14:03:33.498Z,1,BOOKMARKS BAR
+29371,Bookmark Manager Improvements,kmedeiros,2018-08-14T18:23:57.897Z,29,BOOKMARKS:MANAGEBOOKMARKS
+25692,Import Firefox Tags as Nicknames,pinakel,2018-03-06T10:14:04.416Z,5,BOOKMARKS:IMPORT:NICKNAMES:TAGS
+28804,Can't tell folders and bookmarks apart when bookmark bar is set to "text only"...,TsunamiZ,2018-07-20T00:27:47.624Z,2,BOOKMARKS:BOOKMARKS BAR
+32307,Autohide  Hide  Make Navigation Bar Transparent on Start Page,AlexSkywalker,2018-11-17T13:55:29.748Z,2,START PAGE:AUTO-HIDE:NAVIGATION BAR
+30201,Dedicated Bookmarks Folder for Search Engines,duarte.framos,2018-09-21T00:53:24.445Z,15,SEARCH ENGINES:BOOKMARK FOLDER
+35110,Select unique Bookmark Bar per Vivaldi instance,MoonDogg,2019-03-01T18:19:55.747Z,1,BOOKMARKS BAR
+26410,Drag-Configurable Bookmarks Bar Folder Menus,DominateEye,2018-04-02T19:39:26.104Z,32,BOOKMARKS BAR:CONTEXT MENU:IN PROGRESS:DRAGANDDROP
+33796,Apply Speed Dial Background Image with Drag 'n Drop,Hadden89,2019-01-13T15:45:05.050Z,6,BOOKMARKS:START PAGE:DRAGANDDROP:BACKGROUND
+24326,Split Bookmark Pane,Rongar,2018-01-31T20:23:27.406Z,14,BOOKMARKS:PANELS
+24479,Sync custom Speed Dial thumbnails,ROTFL,2018-02-01T22:57:16.058Z,28,SPEED DIAL:SYNC:THUMBNAILS
+24491,Duplicated bookmark detection / cleanup,ROTFL,2018-02-01T23:55:00.884Z,47,BOOKMARKS:DUPLICATES:CLEANUP
+35898,URL templates as bookmarks,CassandraNewell,2019-03-28T00:55:08.795Z,0,BOOKMARKS:SPEED DIAL
+35999,Bookmarks Toolbar improvements,ygrno,2019-03-29T16:47:01.382Z,0,BOOKMARKS
+25418,Sort Bookmarks by Folders First,neltherion,2018-02-24T06:09:51.112Z,25,BOOKMARKS:SORT BOOKMARKS
+36117,Navigate bookmark tab and panel via the keyboard,libcub,2019-04-02T07:25:42.910Z,1,BOOKMARKS:KEYBOARD:BOOKMARKS PANEL
+36122,Bookmarks bar right click menu  command to "sort alphabetically once"...,TsunamiZ,2019-04-02T09:02:38.681Z,1,BOOKMARKS:SORT
+36215,Opening a folder of bookmarks via a nickname should open in new background tabs...,TsunamiZ,2019-04-04T08:48:45.637Z,0,TABS:BOOKMARKS:NICKNAMES
+34285,Add 'Folder' field to bookmark properties in bookmark panel.,MoonDogg,2019-02-02T19:45:50.293Z,2,BOOKMARKS PANEL
+25338,Right-click Editing of Bookmarks Name and URL,browseruser,2018-02-22T08:56:23.160Z,17,BOOKMARKS:CONTEXT MENU:URL
+36374,Add stack to bookmarks with a specific name,Kaosce,2019-04-09T07:18:06.304Z,2,BOOKMARKS:TAB STACKS
+36524,Setting bookmark to always open in private windows,pedja,2019-04-13T09:46:53.454Z,2,BOOKMARKS:PRIVACY:PRIVATE WINDOW:PRIVATE MODE
+36527,Synchronizing Bookmarks with Firefox,pedja,2019-04-13T10:14:03.743Z,0,BOOKMARKS:SYNC
+36684,open bookmarks in browser new tab page suboption,urfausto,2019-04-19T08:06:27.313Z,0,TABS:BOOKMARKS:START PAGE
+29182,Option to Place Bookmarks Bar on the Side,AshRek,2018-08-04T11:09:50.318Z,2,BOOKMARKS BAR:AUTO-HIDE
+26593,Collapse Folders when Adding a Bookmark,oskark,2018-04-10T13:18:21.888Z,11,BOOKMARKS
+24629,Option for Bookmarks Bar Folder to Stay Open after Opening a Bookmark,eXzentrik,2018-02-03T13:15:10.977Z,17,BOOKMARKS BAR
+24365,More Customization for the Speed Dial,rekuzar,2018-02-01T05:16:43.636Z,60,SPEED DIAL:CUSTOMIZE:THUMBNAILS:IN PROGRESS:EDIT
+33320,Notes for the Bookmark Panel,Martin.Storch,2018-12-21T22:03:23.272Z,12,BOOKMARKS:NOTES
+36643,Option to open all bookmarks in a folder in the bookmark menu,Blubbeh,2019-04-17T21:39:52.070Z,5,BOOKMARKS:MENU
+35004,Add bookmark button to the left of address bar?,alexshush,2019-02-26T14:33:00.062Z,2,BOOKMARKS:ADDRESS BAR:TOOLBAR
