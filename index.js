@@ -243,6 +243,10 @@ DATA.forEach(item => {
     document.querySelector("main").appendChild(fr);
 });
 
+document.querySelector("#reqCount").innerText = DATA.length;
+document.querySelector("#tagCount").innerText = TAGS.length;
+
+
 function getEnabledTags(){
     let enabledTags = Array.from(document.querySelectorAll("tag-item"));
     enabledTags = enabledTags.filter(tag => tag.selected);
@@ -254,6 +258,7 @@ function onTagToggled(){
 }
 
 function onRequestFilterUpdate(filterEvent){
+    let total = 0;
     const enabledTags = getEnabledTags();
     const searchText = filterEvent.target.filterTerms;
     const searchAllTerms = filterEvent.target.matchAll;
@@ -261,16 +266,21 @@ function onRequestFilterUpdate(filterEvent){
         request.visible = searchText.length > 0
             ? request.hasTags(enabledTags) && request.matches(searchText, searchAllTerms)
             : request.hasTags(enabledTags);
+        total += request.visible ? 1 : 0;
     });
+    document.querySelector("#reqCount").innerText = total;
 }
 
 function filterTags(filterEvent){
+    let total = 0;
     const searchText = filterEvent.target.filterTerms;
     const searchAllTerms = filterEvent.target.matchAll;
     const tags = Array.from(document.querySelectorAll("tag-item"));
     tags.forEach(tag => {
-        tag.visible = searchText.length > 0 ? tag.matches(searchText, searchAllTerms) : true
+        tag.visible = searchText.length > 0 ? tag.matches(searchText, searchAllTerms) : true;
+        total += request.visible ? 1 : 0;
     });
+    document.querySelector("#tagCount").innerText = total;
 }
 
 document.addEventListener("TagToggled", onTagToggled);

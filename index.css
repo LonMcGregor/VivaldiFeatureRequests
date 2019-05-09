@@ -1,5 +1,5 @@
 .navcontainer {
-    max-height: 300px;
+    max-height: 250px;
     overflow: scroll;
 }
 
@@ -27,12 +27,15 @@ tag-item[unselected] {
 
 main {
     display: flex;
-    flex-flow: column nowrap;
+    flex-flow: row wrap;
+    max-height: calc(100vh - 50px);
+    overflow: scroll;
 }
 
 main feature-request {
     margin: 2px;
     padding: 2px;
+    width: 32%;
 }
 
 feature-request {
