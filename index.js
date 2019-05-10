@@ -278,7 +278,7 @@ function filterTags(filterEvent){
     const tags = Array.from(document.querySelectorAll("tag-item"));
     tags.forEach(tag => {
         tag.visible = searchText.length > 0 ? tag.matches(searchText, searchAllTerms) : true;
-        total += request.visible ? 1 : 0;
+        total += tag.visible ? 1 : 0;
     });
     document.querySelector("#tagCount").innerText = total;
 }
