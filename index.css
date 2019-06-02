@@ -26,16 +26,28 @@ tag-item[unselected] {
 }
 
 main {
-    display: flex;
-    flex-flow: row wrap;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
     max-height: calc(100vh - 50px);
-    overflow: scroll;
+    overflow-x: scroll;
+}
+
+@media screen and (max-width: 1200px) {
+    main {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media screen and (max-width: 825px) {
+    main {
+        grid-template-columns: 1fr;
+    }
 }
 
 main feature-request {
     margin: 2px;
     padding: 2px;
-    width: 32%;
+    justify-self: stretch;
 }
 
 feature-request {

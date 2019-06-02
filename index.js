@@ -192,7 +192,7 @@ class FeatureRequest extends FilterableElement {
         const shadowStyle = document.createElement('style');
         shadowStyle.textContent = `
             a {
-                text-size: large;
+                font-size: large;
                 margin: 4px;
             }
             div {
