@@ -231,9 +231,9 @@ customElements.define('filter-form', FilterForm);
 
 
 function setURLParams(){
-    const tagText = encodeURIComponent(document.querySelector("#tagFilter").filterTerms);
-    const reqText = encodeURIComponent(document.querySelector("#requestFilter").filterTerms);
-    const activeTags = getEnabledTags().map(encodeURIComponent).join("+");
+    const tagText = encodeURIComponent(document.querySelector("#tagFilter").filterText);
+    const reqText = encodeURIComponent(document.querySelector("#requestFilter").filterText);
+    const activeTags = getEnabledTags().join("+");
     window.location = `#tag=${tagText}&req=${reqText}&tagsEnabled=${activeTags}`;
 }
 
@@ -242,7 +242,7 @@ const initialTagFilter = initialTagMatch ? decodeURIComponent(initialTagMatch[1]
 const initialRequestMatch = window.location.hash.match(/req=([^&]+)/);
 const initialRequestFilter = initialRequestMatch ? decodeURIComponent(initialRequestMatch[1]) : undefined;
 const initialTagsEnabledMatch = window.location.hash.match(/tagsEnabled=([^&]+)/);
-const initialTagsEnabled = initialTagsEnabledMatch ? initialTagsEnabledMatch[1].split("+").map(decodeURIComponent) : [];
+const initialTagsEnabled = initialTagsEnabledMatch ? initialTagsEnabledMatch[1].split("+") : [];
 
 // maybe a new tag should be created automatically when a feature request that contains one is created
 // then again, maybe that's not how this is supposed to work
