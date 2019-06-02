@@ -177,6 +177,7 @@ class FeatureRequest extends FilterableElement {
 
         const titletag = document.createElement("a");
         titletag.innerText = title;
+        titletag.target = "_blank";
         titletag.href = "https://forum.vivaldi.net/topic/" + this.id;
         const scoretag = document.createElement("span");
         scoretag.innerText = score;
