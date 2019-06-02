@@ -230,11 +230,25 @@ customElements.define('feature-request', FeatureRequest);
 customElements.define('filter-form', FilterForm);
 
 
+function setURLParams(){
+    const tagText = encodeURIComponent(document.querySelector("#tagFilter").filterTerms);
+    const reqText = encodeURIComponent(document.querySelector("#requestFilter").filterTerms);
+    const activeTags = getEnabledTags().map(encodeURIComponent).join("+");
+    window.location = `#tag=${tagText}&req=${reqText}&tagsEnabled=${activeTags}`;
+}
+
+const initialTagMatch = window.location.hash.match(/tag=([^&]+)/);
+const initialTagFilter = initialTagMatch ? decodeURIComponent(initialTagMatch[1]) : undefined;
+const initialRequestMatch = window.location.hash.match(/req=([^&]+)/);
+const initialRequestFilter = initialRequestMatch ? decodeURIComponent(initialRequestMatch[1]) : undefined;
+const initialTagsEnabledMatch = window.location.hash.match(/tagsEnabled=([^&]+)/);
+const initialTagsEnabled = initialTagsEnabledMatch ? initialTagsEnabledMatch[1].split("+").map(decodeURIComponent) : [];
+
 // maybe a new tag should be created automatically when a feature request that contains one is created
 // then again, maybe that's not how this is supposed to work
 TAGS.forEach(tag => {
     const tagtag = new TagItem(tag[0], tag[1]);
-    tagtag.setSelected(false);
+    tagtag.setSelected(initialTagsEnabled.indexOf(tag[0]) >= 0);
     document.querySelector("nav").appendChild(tagtag);
 });
 
@@ -246,7 +260,6 @@ DATA.forEach(item => {
 document.querySelector("#reqCount").innerText = DATA.length;
 document.querySelector("#tagCount").innerText = TAGS.length;
 
-
 function getEnabledTags(){
     let enabledTags = Array.from(document.querySelectorAll("tag-item"));
     enabledTags = enabledTags.filter(tag => tag.selected);
@@ -254,7 +267,8 @@ function getEnabledTags(){
 }
 
 function onTagToggled(){
-    onRequestFilterUpdate({target:{filterTerms:[]}});
+    setURLParams();
+    onRequestFilterUpdate({target:document.querySelector("#requestFilter")});
 }
 
 function onRequestFilterUpdate(filterEvent){
@@ -269,6 +283,7 @@ function onRequestFilterUpdate(filterEvent){
         total += request.visible ? 1 : 0;
     });
     document.querySelector("#reqCount").innerText = total;
+    setURLParams();
 }
 
 function filterTags(filterEvent){
@@ -281,11 +296,21 @@ function filterTags(filterEvent){
         total += tag.visible ? 1 : 0;
     });
     document.querySelector("#tagCount").innerText = total;
+    setURLParams();
 }
 
 document.addEventListener("TagToggled", onTagToggled);
 document.querySelector("#requestFilter").addEventListener("FilterUpdated", onRequestFilterUpdate);
 document.querySelector("#tagFilter").addEventListener("FilterUpdated", filterTags);
+
+if(initialTagFilter){
+    document.querySelector("#tagFilter").filterText = initialTagFilter;
+    document.querySelector("#tagFilter").filterUpdated();
+}
+if(initialRequestFilter){
+    document.querySelector("#requestFilter").filterText = initialRequestFilter;
+    document.querySelector("#requestFilter").filterUpdated();
+}
 
 /**
  * add the tags - all disabled by default
