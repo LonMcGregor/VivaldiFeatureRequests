@@ -180,7 +180,7 @@ class FeatureRequest extends FilterableElement {
         super(title);
 
         this.id = id;
-        this.title = title;
+        this.titleText = title;
         this.author = author;
         this.date = date;
         this.score = score;
