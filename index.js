@@ -8,6 +8,9 @@ class FilterForm extends HTMLElement {
     constructor(){
         super();
 
+        this.FILTER_DELAY_MS = 250;
+        this.lastTypeEvent = undefined;
+
         const shadow = this.attachShadow({mode: 'open'});
 
         const text = document.createElement("input");
@@ -70,16 +73,26 @@ class FilterForm extends HTMLElement {
         this.dispatchEvent(new CustomEvent('FilterUpdated', {bubbles: true}));
     }
 
+    filterTextChanged() {
+        this.lastTypeEvent = new Date();
+        setTimeout(() => {
+            const diff = new Date() - this.lastTypeEvent;
+            if(diff >= this.FILTER_DELAY_MS){
+                this.filterUpdated();
+            }
+        }, this.FILTER_DELAY_MS);
+    }
+
     connectedCallback() {
         this.andInput.addEventListener('input', this.filterUpdated.bind(this));
         this.orInput.addEventListener('input', this.filterUpdated.bind(this));
-        this.text.addEventListener('input', this.filterUpdated.bind(this));
+        this.text.addEventListener('input', this.filterTextChanged.bind(this));
     }
 
     disconnectedCallback() {
         this.andInput.removeEventListener('input', this.filterUpdated);
         this.orInput.removeEventListener('input', this.filterUpdated);
-        this.text.removeEventListener('input', this.filterUpdated);
+        this.text.removeEventListener('input', this.filterTextChanged);
     }
 }
 
