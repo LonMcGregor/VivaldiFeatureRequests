@@ -5,7 +5,7 @@ ID,Title,Author,Date,Votes,Tags
 24213,Allow switching between tabs when "Authentication Required" form appears.,RammsteinAM,2018-01-31T10:37:02.655Z,32,TABS:AUTHENTICATION
 24273,Opera-style Multi Window Interface and Tab Grouping,silverwuff,2018-01-31T14:28:35.061Z,6,WINDOWS:TAB GROUPS:MDI
 24321,Colored Tab Groups,industriflow,2018-01-31T20:00:25.465Z,7,GUI:TAB STACKS:COLOR:TAB GROUPS
-24328,Remember Navigation History in Tabs from Closed Windows,david.cortes,2018-01-31T20:29:42.445Z,7,TABS:HISTORY:NAVIGATION
+24328,Remember Navigation History in Tabs from Closed Windows,david.cortes,2018-01-31T20:29:42.445Z,8,TABS:HISTORY:NAVIGATION
 24338,Chrome-like Tab Dragging,AltCode,2018-01-31T21:27:53.595Z,22,TABS:DRAGANDDROP:NEW WINDOW
 24380,Performance Enhancements for Creating New Tabs,neltherion,2018-02-01T08:12:06.752Z,9,NEW TAB:PERFORMANCE
 24402,Switchable Tab Groups similiar to Firefox Panorama,kurevska_registracia,2018-02-01T11:06:50.467Z,11,FIREFOX:TAB GROUPS
@@ -15,15 +15,14 @@ ID,Title,Author,Date,Votes,Tags
 24408,Tab List Button on Tab Bar,longvoid,2018-02-01T12:12:54.837Z,6,TABS:MENUS
 24658,Allow Drag & Drop Between Tabs,kurevska_registracia,2018-02-03T23:38:56.557Z,11,TABS:DRAGANDDROP
 24716,Setting to Mute Tabs by Default,TyrianMollusk,2018-02-05T12:58:43.973Z,11,TABS:MUTE
-24574,Option to Keep Tab Stacks with Only One Tab,ThinkingDes,2018-02-02T16:55:04.174Z,10,TAB STACKS
+24574,Option to Keep Tab Stacks with Only One Tab,ThinkingDes,2018-02-02T16:55:04.174Z,11,TAB STACKS
 24768,Colored frame for tiled tabs,Seasonly,2018-02-06T14:42:02.653Z,4,TABS:GUI:TILING
 24717,Manually Muted Tabs Should Never Automatically Unmute,TyrianMollusk,2018-02-05T13:00:53.888Z,6,TABS:MEDIA:MUTE:PLAYBACK
 24500,Movement of Tabs,fweeks,2018-02-02T02:28:19.823Z,7,TABS:WINDOW:DRAGANDDROP
-24343,Create Tab Stacks from Pinned Tabs,AltCode,2018-01-31T21:45:01.712Z,13,TAB STACKS:PINNED TABS
-24398,Allow Dragging things to Empty Part of Tab Bar,kurevska_registracia,2018-02-01T10:22:46.230Z,5,TAB BAR:DRAGANDDROP
+24343,Create Tab Stacks from Pinned Tabs,AltCode,2018-01-31T21:45:01.712Z,15,TAB STACKS:PINNED TABS
+24398,Allow Dragging things to Empty Part of Tab Bar,kurevska_registracia,2018-02-01T10:22:46.230Z,6,TAB BAR:DRAGANDDROP
 24130,Opening Sites from a Panel Omits Tab Stack,jkierzkowski,2018-01-31T09:22:40.842Z,0,PANELS:TAB STACKS:LINKS
 24906,Remove Tab Spacing in Native Windows,zolcos,2018-02-10T00:49:35.607Z,3,TABS
-25386,Tab Thumbnails Improvement Suggestions,mrfjong,2018-02-23T11:59:03.429Z,2,TABS:THUMBNAILS
 25478,Move Trashcan and New Tab Buttons to Top of the Thumbnails,jacotreus,2018-02-27T12:21:45.582Z,2,GUI:THUMBNAILS:TAB BAR:TRASHCAN
 25643,Option to Increase Height of Tab-stacking Indicator,Hadden89,2018-03-04T15:39:37.244Z,11,GUI:TAB STACKS:CUSTOMIZE
 25684,Vertical Tabs - Show Grouped Tabs as in Window Panel,Chevi,2018-03-06T06:20:56.819Z,8,TABS:TAB STACKS:VERTICAL
@@ -41,20 +40,18 @@ ID,Title,Author,Date,Votes,Tags
 26542,Right-click to Open Link in New Foreground Tab,Alex77777,2018-04-08T09:16:49.072Z,1,NEW TAB
 26706,Setting for Spacing Above Tabs in Non-maximized Windows,Pesala,2018-04-15T10:02:04.581Z,4,TABS:SETTINGS:WINDOWS
 27034,Tab Dragging and Scrolling like a Google Search,Mija-El,2018-04-28T17:14:32.013Z,0,TABS:SCROLLING
-27357,Vertical Tab Bar Width Per Window,0xBADDCAFE,2018-05-12T17:04:59.518Z,2,TAB BAR:WINDOWS:VERTICAL
 25942,Set Size for Tab Previews in Tab Stacks,raystanz,2018-03-16T12:24:47.633Z,8,TAB STACKS:THUMBNAILS
 27455,Auto Switch to Vertical Tabs after x-amount of Tabs,DannyRomano,2018-05-16T23:38:13.918Z,3,TAB BAR:POSITION
-27439,Suggestion for Efficiently Updating Tab Thumbnails,Ouroboros4545,2018-05-16T02:57:50.911Z,4,TABS:THUMBNAILS:UPDATE
+27439,Suggestion for Efficiently Updating Tab Thumbnails,Ouroboros4545,2018-05-16T02:57:50.911Z,6,TABS:THUMBNAILS:UPDATE
 27334,Tabs Outliner style Tab Management,Omsir,2018-05-11T10:38:11.654Z,5,TABS
 27564,Treat Tab Stacks as One Tab when Scrolling,n.i.c.k,2018-05-21T22:31:31.011Z,4,SHORTCUTS:TAB STACKS:SCROLLING
 25979,Increase Width of the Most Used Tabs,Seasonly,2018-03-18T14:20:15.618Z,6,TABS
 27923,Different Keyboard Languages for Different Tabs,bong,2018-06-10T12:31:26.032Z,3,TABS:LANGUAGE
-25694,Option to Open Links in New Tab by Default,rafiki,2018-03-06T10:36:07.505Z,40,NEW TAB
+25694,Option to Open Links in New Tab by Default,rafiki,2018-03-06T10:36:07.505Z,43,NEW TAB
 28093,Move Tab to.... Submenu Options,rojaviv,2018-06-18T22:55:12.059Z,1,TABS:CONTEXT MENU:WINDOWS
 25259,Mark Tab as Important,qwer0,2018-02-20T08:06:35.715Z,9,TABS:HIGHLIGHT
 28251,Option to Show Tabs from All Windows in Tab Cycler,Pesala,2018-06-28T08:35:45.582Z,2,TABS:WINDOWS:TAB CYCLING
-28287,Possibility to keep tabs for later,Ornorm,2018-06-29T15:34:36.302Z,12,TABS
-28296,Tab Nesting Supporting Horizontal Tabs,Dayanto,2018-06-30T02:10:26.816Z,10,TABS:TAB STACKS
+28296,Tab Nesting Supporting Horizontal Tabs,Dayanto,2018-06-30T02:10:26.816Z,14,TABS:TAB STACKS
 26105,Open previous page in new tab,alexander.schultz,2018-03-22T19:01:35.253Z,5,TABS
 28495,Open Video in Same Tab,Neophyte,2018-07-06T22:14:45.348Z,2,TABS:VIDEO
 24129,Split Tab,Pesala,2018-01-31T09:21:49.805Z,13,TABS:TILING
@@ -71,16 +68,14 @@ ID,Title,Author,Date,Votes,Tags
 29562,Vertical Title Text Display when Tab Bar is on the Side,KoneLinx,2018-08-23T21:03:55.904Z,0,TAB BAR:VERTICAL
 29610,Option to Hide New Tab Button,potmeklecbohdan,2018-08-26T09:04:42.276Z,5,TABS:NEW TAB:BUTTON
 24808,Volume Mixer on Tabs,cyanwings,2018-02-07T12:40:27.835Z,15,TABS:VOLUME
-26422,Open Link as Tiled Tab Stack,andydelz,2018-04-03T08:17:38.033Z,4,TAB STACKS:TILING:LINKS
+26422,Open Link as Tiled Tab Stack,andydelz,2018-04-03T08:17:38.033Z,4,TAB STACKS:LINKS:TILING
 29709,Add Tab Context Menu Entry "Close Tabs by Host",npro,2018-08-31T10:52:41.817Z,4,CLOSE TABS
 29770,Make Mouse Button Actions on Tab Configurable,CheVe11e_191,2018-09-03T18:32:51.133Z,3,TABS:CONTEXT MENU:MOUSE
 29721,Make Tabs More Optically Distinct,DavidXanatos,2018-09-01T14:08:43.554Z,2,TABS:THEMES
 29801,Make Resizing of Vertical Tab Bar Independent for each Window,Tinsmith,2018-09-05T07:07:24.307Z,4,TAB BAR:VERTICAL
-29845,Web Page preview,AltCode,2018-09-06T21:52:45.073Z,4,MAC:MACOS
-29888,Option to Position Close Button on the Right (Mac OS),pdxwill,2018-09-08T20:09:52.909Z,3,TABS:CLOSE TABS:MACOS
+29845,Web Page preview,AltCode,2018-09-06T21:52:45.073Z,4,MACOS:MAC
 29960,Option to Place Vertical Tab Bar Outside of the Panels,aminought,2018-09-10T20:44:22.638Z,1,PANELS:TAB BAR
 24395,Private Tabs,kurevska_registracia,2018-02-01T10:17:08.762Z,100,TABS:NICE TO HAVE:PRIVATE MODE
-30191,Option for Nested Tab Stacks,potmeklecbohdan,2018-09-20T17:08:54.680Z,5,TABS:TAB STACKS:TREE-STYLE
 30249,Please allow tab-preview-on-hover to be bigger,SteveThackery,2018-09-22T22:15:24.196Z,1,THUMBNAILS:SIZE
 29595,Close Tabs to Left/Right of Tab Stack,vulture,2018-08-25T11:25:38.771Z,1,TAB STACKS:CONTEXT MENU:CLOSE TABS
 30324,Cast Icon on Tabs,Totto,2018-09-25T10:21:53.194Z,0,TABS:ICONS
@@ -103,20 +98,17 @@ ID,Title,Author,Date,Votes,Tags
 30970,Tile Tabs by Selection,Alkalin0,2018-10-07T09:10:12.837Z,1,TILING
 25048,Centering Interface to the Webpage/ Tabs and Bookmark Bar Centering,Seasonly,2018-02-14T08:40:24.877Z,7,TABS:GUI:BOOKMARKS BAR
 31418,Save Tiled Tabs as One Bookmark,bjarteao,2018-10-19T18:07:17.687Z,2,BOOKMARKS:TILING
-31426,A Tab Stack Bar,hebgbs,2018-10-19T20:57:10.924Z,1,TAB STACKS
+31426,A Tab Stack Bar,hebgbs,2018-10-19T20:57:10.924Z,2,TAB STACKS
 31490,Add tabs opened in the background to recently used order,ntoivola,2018-10-21T20:14:04.752Z,0,TAB CYCLING:BACKGROUND TAB
-31491,Marker/Highlighter for Active Tab on Tab Bar's Scrollbar,dude99,2018-10-21T20:21:24.195Z,4,TAB BAR:SCROLLBAR
-26231,Vertical Tab Bar needs (Auto)Scroll to Active Tab Functions,dude99,2018-03-27T11:17:48.844Z,8,TAB BAR:SCROLLING:VERTICAL
+31491,Marker/Highlighter for Active Tab on Tab Bar's Scrollbar,dude99,2018-10-21T20:21:24.195Z,5,TAB BAR:SCROLLBAR
 31549,Loading Class for Tabs,luetage,2018-10-23T14:43:52.519Z,11,TABS
-31532,Tab Preview on Videos and Thumbnail,notorious,2018-10-23T04:44:20.644Z,0,TABS:VIDEO:THUMBNAILS:PREVIEW
+31532,Tab Preview on Videos and Thumbnail,notorious,2018-10-23T04:44:20.644Z,0,TABS:THUMBNAILS:VIDEO:PREVIEW
 31587,Open Link Outside of Tab stack,Ornorm,2018-10-24T16:36:00.437Z,1,TAB STACKS:LINKS
 31697,Visible Close Button for Tiled Tabs,Ornorm,2018-10-27T02:24:29.648Z,3,MOUSE:TILED TABS:CLOSE
-26559,Do not close tab group popup after closing a tab,cab404,2018-04-09T11:10:43.855Z,7,TAB STACKS:CLOSE TABS
-25322,Push Tabs to Other Synced Devices,balvik,2018-02-21T21:28:58.100Z,14,TABS:SYNC
-27460,Keep "+" Visible when Using Vertical Tabs,goedl,2018-05-17T09:17:07.985Z,14,TAB BAR:VERTICAL
+26559,Do not close tab group popup after closing a tab,cab404,2018-04-09T11:10:43.855Z,9,TAB STACKS:CLOSE TABS
+27460,Keep "+" Visible when Using Vertical Tabs,goedl,2018-05-17T09:17:07.985Z,15,TAB BAR:VERTICAL
 27443,Tab Stacking: Text List on Mouse-over instead of Image Preview,cholzer,2018-05-16T06:47:35.234Z,7,TAB STACKS
 31648,Pause/Play media controls in the tab,zeiglerxz,2018-10-25T19:48:35.342Z,8,VIDEO:AUDIO:MEDIA:CONTROLS
-24578,Open Bookmark Folder in Tab Stack,Artex,2018-02-02T17:25:04.496Z,31,TAB STACKS:BOOKMARKS BAR:BOOKMARK FOLDER
 24754,Tab Stacking from Bookmarks Folders,Asires,2018-02-06T10:18:59.112Z,5,TAB STACKS:BOOKMARK FOLDER
 32186,Play sounds in inactive tab when explicitly asked  leaving other tabs muted,Nostromo,2018-11-13T14:13:47.441Z,4,TABS:AUDIO:MUTE:BACKGROUND TAB
 32289,Search Engine Inside a Tab,Sebatrox,2018-11-16T19:18:22.741Z,0,TABS:SEARCH ENGINES
@@ -124,7 +116,7 @@ ID,Title,Author,Date,Votes,Tags
 32369,"Paste and Go" on a Tab,ryofurue,2018-11-20T04:55:10.047Z,0,TABS:CONTEXT MENU:BACKGROUND TAB:PASTE AND GO
 31892,Search for Tab Stacks in Quick Command,RbR,2018-11-02T06:54:26.010Z,2,TAB STACKS:SEARCH:QUICK COMMANDS
 32415,Show Cloud Synced Tabs in the F2 Search,alexander.gorbovets,2018-11-21T11:35:51.152Z,1,SYNC:QUICK COMMANDS:CLOUD
-32565,Close Cloud Synced Tabs on Other Devices,advaits,2018-11-27T09:26:54.196Z,2,TABS:SYNC:CLOSE TABS
+32565,Close Cloud Synced Tabs on Other Devices,advaits,2018-11-27T09:26:54.196Z,3,TABS:SYNC:CLOSE TABS
 32336,Load Previous and Next Pages in New Tab,Ashtar,2018-11-18T19:25:44.438Z,0,
 32596,Another Column of Tabs for New Tabs next to Pinned Tabs,robertebrown,2018-11-28T21:07:14.888Z,0,TABS:NEW TAB:PINNED TABS
 32476,Permanent Tab Tiling,otiv,2018-11-23T15:49:13.439Z,6,TABS:TILING
@@ -142,7 +134,7 @@ ID,Title,Author,Date,Votes,Tags
 32144,Option to Remove Mute/Unmute Icon from Tabs,sventhebarbarian,2018-11-11T23:54:17.533Z,2,TABS:ICONS:MUTE
 32839,New tab position: "unparent" a tab,brliron,2018-12-08T09:28:00.321Z,1,TABS:NEW TAB
 32922,Add "Close all Tabs" to Tab submenu,KlausB,2018-12-11T09:48:21.695Z,1,TABS:CONTEXT MENU:CLOSE TABS
-32948,Opening new page using Start Page,Gregor,2018-12-11T20:58:35.237Z,1,TABS:START PAGE:OPENING
+32948,Opening new page using Start Page,Gregor,2018-12-11T20:58:35.237Z,3,TABS:START PAGE:OPENING
 32921,Save a Tab Stack to a Speed Dial Folder,richter03,2018-12-11T09:24:55.528Z,2,SPEED DIAL:TAB STACKS:BOOKMARK FOLDER
 32932,Use Tab Selection Shortcuts to Select Tabs in a Stack,TheDuck,2018-12-11T14:44:25.848Z,3,TABS:SHORTCUTS:TAB STACKS
 32953,Scrolling List in Recently Closed Tabs Menu,Gregor,2018-12-11T21:44:35.880Z,0,TABS:SCROLLING:MENU:CLOSED TABS
@@ -159,12 +151,12 @@ ID,Title,Author,Date,Votes,Tags
 33225,New Tabs Should Open at the Top/Left,fabioromeo,2018-12-19T12:23:21.423Z,0,TABS:NEW TAB:TAB BAR
 33108,Make Stacking Tabs Quicker,LiorL,2018-12-16T00:31:49.408Z,8,TABS:TAB STACKS
 32956,Animation of opening/closing tabs,Gregor,2018-12-11T21:57:50.415Z,7,TABS:CLOSE TABS:ANIMATIONS:OPENING
-24298,Show Pinned Tabs as Icons on Vertical Tab Bar,Flex,2018-01-31T18:27:48.495Z,18,TAB BAR:ICONS:PINNED TABS
+24298,Show Pinned Tabs as Icons on Vertical Tab Bar,Flex,2018-01-31T18:27:48.495Z,19,TAB BAR:ICONS:PINNED TABS
 33322,Option to disable "Mute Tab" button,pzmarzly,2018-12-21T23:49:35.480Z,2,TABS:MUTE
 33371,Relational New Tab and Close Tab Options,HonoredMule,2018-12-23T19:24:36.292Z,0,TABS:NEW TAB:POSITION
 32855,Option for Automatic Tab Hibernation,terere,2018-12-09T07:33:30.776Z,6,TABS:HIBERNATION
-29800,Increase Max Width of Vertical Tab Bar,Tinsmith,2018-09-05T07:05:10.825Z,1,TAB BAR
-33539,Disable Tabs,buzzb,2019-01-01T23:49:44.015Z,0,TABS
+29800,Increase Max Width of Vertical Tab Bar,Tinsmith,2018-09-05T07:05:10.825Z,3,TAB BAR
+33539,Disable Tabs,buzzb,2019-01-01T23:49:44.015Z,1,TABS
 33531,Joining Many Tabs Using the Mouse,ksus,2019-01-01T18:50:45.817Z,0,TABS:TAB STACKS:SESSIONS
 33575,Quick Commands for Tab Stacking and Tiles,cellyforever,2019-01-04T04:38:55.479Z,0,TABS:TAB STACKS:QUICK COMMANDS
 33616,Automatically hibernate new tabs if number of open tabs exceeds X,Darkmatter,2019-01-06T07:13:03.882Z,4,HIBERNATION:BACKGROUND TAB:HIBERNATE
@@ -173,12 +165,9 @@ ID,Title,Author,Date,Votes,Tags
 33416,Option to allow closing pinned tabs with confirmation,alexander.gorbovets,2018-12-26T01:48:59.642Z,1,PINNED TABS
 33747,When closing tabs  allow option to keep width of tabs the same until you mouse out of the tab bar,uglook,2019-01-10T20:12:19.524Z,0,
 31500,Splitting Tiles  and More Tiling Options,hebgbs,2018-10-22T06:51:34.011Z,0,TILING
-33783,New tab by double clicking the blank space of the tab bar...,TsunamiZ,2019-01-12T13:55:06.113Z,0,
 24367,Double-click Tab Bar to Open New Tab,ugly,2018-02-01T05:52:53.262Z,8,BUG:NEW TAB:DOUBLE-CLICK
-28208,Rename Tabs,Pesala,2018-06-25T17:39:57.928Z,31,TABS:RENAME
 30787,Custom Page Tiling Layouts,jwoodard80,2018-10-02T19:04:01.987Z,8,TABS:TILING:TILED TABS
 33884,Disable Tab Cycler With Two Tabs,fuller1754,2019-01-17T17:06:28.962Z,3,TABS:TAB CYCLING
-33936,Close/pin/unpin/move remote tabs,alexander.gorbovets,2019-01-19T09:30:22.430Z,4,
 31786,Auto Hibernate Tabs by a Rule (memory saving and speed up feature),djaddo,2018-10-29T15:56:59.976Z,18,TABS:HIBERNATION:MEMORY
 33951,When tabs are already in thumbnails mode  don't show popup thumbnails...,TsunamiZ,2019-01-19T17:43:37.673Z,0,THUMBNAILS
 33972,Open as Mobile Version in Page Actions,antoine.luboz,2019-01-20T20:36:15.404Z,0,MOBILE:PAGE ACTIONS:DISPLAY
@@ -187,7 +176,7 @@ ID,Title,Author,Date,Votes,Tags
 34029,Highlight Open Tabs that are Bookmarks,dracho,2019-01-23T01:25:04.887Z,0,TABS
 34041,Hibernate not used tab if it consumes too much CPU (or: Protect the battery from rogue sites),marcond,2019-01-23T14:45:30.343Z,3,HIBERNATION
 25665,Scrolling Over Empty Tab Bar Area to Switch Tabs,duarte.framos,2018-03-05T17:35:05.244Z,8,TABS:SCROLLING
-34095,Let us Skin/Stylize how our Tabs Look,TsunamiZ,2019-01-24T22:01:21.381Z,0,TABS:CUSTOMIZE
+34095,Let us Skin/Stylize how our Tabs Look,TsunamiZ,2019-01-24T22:01:21.381Z,1,TABS:CUSTOMIZE
 33945,Open Image in New Tab with Original Size Regardless of System UI Scale,sprayer,2019-01-19T15:14:26.182Z,3,TABS:ZOOM:IMAGE
 33855,Retractable Tab Bar,siniscarr,2019-01-16T09:25:42.588Z,0,TABS:TAB BAR:POSITION
 33636,"Show Popup Thumbnails" option hides switcher on tab groups,cab404,2019-01-06T18:22:45.889Z,1,TABS:UI DESIGN:TAB GROUPS
@@ -196,35 +185,30 @@ ID,Title,Author,Date,Votes,Tags
 34189,Marquee scroll for tabs playing media,LonM,2019-01-29T14:51:05.165Z,6,TABS:AUDIO:ANIMATIONS
 24970,Separate Options for Tab Cycling and Scrolling Tabs on Tab bar,Formedras,2018-02-12T04:27:44.871Z,15,TABS:SCROLLING:TAB CYCLING
 34028,Make Tab Sound Icon more Noticeable and less Obstructive,chegr,2019-01-23T00:59:45.291Z,3,TABS:ICONS:AUDIO:PLAYBACK:ANIMATIONS
-32151,Tab Groups,phant0m,2018-11-12T08:20:39.860Z,5,TABS:TAB STACKS:SESSIONS
 34232,Option for Middle-click to Open Tabs in Foreground,Gort,2019-01-31T17:25:19.101Z,2,TABS:NEW TAB:MIDDLE-CLICK
 34364,Hide notification count when provided from the site,Hadden89,2019-02-06T13:05:28.028Z,0,
 30895,Save Tab Stack as Session,JasonJosephNYC,2018-10-05T12:07:08.353Z,5,TAB STACKS:SESSIONS
-34384,Do not Jump to Minimized Tabs on Closing Tabs,opera6rules,2019-02-06T22:34:20.860Z,0,TABS:CLOSE TABS:MINIMIZE
 24173,Show URL on the Thumbnails,bimlas,2018-01-31T09:41:46.437Z,10,TABS:THUMBNAILS:URL:POP-UP
 34431,Show the URL on the Status Bar when Hovering the Tab,zhangdl,2019-02-07T17:52:48.598Z,2,TABS:STATUS BAR
 34438,Design Tab management Tabs View Timeline One tab with all tabs,viqdoclearning,2019-02-07T19:13:38.344Z,0,TABS
-29208,Triple click or double click a tab to clone it...,TsunamiZ,2018-08-06T11:05:46.058Z,9,CLONE TAB:DOUBLE-CLICK
-34373,Restore Open Tabs After an Update,CheechGe,2019-02-06T16:00:47.610Z,3,UPDATE:SESSION RESTORE
+29208,Triple click or double click a tab to clone it...,TsunamiZ,2018-08-06T11:05:46.058Z,9,DOUBLE-CLICK:CLONE TAB
 34488,Auto-New-Separate-Tab-Stack,uhm,2019-02-08T22:54:20.525Z,1,TABS:TAB STACKS
 34455,Tab stack list preview,mivanit,2019-02-08T04:11:04.318Z,2,TABS:TAB STACKS
 24983,Mouse Hover on a Tab Activates it!,maxtao,2018-02-12T12:44:19.539Z,14,TABS:HOVER
 34514,warning/options when opening a page you already have open,aach1,2019-02-10T06:33:24.821Z,3,
 34583,Ask for permission to refresh the TAB. How?,szGenius,2019-02-12T14:40:15.312Z,0,
-24608,Implement Tree-style Tabs,Hadden89,2018-02-03T05:05:07.741Z,42,TABS:TREE-STYLE
+24608,Implement Tree-style Tabs,Hadden89,2018-02-03T05:05:07.741Z,45,TABS:TREE-STYLE
 34639,"Show Next Tab" and "Show Previous Tab" in the macOS status bar,splinterhead,2019-02-14T11:46:19.805Z,0,
 34660,Colorize Tabs that are Playing Audio,dracho,2019-02-14T20:33:25.889Z,1,TABS:AUDIO:COLOR
 34679,Move to next tab stack with keyboard,cat83293,2019-02-15T13:39:40.753Z,1,TABS:SHORTCUTS:TAB STACKS
-34689,Better Context Menu Access Keys,LAPIII,2019-02-15T19:39:12.807Z,1,CONTEXT MENU:ACCESSIBILITY:A11Y
+34689,Better Context Menu Access Keys,LAPIII,2019-02-15T19:39:12.807Z,2,CONTEXT MENU:ACCESSIBILITY:A11Y
 34712,Option to disable the Page Loading Progress Bar on tabs,Nekomajin,2019-02-16T15:43:08.780Z,1,LOADING:PROGRESS BAR
 34725,Switch tabs using arrow keys when mouse is over the tab bar...,TsunamiZ,2019-02-17T05:22:27.432Z,0,TABS:KEYBOARD
 34752,Stacked Tabs Appearance,AstralDust,2019-02-18T08:13:48.092Z,1,TABS:TAB STACKS:CUSTOMIZE
 34728,Tab Stack Highlight Active Tab,Kalyori,2019-02-17T11:46:56.315Z,4,TABS:TAB STACKS:THUMBNAILS
-16674,Color a Single Tab (or Tab Group),netean,2017-05-08T16:20:07.319Z,26,TABS:TAB STACKS
-34787,Change 'Clone Tab' to 'Duplicate' to help with navigating tab context menus,christopherbest,2019-02-19T04:13:10.977Z,2,CONTEXT MENU:TAB BAR
+16674,Color a Single Tab (or Tab Group),netean,2017-05-08T16:20:07.319Z,28,TABS:TAB STACKS
 34820,Update/Replace saved session,6HRFcBhv,2019-02-19T20:28:18.434Z,2,
-34919,Pin tab (close),matiasmovie,2019-02-23T07:27:41.177Z,0,CLOSE TABS:TAB:PINNED TABS:CLOSE
-34005,Mute Tabs While Audio Isn't Playing,ScrashMan,2019-01-22T01:40:34.347Z,12,TABS:MUTE
+34919,Pin tab (close),matiasmovie,2019-02-23T07:27:41.177Z,0,TAB:CLOSE TABS:PINNED TABS:CLOSE
 34869,better color difference in black tab,MYIG,2019-02-21T01:27:51.868Z,0,TABS:THEMES
 34335,Automatically un-mute tabs that were playing when using "Prioritize active tab" option,SuperFly,2019-02-05T15:09:38.590Z,2,TABS:AUDIO:MEDIA:MUTE:MUSIC
 35020,Allow me to make tab stacking the default,Grannath,2019-02-27T08:21:29.262Z,1,TAB STACKS
@@ -232,7 +216,7 @@ ID,Title,Author,Date,Votes,Tags
 35113,Treating stacked tabs like normal tabs,Zyzto,2019-03-02T02:13:11.344Z,1,TAB STACKS
 35233,remember last open tab,iomari,2019-03-06T09:04:04.332Z,0,
 35255,Close Tab on Thumbnail Middle-Click in Tabstack,geodox,2019-03-06T22:19:39.301Z,1,TAB STACKS:THUMBNAILS:TAB:CLOSE
-35218,Dragging tabs out to new window that is capable of windows multitask,chimmpres,2019-03-05T23:27:57.942Z,1,TILING
+35218,Dragging tabs out to new window that is capable of windows multitask,chimmpres,2019-03-05T23:27:57.942Z,2,TILING
 35364,Keyboard shortcut to close tab stack,MisterSanders,2019-03-10T02:25:02.025Z,5,SHORTCUTS:TAB STACKS
 24335,Option to Create Tab-stack by Ctrl-clicking or Middle-clicking on Links,trevtech,2018-01-31T21:22:17.941Z,25,TAB STACKS
 35395,Make modal password boxes modal to only the tab that request them.,tiva,2019-03-11T13:24:59.561Z,4,TABS:POPUP
@@ -241,23 +225,20 @@ ID,Title,Author,Date,Votes,Tags
 35179,Hide the CLOSE button on background tabs,v25,2019-03-04T15:42:58.859Z,2,TABS:CLOSE TABS
 35476,Tab Title Text on light background.,fuller1754,2019-03-14T17:42:36.124Z,1,TABS:THEMES
 35493,Add Proxy each tabs,syauqi,2019-03-15T07:35:48.889Z,0,TABS:PROXY
-35522,Ability to re-open multiple tabs  after a bulk close,CheVe11e_191,2019-03-16T09:37:45.169Z,1,TABS:CLOSED TABS
 34494,More Complex Tab Auto-Stacking,AltCode,2019-02-09T09:53:40.611Z,18,TAB STACKS
 35565,Zoom remember by url or domain,avj,2019-03-18T11:18:55.102Z,1,ZOOM
 32358,Tab Stack Button Design,Khaolos,2018-11-19T16:28:16.745Z,7,TAB STACKS
-30065,Option to disable tab hibernation,Nekomajin,2018-09-15T06:27:04.905Z,5,TABS:HIBERNATION
-24215,Allow Mute Tab from Context Menu Whether they Play Sound or Not,RammsteinAM,2018-01-31T10:40:21.881Z,49,TABS:VIDEO:AUDIO:MEDIA:MUTE
+30065,Option to disable tab hibernation,Nekomajin,2018-09-15T06:27:04.905Z,6,TABS:HIBERNATION
 35854,Live set of tabs,roti,2019-03-27T14:40:56.263Z,1,SESSIONS
 35861,Simple Change To Tabs Garbage Can,jaxtraw,2019-03-27T16:22:58.373Z,1,TOOLBAR:CLOSED TABS
 35883,Adjust font size of tab titles,david.cortes,2019-03-27T20:27:43.923Z,0,GUI:TAB BAR:FONT SIZE
 25128,Remove Tab Group Duplicates,cmason,2018-02-16T08:45:04.655Z,5,TAB STACKS:DUPLICATES
-24587,Highlight duplicate tabs with blinking,ROTFL,2018-02-02T18:51:58.300Z,11,TABS:HIGHLIGHT:DUPLICATES
+24587,Highlight duplicate tabs with blinking,ROTFL,2018-02-02T18:51:58.300Z,11,TABS:DUPLICATES:HIGHLIGHT
 32993,Tab Stack Cycling,baconshirt,2018-12-13T09:35:27.553Z,7,TABS:TAB STACKS:TAB CYCLING
 35158,Clone a tab by dragging...,TsunamiZ,2019-03-03T22:25:40.989Z,2,CLONE TAB
 36051,Have "Align Next Close Button" work for middle click (and double click if enabled),aeonvex,2019-03-31T20:56:31.878Z,0,TABS:CLOSE TABS:MIDDLE-CLICK
 36121,Add a new category to tab settings called "double click on tab"...,TsunamiZ,2019-04-02T08:35:05.469Z,3,TABS:SHORTCUTS
 36127,Setting a key for 'Open Link',drjoelkain,2019-04-02T12:21:10.825Z,0,TABS:SHORTCUTS
-36242,Don't close Tab Popup Thumbnail after close a tab in tab stack,tnthhp96,2019-04-04T18:32:14.820Z,2,TABS:TAB STACKS:THUMBNAILS
 36229,Assign Default Window for new tabs,smartptr,2019-04-04T12:07:25.001Z,1,WINDOW:EXTERNAL LINK
 36290,Automatically change tab location based on conditions,mackhax0r,2019-04-05T17:11:12.516Z,0,TABS:WINDOW:TOOLBAR
 36483,"show closed tab" keyboard shortcut toggle,Leradis,2019-04-11T15:52:23.019Z,0,SHORTCUTS:KEYBOARD:TOGGLE
@@ -265,12 +246,10 @@ ID,Title,Author,Date,Votes,Tags
 36518,Cross Profile Tab Sharing,dies_felices,2019-04-13T00:09:14.928Z,0,TABS:PROFILES:SHARING
 36368,Open new link outside of tab stack,terrdavis,2019-04-08T21:12:32.177Z,3,TABS:SHORTCUTS:TAB STACKS
 24659,Tab Snooze,dakira,2018-02-04T00:44:40.363Z,14,TABS:HIBERNATION
-27576,Middle-click on Tab Bar to Open New Tab,Tell,2018-05-22T10:46:56.840Z,14,NEW TAB:TAB BAR:MIDDLE-CLICK
-24406,Horizontal Tab Scrolling Instead of Shrinking,longvoid,2018-02-01T11:56:13.384Z,75,TABS:SCROLLING:FIREFOX:NICE TO HAVE
+27576,Middle-click on Tab Bar to Open New Tab,Tell,2018-05-22T10:46:56.840Z,15,NEW TAB:TAB BAR:MIDDLE-CLICK
 36624,Add a option to show popup thumbnails only for stacked tabs.,Ghos3t,2019-04-17T03:29:23.391Z,5,TABS:TAB STACKS:THUMBNAILS
-36664,Option to exclusively use the "small" audio playing badge.,Dinjoralo,2019-04-18T16:00:41.589Z,6,TABS:GUI:AUDIO:MUTE
+36664,Option to exclusively use the "small" audio playing badge.,Dinjoralo,2019-04-18T16:00:41.589Z,8,TABS:GUI:AUDIO:MUTE
 36702,Please mark hibernated tabs with a ZZZ icon overlay...,TsunamiZ,2019-04-20T07:37:19.922Z,2,TABS:GUI:ICONS:ACCESSIBILITY:HIBERNATE
-36737,Close icon position: left or right,alfaex,2019-04-21T16:15:12.218Z,1,TAB:UI DESIGN
 36738,Color for group of tabs,alfaex,2019-04-21T16:23:25.191Z,0,TABS:UI DESIGN
 33384,Prefix Quick Command to Find Tabs,hesxenon,2018-12-24T15:04:04.761Z,1,TABS:SHORTCUTS:QUICK COMMANDS
 30731,Rename "Clone Tab" to "Duplicate Tab",DannyRomano,2018-10-01T20:43:03.434Z,14,TABS:CLONE TAB
@@ -280,5 +259,35 @@ ID,Title,Author,Date,Votes,Tags
 36975,Vertical Tab - Keyboard Shortcut to Hide/Show Full Tab Name,wangson,2019-05-02T20:04:42.105Z,0,SHORTCUTS:TAB BAR:VERTICAL
 27617,Double-click a Link to Open a Tab in the Foreground,Seasonly,2018-05-24T08:46:36.596Z,1,TABS:LINKS
 37019,"Smart Tile Layout" based on monitor resolution,MrMista,2019-05-04T18:39:44.428Z,2,TABS:TILING
-25453,Multiple Row Tabs,LonM,2018-02-26T15:52:47.681Z,29,TABS
-37081,Separating pinned and unpinned tabs,jmiisc,2019-05-07T08:45:55.831Z,3,TABS:PINNED TABS:VERTICAL
+37081,Separating pinned and unpinned tabs,jmiisc,2019-05-07T08:45:55.831Z,4,TABS:PINNED TABS:VERTICAL
+36737,Close icon position: left or right,alfaex,2019-04-21T16:15:12.218Z,1,TAB:UI DESIGN
+37362,Focus on Start Page,mcl,2019-05-14T11:32:09.349Z,0,
+25322,Push Tabs to Other Synced Devices,balvik,2018-02-21T21:28:58.100Z,16,TABS:SYNC
+37241,Improved Picture-in-Picture allowing for flash and other media,Shanti09,2019-05-10T13:17:57.395Z,3,
+25453,Multiple Row Tabs,LonM,2018-02-26T15:52:47.681Z,30,TABS
+37482,How important is it to avoid tab cluttering - Multiple tab rows,dericka,2019-05-18T10:24:33.890Z,0,DUPLICATE
+37467,Pin Tab Stacks,Para-Noid,2019-05-17T20:31:51.133Z,0,
+37408,Tab Improvements,jeronymite,2019-05-15T23:52:26.634Z,1,TABS
+27357,Vertical Tab Bar Width Per Window,0xBADDCAFE,2018-05-12T17:04:59.518Z,2,TAB BAR:WINDOWS:VERTICAL
+24406,Horizontal Tab Scrolling Instead of Shrinking,longvoid,2018-02-01T11:56:13.384Z,81,TABS:SCROLLING:FIREFOX:NICE TO HAVE
+37556,Close Tab Activation - Activate New Tab,Ayrlin,2019-05-20T23:40:18.112Z,1,TAB:TAB CLOSE
+26231,Vertical Tab Bar needs (Auto)Scroll to Active Tab Functions,dude99,2018-03-27T11:17:48.844Z,10,TAB BAR:SCROLLING:VERTICAL
+37577,Reset related tabs when I change or move tab,madriss,2019-05-21T20:05:12.378Z,0,TABS
+24578,Open Bookmark Folder in Tab Stack,Artex,2018-02-02T17:25:04.496Z,34,TAB STACKS:BOOKMARKS BAR:BOOKMARK FOLDER
+29888,Option to Position Close Button on the Right (Mac OS),pdxwill,2018-09-08T20:09:52.909Z,4,TABS:CLOSE TABS:MACOS
+33936,Close/pin/unpin/move remote tabs,alexander.gorbovets,2019-01-19T09:30:22.430Z,5,
+37851,Switch to existing tab if trying to open duplicate tab,alexander.gorbovets,2019-06-02T17:32:31.094Z,0,TABS:DUPLICATES
+37402,Quick Group & Tile Current Tab > By Right-Clicking Target Tab Stack,Manix,2019-05-15T20:24:49.224Z,1,TABS:TAB STACKS:TILING
+28287,Possibility to keep tabs for later,Ornorm,2018-06-29T15:34:36.302Z,15,TABS
+34384,Do not Jump to Minimized Tabs on Closing Tabs,opera6rules,2019-02-06T22:34:20.860Z,0,TABS:CLOSE TABS:MINIMIZE
+38010,Option to disable remote sessions sync,Leradis,2019-06-09T11:23:44.073Z,2,TABS:SYNC:REMOTE SESSIONS
+38077,Tab Actions,SheldonS,2019-06-12T12:44:04.243Z,0,TABS:PAGE ACTIONS
+32151,Tab Groups,phant0m,2018-11-12T08:20:39.860Z,6,TABS:TAB STACKS:SESSIONS
+24215,Allow Mute Tab from Context Menu Whether they Play Sound or Not,RammsteinAM,2018-01-31T10:40:21.881Z,54,TABS:VIDEO:AUDIO:MEDIA:MUTE
+38141,Reverse direction of "tab scrolling",zopiac,2019-06-14T19:43:35.209Z,1,TABS:SCROLLING:TAB CYCLING:SCROLL WHEEL
+35522,Ability to re-open multiple tabs  after a bulk close,CheVe11e_191,2019-03-16T09:37:45.169Z,6,TABS:CLOSED TABS
+28208,Rename Tabs,Pesala,2018-06-25T17:39:57.928Z,34,TABS:RENAME
+38225,Tab Stack Thumbnail Preview Display Time Limit,jeronymite,2019-06-19T04:50:58.901Z,1,
+38216,Ability to prevent specific tabs from hibernating,jkdba,2019-06-18T14:07:43.030Z,1,
+38265,Unread Badges for reactive tab stack,Seasonly,2019-06-20T10:01:13.430Z,1,TABS:TAB STACKS:UNREAD
+34373,Restore Open Tabs After an Update,CheechGe,2019-02-06T16:00:47.610Z,3,UPDATE:SESSION RESTORE

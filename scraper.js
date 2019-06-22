@@ -2,7 +2,7 @@ javascript:(function csv(){
     "use strict";
     const data = ["ID,Title,Author,Date,Votes,Tags"];
     function csvOnePage(){
-        const topics = document.querySelectorAll(".topic-list li");
+        const topics = document.querySelectorAll(".topic-list li:not(.deleted):not(.locked)");
         Array.from(topics).forEach(topic => {
             const title = topic.querySelector(".title a").innerText.replace(/,/g, " ");
             const tags = Array.from(topic.querySelectorAll(".tag"));
@@ -31,7 +31,9 @@ javascript:(function csv(){
             document.body.appendChild(a);
             a.style = "display: none";
             a.href = datafileurl;
-            a.download = window.location.pathname.replace("/", "_")+".csv";
+            let filename = window.location.pathname.replace("/", "_")+".csv";
+            filename = filename.substr(1);
+            a.download = filename;
             a.click();
         }
     }
