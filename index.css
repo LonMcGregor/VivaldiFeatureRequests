@@ -1,3 +1,7 @@
+details h2 {
+    display: inline-block;
+}
+
 .navcontainer {
     max-height: 250px;
     overflow: scroll;
