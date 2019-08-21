@@ -6,7 +6,7 @@ javascript:(function csv(){
         Array.from(topics).forEach(topic => {
             const title = topic.querySelector(".title a").innerText.replace(/,/g, " ");
             const tags = Array.from(topic.querySelectorAll(".tag"));
-            const author = topic.querySelector(".avatar .select > *").getAttribute("data-original-title");
+            const author = topic.querySelector(".avatar").getAttribute("data-original-title");
             const date = topic.querySelector(".timeago").getAttribute("datetime");
             const votes = topic.querySelector(".stats > span").innerText;
             const topicId = topic.getAttribute("data-tid");
