@@ -15,13 +15,13 @@ ID,Title,Author,Date,Votes,Tags
 28031,Themes based on Musicians  Actors and Movies,wantluckman,2018-06-15T16:42:50.481Z,0,THEMES
 28052,Different Theme on Private Window,kyu3a,2018-06-16T15:28:48.999Z,6,THEMES:PRIVATE WINDOW
 28014,Window Background Image: From Tabs to Title Bar,Motes,2018-06-14T21:42:13.659Z,4,THEMES:CUSTOMIZE:TAB BAR:IN PROGRESS:TITLE BAR
-28158,Better Visual Cue on Active Window,terere,2018-06-21T16:10:11.716Z,7,THEMES:WINDOWS
+28158,Better Visual Cue on Active Window,terere,2018-06-21T16:10:11.716Z,8,THEMES:WINDOWS
 28544,Ensure Active Tab Is Always Recognizable,Marc Sigrist,2018-07-08T17:38:02.581Z,4,THEMES:ACTIVE TABS
 28187,Add Yeelight Technology,NiceStuff,2018-06-23T15:17:53.231Z,5,THEMES
-24672,Allow PNG SVG for Themes  Toolbars  Tab Bar  Panels and Buttons,Hadden89,2018-02-04T12:39:29.231Z,11,PANELS:TOOLBAR:TAB BAR:BUTTONS:SVG
+24672,Allow PNG SVG for Themes  Toolbars  Tab Bar  Panels and Buttons,Hadden89,2018-02-04T12:39:29.231Z,12,PANELS:TOOLBAR:TAB BAR:BUTTONS:SVG
 28749,Improve Color Blending for Tabs,rojaviv,2018-07-18T04:53:06.253Z,1,TABS:THEMES
 29209,Allow Editing of Default Themes,Hadden89,2018-08-06T11:26:51.954Z,0,THEMES
-24453,Themes: Own Start Page Images and Window Background Images,CheVe11e_191,2018-02-01T20:23:21.809Z,28,THEMES:IMAGE:BACKGROUND:SCHEDULED
+24453,Themes: Own Start Page Images and Window Background Images,CheVe11e_191,2018-02-01T20:23:21.809Z,31,THEMES:IMAGE:BACKGROUND:PIPELINE:SCHEDULED
 29679,Day/Night Theme by Longitude,luetage,2018-08-29T17:38:07.472Z,9,THEMES:SCHEDULED
 29756,Crop/Resize Image for Window Background Image,Ornorm,2018-09-03T01:58:00.737Z,6,THEMES:WINDOW:IMAGE:BACKGROUND
 25411,Add Undo button (Trash) for mistakenly deleted Themes,CheVe11e_191,2018-02-24T00:04:23.836Z,18,THEMES:TRASHCAN
@@ -38,7 +38,7 @@ ID,Title,Author,Date,Votes,Tags
 30634,Accent Color from Active Page needs a Gradient Transition Between Tabs,rejzor,2018-09-29T12:06:19.380Z,10,TABS:THEMES:GRADIENT
 32246,Vivaldi Theme Colors are Too Strong,goamn,2018-11-15T04:58:11.391Z,1,THEMES:COLOR
 26946,Stretch Window Background Image to the Bookmarks Bar,Ornorm,2018-04-25T23:50:22.839Z,7,THEMES:BOOKMARKS BAR:BACKGROUND
-32672,Option to Change Desktop Wallpaper with Right-click,w.tromp,2018-12-02T22:57:36.674Z,2,THEMES:BACKGROUND:DESKTOP
+32672,Option to Change Desktop Wallpaper with Right-click,w.tromp,2018-12-02T22:57:36.674Z,3,THEMES:BACKGROUND:DESKTOP
 32846,Allow Different Color for Active Tab,Vivipop,2018-12-08T16:50:21.863Z,5,THEMES:ACTIVE TABS
 31934,Developer Tools should follow Scheduled Theme,LonM,2018-11-03T21:04:20.817Z,4,THEMES:DEVELOPER TOOLS
 32912,Allow Vivaldi to grab its accent color from Windows 10 accent color,fuller1754,2018-12-11T04:34:43.032Z,1,THEMES:COLOR
@@ -47,7 +47,6 @@ ID,Title,Author,Date,Votes,Tags
 33403,Option to take color from page header background,ric54321,2018-12-25T15:55:54.819Z,2,THEMES:COLOR
 24164,Allow Any Theme to be Used in Reader View,LonM,2018-01-31T09:39:22.941Z,14,THEMES:READER VIEW
 25186,Option to set a Theme per Site or Domain,CheVe11e_191,2018-02-18T09:36:46.349Z,13,THEMES:WEBSITE
-25244,Implement Night mode,CheVe11e_191,2018-02-19T19:10:16.594Z,17,THEMES:GUI:NIGHT MODE
 34459,Add a Tab Unread Color to Themes,reyn,2019-02-08T08:29:53.364Z,3,TABS:THEMES:UNREAD
 34687,Please implement a fixed common.css for Linux Version (super easy fix),WindowsToLinux,2019-02-15T17:57:03.950Z,1,WINDOW:BORDER
 34739,Transition when using Accent Color from Active Page,Nekomajin,2019-02-17T19:52:36.443Z,2,TABS:THEMES:GRADIENT
@@ -60,17 +59,20 @@ ID,Title,Author,Date,Votes,Tags
 36136,Make vivaldi://themecolors more accessible,Hadden89,2019-04-02T14:57:53.921Z,8,THEMES
 30258,Tab Loading Progress bar should Use Theme's Highlight Color,TsunamiZ,2018-09-23T11:40:53.491Z,9,THEMES:LOADING
 30157,Import themes directly from link (and also export),ROTFL,2018-09-19T06:38:03.162Z,15,THEMES:IMPORT:EXPORT
-24232,Native Themes to Match the OS Design,Nekomajin,2018-01-31T10:58:50.572Z,47,THEMES:NATIVE OS
+24232,Native Themes to Match the OS Design,Nekomajin,2018-01-31T10:58:50.572Z,48,THEMES:NATIVE OS
 36916,Sync Accent Color settings with Theme only,vagrod,2019-04-30T10:59:36.125Z,6,PIPELINE
 37135,Speed Dial address-bar is too fat,georggoetz,2019-05-08T16:10:41.828Z,0,SPEED DIAL:TOOLBAR:START PAGE
 24552,Easily access theme color data,ROTFL,2018-02-02T12:30:27.857Z,4,THEMES:INTEGRATION
 37243,Support for Razer Nari series - specifically ultimate also support for synapse 2 devices?,mitchellh,2019-05-10T13:27:30.917Z,1,THEMES:INTEGRATION
-24359,Customize Appearance of Menus and Scrollbars,Asires,2018-02-01T01:54:40.532Z,47,THEMES:CUSTOMIZE:MENUS:SCROLLBAR:DARK
+24359,Customize Appearance of Menus and Scrollbars,Asires,2018-02-01T01:54:40.532Z,48,THEMES:CUSTOMIZE:MENUS:SCROLLBAR:DARK
 35491,Improvements to the Vivaldi skin theme coloring...,TsunamiZ,2019-03-15T05:41:07.876Z,1,THEMES:GUI
 37567,Custom CSS for the browser,Azenix,2019-05-21T12:29:07.574Z,0,
-37555,Logitech Color Matching?,KSB,2019-05-20T23:11:29.118Z,3,THEMES:INTEGRATION
+37555,Logitech Color Matching?,KSB,2019-05-20T23:11:29.118Z,4,THEMES:INTEGRATION
 37698,Gradient coloring option and hovered item coloring option...,TsunamiZ,2019-05-27T06:43:42.577Z,3,THEMES:COLOR
 35991,Import themes by the sync feature,raymond_najii,2019-03-29T13:07:21.722Z,8,SYNC:THEMES
 30867,Use OS's Dark Mode preference,AltCode,2018-10-04T18:31:35.929Z,15,WINDOWS 10:MACOS
 37184,More advanced Razer Chroma integration with themes,ganestalay,2019-05-09T07:52:25.531Z,0,THEMES:INTEGRATION
 37165,Steelseries integration - possible?,t0yz,2019-05-09T01:00:43.728Z,2,THEMES:INTEGRATION
+38634,Add support for Javascripts mods under vivaldi://experiments,Hadden89,2019-07-04T06:51:36.411Z,16,
+25244,Implement Night mode,CheVe11e_191,2018-02-19T19:10:16.594Z,21,THEMES:GUI:NIGHT MODE
+39403,Appearance and Start Page Theme Link,SheldonS,2019-08-13T18:47:32.885Z,0,

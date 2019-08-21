@@ -1,21 +1,21 @@
 ID,Title,Author,Date,Votes,Tags
-24159,Full Context Menu in Panels,LonM,2018-01-31T09:37:05.467Z,15,PANELS:CONTEXT MENU
+24159,Full Context Menu in Panels,LonM,2018-01-31T09:37:05.467Z,16,PANELS:CONTEXT MENU
 24220,Text field in Downloads Panel for Direct Downloads,RammsteinAM,2018-01-31T10:42:28.967Z,21,PANELS:DOWNLOADS
 24481,Toggle between panels with mouse-wheel,ROTFL,2018-02-01T23:10:12.848Z,6,SETTINGS:PANELS:MOUSE-WHEEL:TOGGLE PANEL
 24524,Toggle to hide/show the last used panel  and not the sidebar,nimanyu,2018-02-02T09:59:50.686Z,2,PANELS:GUI:TOGGLE PANEL
 24668,Autohiding the Web Panel Toolbar,Seasonly,2018-02-04T10:01:57.140Z,4,PANELS:TOOLBAR:AUTO-HIDE
-24778,Move Extensions to a Panel,piekay,2018-02-06T16:23:39.505Z,8,PANELS:EXTENSIONS:ICONS
+24778,Move Extensions to a Panel,piekay,2018-02-06T16:23:39.505Z,9,PANELS:EXTENSIONS:ICONS
 24815,Dark Panels (only panels),NicolasBarsimanto,2018-02-07T14:45:31.989Z,1,PANELS:GUI:DARK
 24222,Option to Move Panel Toggle to Address Bar,luetage,2018-01-31T10:45:00.962Z,7,GUI:CUSTOMIZE:BUTTON
 25185,Open History Panel Items with Single Click,CheVe11e_191,2018-02-18T09:23:10.628Z,0,HISTORY PANEL:SINGLE-CLICK
 25190,Option to always show image info panel when available,CheVe11e_191,2018-02-18T09:50:12.609Z,2,PANELS:IMAGE:INFO
 25274,Panels in Windows or Tabs?,rojaviv,2018-02-20T14:13:07.306Z,0,TABS:PANELS
 24606,Option to merge window panel/tab bar (and suggestions),Hadden89,2018-02-03T04:54:44.349Z,1,TABS:PANELS
-25543,Configuration for Web Panels,schreck,2018-03-01T02:58:52.126Z,5,PANELS:GUI:FONT SIZE
+25543,Configuration for Web Panels,schreck,2018-03-01T02:58:52.126Z,6,PANELS:GUI:FONT SIZE
 25685,Panels: Activation Semantics Instead of Toggling,VoodooPriest,2018-03-06T07:41:50.838Z,1,SHORTCUTS:PANELS
 26022,Reorder content of Download panel,ROTFL,2018-03-20T11:56:24.638Z,4,PANELS:GUI:DOWNLOADS
 26178,One Button to Close Panels,dplaut,2018-03-25T17:51:59.959Z,1,PANELS:BUTTON:TOGGLE PANEL
-26220,Add "Copy to Note" in Web Panels,ozoratsubasa,2018-03-27T02:33:38.864Z,0,PANELS:NOTES:CONTEXT MENU
+26220,Add "Copy to Note" in Web Panels,ozoratsubasa,2018-03-27T02:33:38.864Z,0,PANELS:CONTEXT MENU:NOTES
 26219,"Move tabs to..." option for Windows Manager,ozoratsubasa,2018-03-27T01:38:33.745Z,4,PANELS:WINDOW
 26243,Modifier Key + Click to open Panel in New Tab,LonM,2018-03-27T15:17:15.964Z,2,SHORTCUTS:PANELS:NEW TAB
 24247,Page Information Panel,Pesala,2018-01-31T11:37:51.887Z,38,PANELS
@@ -28,22 +28,21 @@ ID,Title,Author,Date,Votes,Tags
 27790,Open In option for All Panel Entries,LonM,2018-06-01T11:39:36.124Z,1,PANELS:CONTEXT MENU
 27003,Back/Forward Mouse Buttons to work in Panels,Lord_Dreadwave,2018-04-27T17:37:02.663Z,3,PANELS:MOUSE BUTTONS
 27962,Hide Web Panels when their Extension (ID) is Disabled,Hadden89,2018-06-12T18:13:51.146Z,2,PANELS:EXTENSIONS
-24816,Activate Panels with Mouseover,Hadden89,2018-02-07T15:01:47.971Z,21,PANELS:AUTO-HIDE
+24816,Activate Panels with Mouseover,Hadden89,2018-02-07T15:01:47.971Z,22,PANELS:AUTO-HIDE
 28611,Web Panel Manager,kyu3a,2018-07-11T13:20:57.732Z,5,PANELS
 27343,Sidebar Extension API,Nekomajin,2018-05-11T19:39:48.270Z,7,PANELS:EXTENSIONS:API
 24705,Shortcut to load all web panels,LonM,2018-02-05T10:16:08.185Z,5,PANELS
-29423,Show All Windows and their Tabs in the Window Panel,alexander.gorbovets,2018-08-17T09:00:34.937Z,14,PANELS:WINDOWS PANEL
 29558,Display File Previews After Download is Completed!,Tchelows,2018-08-23T15:35:53.887Z,4,PANELS:DOWNLOADS:PREVIEW
 29658,Full Side Panel,bogensbergerb,2018-08-28T22:50:50.567Z,2,PANELS
-25152,Allow Extensions to work with Web Panels,Bedoncity,2018-02-16T22:14:38.730Z,44,PANELS:EXTENSIONS
 29768,Option to detect page title notifications on Window Panel,CheVe11e_191,2018-09-03T18:16:45.490Z,4,SETTINGS:NOTIFICATIONS:PANEL:WINDOWS PANEL
 29879,Detach Panel in its own Window and Pin it on Top,peefy,2018-09-08T00:53:00.688Z,6,PANELS:ALWAYS ON TOP
 29927,Put a "Clear Private Data" button in the History panel,zook,2018-09-10T02:04:56.582Z,2,HISTORY PANEL:CLEAR:PRIVATE DATA
+29995,Autostart Option for Web Panels,nikolayworkbook,2018-09-12T00:24:04.094Z,9,PANELS:HIBERNATION
 29925,Remove Trash from Bookmarks Panel,zook,2018-09-10T01:49:35.085Z,1,BOOKMARKS PANEL:TRASHCAN
 29926,Move the "Add Web Panel" button from the sidebar into its context menu.,zook,2018-09-10T01:53:49.968Z,1,CONTEXT MENU
 29750,Tags for Long Notes,vydas,2018-09-02T22:14:29.246Z,0,PANELS:NOTES:TAGS
 30325,Option to Position Panels on Top,huguesmoisy,2018-09-25T11:18:03.486Z,1,PANELS:POSITION
-29684,Option for Web Panel Ubiquity,dconthe3,2018-08-29T21:31:02.604Z,8,PANELS:VIDEO:AUDIO:MEDIA:PLAYBACK
+29684,Option for Web Panel Ubiquity,dconthe3,2018-08-29T21:31:02.604Z,7,PANELS:VIDEO:AUDIO:MEDIA:PLAYBACK
 30388,Option to set public context for web panels in private windows,valiowk,2018-09-26T16:54:52.932Z,4,PANELS:PRIVATE WINDOW
 29715,Floating panel switch on panel's toolbar,Regnas,2018-08-31T20:30:04.305Z,12,PANELS:BUTTON:FLOATING
 30949,Show Download Info Even for Small Panels,ZECK,2018-10-06T15:45:12.351Z,4,PANELS:DOWNLOADS:INFO
@@ -56,10 +55,9 @@ ID,Title,Author,Date,Votes,Tags
 31525,Add Pin Button on Top of Each Panel,mmassaer,2018-10-22T19:54:32.537Z,1,PANELS:BUTTON:FLOATING
 31576,Task Tracker Panel,Awpii,2018-10-24T14:03:24.624Z,0,PANELS
 31651,Possibility to set Markdown individually,CheVe11e_191,2018-10-25T21:19:36.070Z,4,PANELS:NOTES:MARKDOWN
-24446,Option to Mute Web Panels,CheVe11e_191,2018-02-01T19:54:25.378Z,14,PANELS:MEDIA:MUTE:PLAYBACK
+24446,Option to Mute Web Panels,CheVe11e_191,2018-02-01T19:54:25.378Z,15,PANELS:MEDIA:MUTE:PLAYBACK
 31815,Only Show Notes for Active Tab,nmcguire722,2018-10-30T12:14:04.717Z,0,PANELS:NOTES:ACTIVE TABS
 30903,Better Auto Hide/Show Panels Functions,dude99,2018-10-05T16:23:34.535Z,5,PANELS:AUTO-HIDE
-29995,Autostart Option for Web Panels,nikolayworkbook,2018-09-12T00:24:04.094Z,9,PANELS:HIBERNATION
 29369,Option to Auto-reload Specific Web Panel when Active,Hadden89,2018-08-14T15:39:59.431Z,9,PANELS:RELOAD
 24114,Move Buttons from Status Bar to Panel Toolbar,EmilEichhoernchen,2018-01-31T08:32:27.837Z,9,PANELS:TOOLBAR:STATUS BAR:BUTTONS
 32309,Group Web Panels in Folders,Hadden89,2018-11-17T15:13:01.962Z,3,PANELS
@@ -71,15 +69,35 @@ ID,Title,Author,Date,Votes,Tags
 32522,Keep Bookmark Folder Expanded after Using Find in Bookmarks Panel,BerndS,2018-11-25T11:57:03.085Z,1,PANELS:SEARCH:BOOKMARK FOLDER:BOOKMARKS PANEL
 24167,Shortcut for Closing Currently Open Panel,LonM,2018-01-31T09:39:43.938Z,17,SHORTCUTS:PANELS
 32954,Notes with Automatically Added Addresses,Gregor,2018-12-11T21:50:53.167Z,1,NOTES:TAB:URL
-32951,Open Tab in Background from History Panel with Middle-click,Gregor,2018-12-11T21:34:18.216Z,5,HISTORY:TAB:MIDDLE-CLICK:BACKGROUND TAB:HISTORY PANEL
+32951,Open Tab in Background from History Panel with Middle-click,Gregor,2018-12-11T21:34:18.216Z,6,HISTORY:TAB:MIDDLE-CLICK:BACKGROUND TAB:HISTORY PANEL
 32965,Popup a Specific Note,yes.aravind,2018-12-12T08:54:55.818Z,0,PANELS:NOTES:POPUP
-33015,Ability to Drag and Drop Tabs between Windows via the Window Panels,TreyHarris,2018-12-13T21:39:40.974Z,0,TABS:WINDOWS PANEL:MOVING
+33015,Ability to Drag and Drop Tabs between Windows via the Window Panels,TreyHarris,2018-12-13T21:39:40.974Z,1,TABS:WINDOWS PANEL:MOVING
 25182,Colorized Download Progress Line,CheVe11e_191,2018-02-18T08:59:53.130Z,17,PANELS:DOWNLOADS
 33046,Hiding Panels,noxy,2018-12-14T10:14:53.634Z,0,SHORTCUTS:PANELS
 33134,Downloads Panel: Automatically remove completed downloads and close empty panel,buffalo,2018-12-16T22:16:35.712Z,4,SETTINGS:DOWNLOADS:PANEL
 33541,Move Extension On/Off Button to the Left,steveshank,2019-01-02T00:29:14.934Z,0,PANELS:EXTENSIONS
 33699,Automatically restart stopped downloads,EmeraldSlash,2019-01-09T00:48:42.643Z,1,DOWNLOADS
-24859,Change Web Panels Zoom,Hadden89,2018-02-08T20:53:42.336Z,35,PANELS:ZOOM
+24859,Change Web Panels Zoom,Hadden89,2018-02-08T20:53:42.336Z,39,PANELS:ZOOM
+33967,Mark Web Panels as Bookmarks,ShaSha,2019-01-20T12:03:55.307Z,1,BOOKMARKS:PANELS
+24114,Move Buttons from Status Bar to Panel Toolbar,EmilEichhoernchen,2018-01-31T08:32:27.837Z,9,PANELS:TOOLBAR:STATUS BAR:BUTTONS
+32309,Group Web Panels in Folders,Hadden89,2018-11-17T15:13:01.962Z,3,PANELS
+32402,Annotate Webpages and Show in Notes,Darkmatter,2018-11-21T06:25:08.346Z,3,PANELS:NOTES:WEBPAGES
+32471,Show only Domains in History,SVGuss,2018-11-23T14:54:49.609Z,7,HISTORY:GROUPING
+32477,Show last [...] days in history,Hadden89,2018-11-23T16:01:56.693Z,2,PANELS:HISTORY
+32535,Option to pre-load specific web panel's content on startup,dude99,2018-11-26T04:45:28.139Z,5,STARTUP:WEB PANEL
+32543,Drag Image to add Note Attachment,LonM,2018-11-26T13:56:39.397Z,6,NOTES:ATTACHMENTS
+32522,Keep Bookmark Folder Expanded after Using Find in Bookmarks Panel,BerndS,2018-11-25T11:57:03.085Z,1,PANELS:SEARCH:BOOKMARK FOLDER:BOOKMARKS PANEL
+24167,Shortcut for Closing Currently Open Panel,LonM,2018-01-31T09:39:43.938Z,17,SHORTCUTS:PANELS
+32954,Notes with Automatically Added Addresses,Gregor,2018-12-11T21:50:53.167Z,1,NOTES:TAB:URL
+32951,Open Tab in Background from History Panel with Middle-click,Gregor,2018-12-11T21:34:18.216Z,6,HISTORY:TAB:MIDDLE-CLICK:BACKGROUND TAB:HISTORY PANEL
+32965,Popup a Specific Note,yes.aravind,2018-12-12T08:54:55.818Z,0,PANELS:NOTES:POPUP
+33015,Ability to Drag and Drop Tabs between Windows via the Window Panels,TreyHarris,2018-12-13T21:39:40.974Z,1,TABS:WINDOWS PANEL:MOVING
+25182,Colorized Download Progress Line,CheVe11e_191,2018-02-18T08:59:53.130Z,17,PANELS:DOWNLOADS
+33046,Hiding Panels,noxy,2018-12-14T10:14:53.634Z,0,SHORTCUTS:PANELS
+33134,Downloads Panel: Automatically remove completed downloads and close empty panel,buffalo,2018-12-16T22:16:35.712Z,4,SETTINGS:DOWNLOADS:PANEL
+33541,Move Extension On/Off Button to the Left,steveshank,2019-01-02T00:29:14.934Z,0,PANELS:EXTENSIONS
+33699,Automatically restart stopped downloads,EmeraldSlash,2019-01-09T00:48:42.643Z,1,DOWNLOADS
+24859,Change Web Panels Zoom,Hadden89,2018-02-08T20:53:42.336Z,39,PANELS:ZOOM
 33967,Mark Web Panels as Bookmarks,ShaSha,2019-01-20T12:03:55.307Z,1,BOOKMARKS:PANELS
 24559,Allowing Function and Dropdown Button on the Panel Toolbar,Seasonly,2018-02-02T13:53:14.078Z,8,PANELS:TOOLBAR:MENU
 24185,Focus Panel on Notification,LonM,2018-01-31T09:46:26.136Z,14,PANELS:NOTIFICATIONS
@@ -92,16 +110,16 @@ ID,Title,Author,Date,Votes,Tags
 27933,Transparent Icons on Panel Toolbar,Regnas,2018-06-11T00:58:27.560Z,13,PANELS:ICONS
 33944,Web Panel for Vivaldi Settings,pinsal,2019-01-19T14:07:46.380Z,11,
 24495,Display "Synced tabs" folder in Window panel,ROTFL,2018-02-02T00:11:16.272Z,8,SYNC:WINDOWS PANEL:REMOTE SESSIONS
-24540,Hibernating / unloading web panels content,ROTFL,2018-02-02T11:36:58.944Z,41,PANELS:HIBERNATE
+24540,Hibernating / unloading web panels content,ROTFL,2018-02-02T11:36:58.944Z,42,PANELS:HIBERNATE
 25698,Add Calendar Panel,CheVe11e_191,2018-03-06T13:45:06.261Z,8,PANELS:CALENDAR
 34844,Auto show/hide panels,bithst,2019-02-20T13:52:02.855Z,0,AUTO-HIDE
 34849,Cleaner Downloads panel  please?,Darthagnon,2019-02-20T15:26:18.240Z,0,DOWNLOADS:BUTTONS:CLEANUP:APPEARANCE
 34848,Bookmarks panel  remove thumbnail,LAPIII,2019-02-20T15:12:21.424Z,1,
 30654,Dev tools as Vivaldi panel,DannyRomano,2018-09-29T21:57:27.071Z,14,PANELS:DEVELOPER TOOLS
 35194,Video Screenshot In Notes.,Almaazon,2019-03-05T02:54:25.303Z,0,NOTES:SCREENSHOT
-34277,Modernize Panel Animation,fuller1754,2019-02-02T04:09:54.048Z,5,PANELS:ANIMATIONS
+34277,Modernize Panel Animation,fuller1754,2019-02-02T04:09:54.048Z,6,PANELS:ANIMATIONS
 35538,Translucent floating panel with adjustable opacity,Wren,2019-03-16T23:17:02.664Z,7,PANELS:FLOATING
-24148,Links Panel,Pesala,2018-01-31T09:33:39.563Z,67,PANELS:NICE TO HAVE
+24148,Links Panel,Pesala,2018-01-31T09:33:39.563Z,68,PANELS:NICE TO HAVE
 25345,Find in Page in Web Panels,Maxrunner,2018-02-22T11:26:21.227Z,9,PANELS:FIND IN PAGE
 30356,Unanchor panel / Free floating panel / Pop-up panel,Seasonly,2018-09-26T10:08:31.694Z,8,PANELS:WINDOW:FLOATING
 35688,Option to move the side panel to the bottom,asdf2345,2019-03-21T21:26:20.638Z,2,PANELS:DOWNLOADS
@@ -114,27 +132,30 @@ ID,Title,Author,Date,Votes,Tags
 28387,Set Floating Option for Each Panel,Xypher,2018-07-04T15:30:50.340Z,29,PANELS:FLOATING
 36326,Ability to change web panel home URL without having to create a new web panel,valiowk,2019-04-06T20:46:45.929Z,11,WEB PANELS
 28940,Open Image Properties as a Panel,Hadden89,2018-07-24T16:51:48.439Z,9,PANELS:IMAGE
-36210,More tweakable toolbars and buttons,MVV_,2019-04-04T06:13:35.285Z,6,TOOLBAR:BUTTONS:MOVING
+36210,More tweakable toolbars and buttons,MVV_,2019-04-04T06:13:35.285Z,7,TOOLBAR:BUTTONS:MOVING
 24118,Enable Mouse Gestures in Web Panels,EmilEichhoernchen,2018-01-31T08:42:40.068Z,31,PANELS:MOUSE GESTURES
 36653,Option to have cookies private to a panel.,jasonw749,2019-04-18T11:42:28.841Z,3,PANELS:COOKIES:WEB PANELS
-36731,Make Sidebar Not Show Up When Pressing Bookmarks/History Panels Keybinds,dannyswift,2019-04-21T13:14:03.631Z,3,SHORTCUTS:PANELS
+36731,Make Sidebar Not Show Up When Pressing Bookmarks/History Panels Keybinds,dannyswift,2019-04-21T13:14:03.631Z,4,SHORTCUTS:PANELS
 36807,Side Panel Refresh Hot Key,dalinar,2019-04-24T14:13:14.772Z,0,SHORTCUTS:PANELS:WEB PANELS:REFRESH PAGE
-24459,Sync Web Panels,CheVe11e_191,2018-02-01T20:50:26.449Z,23,PANELS:SYNC:WEB PANELS
-24803,Drag and Drop in Download Panel,cehojac,2018-02-07T09:27:42.699Z,55,PANELS:DOWNLOADS:DRAGANDDROP
+24459,Sync Web Panels,CheVe11e_191,2018-02-01T20:50:26.449Z,24,PANELS:SYNC:WEB PANELS
+24803,Drag and Drop in Download Panel,cehojac,2018-02-07T09:27:42.699Z,56,PANELS:DOWNLOADS:DRAGANDDROP
 24196,Move Hide/Show Panel Button to Right if Panels are on the Right,Pesala,2018-01-31T09:56:56.344Z,24,PANELS:BUTTONS
-24348,Custom Web Panel Icons,AltCode,2018-01-31T22:44:35.177Z,35,PANELS:ICONS
-24943,Scroll through Side Panel,AfsarPasha,2018-02-11T07:30:03.844Z,16,PANELS:SCROLLING:IN PROGRESS
+24348,Custom Web Panel Icons,AltCode,2018-01-31T22:44:35.177Z,36,PANELS:ICONS
+24943,Scroll through Side Panel,AfsarPasha,2018-02-11T07:30:03.844Z,17,PANELS:SCROLLING:IN PROGRESS
 26576,Use Saved Usernames and Passwords in Web Panels,claraangeles,2018-04-10T01:24:14.513Z,11,PANELS:PASSWORDS:WEB PANELS
 37507,Built-in music playback panel.,MattSolo45,2019-05-19T07:02:10.933Z,2,PANELS:AUDIO:MUSIC
 32175,Per-panel Option to Open Links in a New Tab,dalinar,2018-11-13T05:48:13.552Z,4,PANELS:NEW TAB:LINKS
 37624,Rename Web Panels,AltCode,2019-05-23T19:08:58.945Z,5,PANELS:TITLE
 37628,Show Toolbar for some Web Panels only,AltCode,2019-05-23T20:13:47.104Z,7,PANELS:TOOLBAR
-36902,Please stop pulling focus from main window to panel on notification,flooners,2019-04-29T18:43:15.308Z,3,BUG:FOCUS:WEB PANELS:URL BAR
-37653,Separate hide and remove for buttons,Hirumo,2019-05-25T04:53:31.696Z,0,EXTENSIONS:TOOLBAR:BUTTONS:HIDDEN:OPTION
+36902,Please stop pulling focus from main window to panel on notification,flooners,2019-04-29T18:43:15.308Z,4,BUG:FOCUS:WEB PANELS:URL BAR
 37716,Add button on status bar to toggle "autoclose inactive panels" and "floating panel",SmoothMarx,2019-05-27T17:20:14.447Z,0,
 37386,Option: Force Reload Web Panel when (re-)opening,Runamaus,2019-05-15T08:00:44.492Z,5,PANELS:WEB PANELS:RELOAD
-37776,Open a page in web-panel via context menu and button on toolbar,maxtao,2019-05-30T07:33:02.212Z,0,SHORTCUTS:PANELS:LINKS:WEB PANELS
-24476,Sessions Panel,ROTFL,2018-02-01T22:44:51.679Z,147,PANELS:SESSIONS:PIPELINE
-37996,History of closed tabs,damian101,2019-06-08T13:38:51.396Z,0,
 38117,redirect notes panel to local directory,mivanit,2019-06-13T18:51:09.996Z,0,NOTES
 29771,Remove restrictions on Web Panel width - also allow fullscreen mode,CheVe11e_191,2018-09-03T19:00:11.343Z,12,PANELS
+24476,Sessions Panel,ROTFL,2018-02-01T22:44:51.679Z,160,PANELS:SESSIONS:PIPELINE
+38599,Option to disable navigating to last viewed tab in Tab Stack when opening/minimising Tab Stacks within the Window Pane,ergusto,2019-07-02T21:12:37.573Z,0,TABS:TAB STACKS
+38505,Downloads button,snadge,2019-06-27T16:25:16.387Z,2,
+25152,Allow Extensions to work with Web Panels,Bedoncity,2018-02-16T22:14:38.730Z,48,PANELS:EXTENSIONS
+29423,Show All Windows and their Tabs in the Window Panel,alexander.gorbovets,2018-08-17T09:00:34.937Z,21,PANELS:WINDOWS PANEL
+37776,Open a page in web-panel via context menu and button on toolbar,maxtao,2019-05-30T07:33:02.212Z,0,SHORTCUTS:PANELS:LINKS:WEB PANELS
+38814,Open new panel by clicking link with Shift press.,kusokuzeshiki,2019-07-13T01:25:21.740Z,1,SHORTCUTS:LINKS:WEB PANELS
