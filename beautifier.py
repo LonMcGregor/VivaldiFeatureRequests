@@ -29,13 +29,13 @@ def readAFile(filename, base_tag):
             csv = csv.replace("\"", "'")
             items = csv.split(",")
             tags = items[5].split(":")
+            if base_tag != "" and base_tag not in tags:
+                tags.append(base_tag)
             for tag in tags:
                 if tag in TAGS:
                     TAGS[tag] += 1
                 else:
                     TAGS[tag] = 1
-            if base_tag != "" and base_tag not in tags:
-                tags.append(base_tag)
             topic = '["' + '","'.join(items[0:5]) + '",' + '["' + '","'.join(tags) + '"]]'
             ALL_DATA.append(topic)
 
