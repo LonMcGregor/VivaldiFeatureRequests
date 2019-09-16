@@ -1,6 +1,6 @@
 ID,Title,Author,Date,Votes,Tags
 24138,Show Current Version on Updates Tab,Pesala,2018-01-31T09:28:58.019Z,24,SETTINGS:GUI:UPDATE
-24183,Import / Export vivaldi://flags,LonM,2018-01-31T09:45:37.102Z,11,SETTINGS:IMPORT:EXPORT
+24183,Import / Export vivaldi://flags,LonM,2018-01-31T09:45:37.102Z,12,SETTINGS:IMPORT:EXPORT
 24265,Customize Rocker Gestures,Wraith5,2018-01-31T13:23:30.173Z,20,CUSTOMIZE:MOUSE GESTURES
 24543,Keyboard Settings Should Default to Collapsed,Pesala,2018-02-02T11:47:51.752Z,4,SETTINGS:SHORTCUTS:GUI
 24720,Optional Compact Mode for Panels and UI Elements,Hadden89,2018-02-05T13:25:53.055Z,0,TABS:SETTINGS:PANELS:BOOKMARKS BAR:ICONS
@@ -16,7 +16,7 @@ ID,Title,Author,Date,Votes,Tags
 27606,Add Whitelist to Settings  Privacy,Jack9,2018-05-23T19:48:47.555Z,3,SETTINGS:PRIVACY:COOKIES
 26150,Improve Help/Info/Detail on Settings,IlIlIlIIllI,2018-03-24T09:58:58.632Z,9,SETTINGS:HELP:DOCUMENTATION
 27735,Close Button Minimizes the Browser to System Tray,bebotette,2018-05-30T07:24:10.845Z,2,SETTINGS:MINIMIZE WINDOW
-27561,Allow Selecting Text in Settings,LonM,2018-05-21T22:11:09.261Z,15,SETTINGS:SELECTION
+27561,Allow Selecting Text in Settings,LonM,2018-05-21T22:11:09.261Z,16,SETTINGS:SELECTION
 28198,Bookmark Bar Show/Hide Multi Options (as in Chrome),washere,2018-06-24T18:06:01.506Z,1,SETTINGS:BOOKMARKS BAR
 28799,Overwrite Existing Shortcut (with Confirmation),Pesala,2018-07-19T21:23:12.370Z,12,SETTINGS:SHORTCUTS:OVERWRITE
 28834,Option to Sort Search Engines Alphabetically,TsunamiZ,2018-07-21T00:59:24.140Z,3,SEARCH ENGINES:SORT
@@ -31,7 +31,7 @@ ID,Title,Author,Date,Votes,Tags
 29631,Add Built-in 3rd Password Manager Support,yuzukun,2018-08-27T09:54:32.669Z,3,SETTINGS:PASSWORDS
 29632,Open a New Private Window or Tab with Tor,yuzukun,2018-08-27T10:02:12.005Z,1,SETTINGS:PRIVACY:TOR
 29799,Checkerboard behind transparent image in url?,i00,2018-09-05T05:38:20.836Z,6,SETTINGS:IMAGE:BACKGROUND:TRANSPARENT
-29878,Open All External Links in New Background Tab,peefy,2018-09-08T00:30:39.700Z,2,SETTINGS:LINKS:BACKGROUND
+29878,Open All External Links in New Background Tab,peefy,2018-09-08T00:30:39.700Z,4,SETTINGS:LINKS:BACKGROUND
 24206,Settings Dialogue Should Remember its Active Tab,Pesala,2018-01-31T10:05:10.562Z,11,SETTINGS
 29934,Tune the Scroll Wheel Distance,zook,2018-09-10T02:54:01.377Z,0,SETTINGS:SCROLL WHEEL
 29950,Set Default Layout for Tile Tab Stack,roberthendershot,2018-09-10T15:04:35.238Z,1,SETTINGS:TAB STACKS:TILING
@@ -44,7 +44,7 @@ ID,Title,Author,Date,Votes,Tags
 30256,Option for PageDown/Up travel range,dude99,2018-09-23T10:46:40.613Z,2,SETTINGS:SCROLLING
 30279,Clear Per Host Zoom Levels in Clear Private Data,Pesala,2018-09-23T22:59:48.775Z,2,SETTINGS:PRIVACY:ZOOM
 29751,Selecting Save Location After Starting Downloads,vydas,2018-09-02T22:38:18.890Z,1,SETTINGS:DOWNLOADS:DOWNLOADMANAGER
-30339,Rocker Shortcuts for Left-handed Mouses,igorsantos07,2018-09-25T23:57:09.816Z,0,SHORTCUTS:MOUSE:GESTURE:LEFT-HANDED
+30339,Rocker Shortcuts for Left-handed Mouses,igorsantos07,2018-09-25T23:57:09.816Z,0,SHORTCUTS:GESTURE:MOUSE:LEFT-HANDED
 30358,Make it easier to find which values have been changed from defaults,ROTFL,2018-09-26T10:48:07.050Z,16,SETTINGS
 30627,Clarify Meaning of "Use Tab Zoom",ayanamistyang,2018-09-29T10:49:38.137Z,7,SETTINGS:TAB ZOOM
 30662,Ask Me Every Time Cookie Option,Stacy,2018-09-30T04:44:35.679Z,0,SETTINGS:PRIVACY:COOKIES
@@ -66,7 +66,7 @@ ID,Title,Author,Date,Votes,Tags
 32203,Stop Saving Login Names,pccobbler,2018-11-14T01:15:08.048Z,1,SETTINGS:PRIVACY:AUTOFILL
 32190,Check for Updates in Settings  Updates,Pesala,2018-11-13T18:38:14.087Z,10,SETTINGS:UPDATE
 24314,Quick Preferences Menu as in Opera 12.18,Morg42,2018-01-31T19:40:34.764Z,36,SETTINGS:MENUS
-32367,Option to Disable Middle Mouse Button Autoscrolling,rseiler,2018-11-20T03:56:02.080Z,1,SETTINGS:MIDDLE-CLICK:AUTOSCROLL
+32367,Option to Disable Middle Mouse Button Autoscrolling,rseiler,2018-11-20T03:56:02.080Z,1,SETTINGS:MIDDLE-CLICK
 32441,Adapt Settings to user GPU to avoid Hardware Acceleration Issues,Hadden89,2018-11-22T12:55:46.843Z,3,SETTINGS:WEBPAGES
 32461,Add "Save link as..." Mouse Gesture and Hotkey,kay_D,2018-11-23T09:19:04.434Z,3,SETTINGS:SHORTCUTS:MOUSE GESTURES
 32485,Increase Maximum Number of Typed History Entries.,jcdewan,2018-11-24T02:19:06.603Z,0,SETTINGS:TYPED HISTORY
@@ -76,12 +76,11 @@ ID,Title,Author,Date,Votes,Tags
 32816,Option for Image Feeds,Seasonly,2018-12-07T11:08:05.003Z,2,SETTINGS:START PAGE:IMAGE:BACKGROUND
 32848,Option to Always Reuse Active Tab,Pesala,2018-12-08T19:18:50.267Z,3,SETTINGS:LINKS:ACTIVE TABS
 32825,Option to Select a Word or Sentence without the Following Space,LakeInHolland,2018-12-07T17:27:52.083Z,0,SETTINGS:SELECTION
-32903,Include Advanced Color Profiles in Settings,benherrmann,2018-12-10T20:26:54.055Z,6,SETTINGS:COLOR PROFILE
 32939,Enable Spellcheck in Settings  Webpages,Wireaddict,2018-12-11T17:58:00.602Z,0,SETTINGS:WEBPAGES:SPELLCHECK
-32955,Better Auto Scroll Speed,Gregor,2018-12-11T21:54:37.540Z,7,SCROLLING:SCROLL WHEEL:AUTOSCROLL
+32955,Better Auto Scroll Speed,Gregor,2018-12-11T21:54:37.540Z,7,SCROLLING:SCROLL WHEEL
 27145,Option to Modify the Tab Width,seeley,2018-05-03T05:32:59.394Z,9,SETTINGS:TAB BAR
 33050,Tab Cycling: Wrap or no Wrap Option,Purgator,2018-12-14T13:00:24.427Z,2,SETTINGS:TAB CYCLING
-28050,Settings Reset to Defaults,Para-Noid,2018-06-16T13:53:07.214Z,4,SETTINGS:DEFAULT SETTING
+28050,Settings Reset to Defaults,Para-Noid,2018-06-16T13:53:07.214Z,5,SETTINGS:DEFAULT SETTING
 24554,Refine Settings UX and hierarchy / toggle sections,ROTFL,2018-02-02T12:48:59.224Z,7,SETTINGS:GUI
 33318,Adjust font size/family for notes independently of UI,bugmenot3,2018-12-21T21:29:23.749Z,4,GUI:NOTES:FONT SIZE
 33052,Flexible keybindings and command management,LiorL,2018-12-14T13:58:47.348Z,5,SETTINGS:SHORTCUTS
@@ -90,7 +89,7 @@ ID,Title,Author,Date,Votes,Tags
 33553,Add a Command for Override Scroll is Pan,Pesala,2019-01-02T20:08:13.714Z,4,SETTINGS:SHORTCUTS:MOUSE GESTURES:SCROLLING
 31846,Option to Always Print with System Dialog,imp666,2018-10-31T14:44:03.798Z,0,SETTINGS:PRINT
 33637,Wider Search Engines Listbox,dracho,2019-01-06T19:19:00.559Z,2,SETTINGS:SEARCH ENGINES
-33643,Option for Bookmark URL Matching to Ignore Anchors,dude99,2019-01-07T06:20:01.635Z,1,SETTINGS:BOOKMARKS:DUPLICATES
+33643,Option for Bookmark URL Matching to Ignore Anchors,dude99,2019-01-07T06:20:01.635Z,1,DUPLICATE:SETTINGS:BOOKMARKS
 33655,Option to Hide Add Tile on Start Page but Show Add Folder on Navigation Bar,TsunamiZ,2019-01-07T19:47:27.803Z,0,SPEED DIAL:BUTTON:NAVIGATION BAR
 33500,Option to Never Save History,rhubarbpieguy,2018-12-30T20:23:30.596Z,2,SETTINGS:HISTORY
 33704,Disable zoom with button or shortcut.,palmoon,2019-01-09T05:02:55.910Z,3,SETTINGS:ZOOM
@@ -101,15 +100,15 @@ ID,Title,Author,Date,Votes,Tags
 33929,Option to Omit Bookmarks from Speed Dial Suggestions,Pesala,2019-01-19T05:21:11.460Z,0,SPEED DIAL
 33957,Plugins have per Window Settings (Private Browsing + VPN),Dakingof,2019-01-19T22:10:41.900Z,0,SETTINGS:PRIVACY
 33922,Option to start in a private window,0001,2019-01-18T21:57:59.646Z,1,SETTINGS:STARTUP:PRIVATE WINDOW
-33982,Option to Stretch Tabs to Tab Bar Width,dannyswift,2019-01-21T11:10:35.764Z,1,SETTINGS:TAB BAR
+33982,Add the Safari/Epiphany tab view,dannyswift,2019-01-21T11:10:35.764Z,1,SETTINGS:TAB BAR:TAB VIEW
 33983,Option to Autohide the Tab Bar for a Single Tab,dannyswift,2019-01-21T11:12:08.410Z,1,SETTINGS:TAB BAR:AUTO-HIDE
 24926,Tab Bar Below Address Bar,nfsmaniac,2018-02-10T19:52:26.720Z,38,ADDRESS BAR:TAB BAR
-33996,Option to ASCII encode search strings,jberentsson,2019-01-21T18:13:51.937Z,1,SEARCH ENGINES:ENCODING
+33996,Option to ASCII encode search strings,jberentsson,2019-01-21T18:13:51.937Z,1,SEARCH ENGINES:ENCRYPTION
 34037,Please add Group Policy,jp1,2019-01-23T12:59:23.166Z,1,CONFIGURATION
 34030,Bookmark All Tabs should Bookmark only Tabs not Already Bookmarked,dracho,2019-01-23T01:29:29.128Z,0,SETTINGS:BOOKMARKS
 31373,Automatic Reader View,wailord,2018-10-18T09:57:17.515Z,6,SETTINGS:READER VIEW
 34181,Transparency Setting for Borders,handel,2019-01-29T11:17:24.574Z,0,SETTINGS:UI DESIGN:TRANSPARENT
-24143,Transparency for Speed Dial Thumbnails and Folders,Pesala,2018-01-31T09:32:34.979Z,20,SETTINGS:SPEED DIAL:THUMBNAILS:TRANSPARENT
+24143,Transparency for Speed Dial Thumbnails and Folders,Pesala,2018-01-31T09:32:34.979Z,20,
 34206,Block global/site-specific Redirects,Gwen-Dragon,2019-01-30T07:56:59.197Z,3,SETTINGS:SITE SETTINGS:REDIRECTION
 27322,Simplify Setting the Default Search Engine,tommytom2k2,2018-05-10T18:31:29.128Z,5,SETTINGS:SEARCH ENGINES
 34216,Option to Disable Closing Tab on Middle-click,liebezeit,2019-01-30T22:43:33.016Z,3,SETTINGS:CLOSE TABS:MIDDLE-CLICK
@@ -125,7 +124,7 @@ ID,Title,Author,Date,Votes,Tags
 34564,Dual Page Reader View,srdgrb,2019-02-11T20:15:08.857Z,0,SETTINGS:READER VIEW
 29930,Show the Bookmarks Bar only on New Tabs,zook,2018-09-10T02:19:22.194Z,1,SETTINGS:BOOKMARKS BAR:START PAGE
 33771,Load Images Settings and Preferences,fofo,2019-01-11T19:17:44.967Z,2,SETTINGS:IMAGE
-34768,Vivaldi Search Engines: allow to use %s as is (without html conversion),kivagant,2019-02-18T15:26:46.891Z,2,SEARCH ENGINES:ENCODING
+34768,Vivaldi Search Engines: allow to use %s as is (without html conversion),kivagant,2019-02-18T15:26:46.891Z,2,SEARCH ENGINES:ENCRYPTION
 34797,User interface zoom,ineuw,2019-02-19T07:46:33.551Z,0,GUI:ZOOM
 34799,Start Page background image opacity,treetey,2019-02-19T08:09:28.989Z,0,THEMES:START PAGE:BACKGROUND
 34757,Remember Default Save Format,sventhebarbarian,2019-02-18T10:54:49.653Z,1,SETTINGS:WEBPAGES
@@ -139,7 +138,7 @@ ID,Title,Author,Date,Votes,Tags
 35372,Setting that allows the user to "Hide" the exit [X] button in the upper right hand corner of the browser window,lrade,2019-03-10T10:51:31.593Z,0,GUI:WINDOW
 35405,Add Maximize Mouse Gesture,GreenLantern,2019-03-12T00:48:39.094Z,0,MOUSE GESTURES
 35504,Disable thumbnail reload in Start Page,Danil1404,2019-03-15T13:52:16.408Z,2,START PAGE:KEYBOARD
-35619,Custom keyboard shortcut for Extensions toggle,Leradis,2019-03-19T14:23:58.720Z,0,SHORTCUTS:EXTENSIONS:KEYBOARD:TOGGLE
+35619,Custom keyboard shortcut for Extensions toggle,Leradis,2019-03-19T14:23:58.720Z,0,SHORTCUTS:EXTENSION:KEYBOARD:TOGGLE
 35632,Separate shortcut to exit reader mode,AnrDaemon,2019-03-19T20:58:41.683Z,1,SHORTCUTS:KEYBOARD:READER VIEW
 35512,Checkbox to disable opening file manager after capture page,silhoette,2019-03-15T19:16:25.771Z,1,SETTINGS:SCREENSHOT
 35634,Capture FULL webpage images from command line,silhoette,2019-03-20T01:12:45.459Z,0,SCREENSHOT:COMMANDLINE
@@ -153,47 +152,46 @@ ID,Title,Author,Date,Votes,Tags
 35763,Password search consistency,jpaulbiss,2019-03-24T20:05:11.469Z,2,PRIVACY:PASSWORDS
 35810,Hide search engine in context menu,Leradis,2019-03-26T19:23:37.076Z,3,SETTINGS:SEARCH ENGINES:CONTEXT MENU
 35906,Open "Search with" in Background Tab by holding a key,Mangold,2019-03-28T06:45:03.641Z,3,SHORTCUTS:SEARCH:KEYBOARD
-33527,Add a Command to Scroll by a User-defined Number of Lines,Nova1112,2019-01-01T12:22:16.186Z,4,SETTINGS:SHORTCUTS:MOUSE GESTURES:SCROLLING:SMOOTHSCROLLING
+33527,Add a Command to Scroll by a User-defined Number of Lines,Nova1112,2019-01-01T12:22:16.186Z,5,SETTINGS:SHORTCUTS:MOUSE GESTURES:SCROLLING:SMOOTHSCROLLING
 36026,keyboard shortcuts warning,wassim,2019-03-30T15:37:14.092Z,1,SETTINGS:SHORTCUTS:KEYBOARD
 36097,Paste as plain text by default,Gregor,2019-04-01T17:10:08.098Z,4,SHORTCUTS:PASTE
-25257,Add Protocol Handler to Settings,carstorm,2018-02-20T06:47:21.166Z,40,SETTINGS
+25257,Add Protocol Handler to Settings,carstorm,2018-02-20T06:47:21.166Z,41,SETTINGS
 36224,Question dialog for third-party cookies,sdtbluethink,2019-04-04T10:18:04.043Z,1,PRIVACY:COOKIES
 36252,Private User Profiles,dies_felices,2019-04-04T23:34:20.019Z,2,PROFILES:PRIVATE MODE
 36281,sync complete settings with option yes / no,theimer,2019-04-05T14:42:20.151Z,1,SYNC
 36303,Download always save as  skip the save/save as/open confirmation dialog,topexpsy,2019-04-06T01:17:05.234Z,7,DOWNLOADS
 36221,Allow to place status bar on top,Hadden89,2019-04-04T09:48:44.257Z,4,STATUS BAR
-36446,Autofocusing the address and search bars,Aussith9NT,2019-04-10T17:47:07.593Z,0,SETTINGS:ADDRESS BAR:SEARCH BAR:FOCUS:AUTOFOCUS
-36511,Disable hyperlink auditing by default,Vektorweg,2019-04-12T14:14:31.520Z,7,PRIVACY
+36446,Autofocusing the address and search bars,Aussith9NT,2019-04-10T17:47:07.593Z,0,SETTINGS:ADDRESS BAR:SEARCH BAR:FOCUS
+36511,Disable hyperlink auditing by default,Vektorweg,2019-04-12T14:14:31.520Z,8,PRIVACY
 36698,Add Shortcut in Menu,mib2berlin,2019-04-19T21:20:13.959Z,1,SHORTCUTS:CONTEXT MENU
 32046,Hold cmd + Q to quit on macOS,carlmathisen,2018-11-08T08:26:15.678Z,0,SETTINGS:SHORTCUTS:MACOS:MAC
 37034,Screen reset,Knuthf,2019-05-05T14:19:56.981Z,0,SETTINGS:SHORTCUTS:DEFAULT SETTING
 25211,Consolidate Settings in a Single Place,fofo,2018-02-18T18:50:06.322Z,19,SETTINGS
 37274,Ability to right click on taskbar icon to switch profiles,D0tted,2019-05-11T12:34:19.302Z,0,PROFILES:TASKBAR
-30070,Allow cookies storage per site within Vivaldi's interface,Peter,2018-09-15T08:49:52.611Z,6,SETTINGS:COOKIES
+30070,Allow cookies storage per site within Vivaldi's interface,Peter,2018-09-15T08:49:52.611Z,7,SETTINGS:COOKIES
 37181,Startup with Last Session + Startpage,raystanz,2019-05-09T06:42:32.678Z,0,SESSIONS:START PAGE:STARTUP
 26273,Option not to Open Explorer after Screen Capture,steveh64,2018-03-28T11:51:44.992Z,15,SETTINGS:SCREENSHOT:SCREEN CAPTURE
 37401,Toggle mouse gestures by keybind,HorochovPL,2019-05-15T20:15:18.737Z,0,SHORTCUTS:MOUSE GESTURES:KEYBOARD
-32575,Option to Disable Mouse Gestures for Certain URLs,GeeZuZz,2018-11-27T15:44:52.444Z,14,SETTINGS:MOUSE GESTURES
-37598,Add a option to chose playback device,thesunshined,2019-05-22T19:55:03.399Z,0,WINDOWS:PLAYBACK:DEVICES
-37681,Filter by domain for saved webpage passwords.,System32,2019-05-26T06:37:41.663Z,2,SETTINGS:PASSWORD:FILTERS:PASSWORD MANAGER
-37738,Keyboard shortcuts for enabling/disabling extension.,zaxonxp45,2019-05-28T20:46:36.231Z,1,SETTINGS:SHORTCUTS:EXTENSIONS:KEYBOARD:TOGGLE
-37293,Local storage of sync data,Summerbreeze,2019-05-12T07:02:42.490Z,12,SYNC
+32575,Option to Disable Mouse Gestures for Certain URLs,GeeZuZz,2018-11-27T15:44:52.444Z,17,SETTINGS:MOUSE GESTURES
+37598,Add a option to chose playback device,thesunshined,2019-05-22T19:55:03.399Z,0,WINDOWS:PLAYBACK
+37681,Filter by domain for saved webpage passwords.,System32,2019-05-26T06:37:41.663Z,3,SETTINGS:PASSWORD:FILTERS:PASSWORD MANAGER
+37738,Keyboard shortcuts for enabling/disabling extension.,zaxonxp45,2019-05-28T20:46:36.231Z,1,SETTINGS:SHORTCUTS:EXTENSION:KEYBOARD:TOGGLE
+37293,Local storage of sync data,Summerbreeze,2019-05-12T07:02:42.490Z,13,SYNC
 37838,Scanning of cookies for the detection of viruses and malware,MattSolo45,2019-06-02T07:02:04.421Z,0,SECURITY:COOKIES:MALWARE
 37857,Show favicon in Windows taskbar,DavidBevi,2019-06-03T10:43:09.624Z,1,WINDOWS:FAVICONS:TASKBAR
-37670,Customize the number of lines that are scrolled...,TsunamiZ,2019-05-25T19:48:10.550Z,3,SETTINGS:SCROLLING:SCROLL WHEEL
 34324,Don't Hide Close Tab Button,Hirumo,2019-02-05T08:57:14.988Z,5,SETTINGS:BUTTON:CLOSE TABS
 36301,Media Keyboard Keys Compatibility,KSB,2019-04-05T23:15:18.995Z,5,SHORTCUTS:KEYBOARD:MEDIA KEYS
-31936,Button "Sync Now",D136064RC14,2018-11-04T00:29:57.978Z,10,SETTINGS:SYNC
+31936,Button "Sync Now",D136064RC14,2018-11-04T00:29:57.978Z,11,SETTINGS:SYNC
 24180,Browse Buttons in Settings,Pesala,2018-01-31T09:44:32.879Z,46,SETTINGS:DOWNLOADS:IN PROGRESS:SCREEN CAPTURE:HOME PAGE
 38116,Language switching,IdanAdar,2019-06-13T17:29:25.726Z,3,
 38161,Use radio buttons for extension toggle instead checkbox,Hadden89,2019-06-15T16:23:10.461Z,3,
 38180,Video settings,Philipvivaldi,2019-06-16T17:03:26.905Z,0,
 36923,Global dark mode with invert filter?,sneaky4oe,2019-04-30T15:51:44.427Z,2,PAGE ACTIONS:DARK
-34663,Keyboard Shortcuts for Page Actions (e.g. Filter Invert),kerussell,2019-02-14T20:58:31.004Z,2,SETTINGS:SHORTCUTS:PAGE ACTIONS
+34663,Keyboard Shortcuts for Page Actions (e.g. Filter Invert),kerussell,2019-02-14T20:58:31.004Z,3,SETTINGS:SHORTCUTS:PAGE ACTIONS
 38358,Add Support for More Interface Languages,Pesala,2019-06-23T04:34:27.801Z,1,
 38291,Change the fallback DNS from Google,Dr.Flay,2019-06-21T04:29:37.792Z,8,DNS
 38383,Add Sync-option to also include the custom added Search-pages (into the profile),centralunitmainloginacc,2019-06-24T07:19:27.722Z,0,DUPLICATE
-33885,Filter/search passwords by account name under privacy,Hadden89,2019-01-17T18:10:54.781Z,5,SETTINGS:SEARCH:IN PROGRESS:PASSWORDS
+33885,Filter/search passwords by account name under privacy,Hadden89,2019-01-17T18:10:54.781Z,5,SETTINGS:SEARCH:PASSWORDS:IN PROGRESS
 38483,Tools-Settings-Updates> Report Updates - turn off,Hunterus,2019-06-27T04:03:02.497Z,0,
 38493,Better hints for gesture recording,idgor,2019-06-27T08:54:48.027Z,4,MOUSE GESTURES
 38581,Closing tabs by filter,Kovan2002,2019-07-02T06:56:25.556Z,1,
@@ -208,15 +206,23 @@ ID,Title,Author,Date,Votes,Tags
 38939,open files like PDF direct from web,theimer,2019-07-19T19:33:18.257Z,0,
 38977,Vivaldi Processes,wdsdarkbrain,2019-07-22T01:45:30.814Z,0,
 39088,Performing gestures using 2 fingers (on touchpads),Zeta616,2019-07-27T17:59:46.924Z,1,
-39124,Add More Options to "Save Browsing History",xchimp,2019-07-29T17:43:47.382Z,0,PRIVACY:BROWSER HISTORY:AUTOMATION:OPTION:DELETE HISTORY
+39124,Add More Options to "Save Browsing History",xchimp,2019-07-29T17:43:47.382Z,0,PRIVACY:BROWSER HISTORY:OPTION
 32124,Setting to Disable Closed Tabs History and Remove Trashcan,Kobi,2018-11-10T21:08:01.054Z,1,SETTINGS:HISTORY:TRASHCAN:CLOSED TABS
 39156,Option for Windows 10 users - choose default (chromium) notifications or W10 notifications.,Jazzef,2019-07-31T12:30:42.451Z,0,DONE
-39190,Switch profiles from Quick Commands,Llamanerds,2019-08-01T20:49:16.158Z,3,QUICK COMMANDS:PROFILES
-39209,Keep Pinned-Tabs,TeraNovaLP,2019-08-02T12:26:41.169Z,0,
-24303,Option to Disable Autoload and Autoplay of HTLM5 Videos,ghpy,2018-01-31T18:54:02.090Z,84,SETTINGS:VIDEO:PLAYBACK:NICE TO HAVE
-25836,Option to Open New Tabs in Background as Default,kuu,2018-03-12T23:19:12.195Z,92,SETTINGS:NEW TAB:BACKGROUND:PIPELINE
+39190,Switch profiles from Quick Commands,Llamanerds,2019-08-01T20:49:16.158Z,4,QUICK COMMANDS:PROFILES
+39209,Keep Pinned-Tabs,TeraNovaLP,2019-08-02T12:26:41.169Z,1,
+25836,Option to Open New Tabs in Background as Default,kuu,2018-03-12T23:19:12.195Z,97,SETTINGS:NEW TAB:BACKGROUND:PIPELINE
 39501,Select which UI animations to disable,relu84,2019-08-19T11:36:20.016Z,3,LOADING:ANIMATIONS:FAVICON
 39500,Show the profile name alongside the profile picture,stephanvanniekerk,2019-08-19T10:54:00.856Z,2,PROFILES
 39189,Multiple "People" with single Vivaldi sync account,Llamanerds,2019-08-01T20:42:57.205Z,0,SYNC:PROFILES
-39517,Option for font rendering similar to Firefox and original Edge on Windows,relu84,2019-08-20T08:48:55.309Z,4,FONTS
-36767,Customize anything from context menu,ryofurue,2019-04-23T10:01:16.754Z,6,SETTINGS:CONTEXT MENU:CONSISTENCY
+39517,Option for font rendering similar to Firefox and original Edge on Windows,relu84,2019-08-20T08:48:55.309Z,5,FONTS
+36767,Customize anything from context menu,ryofurue,2019-04-23T10:01:16.754Z,8,SETTINGS:CONTEXT MENU
+24303,Option to Disable Autoload and Autoplay of HTLM5 Videos,ghpy,2018-01-31T18:54:02.090Z,87,SETTINGS:VIDEO:PLAYBACK:NICE TO HAVE
+39787,Move Chromium settings to Vivaldi's settings,dannyswift,2019-08-30T21:50:27.360Z,2,UI DESIGN:CHROMIUM
+39833,Allow making a "Person" the default,mscha,2019-09-01T18:51:47.700Z,3,PROFILES
+39841,A message on status bar indicating the start of a download,zhangdl,2019-09-02T09:31:02.590Z,1,DOWNLOADS:STATUS BAR
+39871,Make Chromium components optional,madiso,2019-09-03T16:24:04.018Z,2,
+37670,Customize the number of lines that are scrolled...,TsunamiZ,2019-05-25T19:48:10.550Z,3,SETTINGS:SCROLLING:SCROLL WHEEL
+39962,Choose what settings to opt out of sync,azohc,2019-09-06T19:29:38.683Z,2,
+40076,Shortcut for switching between Profiles,zkan,2019-09-09T20:05:24.724Z,4,SHORTCUTS:PROFILES
+40113,Enabling Flash per page / site,Peregrino69,2019-09-10T08:20:23.750Z,0,FLASH PLAYER

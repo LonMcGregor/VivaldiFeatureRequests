@@ -10,14 +10,14 @@ TAGS = {
     "": 0
 }
 DATA_FILES = [
-    ["category_113_feature-requests.csv", ""],
+    ["category_113_desktop.csv", "DESKTOP"],
     ["category_127_address-bar.csv", "ADDRESS BAR"],
     ["category_128_bookmarks.csv", "BOOKMARKS"],
     ["category_129_panels.csv", "PANELS"],
     ["category_130_settings.csv", "SETTINGS"],
     ["category_131_tabs.csv", "TABS"],
     ["category_132_themes.csv", "THEMES"],
-    ["category_136_mobile.csv", "MOBILE"]
+    ["category_136_android.csv", "ANDROID"]
 ]
 
 def readAFile(filename, base_tag):

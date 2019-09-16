@@ -25,7 +25,7 @@ javascript:(function csv(){
         } else {
             /* http://stackoverflow.com/questions/31048215/ddg#31048350 */
             /* http://stackoverflow.com/questions/19327749/ddg#19328891 */
-            const datafile = new Blob([data.join("\n")+"\n"], {type: 'text/plain'});
+            const datafile = new Blob([data.join("\n")+"\n"], {type: "text/plain"});
             const datafileurl = window.URL.createObjectURL(datafile);
             const a = document.createElement("a");
             document.body.appendChild(a);
