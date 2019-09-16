@@ -11,7 +11,7 @@ class FilterForm extends HTMLElement {
         this.FILTER_DELAY_MS = 250;
         this.lastTypeEvent = undefined;
 
-        const shadow = this.attachShadow({mode: 'open'});
+        const shadow = this.attachShadow({mode: "open"});
 
         const text = document.createElement("input");
         text.type = "search";
@@ -34,7 +34,7 @@ class FilterForm extends HTMLElement {
         shadow.appendChild(or);
         this.orInput = or.querySelector("input");
 
-        const shadowStyle = document.createElement('style');
+        const shadowStyle = document.createElement("style");
         shadowStyle.textContent = `
             span {
                 text-transform: lowercase;
@@ -70,7 +70,7 @@ class FilterForm extends HTMLElement {
     }
 
     filterUpdated() {
-        this.dispatchEvent(new CustomEvent('FilterUpdated', {bubbles: true}));
+        this.dispatchEvent(new CustomEvent("FilterUpdated", {bubbles: true}));
     }
 
     filterTextChanged() {
@@ -84,15 +84,15 @@ class FilterForm extends HTMLElement {
     }
 
     connectedCallback() {
-        this.andInput.addEventListener('input', this.filterUpdated.bind(this));
-        this.orInput.addEventListener('input', this.filterUpdated.bind(this));
-        this.text.addEventListener('input', this.filterTextChanged.bind(this));
+        this.andInput.addEventListener("input", this.filterUpdated.bind(this));
+        this.orInput.addEventListener("input", this.filterUpdated.bind(this));
+        this.text.addEventListener("input", this.filterTextChanged.bind(this));
     }
 
     disconnectedCallback() {
-        this.andInput.removeEventListener('input', this.filterUpdated);
-        this.orInput.removeEventListener('input', this.filterUpdated);
-        this.text.removeEventListener('input', this.filterTextChanged);
+        this.andInput.removeEventListener("input", this.filterUpdated);
+        this.orInput.removeEventListener("input", this.filterUpdated);
+        this.text.removeEventListener("input", this.filterTextChanged);
     }
 }
 
@@ -111,7 +111,7 @@ class FilterableElement extends HTMLElement {
 
     matches(terms, matchAll){
         let x = terms.map(term => this.match(term));
-        x = x.reduce((prev, current) => matchAll ? (prev && current) : (prev || current), matchAll)
+        x = x.reduce((prev, current) => matchAll ? (prev && current) : (prev || current), matchAll);
         return x;
     }
 
@@ -131,7 +131,7 @@ class TagItem extends FilterableElement {
         this.name = name;
         this.count = count;
 
-        const shadow = this.attachShadow({mode: 'open'});
+        const shadow = this.attachShadow({mode: "open"});
 
         const span = document.createElement("span");
         span.innerText = name;
@@ -146,7 +146,7 @@ class TagItem extends FilterableElement {
         shadow.appendChild(span);
         shadow.appendChild(cpsan);
 
-        const shadowStyle = document.createElement('style');
+        const shadowStyle = document.createElement("style");
         shadowStyle.textContent = `
             span {
                 text-transform: lowercase;
@@ -163,15 +163,15 @@ class TagItem extends FilterableElement {
 
     toggleSelection(){
         this.setSelected(!this.selected);
-        this.dispatchEvent(new CustomEvent('TagToggled', {bubbles: true}));
+        this.dispatchEvent(new CustomEvent("TagToggled", {bubbles: true}));
     }
 
     connectedCallback() {
-        this.addEventListener('click', this.toggleSelection);
+        this.addEventListener("click", this.toggleSelection);
     }
 
     disconnectedCallback() {
-        this.removeEventListener('click', this.toggleSelection);
+        this.removeEventListener("click", this.toggleSelection);
     }
 }
 
@@ -186,7 +186,7 @@ class FeatureRequest extends FilterableElement {
         this.score = score;
         this.tags = tags;
 
-        const shadow = this.attachShadow({mode: 'open'});
+        const shadow = this.attachShadow({mode: "open"});
 
         const titletag = document.createElement("a");
         titletag.innerText = title;
@@ -203,7 +203,7 @@ class FeatureRequest extends FilterableElement {
 
         this.style.order = "-" + this.score;
 
-        const shadowStyle = document.createElement('style');
+        const shadowStyle = document.createElement("style");
         shadowStyle.textContent = `
             a {
                 font-size: large;
@@ -234,14 +234,14 @@ class FeatureRequest extends FilterableElement {
 
     hasTags(names){
         let x = names.map(tag => this.hasTag(tag));
-        x = x.reduce((prev, current) => prev && current, true)
+        x = x.reduce((prev, current) => prev && current, true);
         return x;
     }
 }
 
-customElements.define('tag-item', TagItem);
-customElements.define('feature-request', FeatureRequest);
-customElements.define('filter-form', FilterForm);
+customElements.define("tag-item", TagItem);
+customElements.define("feature-request", FeatureRequest);
+customElements.define("filter-form", FilterForm);
 
 
 function setURLParams(){
@@ -350,25 +350,25 @@ if(initialRequestFilter){
  */
 
 
- /** if we don't care about efficiency
-  *
-  * add the tags - all disabled by default
-  * populate the topics - all hidden by default
-  *
-  * on tag toggle or filter text change
-  *     for each topic
-  *         check enabled tags match (OR, so as long as one matches)
-  *         check filter text match in tags or title
-  *         show if all match else hide
-  *
-  * on sort change
-  *     for each topic
-  *         use either title, date or score as order style
-  */
+/** if we don't care about efficiency
+ *
+ * add the tags - all disabled by default
+ * populate the topics - all hidden by default
+ *
+ * on tag toggle or filter text change
+ *     for each topic
+ *         check enabled tags match (OR, so as long as one matches)
+ *         check filter text match in tags or title
+ *         show if all match else hide
+ *
+ * on sort change
+ *     for each topic
+ *         use either title, date or score as order style
+ */
 
-  /**
-   * what are tags for?
-   *    you search for things that have ALL of the tags, or SOME of the tags
-   *    anything else is excluded
-   *
-   */
+/**
+ * what are tags for?
+ *    you search for things that have ALL of the tags, or SOME of the tags
+ *    anything else is excluded
+ *
+ */
