@@ -6,21 +6,19 @@
 # write to file
 
 ALL_DATA = []
-TAGS = {
-    "": 0
-}
+TAGS = {}
 DATA_FILES = [
-    ["category_113_desktop.csv", "DESKTOP"],
-    ["category_127_address-bar.csv", "ADDRESS BAR"],
-    ["category_128_bookmarks.csv", "BOOKMARKS"],
-    ["category_129_panels.csv", "PANELS"],
-    ["category_130_settings.csv", "SETTINGS"],
-    ["category_131_tabs.csv", "TABS"],
-    ["category_132_themes.csv", "THEMES"],
-    ["category_136_android.csv", "ANDROID"]
+    ["category_113_desktop.csv", ["DESKTOP"]],
+    ["category_127_address-bar.csv", ["DESKTOP", "ADDRESS BAR"]],
+    ["category_128_bookmarks.csv", ["DESKTOP", "BOOKMARKS"]],
+    ["category_129_panels.csv", ["DESKTOP", "PANELS"]],
+    ["category_130_settings.csv", ["DESKTOP", "SETTINGS"]],
+    ["category_131_tabs.csv", ["DESKTOP", "TABS"]],
+    ["category_132_themes.csv", ["DESKTOP", "THEMES"]],
+    ["category_136_android.csv", ["ANDROID"]]
 ]
 
-def readAFile(filename, base_tag):
+def readAFile(filename, base_tags):
     with open(filename, "r", encoding="utf-8") as datafile:
         datafile.readline() # ditch the first line
         line = ""
@@ -29,8 +27,13 @@ def readAFile(filename, base_tag):
             csv = csv.replace("\"", "'")
             items = csv.split(",")
             tags = items[5].split(":")
-            if base_tag != "" and base_tag not in tags:
-                tags.append(base_tag)
+            try:
+                tags.remove("")
+            except ValueError:
+                pass # we don't care if the tag wasn't present
+            for base_tag in base_tags:
+                if base_tag != "" and base_tag not in tags:
+                    tags.append(base_tag)
             for tag in tags:
                 if tag in TAGS:
                     TAGS[tag] += 1

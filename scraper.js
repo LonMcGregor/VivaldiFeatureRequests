@@ -21,7 +21,7 @@ javascript:(function csv(){
         csvOnePage();
         if(!document.querySelector(".next").classList.contains("disabled")){
             document.querySelector(".next a").click();
-            setTimeout(doAllPages, 1000);
+            setTimeout(doAllPages, 3000);
         } else {
             /* http://stackoverflow.com/questions/31048215/ddg#31048350 */
             /* http://stackoverflow.com/questions/19327749/ddg#19328891 */
