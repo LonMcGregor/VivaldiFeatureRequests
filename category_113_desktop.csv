@@ -2,21 +2,20 @@ ID,Title,Author,Date,Votes,Tags
 13744,Add Shortcut for Enable / Disable Mouse Gestures,im_athom3,2017-01-28T16:16:38.238Z,1,SHORTCUTS:MOUSE GESTURES
 8782,Feature request: Cross platform capable,daio,2016-05-20T10:47:29.000Z,0,
 21608,Adding 'Delete' to the context menu,Med1aN1ck,2017-10-16T19:34:37.239Z,5,
-24139,Choose Fonts for GUI,Pesala,2018-01-31T09:29:35.587Z,39,GUI:FONTS:FONT SIZE
-24146,Open New Window (over a link) Mouse Gesture,LonM,2018-01-31T09:33:18.256Z,3,MOUSE GESTURES:LINKS:NEW WINDOW
+24139,Choose Fonts for GUI,Pesala,2018-01-31T09:29:35.587Z,41,GUI:FONTS:FONT SIZE
+24146,Open New Window (over a link) Mouse Gesture,LonM,2018-01-31T09:33:18.256Z,4,MOUSE GESTURES:LINKS:NEW WINDOW
 24154,Show Link Info as a Tooltip,LonM,2018-01-31T09:35:47.137Z,12,LINKS:TOOLTIPS
-24169,Advanced Content Permissions,LonM,2018-01-31T09:40:07.275Z,13,
+24169,Advanced Content Permissions,LonM,2018-01-31T09:40:07.275Z,14,
 24170,Easier access to saving sessions,LonM,2018-01-31T09:40:19.843Z,6,SESSIONS
 24189,Keyboard Cheat Sheet Should Default to Collapsed,Pesala,2018-01-31T09:51:00.015Z,10,SHORTCUTS:GUI:CHEAT SHEET
 24191,Launch Applications with Shortcuts,Pesala,2018-01-31T09:52:24.994Z,1,SHORTCUTS:LAUNCH
-24197,Open Session Dialogue Should Remember Checkbox State,Pesala,2018-01-31T09:57:31.124Z,10,GUI:SESSIONS
 24162,Proximity Search to Find Two or More Words,Pesala,2018-01-31T09:38:36.483Z,5,FIND IN PAGE
 24120,A Secondary Zone for Extension Buttons,GoldNoway,2018-01-31T08:51:14.494Z,7,EXTENSION:GUI:CUSTOMIZE:BUTTONS
 24218,Option to Disable Text Decoration or Edit Values,Pesala,2018-01-31T10:41:27.992Z,4,CSS
 24233,Extension Installation from Opera Catalog,Nekomajin,2018-01-31T11:00:02.218Z,10,EXTENSION:OPERA
 24245,Window Position Lock or Force Maximized Window,formtapez,2018-01-31T11:22:40.503Z,0,WINDOW:POSITION:LOCK
 24246,Scroll-sync for tiles,bimlas,2018-01-31T11:27:35.759Z,20,SCROLLING:TILING
-24242,Button or Shortcut to Pause Video Player,jkierzkowski,2018-01-31T11:12:10.330Z,9,VIDEO:AUDIO:MEDIA:PLAYER
+24242,Button or Shortcut to Pause Video Player,jkierzkowski,2018-01-31T11:12:10.330Z,10,VIDEO:AUDIO:MEDIA:PLAYER
 24269,Close Tab Activation - Activate First Non-Hibernated Tab,longvoid,2018-01-31T13:53:32.276Z,1,CLOSE TABS:HIBERNATION
 24201,Reduce Vertical Height of Navigation Bar in Start Page,Pesala,2018-01-31T10:00:33.453Z,4,START PAGE
 24188,Find Next/Previous Without Showing Toolbar,Pesala,2018-01-31T09:49:37.593Z,13,FIND IN PAGE
@@ -24,7 +23,7 @@ ID,Title,Author,Date,Votes,Tags
 24346,Chat Client Like Opera Presto,burbuja,2018-01-31T22:38:50.338Z,8,CHAT
 24360,Faster Assignment of Tab Tiling,Asires,2018-02-01T01:57:54.659Z,4,SHORTCUTS:TILING
 24372,Search History/Quick Commands by page names containing my words,neltherion,2018-02-01T07:47:17.029Z,3,
-24374,Sort Search Engines by Name,neltherion,2018-02-01T07:49:31.822Z,5,SEARCH ENGINES:SORT
+24374,Sort Search Engines by Name,neltherion,2018-02-01T07:49:31.822Z,7,SEARCH ENGINES:SORT
 24377,Use One Shortcut to Cycle between Tiled Tab Views,neltherion,2018-02-01T07:54:21.457Z,3,SHORTCUTS:TILING
 24416,Expand / Collapse Bookmark Folders with Single-click,becm,2018-02-01T12:33:53.851Z,7,BOOKMARK FOLDER
 24420,Implement Segment Break Transformation Rules,yudai-nkt,2018-02-01T13:18:26.008Z,2,TEXT:FORMATTING
@@ -32,13 +31,12 @@ ID,Title,Author,Date,Votes,Tags
 24455,Option to Activate Pinned Tabs only After Clicking,CheVe11e_191,2018-02-01T20:31:21.176Z,1,PINNED TABS:HIBERNATION
 24458,Speaker Icon Appearance with Animations Disabled,CheVe11e_191,2018-02-01T20:47:06.240Z,5,GUI:ICONS:ANIMATIONS
 24460,Persistent Page Actions,LonM,2018-02-01T21:04:31.896Z,10,PAGE ACTIONS:PIN
-24440,Pop-up Blocker,david.cortes,2018-02-01T18:34:53.208Z,9,BLOCK:POP-UP
 24373,Smooth Scrolling like Microsoft Edge,neltherion,2018-02-01T07:48:25.646Z,8,SMOOTHSCROLLING
 24472,Middle-click Scrolling Anywhere on the Page,Stardust,2018-02-01T21:44:00.047Z,1,SCROLLING:MIDDLE-CLICK
 24490,Download speed graph,ROTFL,2018-02-01T23:51:46.347Z,18,DOWNLOADS
 24516,Classic Browser Title Bar with Webpage Title and Application Icon,MVV_,2018-02-02T06:17:44.543Z,1,GUI:ICONS:TITLE BAR
 24496,Easy removal of remembered form logins / passwords / inputs,ROTFL,2018-02-02T00:17:34.556Z,4,AUTOCOMPLETE:CLEAR:FORM FILLING
-24521,Device (instance) listing & management for Sync with configuration options per instance,ROTFL,2018-02-02T09:36:38.389Z,11,SYNC:SPEED DIAL:SECURITY
+24521,Device (instance) listing & management for Sync with configuration options per instance,ROTFL,2018-02-02T09:36:38.389Z,13,SYNC:SPEED DIAL:SECURITY
 24523,Enhance Extensions API,zakius,2018-02-02T09:53:38.325Z,3,EXTENSION:API
 24526,Thumbnails auto-refreshing options,ROTFL,2018-02-02T10:30:24.107Z,6,SPEED DIAL:THUMBNAILS
 24530,Screencast,dominicw2,2018-02-02T10:55:49.263Z,4,VIDEO:SCREENSHOT
@@ -46,12 +44,11 @@ ID,Title,Author,Date,Votes,Tags
 24547,Ad-hoc Peer to Peer services,ROTFL,2018-02-02T11:57:48.780Z,1,PEER-TO-PEER
 24551,Dynamic DNS for Vivaldi.net account,ROTFL,2018-02-02T12:19:45.120Z,1,REMOTE SESSIONS:DNS
 24550,Use Nicknames in the Search Field,josephj11,2018-02-02T12:15:18.951Z,1,SEARCH ENGINES
-24158,Three-way Toggle for View Status Bar,Pesala,2018-01-31T09:36:51.639Z,21,SHORTCUTS:STATUS BAR
+24158,Three-way Toggle for View Status Bar,Pesala,2018-01-31T09:36:51.639Z,22,SHORTCUTS:STATUS BAR
 24573,Hibernate New Background Tabs,tcely,2018-02-02T16:48:33.119Z,5,HIBERNATION:BACKGROUND TAB
-24270,Update Channels,secondtruth,2018-01-31T14:09:20.034Z,0,AUTOUPDATE
+24270,Update Channels,secondtruth,2018-01-31T14:09:20.034Z,1,AUTOUPDATE
 24292,Private Tab/Window Option for Handled URLs,sdgreene,2018-01-31T17:07:04.198Z,1,PRIVACY
 24287,Get File Date/Time of Downloads from Server,d_A_y_x,2018-01-31T16:30:21.582Z,10,DOWNLOADS:DOWNLOADMANAGER
-24131,Show Icons in Search with.. Menu,Pesala,2018-01-31T09:22:57.513Z,55,GUI:ICONS:MENUS
 24588,Webpage "harvester" for saving a batch of websites,ROTFL,2018-02-02T19:17:05.899Z,2,DOWNLOADS:DOWNLOADMANAGER
 24528,Better Windows 10 tile,dominicw2,2018-02-02T10:52:54.231Z,22,ICONS:WINDOWS 10
 24507,Themes from Chrome  Firefox  or Other Sources,wantluckman,2018-02-02T03:52:06.334Z,2,WILL NOT DO
@@ -59,7 +56,7 @@ ID,Title,Author,Date,Votes,Tags
 24625,Pin widgets to taskbar,awking,2018-02-03T12:17:19.295Z,2,TASKBAR:PIN
 24628,Middle-click on Bookmark Bar Subfolders to Open All,eXzentrik,2018-02-03T13:13:10.015Z,5,BOOKMARKS BAR:MIDDLE-CLICK
 24639,Option to Show Site Info Text on Hovering over the Padlock,Hadden89,2018-02-03T14:43:48.547Z,3,GUI:SITE SETTINGS
-24644,Bookmark Manager like Opera 12 or Classic Chrome,bionioncle,2018-02-03T18:19:33.099Z,1,MANAGEBOOKMARKS
+24644,Bookmark Manager like Opera 12 or Classic Chrome,bionioncle,2018-02-03T18:19:33.099Z,2,MANAGEBOOKMARKS
 24677,Clear Current Typed Search Term,vongalin,2018-02-04T15:24:36.524Z,2,PRIVACY:CLEAR
 24651,Organising Downloads: Quickly Choose Folders for Saving,qwc,2018-02-03T21:04:43.830Z,0,DOWNLOADS:SAVING FILES
 24652,Cloud Synchronization of Multiple Vivaldi Instances,qwc,2018-02-03T21:15:51.199Z,13,SYNC
@@ -70,29 +67,9 @@ ID,Title,Author,Date,Votes,Tags
 24585,Advanced "Find in page",ROTFL,2018-02-02T18:48:14.996Z,18,FIND IN PAGE
 24626,Typo Suggestions Should always be Available from the Context Menu,Dantesoft,2018-02-03T12:39:47.706Z,9,MENU:SPELLCHECK
 24729,Choose and order top items in context menus  tab menu especially,TyrianMollusk,2018-02-05T15:37:22.692Z,0,GUI:CUSTOMIZE:MENUS
-24179,Bubble context controls,LonM,2018-01-31T09:44:30.131Z,5,VIDEO:MEDIA:PLAYER
+24179,Bubble context controls,LonM,2018-01-31T09:44:30.131Z,9,VIDEO:MEDIA:PLAYER
 24322,Option to switch off certain javascript options,ghpy,2018-01-31T20:00:58.418Z,13,JAVASCRIPT:SITE SETTINGS
-24382,Drag and Drop Tiled Tabs,Pesala,2018-02-01T08:23:44.681Z,17,TILING:DRAGANDDROP
-24742,Threaded Browser GUI  Keyboard & Mouse Input Events,dude99,2018-02-05T22:06:32.122Z,4,RESPONSIVENESS:MULTITHREADING
-24172,Searching should alert when the first match (where the search began) reached again,bimlas,2018-01-31T09:40:47.048Z,25,FIND IN PAGE
-24324,Move site settings to right click menu,david.cortes,2018-01-31T20:07:43.795Z,3,GUI:MENUS:SITE SETTINGS
-24700,Keyboard equivalent for mouse gestures,Fendar,2018-02-05T08:43:57.597Z,2,SHORTCUTS:MOUSE GESTURES:KEYBOARD
-24775,On Private: Open link in normal window,yes.aravind,2018-02-06T15:50:59.067Z,1,LINKS:PRIVATE WINDOW
-24450,Don't Hibernate Pinned Tabs,CheVe11e_191,2018-02-01T20:18:12.910Z,10,PINNED TABS:HIBERNATION
-24644,Bookmark Manager like Opera 12 or Classic Chrome,bionioncle,2018-02-03T18:19:33.099Z,1,MANAGEBOOKMARKS
-24677,Clear Current Typed Search Term,vongalin,2018-02-04T15:24:36.524Z,2,PRIVACY:CLEAR
-24651,Organising Downloads: Quickly Choose Folders for Saving,qwc,2018-02-03T21:04:43.830Z,0,DOWNLOADS:SAVING FILES
-24652,Cloud Synchronization of Multiple Vivaldi Instances,qwc,2018-02-03T21:15:51.199Z,13,SYNC
-24683,Vivaldi application icon color choice,luetage,2018-02-04T20:19:47.904Z,5,VIVALDI:ICONS
-24692,Scroll Bar on the Left for Left-handed Users,kenny_n,2018-02-05T03:26:45.602Z,6,GUI:SCROLLBAR:LEFT-HANDED
-24515,A button for installing extension from disk,MVV_,2018-02-02T06:13:27.177Z,2,EXTENSION:INSTALLER
-24216,Lightspeed Navigation Mode,mikelopiccolo,2018-01-31T10:40:42.765Z,6,NAVIGATION
-24585,Advanced "Find in page",ROTFL,2018-02-02T18:48:14.996Z,18,FIND IN PAGE
-24626,Typo Suggestions Should always be Available from the Context Menu,Dantesoft,2018-02-03T12:39:47.706Z,9,MENU:SPELLCHECK
-24729,Choose and order top items in context menus  tab menu especially,TyrianMollusk,2018-02-05T15:37:22.692Z,0,GUI:CUSTOMIZE:MENUS
-24179,Bubble context controls,LonM,2018-01-31T09:44:30.131Z,5,VIDEO:MEDIA:PLAYER
-24322,Option to switch off certain javascript options,ghpy,2018-01-31T20:00:58.418Z,13,JAVASCRIPT:SITE SETTINGS
-24382,Drag and Drop Tiled Tabs,Pesala,2018-02-01T08:23:44.681Z,17,TILING:DRAGANDDROP
+24382,Drag and Drop Tiled Tabs,Pesala,2018-02-01T08:23:44.681Z,18,TILING:DRAGANDDROP
 24742,Threaded Browser GUI  Keyboard & Mouse Input Events,dude99,2018-02-05T22:06:32.122Z,4,RESPONSIVENESS:MULTITHREADING
 24172,Searching should alert when the first match (where the search began) reached again,bimlas,2018-01-31T09:40:47.048Z,25,FIND IN PAGE
 24324,Move site settings to right click menu,david.cortes,2018-01-31T20:07:43.795Z,3,GUI:MENUS:SITE SETTINGS
@@ -104,7 +81,7 @@ ID,Title,Author,Date,Votes,Tags
 24802,Assign Shortcuts to Individual Notes,holotaco,2018-02-07T08:55:12.015Z,1,SHORTCUTS:NOTES
 24823,Combine Synced Tabs and Trashcan,luetage,2018-02-07T20:16:58.067Z,4,SYNC:GUI:TRASHCAN
 24759,Remove "Validate" from context menu,kurevska_registracia,2018-02-06T12:46:01.439Z,3,CUSTOMIZE:MENUS
-24174,Option to detect mobile touch icons instead of thumbnails,LonM,2018-01-31T09:42:03.293Z,20,SPEED DIAL:ICONS
+24174,Option to detect mobile touch icons instead of thumbnails,LonM,2018-01-31T09:42:03.293Z,24,SPEED DIAL:ICONS
 24613,More Options for Adjusting the Start Page Background,JuniorSilva30,2018-02-03T06:18:40.653Z,2,START PAGE:BACKGROUND
 24533,Text Only View,dominicw2,2018-02-02T11:02:11.955Z,1,READER VIEW
 24464,Option to Move Trashcan to the Extension Toolbar,Stardust,2018-02-01T21:13:18.384Z,3,EXTENSION:CUSTOMIZE:TOOLBAR:TRASHCAN
@@ -136,10 +113,10 @@ ID,Title,Author,Date,Votes,Tags
 24410,Save and Restore Size and Position of Every Window in Saved Sessions,viava,2018-02-01T12:22:25.674Z,4,SESSIONS:WINDOWS
 25171,Lock Interface Layout to Prevent Accidental Resizing etc,Sentynel,2018-02-17T18:11:07.158Z,7,GUI:LOCK:INTERFACE
 25187,Word Counter for Notes,CheVe11e_191,2018-02-18T09:39:18.264Z,8,NOTES
-25191,Show full name when hovering on item,CheVe11e_191,2018-02-18T09:59:50.219Z,5,BOOKMARKS PANEL:HOVER:TOOLTIPS
+25191,Show full name when hovering on item,CheVe11e_191,2018-02-18T09:59:50.219Z,5,BOOKMARKS PANEL:TOOLTIPS:HOVER
 25195,Delete button for the list on trash,CheVe11e_191,2018-02-18T10:55:33.213Z,6,BUTTON:TRASHCAN:DELETE:LIST
 24807,Pan Large Images with Left Mouse Button,Pesala,2018-02-07T10:54:36.455Z,17,SCROLLING:IMAGE
-25216,Cache Filter,Pesala,2018-02-19T07:05:35.743Z,10,CACHE:VIEWER
+25216,Cache Filter,Pesala,2018-02-19T07:05:35.743Z,11,CACHE:VIEWER
 25110,More Site Settings for Specific Websites,mentat,2018-02-15T15:11:05.735Z,2,SITE SETTINGS:WEBSITE
 25239,Enable right-click -> Clear Search History,RBV,2018-02-19T17:17:23.589Z,0,SEARCH:CONTEXT MENU:HISTORY
 24922,Turbo / Data Saver / Data Compressor,nearbaskara,2018-02-10T18:10:06.132Z,8,COMPRESSION:TURBO
@@ -157,7 +134,7 @@ ID,Title,Author,Date,Votes,Tags
 25360,Open Vivaldi URLs in the same tab,AltCode,2018-02-22T19:43:07.812Z,1,
 25348,Notification Position Option,SirWill,2018-02-22T12:23:20.170Z,2,NOTIFICATIONS:POSITION
 25378,Stop Shortcuts From Using/Overwriting "Sessions",KA24DERACER,2018-02-23T07:29:08.514Z,0,SHORTCUTS:SESSIONS
-25372,Windows 10 Notifications (Action Center),Formedras,2018-02-23T03:58:57.633Z,0,NOTIFICATIONS:WINDOWS
+25372,Windows 10 Notifications (Action Center),Formedras,2018-02-23T03:58:57.633Z,0,WINDOWS:NOTIFICATIONS
 24650,Make Pinned Tabs Identifiable when using Vertical Tab Bar,qwc,2018-02-03T20:52:10.923Z,10,GUI:PINNED TABS
 25367,Set Browser as Topmost Window,perskute,2018-02-22T22:40:03.576Z,0,WINDOW:ALWAYS ON TOP
 25391,Mark as "unsupported" flags Vivaldi can't use,Hadden89,2018-02-23T13:10:57.368Z,2,SETTINGS
@@ -165,11 +142,10 @@ ID,Title,Author,Date,Votes,Tags
 25448,"One-way" Sync,ROTFL,2018-02-26T07:55:54.753Z,21,SYNC
 25450,Better URL Detection,somebody,2018-02-26T12:16:04.631Z,1,SEARCH:URL
 25452,Save Metadata in Screenshot Files,becm,2018-02-26T15:14:26.234Z,8,SCREENSHOT
-24441,Open-source Vivaldi,Christian.Rauch,2018-02-01T18:36:15.463Z,10,VIVALDI:OPENSOURCE
 25394,Option to Disable Hiding of Window Controls,Morg42,2018-02-23T14:18:38.349Z,4,JAVASCRIPT:WINDOW:TOOLBAR
 25486,Redirect "get help" in settings to our guide,Hadden89,2018-02-27T15:43:54.271Z,3,HELP
 25497,Allow Keyboard Modifiers for Mouse Gestures,Pesala,2018-02-27T20:20:10.756Z,5,SHORTCUTS:MOUSE GESTURES
-24825,Mnemonic Shortcuts,Pesala,2018-02-07T22:47:05.644Z,14,SHORTCUTS
+24825,Mnemonic Shortcuts,Pesala,2018-02-07T22:47:05.644Z,15,SHORTCUTS
 25522,Increase onbeforeunload alerts support,LonM,2018-02-28T14:36:46.386Z,5,NOTIFICATIONS:ONBEFOREUNLOAD
 25510,Show Vivaldi's menu in application menu bar in Plasma 5,A Former User,2018-02-28T09:40:59.325Z,7,MENUS:KDE:KUBUNTU
 24931,Force hotkey assignment for keys already in use.,AnrDaemon,2018-02-10T20:51:39.848Z,1,SHORTCUTS:OVERWRITE
@@ -212,7 +188,7 @@ ID,Title,Author,Date,Votes,Tags
 24361,New "History" mode: "View by Site",Asires,2018-02-01T02:00:08.970Z,21,HISTORY
 25919,Rotate Images and Videos,rabe85,2018-03-15T16:04:15.453Z,3,VIDEO:IMAGE
 24415,Translate Submenu,Pesala,2018-02-01T12:31:59.788Z,7,MENUS:TRANSLATION
-25990,Add easy import of SSL certificates to Vivaldi,Gwen-Dragon,2018-03-19T07:31:26.623Z,5,SSL:CERTIFICATES
+25990,Add easy import of SSL certificates to Vivaldi,Gwen-Dragon,2018-03-19T07:31:26.623Z,5,CERTIFICATES:SSL
 25960,Keyboard shortcut to "Help -> About",ozoratsubasa,2018-03-17T03:18:31.116Z,2,SHORTCUTS
 25949,Placeholders as Commands on Custom Search Engines,aderitobonito,2018-03-16T16:22:22.555Z,7,SEARCH ENGINES
 24480,Option to disable launch after installation,ROTFL,2018-02-01T23:04:03.374Z,9,INSTALLER
@@ -222,15 +198,14 @@ ID,Title,Author,Date,Votes,Tags
 26115,Integration of Artificial Intelligence,Yogeyaa,2018-03-23T07:33:50.965Z,0,PRIVACY:ANDROID
 26160,Notes Manager,CheVe11e_191,2018-03-24T20:26:31.817Z,6,NOTES:EDIT:TOOLS
 26188,Option to lower priority/resources for newly open (unread) background tab,dude99,2018-03-26T05:10:09.172Z,3,BACKGROUND TAB
-26211,Disable Confirm Form Resubmission,arbpen,2018-03-26T19:36:23.449Z,0,FORM
 26285,Restore Previous Session Shortcut,ronyxs,2018-03-28T21:55:48.431Z,0,SHORTCUTS:SESSIONS:SESSION RESTORE
 26281,Ability to Position a Bookmarks Bar Folder to the Far-right,IdanAdar,2018-03-28T16:14:22.919Z,1,GUI:BOOKMARKS BAR
-24210,Upgrade Vivaldi on Next Restart,luetage,2018-01-31T10:32:26.406Z,71,VIVALDI:PIPELINE:UPDATE:RESTART
+24210,Upgrade Vivaldi on Next Restart,luetage,2018-01-31T10:32:26.406Z,72,VIVALDI:PIPELINE:UPDATE:RESTART
 26109,Display Actual Bytes Transferred In Progress Bar,opticyclic,2018-03-22T21:38:35.503Z,9,ADDRESS BAR
 26227,Use Trash Icon to Show the Clear Private Data Dialog,CantankRus,2018-03-27T08:03:35.448Z,2,PRIVACY:TOOLBAR:BUTTONS
 26354,Hide UI Should Hide Window Title Bar,arnaudm,2018-03-31T11:02:48.260Z,0,GUI:WINDOW:TITLE BAR
 24665,Resource Sniffer,WislaHD,2018-02-04T04:56:56.172Z,16,DEVELOPER TOOLS:DOWNLOADMANAGER:NETWORK
-26418,Extension Popup Menu,mettarefuge,2018-04-03T07:02:43.878Z,10,EXTENSION
+26418,Extension Popup Menu,mettarefuge,2018-04-03T07:02:43.878Z,16,EXTENSION
 26435,Copy Line in View Page Source,Sheepwall,2018-04-03T15:41:44.958Z,1,DEVELOPER TOOLS:EDIT:VIEW SOURCE
 26441,Move Content in Reader View,Corch,2018-04-04T05:48:13.089Z,0,READER VIEW
 26450,Tab Cycling Delay,terere,2018-04-04T11:07:18.533Z,3,THUMBNAILS:TAB CYCLING
@@ -245,7 +220,7 @@ ID,Title,Author,Date,Votes,Tags
 26761,Policy to Disable User Deletion of Browser History,observe,2018-04-18T09:26:21.801Z,0,SECURITY:PRIVACYPOLICY
 26718,Set Path to Custom Thumbnails,mib2berlin,2018-04-16T05:08:54.890Z,3,SPEED DIAL:THUMBNAILS
 26785,Reduce the Context Menu Spacing,ozoratsubasa,2018-04-19T07:18:48.573Z,1,CUSTOMIZE:CONTEXT MENU
-26801,Session Searchbar,ozoratsubasa,2018-04-20T03:21:32.302Z,6,SESSIONS
+26801,Session Searchbar,ozoratsubasa,2018-04-20T03:21:32.302Z,8,SESSIONS
 26810,Setting for Always Use Incognito,UpGrade,2018-04-20T14:06:41.429Z,1,PRIVACY
 26812,A few missing Privacy / Security Options,UpGrade,2018-04-20T14:25:03.823Z,0,PRIVACY:SECURITY
 26763,Security Features / DNS Encryption / Keystroke Encryption,UpGrade,2018-04-18T09:38:07.533Z,0,SECURITY
@@ -269,8 +244,7 @@ ID,Title,Author,Date,Votes,Tags
 27201,Option to choose PNG for "Copy to Note" and screen-capturing for notes,CheVe11e_191,2018-05-05T05:04:00.416Z,3,NOTES:SCREENSHOT:SCREEN CAPTURE
 27005,Save Vivaldi Configuration  Notes  etc.  in the Cloud,jacquesh,2018-04-27T20:05:45.311Z,0,SYNC:IN PROGRESS
 27260,Support for Touch Screen Scrolling in Vivaldi via RDP,pleiades,2018-05-08T06:04:29.815Z,1,TOUCH SCREEN
-27261,Context Menu Options for Background Images,LonM,2018-05-08T08:41:24.950Z,8,CONTEXT MENU:IMAGE:BACKGROUND
-27203,Offline Mode,ozoratsubasa,2018-05-05T10:27:22.349Z,12,OFFLINE
+27203,Offline Mode,ozoratsubasa,2018-05-05T10:27:22.349Z,13,OFFLINE
 27284,Non-linear tab history,ROTFL,2018-05-09T07:41:07.280Z,2,GUI:HISTORY
 27294,Full Page Zoom Combined with Text Zoom,dude99,2018-05-09T13:26:59.030Z,3,ZOOM:WEBPAGES:TEXT
 27253,Scan in VirusTotal for Hyperlinks  Downloads and Address bar,jhae,2018-05-07T17:55:15.106Z,0,SECURITY
@@ -305,7 +279,7 @@ ID,Title,Author,Date,Votes,Tags
 27024,Option to Not Shrink Pinned Tabs,alexander.gorbovets,2018-04-28T07:39:23.033Z,6,PINNED TABS
 27834,Separate Closed Windows from Closed tab list,dude99,2018-06-04T07:41:03.884Z,3,CLOSED TABS:WINDOWS PANEL
 27837,Exception List for "Block Third-Party Cookies",Agych,2018-06-04T12:00:22.008Z,1,COOKIES:BLOCK:THIRD-PARTY
-26784,Return to Previous Position after Scroll to Top,talkaboom,2018-04-19T07:15:50.997Z,14,NAVIGATION
+26784,Return to Previous Position after Scroll to Top,talkaboom,2018-04-19T07:15:50.997Z,15,NAVIGATION
 27872,Separate font setting for Reader View,CheVe11e_191,2018-06-06T15:23:14.344Z,13,READER VIEW:FONTS:FONT
 26843,Read Command-Line Arguments from a File on Startup,burnout426,2018-04-21T17:23:31.144Z,3,COMMANDLINE
 27913,Effective Infinite Popup Spamming Counter-measures,dude99,2018-06-09T19:43:14.239Z,0,POPUP:BLOCK
@@ -316,7 +290,7 @@ ID,Title,Author,Date,Votes,Tags
 27947,Button to put Pop-ups Back into Tabs,Azenix,2018-06-11T20:18:55.105Z,1,POPUP
 27956,Permit shrinking extension popup windows below the current minimum width,cxw,2018-06-12T13:22:55.755Z,0,EXTENSION
 27795,Remove Items from Websites' Text-box History List,dude99,2018-06-01T13:21:49.577Z,0,HISTORY LIST:WEBSITE
-26665,Option to Add New Windows on Other Monitors,LadyJane,2018-04-13T14:41:56.031Z,3,NEW WINDOW:MULTI-MONITOR
+26665,Option to Add New Windows on Other Monitors,LadyJane,2018-04-13T14:41:56.031Z,3,MULTI-MONITOR:NEW WINDOW
 25229,'Go to top' and 'Go to end' on Right-click Menu,Isocult,2018-02-19T14:06:18.171Z,1,CUSTOMIZE:CONTEXT MENU:NAVIGATION
 27852,Cookie Jar,Grimeton,2018-06-05T14:58:38.621Z,1,COOKIES:BLOCK:THIRD-PARTY
 27974,Add option to convert text formatting to Markdown,ROTFL,2018-06-13T09:23:10.906Z,2,NOTES:MARKDOWN
@@ -332,7 +306,7 @@ ID,Title,Author,Date,Votes,Tags
 28080,View Block Structure on Page,arbpen,2018-06-17T21:24:12.216Z,2,PAGE ACTIONS
 28115,Please add News under Help Menu,floweringmind,2018-06-19T16:47:06.392Z,4,MENUS
 25402,Lock/Protect Tabs,duarte.framos,2018-02-23T19:23:23.085Z,25,TABS:TAB:PINNED TABS:LOCK
-28138,Multiple Columns for Bookmark Bar Folder Dropdown Menu,vabalokis,2018-06-20T22:00:33.134Z,4,BOOKMARKS BAR:BOOKMARK FOLDER
+28138,Multiple Columns for Bookmark Bar Folder Dropdown Menu,vabalokis,2018-06-20T22:00:33.134Z,5,BOOKMARKS BAR:BOOKMARK FOLDER
 28211,Enable Referrals on HTTPS Sites,btabke,2018-06-26T02:35:14.335Z,1,PRIVACY:SECURITY:HTTPS REDIRECT
 28212,Auto-commit Modified Values in Zoom Field,dude99,2018-06-26T05:28:47.538Z,1,ZOOM:STATUS BAR
 28219,Option for Find in Page Toolbar to Remain Open,SVGuss,2018-06-26T16:39:18.792Z,6,TOOLBAR:FIND IN PAGE:FIXED
@@ -350,7 +324,6 @@ ID,Title,Author,Date,Votes,Tags
 28613,Use Standard Port for Sync Feature,iampowder,2018-07-11T15:07:09.050Z,0,SYNC
 24122,Keyboard shortcut to move a tab to the next window,jkierzkowski,2018-01-31T09:18:28.821Z,6,TABS:SHORTCUTS:WINDOW
 28496,Enhance Extension Page,Hadden89,2018-07-06T22:58:20.040Z,7,EXTENSION
-28627,Notification Popups: Time Limit and Enable / Disable,ozoratsubasa,2018-07-12T06:15:54.879Z,2,NOTIFICATIONS
 24396,Drag Text to Tab Bar  Tabs to Search,kurevska_registracia,2018-02-01T10:20:38.629Z,36,SEARCH:DRAGANDDROP
 24673,Autocomplete Root Domain before Subdomain,NemoAnonymous,2018-02-04T14:10:59.585Z,38,AUTOCOMPLETE
 28696,Enable/Disable Javascript Option inside Page Actions Menu,julioc1984,2018-07-15T11:49:42.100Z,6,JAVASCRIPT:PAGE ACTIONS
@@ -362,14 +335,12 @@ ID,Title,Author,Date,Votes,Tags
 28795,Option to Show/Hide Toolbar in Fullscreen on MacOS,GBB,2018-07-19T19:43:35.121Z,0,TOOLBAR:MACOS:FULLSCREEN
 28837,Expand History Page on Double-clicking the Date,greatscot,2018-07-21T05:18:06.234Z,0,HISTORY LIST
 28843,Make Copy/Cut/Paste/Undo Shortcuts Configurable,tarbos,2018-07-21T09:49:57.574Z,2,SHORTCUTS:CUSTOMIZE:KEYBOARD
-28848,Add Firefox's SearchWP Functionality to Vivaldi's Search Field,David.P,2018-07-21T15:15:52.968Z,6,SEARCH
 28856,Background Tabs Hibernation Keybind,dannyswift,2018-07-21T18:57:23.594Z,0,SHORTCUTS:HIBERNATION
 28883,Sort Cookies by Domain,JBanana,2018-07-22T20:38:16.144Z,5,COOKIES:SORT
 28974,Built-in Dictionary,Omen_20,2018-07-25T17:35:59.168Z,1,DICTIONARY
 29006,Parallax Scrolling for Start-page Background,Ouroboros4545,2018-07-26T20:05:40.418Z,4,START PAGE:BACKGROUND
 29025,Ominibox Rich Entity Suggestions,AfsarPasha,2018-07-27T15:40:34.549Z,0,OMNIBOX
 29011,Browser Fingerprinting protection,dude99,2018-07-27T05:49:39.680Z,9,PRIVACY:SECURITY
-28176,Restart from Menu without Extensions,Para-Noid,2018-06-22T16:17:40.354Z,16,EXTENSION:RESTART
 19410,Notification in Text Area if Caps Lock is Enabled,starkshaw,2017-07-26T04:15:31.875Z,2,NOTIFICATIONS:TEXT EDIT
 29143,☀️Weather Forecast,Ornorm,2018-08-02T16:08:28.811Z,0,
 29148,New Commands for Multi-Select Tabs  Tab Stack by Host  Bookmark all Open Pages,Ryo500,2018-08-02T21:00:01.208Z,1,SHORTCUTS
@@ -381,7 +352,7 @@ ID,Title,Author,Date,Votes,Tags
 29255,Make Mouse Wheel Scrolling Horizontal in Vertical Reading Mode,tsugane,2018-08-09T10:53:58.825Z,2,SCROLLING:READER VIEW:VERTICAL
 29234,Auto-save on Capture Image,rojaviv,2018-08-07T20:01:30.730Z,6,SCREEN CAPTURE
 25205,Add Reload all Button,CheVe11e_191,2018-02-18T17:01:02.966Z,8,BUTTON:REFRESH PAGE
-29309,Use a Shorter User Agent String,allo,2018-08-11T13:02:18.093Z,0,USER AGENT
+29309,Use a Shorter User Agent String,allo,2018-08-11T13:02:18.093Z,1,USER AGENT
 26030,Find Bar Should Disappear After a Set Time,rojaviv,2018-03-20T14:01:33.635Z,3,FIND IN PAGE
 29360,Reappearance of Find in Page highlight,metafaniel,2018-08-13T23:01:53.703Z,3,FIND IN PAGE
 29433,Show Tab preview thumbnail from related list on mouseover,dude99,2018-08-17T17:22:38.943Z,0,THUMBNAILS:QUICK COMMANDS
@@ -407,13 +378,12 @@ ID,Title,Author,Date,Votes,Tags
 29852,Support Variable Fonts,Pesala,2018-09-07T05:52:00.462Z,1,FONTS
 29863,Import Settings and Bookmarks from More Sources,zakius,2018-09-07T13:24:29.256Z,1,SETTINGS:IMPORT
 25446,Enable Custom Key Navigation for Quick Command Menu,nealot,2018-02-25T20:08:52.937Z,8,SHORTCUTS:QUICK COMMANDS:NAVIGATION
-29887,Allow to print selected Note,brook,2018-09-08T19:58:27.670Z,5,NOTES:PRINT
-29911,Vivaldi Bookmarks Preview as Logos,mehmettalhauludag,2018-09-09T12:02:05.543Z,2,BOOKMARKS:PREVIEW
+29887,Allow to print selected Note,brook,2018-09-08T19:58:27.670Z,6,NOTES:PRINT
 29935,Underline Access Keys in Link Context Menu,zook,2018-09-10T03:08:14.988Z,3,CONTEXT MENU:ACCESSIBILITY
 29992,Hide window buttons while in fullscreen mode (macOS),AltCode,2018-09-11T20:48:42.060Z,0,MACOS:MAC
 30008,Developers' Version of Vivaldi,trymeout,2018-09-12T18:26:23.445Z,0,
 29690,Customize default Wikipedia search depending on installation language,ROTFL,2018-08-30T08:02:29.740Z,5,SEARCH ENGINES:LANGUAGE
-24226,Built-in content blocker,Nekomajin,2018-01-31T10:51:04.546Z,70,NICE TO HAVE
+24226,Built-in content blocker,Nekomajin,2018-01-31T10:51:04.546Z,71,NICE TO HAVE
 26686,Get rid of the dead birds…,luetage,2018-04-14T18:04:58.507Z,14,CRASH
 30033,Mark / highlight new features after update,ROTFL,2018-09-13T18:52:54.636Z,16,GUI:DISCOVERABILITY
 30050,Use same gesture for multiple commands  depending on where on the screen you used it,RandomlyFish,2018-09-14T12:11:46.428Z,2,MOUSE GESTURES
@@ -422,17 +392,16 @@ ID,Title,Author,Date,Votes,Tags
 30133,Captive Portals Must Die!,rigo,2018-09-18T06:56:44.201Z,0,REDIRECTION
 24156,Built in Support for Userstyles,LonM,2018-01-31T09:36:22.233Z,33,USERCSS
 30236,Export Browser History,jaxdaph30,2018-09-22T09:55:34.814Z,3,HISTORY
-29917,(Optional) Widgets bar,Ornorm,2018-09-09T18:43:32.707Z,6,CUSTOMIZE:PLAYER:RSS
+29917,(Optional) Widgets bar,Ornorm,2018-09-09T18:43:32.707Z,6,CUSTOMIZE:RSS:PLAYER
 30303,Ability to turn on and run Silverlight,beansandfranks,2018-09-24T15:07:27.037Z,0,PLUGIN
-30312,Cache Files in their Original Format,TsunamiZ,2018-09-24T23:34:31.628Z,4,CACHE
-30395,Context menu of the extension icon lacks the extensions own menu items,tonyrulez,2018-09-26T17:33:57.711Z,0,EXTENSION:CONTEXT MENU
+30312,Cache Files in their Original Format,TsunamiZ,2018-09-24T23:34:31.628Z,6,CACHE
 30397,Logging into a Google account through some extensions are impossible,tonyrulez,2018-09-26T17:39:51.202Z,0,EXTENSION:GOOGLE
 30440,Shoutcast webradio streaming,infid0,2018-09-27T07:13:58.216Z,2,AUDIO:MEDIA:PLAYBACK:STREAMING
 30471,Consistent link clicking behaviour (Open links the same way everywhere),blackeagle,2018-09-27T13:48:40.329Z,4,LINKS
 30445,Shortcuts for Mute/Unmute Tabs Should be Toggles,LonM,2018-09-27T09:08:48.590Z,8,SHORTCUTS:MUTE
 30483,Community and chat groups in the sidebar,popescu,2018-09-27T15:14:02.638Z,0,
 30503,Resize Vivaldi Window with Standard OSX Shortcuts,ethantoddharris,2018-09-27T18:12:59.227Z,0,SHORTCUTS:WINDOW:OSX
-30465,Option to Remove/Hide Menu Bar,jarsa,2018-09-27T13:28:21.424Z,1,MENU BAR
+30465,Option to Remove/Hide Menu Bar,jarsa,2018-09-27T13:28:21.424Z,2,MENU BAR
 30553,Keyboard Selection of Text,PeterinScotland,2018-09-28T11:34:49.704Z,2,SELECTION:TEXT
 24454,Button to Remove All Deleted Downloads,CheVe11e_191,2018-02-01T20:27:46.124Z,16,GUI:DOWNLOADS:BUTTON:DELETE
 30545,Support extension context menus properly,Nekomajin,2018-09-28T10:19:36.158Z,8,EXTENSION:CONTEXT MENU
@@ -463,10 +432,9 @@ ID,Title,Author,Date,Votes,Tags
 26811,Option to Clear Everything on Exit,UpGrade,2018-04-20T14:11:45.417Z,10,PRIVACY
 31252,Add persistent notifier when browser has been updated  but old version is still running,josephj11,2018-10-15T10:49:10.250Z,1,LINUX:NOTIFICATIONS:UPDATER
 24284,Native OS Desktop Notifications,Guilimote,2018-01-31T16:21:02.300Z,35,NOTIFICATIONS
-31343,Make the Vivaldi menu disappear when clicking on the menu button for a second time,Ashtar,2018-10-17T16:20:32.683Z,5,BUTTON:MENU
 31352,Browsing FTP Listings,burbuja,2018-10-17T20:15:09.651Z,1,NAVIGATION
 30357,Quick Selection Bubble for Search Engine and Panel,Seasonly,2018-09-26T10:24:56.792Z,6,PANELS:SEARCH ENGINES:SELECTION
-24478,Sync saved sessions,ROTFL,2018-02-01T22:53:24.887Z,27,SYNC:SESSIONS
+24478,Sync saved sessions,ROTFL,2018-02-01T22:53:24.887Z,32,SYNC:SESSIONS
 28001,Finer Increments for Zoom,Pesala,2018-06-14T09:04:05.901Z,12,SHORTCUTS:ZOOM:WEBPAGES
 29160,Option to Bind Scrollwheel to Other Actions,svfn,2018-08-03T14:27:27.176Z,4,SHORTCUTS:SCROLL WHEEL
 31392,Option to not set window position in X11,kbrenneman,2018-10-18T20:31:16.660Z,0,LINUX
@@ -474,7 +442,7 @@ ID,Title,Author,Date,Votes,Tags
 31417,Keyboard Cheat Sheet Should be Resizable and Moveable,Pesala,2018-10-19T17:54:09.331Z,4,SHORTCUTS:GUI:CHEAT SHEET
 28384,Cookies and Local Storage in Separate Categories,ldexterldesign,2018-07-04T12:12:18.053Z,16,COOKIES:PRIVATE DATA:LOCAL STORAGE
 31485,tmux like tiling,TheDonk,2018-10-21T16:59:03.582Z,0,TILING:TILED TABS
-28175,Move Search for "Selected Text" to the Top of Context Menu,bnodya,2018-06-22T12:19:23.220Z,3,SEARCH:CONTEXT MENU:SELECTION
+28175,Move Search for "Selected Text" to the Top of Context Menu,bnodya,2018-06-22T12:19:23.220Z,4,SEARCH:CONTEXT MENU:SELECTION
 31531,Manually Import History from CSV Files,kerbal,2018-10-23T03:58:00.329Z,0,HISTORY:IMPORT
 31508,Show *.MD files as Markdown  not as Source Text,NNN,2018-10-22T13:29:43.398Z,2,MARKDOWN
 26173,Exporting Notes,paulcoholic,2018-03-25T14:31:00.041Z,12,NOTES:IN PROGRESS:EXPORT
@@ -501,7 +469,7 @@ ID,Title,Author,Date,Votes,Tags
 24475,[Ctrl + Mouse Wheel] Zoom improvements,Stardust,2018-02-01T22:34:47.956Z,5,ZOOM
 32459,Adjustable Width & Height for Quick Command Dialog,dude99,2018-11-23T05:18:17.871Z,8,QUICK COMMANDS:SIZE
 31116,Menu Button Should Allow Dragging of the Window,lionb,2018-10-11T14:04:49.980Z,2,WINDOW:BUTTON
-24257,Make Sessions Editable,NemoAnonymous,2018-01-31T12:39:43.220Z,39,SESSIONS
+24257,Make Sessions Editable,NemoAnonymous,2018-01-31T12:39:43.220Z,40,SESSIONS
 32662,Tab title as process name,TheJJJ,2018-12-02T11:52:03.659Z,0,TAB:PROCESS:TASK:NAME
 24111,Drop-Down Menu in Speed-Dial,RayAlpha,2018-01-31T08:29:54.576Z,6,SPEED DIAL:MENU:NAVIGATION BAR
 32691,Use google account to login to vivaldi,shalom938,2018-12-03T18:36:20.262Z,0,SYNC:WILL NOT DO:GOOGLE
@@ -513,7 +481,7 @@ ID,Title,Author,Date,Votes,Tags
 32756,Google Assistant + Vivaldi Quick Commands,cellyforever,2018-12-05T20:45:57.461Z,1,QUICK COMMANDS:GOOGLE:VOICE
 32588,Capture Screenshot of Visible Area of Page,matiasmovie,2018-11-28T15:13:19.145Z,2,IMAGE:SCREENSHOT:CAPTURE
 32811,Accessibility: Add big overlay scroll Up/Down button on scroll-able list,dude99,2018-12-07T07:56:17.887Z,0,ACCESSIBILITY:A11Y
-24549,Different cookies/accounts for same site (Multi-Account Containers),kurevska_registracia,2018-02-02T12:03:20.944Z,41,COOKIES:SITE SETTINGS
+24549,Different cookies/accounts for same site (Multi-Account Containers),kurevska_registracia,2018-02-02T12:03:20.944Z,43,COOKIES:SITE SETTINGS
 32887,Open Links/Tabs in Background with Quick Commands,Andre972,2018-12-10T15:22:24.664Z,2,QUICK COMMANDS:BACKGROUND TAB
 28691,Subpixel Font Rendering Like Opera 12.17,newillusion,2018-07-15T06:58:24.611Z,4,FONTS:RENDERING
 24866,Allow Editing of Passwords and Details in Privacy Settings,aderitobonito,2018-02-09T05:48:44.937Z,15,PRIVACY:PASSWORDS
@@ -524,9 +492,8 @@ ID,Title,Author,Date,Votes,Tags
 33063,Access Key Indicator,pauloaguia,2018-12-14T18:24:17.394Z,9,IN PROGRESS:ACCESSIBILITY:A11Y
 26034,Find in Page Search Engine,Martin.Storch,2018-03-20T16:18:06.245Z,9,SEARCH ENGINES:FIND IN PAGE
 33078,BIXBY Integration + Vivaldi Quick Commands,cellyforever,2018-12-15T03:51:37.576Z,0,QUICK COMMANDS:VOICE
-30247,Find in Page: Option for Multi-word and Highlight Colour,TsunamiZ,2018-09-22T20:56:09.149Z,11,FIND IN PAGE
 29131,Exit Button Color Options,TsunamiZ,2018-08-02T09:31:53.648Z,2,BUTTON:COLOR
-33152,Caret Browsing,LonM,2018-12-17T15:11:56.499Z,8,KEYBOARD:NAVIGATION:ACCESSIBILITY
+33152,Caret Browsing,LonM,2018-12-17T15:11:56.499Z,8,KEYBOARD:ACCESSIBILITY:NAVIGATION
 24465,Option to Warn on Redirects and Page Reloads,Stardust,2018-02-01T21:13:53.371Z,17,REDIRECTION:BLOCK
 33196,Allow Low-res Screenshots,alinares,2018-12-18T19:00:02.218Z,1,SCREENSHOT:SCREEN CAPTURE
 24289,Remember Path for Downloads by Domain,d_A_y_x,2018-01-31T16:42:01.344Z,20,DOWNLOADS
@@ -538,11 +505,11 @@ ID,Title,Author,Date,Votes,Tags
 33323,Upgrade "Untile Tabs" hotkey to "Tile/Untile Tabs",TsunamiZ,2018-12-22T01:15:26.456Z,0,TABS:SHORTCUTS:TILING
 33439,Find in Page within Links,Pesala,2018-12-27T19:27:20.375Z,2,LINKS:FIND IN PAGE
 33503,Dupe-suppression for "Last Session" startup tabs,TreyHarris,2018-12-30T21:39:27.000Z,0,SESSIONS:SESSION:SESSION RESTORE:LAST SESSION
-25207,Dim Page for Find in Page,fofo,2018-02-18T18:13:34.014Z,9,FIND IN PAGE
+25207,Dim Page for Find in Page,fofo,2018-02-18T18:13:34.014Z,10,FIND IN PAGE
 24227,Native Color-picker Tool,luetage,2018-01-31T10:51:11.465Z,18,COLOR
 28702,Command to Switch Between Show Status Bar and Show Overlay,sirien.neiris,2018-07-15T23:48:39.111Z,2,SHORTCUTS:STATUS BAR:OVERLAY
 33551,Append Option in "Save as PDF",oopsie,2019-01-02T15:46:34.817Z,6,PDF:SAVING FILES
-25266,"Open With" in Download Manager,ahhalai,2018-02-20T09:55:48.828Z,34,DOWNLOADS:DOWNLOADMANAGER
+25266,"Open With" in Download Manager,ahhalai,2018-02-20T09:55:48.828Z,35,DOWNLOADS:DOWNLOADMANAGER
 33426,Integrate COM support for DOM,AatozB,2018-12-26T22:59:13.358Z,1,
 33581,Option to add Time  Date and Website to "Capture Page",zaibon,2019-01-04T11:09:00.369Z,0,SCREENSHOT:SCREEN CAPTURE
 25620,Find in Page as you Type,Pesala,2018-03-03T20:02:41.305Z,13,FIND IN PAGE
@@ -552,7 +519,7 @@ ID,Title,Author,Date,Votes,Tags
 28984,Indicate not-found in Find in Page by Color Change,enyap,2018-07-25T23:08:32.709Z,20,FIND IN PAGE
 24211,User-friendly View for JSON,RammsteinAM,2018-01-31T10:33:53.816Z,18,
 26154,Make Address Bar Autocomplete Less Aggressive,hoytridge,2018-03-24T14:17:47.776Z,20,ADDRESS BAR:AUTOCOMPLETE
-33657,Double click the scrollbar to go to top/bottom of page...,TsunamiZ,2019-01-07T21:51:42.254Z,1,SCROLLING
+33657,Double click the scrollbar to go to top/bottom of page...,TsunamiZ,2019-01-07T21:51:42.254Z,2,SCROLLING
 24209,Option to Change Date and Time Format,luetage,2018-01-31T10:29:04.384Z,28,FORMATTING
 33660,Provide Navigation Catalog in Reader View,LittleboyHarry,2019-01-08T02:08:17.642Z,0,READER VIEW
 25038,PDF Page Memory,diehydrated,2018-02-13T20:47:46.866Z,2,SESSIONS:STARTUP:PDF
@@ -565,23 +532,20 @@ ID,Title,Author,Date,Votes,Tags
 24485,Save sessions from private windows,ROTFL,2018-02-01T23:24:59.631Z,1,PRIVATE WINDOW:SESSION RESTORE
 33725,Purge specific domain URL from History manager,dude99,2019-01-09T21:46:44.526Z,0,HISTORY LIST:DELETE
 27742,Option to Delete Selected Text Using the Mouse,Mozilla,2018-05-30T13:30:01.934Z,2,URL:MOUSE:DELETE
-25366,Show icons in context menu,bimlas,2018-02-22T22:30:32.296Z,35,CONTEXT MENU:ICONS
 33618,Smooth scroll setting option operative into mouse gesture page up/down,Seasonly,2019-01-06T09:36:44.692Z,0,MOUSE GESTURES:SMOOTHSCROLLING
 33648,Persistent Full-screen Pop-out Video,greibush,2019-01-07T08:43:21.916Z,1,FULLSCREEN:PIC-IN-PIC
-24136,List Existing Sessions on Save Session,Pesala,2018-01-31T09:28:01.462Z,46,SESSIONS
+24136,List Existing Sessions on Save Session,Pesala,2018-01-31T09:28:01.462Z,48,SESSIONS
 29666,Allow multiple mouse gestures for the same command,CheVe11e_191,2018-08-29T06:57:37.670Z,5,MOUSE GESTURES
 33915,Restore previous tabs without session cookies when starting.,saudiqbal,2019-01-18T17:39:58.464Z,0,PRIVACY:STARTUP:COOKIES
 33934,Show/Hide tick box for Top Domain sites in History,neltherion,2019-01-19T08:33:47.360Z,1,HISTORY:TOP-DOMAINS
-24537,Advanced syncing rules / categories,ROTFL,2018-02-02T11:15:33.536Z,16,SYNC
+24537,Advanced syncing rules / categories,ROTFL,2018-02-02T11:15:33.536Z,16,
 24689,Option to Autohide Bookmarks Bar,rseiler,2018-02-05T00:45:05.017Z,8,BOOKMARKS BAR:AUTO-HIDE
-24235,Better Cookie Management,luetage,2018-01-31T11:05:08.804Z,82,COOKIES:PIPELINE
+24235,Better Cookie Management,luetage,2018-01-31T11:05:08.804Z,83,COOKIES:PIPELINE
 33867,Restrict Search in Page for Massive Pages,mlatushko,2019-01-16T23:28:57.570Z,3,FIND IN PAGE
 26012,Remove Exit Fullscreen from Context Menu in Fullscreen,fireundubh,2018-03-20T06:04:24.262Z,3,MENUS:FULLSCREEN
-33987,Built-in High Level Monitoring Tool (Differential Monitoring),Seasonly,2019-01-21T14:17:03.428Z,6,WEBPAGES
 34024,More resources friendly Animate image loading behavior,dude99,2019-01-22T19:15:26.527Z,0,ANIMATIONS
 24198,Command for Play Animations,Pesala,2018-01-31T09:58:13.194Z,4,SHORTCUTS:ANIMATIONS
 27539,Better Page Title Notifications for Pinned Tabs,69bugz,2018-05-20T19:43:44.303Z,4,NOTIFICATIONS:PINNED TABS
-34019,On a page  open a selection of multiple links all at once...,TsunamiZ,2019-01-22T15:38:59.651Z,0,LINKS
 34097,Allow wheel scroll to work for page  even when mouse is over panel toggle bar...,TsunamiZ,2019-01-24T23:01:08.475Z,1,SCROLLING
 34077,Aero Compatibility,sonicsu10,2019-01-24T09:56:51.564Z,3,GUI:WINDOWS
 25629,RSS Reader with Ability to Move Messages into Separate Folders,NemoAnonymous,2018-03-04T04:06:16.826Z,5,NEWSFEED
@@ -597,10 +561,10 @@ ID,Title,Author,Date,Votes,Tags
 24405,High-DPI Favicons in the Panel Bar,AltCode,2018-02-01T11:35:41.539Z,7,MAC:FAVICON
 34347,Continue Support for Ad-blocking Extensions,NemoAnonymous,2019-02-05T23:43:42.720Z,9,EXTENSION:ADBLOCK
 34406,Ability to See and Search the Tabs in Saved Sessions,aonet,2019-02-07T12:06:31.468Z,1,SESSIONS
-24263,Customize the Opening of the "Search With..." Menu,solidsnake,2018-01-31T13:12:27.966Z,12,SEARCH ENGINES:CUSTOMIZE:MENUS
+24263,Customize the Opening of the "Search With..." Menu,solidsnake,2018-01-31T13:12:27.966Z,13,SEARCH ENGINES:CUSTOMIZE:MENUS
 26680,Windows Menu Order,bestlem,2018-04-14T09:59:05.978Z,0,CUSTOMIZE:WINDOW:MENU
 34474,A "quick group" folder  it instantly opens all the bookmarks inside...,TsunamiZ,2019-02-08T14:47:40.946Z,0,
-34498,Horizontal Scroll with Mousewheel over Horizontal Scrollbar,lamarca,2019-02-09T14:53:23.957Z,11,SCROLLBAR:SCROLL WHEEL
+34498,Horizontal Scroll with Mousewheel over Horizontal Scrollbar,lamarca,2019-02-09T14:53:23.957Z,12,SCROLLBAR:SCROLL WHEEL
 34539,Adding vivaldi startup keys to manage an already running copy (as in many Linux programs),temp111222333,2019-02-11T03:34:02.266Z,0,COMMANDLINE
 34545,Multiple vertical scrollbar bookmarks,PredragR,2019-02-11T10:45:50.757Z,2,BOOKMARKS:SHORTCUTS:NAVIGATION:SCROLLBAR
 34579,Reveal Shortened URLs on Hovering Mouse Cursor Over Links,julioc1984,2019-02-12T12:06:39.120Z,9,URL:TOOLTIPS
@@ -621,23 +585,22 @@ ID,Title,Author,Date,Votes,Tags
 34958,DNS Validation (Man-in-the-Middle protection),Dr.Flay,2019-02-25T02:35:20.945Z,2,SECURITY:DNS
 35073,Page zooming using CTRL+WHEEL performs poorly...,TsunamiZ,2019-02-28T13:51:30.013Z,1,ZOOM
 33453,Support for Delayed Screenshots,ribeirobreno,2018-12-28T19:20:46.307Z,8,SCREENSHOT
-24224,True Alphabetical Bookmarks Sorting,luetage,2018-01-31T10:47:46.307Z,28,SORT BOOKMARKS:ALPHABETICALLY
+24224,True Alphabetical Bookmarks Sorting,luetage,2018-01-31T10:47:46.307Z,30,SORT BOOKMARKS:ALPHABETICALLY
 27060,Maintain Extension Button Order,LonM,2018-04-29T18:46:45.845Z,17,EXTENSION
 35135,Show/hide bookmarks bar by double clicking the separator line...,TsunamiZ,2019-03-02T21:54:48.387Z,0,BOOKMARKS BAR
 35037,Search in history searches PAGE CONTENT of cached pages.,dskfjl3jlrjl,2019-02-27T16:40:50.075Z,4,HISTORY:HISTORY SEARCH
 35145,Auto Hide Side Bar and Status Bar,Ambarad,2019-03-03T13:43:28.555Z,2,GUI:AUTO-HIDE
 35154,Apply filters and Reader View to multiple selected tabs,NemoAnonymous,2019-03-03T20:11:02.028Z,0,TABS:READER VIEW:PAGE ACTIONS
-25726,Vivaldi SVG Icons,black.lotus,2018-03-07T19:15:01.685Z,10,ICONS:PIPELINE:DESIGN:SVG
+25726,Vivaldi SVG Icons,black.lotus,2018-03-07T19:15:01.685Z,11,ICONS:PIPELINE:DESIGN:SVG
 35180,speed dial auto resize thumbnail image,fofo,2019-03-04T16:22:08.178Z,0,SPEED DIAL:THUMBNAILS
 35228,Cookies in Use dialog need Allow & Clear on exit buttons under Allowed tab,dude99,2019-03-06T08:06:40.740Z,0,PRIVACY:COOKIES
 35193,VivaldiOS?,TotalChris,2019-03-05T02:51:09.711Z,3,
 35239,Accessibility: Add subtle tint background for enabled extensions card,dude99,2019-03-06T10:53:32.445Z,0,EXTENSION
 35267,Notify when extensions are disabled,Komposten,2019-03-07T09:32:06.077Z,3,EXTENSION
-24234,Option to Disable the Confirm Download Dialog,Christian.Rauch,2018-01-31T11:00:57.833Z,18,DOWNLOADS:SECURITY
+24234,Option to Disable the Confirm Download Dialog,Christian.Rauch,2018-01-31T11:00:57.833Z,19,DOWNLOADS:SECURITY
 35312,Custom Search URL config to export / import,Zacc,2019-03-08T12:34:05.918Z,1,
 26414,Do not Stop Playback when a Web Panel is Closed,papykpy,2018-04-02T20:57:11.741Z,3,WEB PANEL:MEDIA:PLAYBACK
 33411,PC OS and Packaging,andrewlucky,2018-12-25T22:46:14.719Z,3,LINUX:PACKAGE
-35369,Better control of website notification bubbles/popups,Dantesoft,2019-03-10T08:13:00.520Z,0,NOTIFICATIONS
 26319,Website Notifications Off by Default,terere,2018-03-30T10:02:50.293Z,12,NOTIFICATIONS
 35393,Ubuntu snap package,Christian.Rauch,2019-03-11T12:13:14.047Z,1,UBUNTU:SNAP
 24349,Option to Disable White Background Behind Favicons,AltCode,2018-01-31T22:47:28.382Z,21,GUI:CUSTOMIZE:FAVICONS
@@ -651,7 +614,7 @@ ID,Title,Author,Date,Votes,Tags
 33651,Show keyword search suggestions in Quick Commands,Darkmatter,2019-01-07T12:34:35.422Z,2,SEARCH ENGINES:SEARCH:QUICK COMMANDS:SEARCH BAR
 34874,Customize the mouse wheel scrolling speed...,TsunamiZ,2019-02-21T08:41:23.513Z,1,SCROLLING:SCROLL WHEEL
 30637,Give some TLC to the network error game,AltCode,2018-09-29T15:20:42.765Z,1,EASTER EGG
-24375,Shortcuts and Gestures to Save Images,neltherion,2018-02-01T07:51:25.752Z,25,SHORTCUTS:MOUSE GESTURES:IMAGE
+24375,Shortcuts and Gestures to Save Images,neltherion,2018-02-01T07:51:25.752Z,27,SHORTCUTS:MOUSE GESTURES:IMAGE
 35759,Centered images,finoderi,2019-03-24T15:39:47.116Z,1,IMAGE
 24493,Reorder groups in Quick Commands and address field (omnibox) dropdown,ROTFL,2018-02-02T00:06:38.528Z,16,ADDRESS BAR:CUSTOMIZE:QUICK COMMANDS
 35771,Ability to Drag-and-Drop Links to other tabs  windows or tiled tabs,HeroD0t,2019-03-25T10:08:49.533Z,1,LINKS:DRAGANDDROP
@@ -662,16 +625,14 @@ ID,Title,Author,Date,Votes,Tags
 35901,In the "file" menu  please add "new guest window"...,TsunamiZ,2019-03-28T01:20:14.512Z,4,PROFILES:GUEST PROFILE
 27679,Save Session as File,haphiz,2018-05-27T19:20:17.339Z,7,SESSIONS:SAVING FILES
 35900,Edit Name and Icon for Profile after Creation,k7gV8Y,2019-03-28T01:04:22.766Z,14,PROFILES
-35650,Automatically pan/zoom website,tom23,2019-03-20T11:25:41.137Z,0,RESIZE
 27980,Page Down Should Scroll by a Full Page,anssi10,2018-06-13T11:40:27.376Z,7,SHORTCUTS:SCROLLING
 35969,Extension stack,cellyforever,2019-03-29T02:28:15.719Z,1,EXTENSION:CUSTOMIZE:TOOLBAR:STACKS
-26828,Super Drag and Drop,kaiyo,2018-04-20T23:34:44.422Z,16,DRAGANDDROP
 35912,Make searched keywords clickable,ianxxx,2019-03-28T09:51:58.113Z,1,SEARCH:FIND IN PAGE
 36084,Lateral movement of the extensions since the new update.,chabrochand,2019-04-01T13:27:01.904Z,0,EXTENSION:TOOLBAR
 36089,Mouse Gesture : Improving tiling command,Seasonly,2019-04-01T14:27:40.988Z,0,MOUSE GESTURES:TILING
 36068,Improved startup speed,MikeRL100,2019-04-01T10:14:44.048Z,2,STARTUP:PERFORMANCE
 36109,Show the real domain info for cert errors in the error text,Dr.Flay,2019-04-02T00:45:40.978Z,1,SECURITY:CERTIFICATES
-29901,Select Table Columns,zhenggu,2018-09-09T07:22:03.394Z,12,SELECTION
+29901,Select Table Columns,zhenggu,2018-09-09T07:22:03.394Z,13,SELECTION
 36118,Let us set certain extensions to "always show"...,TsunamiZ,2019-04-02T07:43:22.419Z,0,EXTENSION:TOOLBAR
 36100,Adjustable retention policy for synced data,ROTFL,2019-04-01T17:55:02.624Z,0,SYNC:RETENTION POLICY
 34345,Status Bar: Indicate Visited and Bookmarked Links,auipga,2019-02-05T22:03:40.525Z,10,LINKS:STATUS BAR:VISITED:INDICATOR
@@ -683,16 +644,14 @@ ID,Title,Author,Date,Votes,Tags
 36207,Profile-specific application title,MVV_,2019-04-04T05:53:22.359Z,0,PROFILES:TITLE BAR
 36219,[Windows] Prevent to install standalone in system protected paths,Hadden89,2019-04-04T09:28:00.316Z,2,WINDOWS:INSTALLER:STANDALONE
 36251,User Profiles Custom Avatar,dies_felices,2019-04-04T23:26:44.651Z,6,IN PROGRESS:PROFILES:USER PROFILE:AVATARS
-25289,Multi-Account Containers,VENIX,2018-02-20T23:46:55.244Z,82,PRIVACY:COOKIES:NICE TO HAVE
 36316,Mouse Gesture support for commands from extensions,BloodyRain2k,2019-04-06T12:01:01.449Z,2,SHORTCUTS:EXTENSION
-24250,Allow per-site User Agent Simulation,LonM,2018-01-31T11:41:41.339Z,28,SITE SETTINGS:USER AGENT
+24250,Allow per-site User Agent Simulation,LonM,2018-01-31T11:41:41.339Z,29,SITE SETTINGS:USER AGENT
 35965,About pop out videos functionnality (UPDATE: video volume control !),Al.tair,2019-03-29T00:29:45.868Z,16,VIDEO:PIC-IN-PIC
-33858,Frequently Visited Sites for Start Page,LonM,2019-01-16T11:13:26.201Z,1,START PAGE
+33858,Frequently Visited Sites for Start Page,LonM,2019-01-16T11:13:26.201Z,2,START PAGE
 24544,Dynamic bookmarks folder with Most Visited Pages,ROTFL,2018-02-02T11:49:39.607Z,7,BOOKMARKS:MOST VISITED
 36351,Show Title & URL when mouseover on Rewind/FastForward buttons,dude99,2019-04-08T08:39:33.204Z,5,TOOLBAR:TOOLTIPS
 36345,Tab Stacks in Quick Commands,AmberZephyr,2019-04-08T00:14:58.619Z,0,QUICK COMMANDS
 24463,Option for Zooming with RMB + Scroll-wheel,Stardust,2018-02-01T21:12:27.541Z,6,ZOOM:SCROLL WHEEL
-36391,Twitch Low Latency Support,EasyEdo,2019-04-09T15:29:47.958Z,9,VIDEO:VIDEOPLAYBACK:TWITCH
 36302,Vivaldi Builtin Troubleshooter Option  to run vivaldi cleaner & fast possible with over 100 Research tabs open,breezy101,2019-04-05T23:57:32.916Z,0,TROUBLESHOOT
 36404,Change Search Engine Button in Quick Commands,AmberZephyr,2019-04-09T21:16:05.654Z,1,SEARCH ENGINES:QUICK COMMANDS
 36421,Enable drag window on sidepanel,runekid,2019-04-10T08:46:20.456Z,0,GUI:WINDOW
@@ -705,7 +664,6 @@ ID,Title,Author,Date,Votes,Tags
 36175,Different icons for different modes,terere,2019-04-03T12:24:40.010Z,8,PROFILES:PRIVATE WINDOW
 36567,Choose Profile for New Window or Tab,dies_felices,2019-04-14T22:54:07.582Z,0,WINDOW:TAB:PROFILE
 24492,Align URLs in history for readability,ROTFL,2018-02-02T00:02:31.677Z,6,GUI:HISTORY
-29761,Synchronization of entire history,ROTFL,2018-09-03T10:24:33.190Z,17,SYNC:HISTORY
 36542,Auto-hide overlay panel after mouse-out X time pass,dude99,2019-04-13T18:49:18.062Z,3,AUTO-HIDE:PANEL
 31658,TouchPad Gestures for History Navigation,chriscochrun,2018-10-26T02:33:14.442Z,9,NAVIGATION:GESTURE:MOUSE
 30999,Make syncing remote sessions independent from syncing history of typed data,ROTFL,2018-10-08T10:09:47.423Z,1,SYNC:HISTORY:REMOTE SESSIONS
@@ -713,40 +671,17 @@ ID,Title,Author,Date,Votes,Tags
 36499,Provide Different Options For Tab Cycling By Mouse & Tab Cycling By Keyboard,neltherion,2019-04-12T08:02:35.389Z,2,TAB CYCLING:MOUSE-WHEEL:TAB SWITCH
 36612,Expose extension commands in Keyboard and Mouse config,zakius,2019-04-16T18:21:18.791Z,4,SHORTCUTS:EXTENSION
 36615,Option to keep sidepanel visible in fullscreen,Vincent500,2019-04-16T18:50:56.104Z,0,PANELS:TOOLBAR:FULLSCREEN
-25214,On-Demand / Click To Enable Plugins & Media,ideala2,2018-02-18T22:27:26.590Z,21,VIDEO:AUDIO:MEDIA:PLUGIN
+25214,On-Demand / Click To Enable Plugins & Media,ideala2,2018-02-18T22:27:26.590Z,23,VIDEO:AUDIO:MEDIA:PLUGIN
 24486,History / address bar blacklist ("Forget about this site"),ROTFL,2018-02-01T23:32:12.222Z,18,ADDRESS BAR:HISTORY:BLACKLIST
 36611,Button to close tabs in the F2 menu,Vincent500,2019-04-16T17:41:19.809Z,10,TABS:QUICK COMMANDS
-36669,Profile: Set Default Startup Profile,SheldonS,2019-04-18T17:14:12.462Z,5,STARTUP:PROFILES
 36721,A Better look search bar in start page,mohammadbayat9207,2019-04-21T09:07:23.084Z,1,SEARCH:START PAGE
 31794,Reload button with Forced reload option,Nekomajin,2018-10-29T18:46:31.457Z,1,TOOLBAR:RELOAD
 24656,Confirmation before deleting note attachments,ROTFL,2018-02-03T23:22:05.585Z,5,NOTES:ATTACHMENTS
-27734,Scroll to Top / Bottom Buttons,bebotette,2018-05-30T07:20:00.140Z,0,GUI:SCROLLING:BUTTONS
 30953,Pocket for Vivaldi,Para-Noid,2018-10-06T16:34:34.048Z,1,WEBPAGES
 33518,Offer to remove location data from images,LonM,2018-12-31T15:33:16.872Z,6,PRIVACY:LOCATION:UPLOADS
 36820,More "internal" search engines,ROTFL,2019-04-25T09:20:19.232Z,11,SEARCH ENGINES
 36863,Change the window title or class of the Print Dialog,josephj11,2019-04-27T11:27:24.094Z,1,WINDOW:TITLE
 24175,Open frame context menu option,LonM,2018-01-31T09:42:30.796Z,5,CONTEXT MENU:FRAME
-25083,Option to Remove the Navigation Bar from Start Page,Pesala,2018-02-15T10:28:19.293Z,11,START PAGE:NAVIGATION BAR
-36254,Browser Robotization & Automation,dies_felices,2019-04-05T00:36:51.949Z,4,PROFILES:PASSWORD:SCRIPTING:ROBOT:RPA
-36984,Auto paste highlighted text into Quick command like Find in page,dude99,2019-05-03T07:44:30.965Z,1,QUICK COMMANDS
-36029,Better Profile Management,LDMartin1959,2019-03-30T16:59:50.785Z,5,PROFILES
-34582,Tracking Protection similar to Firefox's implementation,MikeRL100,2019-02-12T13:56:52.991Z,9,PRIVACY:SECURITY:COOKIES:FIREFOX
-33641,Extensions button Toggle still need improvement,dude99,2019-01-07T05:18:54.092Z,5,EXTENSION:TOOLBAR
-24567,Simple Markdown Editor for Notes,awking,2018-02-02T15:15:07.818Z,33,NOTES:MARKDOWN
-25214,On-Demand / Click To Enable Plugins & Media,ideala2,2018-02-18T22:27:26.590Z,21,VIDEO:AUDIO:MEDIA:PLUGIN
-24486,History / address bar blacklist ("Forget about this site"),ROTFL,2018-02-01T23:32:12.222Z,18,ADDRESS BAR:HISTORY:BLACKLIST
-36611,Button to close tabs in the F2 menu,Vincent500,2019-04-16T17:41:19.809Z,10,TABS:QUICK COMMANDS
-36669,Profile: Set Default Startup Profile,SheldonS,2019-04-18T17:14:12.462Z,5,STARTUP:PROFILES
-36721,A Better look search bar in start page,mohammadbayat9207,2019-04-21T09:07:23.084Z,1,SEARCH:START PAGE
-31794,Reload button with Forced reload option,Nekomajin,2018-10-29T18:46:31.457Z,1,TOOLBAR:RELOAD
-24656,Confirmation before deleting note attachments,ROTFL,2018-02-03T23:22:05.585Z,5,NOTES:ATTACHMENTS
-27734,Scroll to Top / Bottom Buttons,bebotette,2018-05-30T07:20:00.140Z,0,GUI:SCROLLING:BUTTONS
-30953,Pocket for Vivaldi,Para-Noid,2018-10-06T16:34:34.048Z,1,WEBPAGES
-33518,Offer to remove location data from images,LonM,2018-12-31T15:33:16.872Z,6,PRIVACY:LOCATION:UPLOADS
-36820,More "internal" search engines,ROTFL,2019-04-25T09:20:19.232Z,11,SEARCH ENGINES
-36863,Change the window title or class of the Print Dialog,josephj11,2019-04-27T11:27:24.094Z,1,WINDOW:TITLE
-24175,Open frame context menu option,LonM,2018-01-31T09:42:30.796Z,5,CONTEXT MENU:FRAME
-25083,Option to Remove the Navigation Bar from Start Page,Pesala,2018-02-15T10:28:19.293Z,11,START PAGE:NAVIGATION BAR
 36254,Browser Robotization & Automation,dies_felices,2019-04-05T00:36:51.949Z,4,PROFILES:PASSWORD:SCRIPTING:ROBOT:RPA
 36984,Auto paste highlighted text into Quick command like Find in page,dude99,2019-05-03T07:44:30.965Z,1,QUICK COMMANDS
 36029,Better Profile Management,LDMartin1959,2019-03-30T16:59:50.785Z,5,PROFILES
@@ -757,11 +692,10 @@ ID,Title,Author,Date,Votes,Tags
 37099,Turn on/off "Bookmarks are display always.",imyoungko18,2019-05-07T21:47:55.823Z,0,
 25742,Option to restore closed tabs in private windows,ROTFL,2018-03-08T07:59:30.298Z,13,PRIVATE WINDOW:CLOSED TABS
 37142,Import to new Speeddial.,rafiki,2019-05-08T18:01:09.856Z,0,
-24462,Built-in Proxy settings,Stardust,2018-02-01T21:11:21.324Z,20,PROXY
+24462,Built-in Proxy settings,Stardust,2018-02-01T21:11:21.324Z,21,PROXY
 33604,Close Tabs/Other Windows in 'Delete Browsing Data...',liyann,2019-01-05T18:36:26.593Z,0,TABS:PRIVACY:CLOSE TABS:CLOSE WINDOW
 31820,Subtitles in Picture in Picture,pauloaguia,2018-10-30T14:13:04.223Z,9,VIDEO:MEDIA:PLAYBACK
-37328,Show hovering zoom percentage if status bar is set to hover,cst0827,2019-05-13T07:51:07.309Z,4,GUI:STATUS BAR:HOVER
-24240,Save Opened files in Temporary Folder,Christian.Rauch,2018-01-31T11:10:59.845Z,115,DOWNLOADS:SAVING FILES
+37328,Show hovering zoom percentage if status bar is set to hover,cst0827,2019-05-13T07:51:07.309Z,5,GUI:STATUS BAR:HOVER
 37346,Web-site Admin - User Password Setting,dies_felices,2019-05-13T23:41:27.223Z,0,PASSWORDS:PASSWORD MANAGER
 37352,Maximizing last used window when launching the program,SnekMuffin,2019-05-14T04:49:37.277Z,0,WINDOW:STARTUP
 37366,History Menu,GenXstarX,2019-05-14T13:19:33.176Z,0,HISTORY:MENUS
@@ -772,28 +706,24 @@ ID,Title,Author,Date,Votes,Tags
 37445,Enable MHT file reading,antoine.luboz,2019-05-16T20:23:02.560Z,0,MHTML:MHT:READ FILES:OPEN WITH
 34013,Ad-block Feature Conforming to Better Ads Standards,kyu3a,2019-01-22T10:21:23.236Z,2,IN PROGRESS:ADBLOCK
 37446,Support Face Gestures,Pesala,2019-05-16T22:05:35.979Z,0,ACCESSIBILITY
-37494,Hotkey for Profile selection,shrazz,2019-05-18T19:34:26.476Z,1,SHORTCUTS:PROFILES
 30385,Native (non-Chromium) Extensions page/panel,valiowk,2018-09-26T16:28:40.629Z,12,EXTENSION
 37368,Downloads panel - resizable from bottom of page,GenXstarX,2019-05-14T13:49:11.483Z,1,PANELS:DOWNLOADS:STATUS BAR
 37410,Broken Link Checker,jeronymite,2019-05-16T00:10:32.755Z,0,LINKS
-27678,Custom Buttons,LonM,2018-05-27T18:29:47.930Z,27,CUSTOMIZE:BUTTONS
+27678,Custom Buttons,LonM,2018-05-27T18:29:47.930Z,29,CUSTOMIZE:BUTTONS
 37590,"Find in Page" only in selected area of page,matic386,2019-05-22T11:05:27.035Z,1,FIND IN PAGE
 37608,Secure Desktop Mode,LonM,2019-05-23T08:53:42.588Z,2,SECURITY:WINDOWS:GUEST PROFILE
-24390,Support for MacBook Touch Bar,AltCode,2018-02-01T09:55:28.959Z,16,MAC:TOUCH BAR
+24390,Support for MacBook Touch Bar,AltCode,2018-02-01T09:55:28.959Z,17,MAC:TOUCH BAR
 37647,Automatically go Fullscreen,MartinLichtblau,2019-05-24T16:33:37.571Z,0,
 37665,Context menu option to open link in another window,hyfrehyfre,2019-05-25T14:29:45.839Z,0,CONTEXT MENU:WINDOW:LINKS
 37664,Save image to folder with double right click Gesture,hyfrehyfre,2019-05-25T13:54:10.445Z,0,GESTURE:DOUBLE-CLICK
-24482,Portable Version,Stardust,2018-02-01T23:10:40.342Z,30,VIVALDI:PORTABLE
 34012,Icon for Picture in Picture (video in floating window),Seasonly,2019-01-22T09:56:07.407Z,23,ICONS:PIC-IN-PIC
-24384,Match Whole Words for Find in Page,Pesala,2018-02-01T08:52:29.326Z,14,FIND IN PAGE
+24384,Match Whole Words for Find in Page,Pesala,2018-02-01T08:52:29.326Z,16,FIND IN PAGE
 33066,More Controls for Picture in Picture,pgilbert681,2018-12-14T20:38:52.391Z,24,TOOLBAR:PIC-IN-PIC
 24494,Group / sort synced history by device,ROTFL,2018-02-02T00:09:20.720Z,9,SYNC:HISTORY:SORT
-31657,Save Page Actions for Specific Page  Domain  or Tab,Gelmo,2018-10-26T01:56:27.551Z,7,PAGE ACTIONS
-24268,Mouse Gesture Trails,longvoid,2018-01-31T13:51:45.535Z,42,MOUSE GESTURES
-24238,Master Password Protected Mode to Protect your Profile,awking,2018-01-31T11:09:35.034Z,70,PRIVACY:PASSWORD:PROFILE:MASTERPASSWORD
+31657,Save Page Actions for Specific Page  Domain  or Tab,Gelmo,2018-10-26T01:56:27.551Z,8,PAGE ACTIONS
+24268,Mouse Gesture Trails,longvoid,2018-01-31T13:51:45.535Z,44,MOUSE GESTURES
+24238,Master Password Protected Mode to Protect your Profile,awking,2018-01-31T11:09:35.034Z,72,PRIVACY:PASSWORD:PROFILE:MASTERPASSWORD
 30202,Better Touchpad/Touchscreen Zoom Functionality,IsaiahHolman,2018-09-21T01:00:19.932Z,7,ZOOM:TOUCH SCREEN:RESET
-25222,User Agent Spoofing,Pesala,2018-02-19T10:32:34.685Z,73,PIPELINE:SITE SETTINGS:USER AGENT
-24363,Address Bar Search: Remove "Search Google",phil056,2018-02-01T03:49:09.675Z,19,ADDRESS BAR:GOOGLE:SUGGESTIONS
 34377,Image viewer enhancements,Nekomajin,2019-02-06T19:31:55.289Z,6,ZOOM:IMAGE:ROTATE
 31874,Enable Hardware Accelerated Video (vaapi),Lalel,2018-11-01T13:48:34.919Z,36,VIDEO
 36632,Support WebExtensions (and improve them too),zakius,2019-04-17T13:11:03.127Z,3,EXTENSION
@@ -803,34 +733,33 @@ ID,Title,Author,Date,Votes,Tags
 38064,Nicknamed search engines for Vivaldi features (browser history  open tabs  etc),tanamraam3714,2019-06-11T20:58:35.483Z,0,ADDRESS BAR:SEARCH ENGINES:QUICK COMMANDS:NICKNAMES
 37985,Sync with Other Browsers,Miguel.OKstein,2019-06-08T00:20:35.224Z,0,SYNC:BROWSERS
 24429,Wayland Support,Christian.Rauch,2018-02-01T14:59:19.719Z,1,LINUX
-25746,Session Autosave,Ondrej.Ulman,2018-03-08T10:21:24.310Z,9,SESSIONS:SESSION RESTORE
-29274,Autoupdate Open Sessions,mrmeireles,2018-08-10T07:41:38.239Z,14,SESSIONS
+25746,Session Autosave,Ondrej.Ulman,2018-03-08T10:21:24.310Z,12,SESSIONS:SESSION RESTORE
 25006,Add  Delete  and Rename Start Page Background Images,Pesala,2018-02-13T09:35:35.158Z,5,CUSTOMIZE:START PAGE:IMAGE:BACKGROUND
 38147,Capture setting to remember browser size,Psider,2019-06-15T00:40:48.081Z,1,SCREENSHOT
 38131,Desktop wallpaper in start page for macOS,AltCode,2019-06-14T11:20:36.182Z,1,START PAGE:MACOS
-25189,Battery Saver Mode,CheVe11e_191,2018-02-18T09:46:57.271Z,38,POWERMANAGEMENT
+25189,Battery Saver Mode,CheVe11e_191,2018-02-18T09:46:57.271Z,39,POWERMANAGEMENT
 38222,Vivaldi Updater: Keep Last Session,sirfredrick,2019-06-18T23:55:35.207Z,4,
 38213,Copy Note to Vivaldi Email,coppolajj,2019-06-18T13:09:14.232Z,1,NOTES:EMAIL
 38270,Add otpion for user data encryption (especially notes / bookmarks) instead of keeping them as plain text,ROTFL,2019-06-20T12:59:33.797Z,1,BOOKMARKS:SECURITY:NOTES:ENCRYPTION
 24142,Open Notes in a Tab from the Start Page Navigation Bar,LonM,2018-01-31T09:32:18.329Z,33,NOTES:START PAGE:PIPELINE:NAVIGATION BAR
 38314,Move multiple tabs to a new window command if selected multiple tabs,dude99,2019-06-21T16:54:48.625Z,1,SHORTCUTS:WINDOW:NEW WINDOW
-25004,Find in Page with smooth scrolling to next result,dude99,2018-02-13T04:51:08.445Z,7,IN PROGRESS:FIND IN PAGE:SMOOTHSCROLLING
+25004,Find in Page with smooth scrolling to next result,dude99,2018-02-13T04:51:08.445Z,8,IN PROGRESS:FIND IN PAGE:SMOOTHSCROLLING
 31221,Command to Open a Link in a New Window,kusokuzeshiki,2018-10-14T12:07:18.273Z,2,SHORTCUTS:LINKS:NEW WINDOW
 28823,Add a Built-in DNS Changer,bumkailashkumar,2018-07-20T16:07:40.540Z,7,DNS
 31225,Cloud Editor,dies_felices,2018-10-14T13:14:34.741Z,0,DEVELOPER TOOLS:VCS
 38427,Trash Tabs delete individually,stardepp,2019-06-25T18:00:19.968Z,1,
-38404,Session Management: Name of Session Somewhere Prominently on Browser,sunrisescramble,2019-06-25T02:49:11.393Z,1,SESSIONS
+38404,Session Management: Name of Session Somewhere Prominently on Browser,sunrisescramble,2019-06-25T02:49:11.393Z,3,SESSIONS
 29670,Capture as PDF,iayestaran,2018-08-29T08:04:27.265Z,19,PDF:CAPTURE
 38475,Caption  Bookmarks  Status Bar  Address Bar :: Grouped,wdsdarkbrain,2019-06-26T16:59:19.426Z,0,GUI:TOOLBAR
 38501,Feature Request: Empty cache and hard reload for Web developers,pspuri91ttn,2019-06-27T14:12:53.430Z,0,DEVELOPER TOOLS:CACHE
 38543,Vivaldi Browser for Windows 10 on arm.,MattSolo45,2019-06-29T14:13:12.086Z,0,WINDOWS 10:ARM
-24582,Save Webpage as PDF,Artex,2018-02-02T17:43:37.835Z,25,PDF:PAGE
+24582,Save Webpage as PDF,Artex,2018-02-02T17:43:37.835Z,26,PDF:PAGE
 38549,Prevent saved images from being logged in the downloads panel...,TsunamiZ,2019-06-29T21:55:41.949Z,0,
 38573,move extension add-ons & Interface GUI,snadge,2019-07-01T20:39:10.696Z,0,
 37588,Speech recognition software support,XyZed,2019-05-22T10:10:41.378Z,4,ACCESSIBILITY
-38613,HDR support for youtube,cbanacka,2019-07-03T09:50:12.019Z,5,VIDEOPLAYBACK
+38613,HDR support for youtube,cbanacka,2019-07-03T09:50:12.019Z,6,VIDEOPLAYBACK
 38629,Show total system wide resources usage in status bar...,TsunamiZ,2019-07-04T00:03:23.851Z,8,
-25127,Support gestures on touchscreen,ROTFL,2018-02-16T08:12:59.902Z,14,GESTURE:TOUCH SCREEN
+25127,Support gestures on touchscreen,ROTFL,2018-02-16T08:12:59.902Z,15,GESTURE:TOUCH SCREEN
 38559,Simplify Page for clutter-free printing,usslnx,2019-06-30T21:35:09.790Z,1,PRINTING
 29409,Epub Support,metafaniel,2018-08-16T15:32:26.917Z,13,EPUB
 25336,Allow AsciiDoc Syntax in Notes,bimlas,2018-02-22T07:04:45.357Z,3,NOTES
@@ -838,27 +767,24 @@ ID,Title,Author,Date,Votes,Tags
 32418,Quick Commands while DevTools is enabled,metafaniel,2018-11-21T16:51:23.962Z,2,
 30382,Copy Hyperlink Text,metafaniel,2018-09-26T16:08:02.105Z,3,LINKS:COPY
 29698,Enlarge Images on Hover,Ornorm,2018-08-30T18:42:07.338Z,7,ZOOM:IMAGE:HOVER
-25413,Allow Automatic Update of the Browser,CheVe11e_191,2018-02-24T00:19:52.344Z,23,BACKGROUND:UPDATE:AUTOUPDATE
 24527,Emoji keyboard,dominicw2,2018-02-02T10:46:19.671Z,4,KEYBOARD:EMOJI
 38772,Content Panel: Detect all resources & block specific item like Script Click extension,dude99,2019-07-11T08:20:06.190Z,2,
-24219,Additional Features for the Extension Icon Container,luetage,2018-01-31T10:41:44.247Z,40,EXTENSION:GUI:CUSTOMIZE:TOOLBAR
 24127,Download Manager,Pesala,2018-01-31T09:20:41.797Z,80,DOWNLOADS:PIPELINE:DOWNLOADMANAGER
 38712,Advanced Ctrl+F: Highlight in different colors list of words/sentences,metafaniel,2019-07-08T15:45:43.723Z,4,SEARCH:FIND IN PAGE:HIGHLIGHT:MULTI WORD
 38830,More detail for Sync's Help File,paul1149,2019-07-14T15:54:25.649Z,1,
 38845,In game overlay,YAR,2019-07-15T14:28:15.970Z,1,FEATURE REQUEST:OVERLAY:GAMING
 36994,Ability to lock down Multiple Profiles,RasheedHolland,2019-05-03T18:02:18.303Z,0,
-27631,Inbuilt password manager,luetage,2018-05-24T18:30:03.534Z,20,PRIVACY:PASSWORDS
+27631,Inbuilt password manager,luetage,2018-05-24T18:30:03.534Z,21,PRIVACY:PASSWORDS
 38848,Readaloud,spillaip,2019-07-15T16:14:18.814Z,2,ACCESSIBILITY:VOICE:READING
 38868,Extensions toggle need a useful Context Menu,dude99,2019-07-16T09:28:36.465Z,0,CONTEXT MENU
 24134,Ctrl+Click on Images to Save Them,Pesala,2018-01-31T09:25:45.619Z,28,SHORTCUTS:IMAGE
 38849,Add Timers to Tools,spillaip,2019-07-15T16:25:52.919Z,1,CLOCK
-24141,Support for MIME Types,Pesala,2018-01-31T09:30:45.384Z,89,DOWNLOADS:NICE TO HAVE:FILE TYPES
+24141,Support for MIME Types,Pesala,2018-01-31T09:30:45.384Z,90,DOWNLOADS:NICE TO HAVE:FILE TYPES
 38880,Add "Report a bug" into the browser "Help" menu,tlk,2019-07-17T09:40:16.712Z,0,MENU:BUG REPORT:HELP
 38778,Quick Command Panel Toggle,drjoelkain,2019-07-11T11:21:59.496Z,0,
 38914,Option to turn off double clicking the speed dial background to add bookmarks...,TsunamiZ,2019-07-18T20:54:26.552Z,1,
 38754,Reuse Vivaldi Window when switching profiles.,trendready,2019-07-10T16:05:56.667Z,0,
 35524,Status bar Clock,CheVe11e_191,2019-03-16T10:15:47.668Z,19,STATUS BAR:CLOCK
-24477,"Report a bug" on the main menu,ROTFL,2018-02-01T22:52:04.092Z,18,MENUS:BUG REPORT
 36228,Currency Converter in Quick Commands(Same as Calculator),Starkemis,2019-04-04T11:51:51.149Z,5,CALCULATOR
 38965,Play audio - On tab basis,Stagger_Lee,2019-07-21T10:58:34.493Z,0,
 17499,Desktop shortcut for Progressive Web Apps,shwetank,2017-06-15T12:45:42.302Z,11,PWA
@@ -867,13 +793,11 @@ ID,Title,Author,Date,Votes,Tags
 38995,Can Vivaldi not ask for permission if more than two windows opened ?,ikkyusan,2019-07-22T22:23:24.529Z,0,
 24294,Option to use External Editor as Source Viewer,TRMarcus,2018-01-31T17:47:45.790Z,18,SOURCE
 29171,Freeze Page to Make Reading Easy,Andrew_M,2018-08-03T22:49:31.833Z,1,READER VIEW
-24358,Disable / Enable Extensions from Toolbar,Asires,2018-02-01T01:50:12.320Z,18,EXTENSION:TOOLBAR
-24115,RSS and Atom Reader,zakius,2018-01-31T08:33:55.291Z,92,IN PROGRESS:NEWSFEED
+24358,Disable / Enable Extensions from Toolbar,Asires,2018-02-01T01:50:12.320Z,19,EXTENSION:TOOLBAR
 38942,Improve the update prompt...,TsunamiZ,2019-07-19T20:39:28.649Z,1,WILL NOT DO
-38823,Improve opening a folder of bookmarks...,TsunamiZ,2019-07-13T20:09:06.529Z,1,
 39050,Regex filter for web-pages,Anonymous2018,2019-07-25T15:00:30.138Z,0,
 39045,Stop the page from jumping around!,vivaldi854,2019-07-25T12:22:49.569Z,3,
-37364,Customisable Toolbars,Pesala,2019-05-14T12:32:23.743Z,28,GUI:TOOLBAR:BUTTONS
+37364,Customisable Toolbars,Pesala,2019-05-14T12:32:23.743Z,32,GUI:TOOLBAR:BUTTONS
 33530,Option to hibernate whole (chosen) windows not only chosen tabs.,ksus,2019-01-01T17:24:41.568Z,1,TABS:WINDOW:HIBERNATION
 39148,Opening sessions from address bar,ksus,2019-07-31T08:12:08.421Z,0,ADDRESS BAR:SESSIONS
 28266,Lazy Load for Sessions,LonM,2018-06-28T21:17:25.277Z,20,SESSIONS:HIBERNATION:LOADING
@@ -881,7 +805,6 @@ ID,Title,Author,Date,Votes,Tags
 39183,Edit Customised Words via User Interface,Pesala,2019-08-01T15:18:34.674Z,2,
 39207,Quick Command - Search in Tab URLs,ferenczy,2019-08-02T11:33:38.390Z,1,
 39236,Create User Custom CSS for website within Developer tool,dude99,2019-08-04T18:19:09.121Z,1,USERCSS
-39228,Double right click on an image to instantly "open image in new tab"...,TsunamiZ,2019-08-03T22:37:38.374Z,0,SHORTCUTS:CONTEXT MENU:IMAGE:DOUBLE-CLICK
 39287,Download validation for the Vivaldi binaries,Dr.Flay,2019-08-07T23:38:12.564Z,4,
 39233,When Vivaldi will release inbuilt VPN for its browser like Opera ?,anuragnandi,2019-08-04T16:10:57.258Z,0,
 39329,UI hint when navigating back/forward and the page is loading.,terrdavis,2019-08-09T18:40:15.344Z,0,
@@ -891,38 +814,34 @@ ID,Title,Author,Date,Votes,Tags
 39346,Refresh the appearance of the menu.,MattSolo45,2019-08-10T19:23:35.029Z,2,
 24379,Shortcut to Paste and Go in a New Tab,neltherion,2018-02-01T07:57:12.536Z,22,SHORTCUTS:NEW TAB:PASTE AND GO
 31665,Replacing Pure White Backgrounds with Off White,dude99,2018-10-26T06:51:43.442Z,4,NIGHT MODE
-24149,Auto-Reload Options,LonM,2018-01-31T09:33:49.949Z,73,PIPELINE:REFRESH PAGE
-39362,Autosave Session should utilize 3 copies of Last Session,dude99,2019-08-11T16:49:23.766Z,3,
+39362,Autosave Session should utilize 3 copies of Last Session,dude99,2019-08-11T16:49:23.766Z,10,
 39391,Allow mixed mouse and keyboard operations,rf10,2019-08-13T11:15:00.791Z,3,SHORTCUTS:MOUSE GESTURES:LINKS
 39175,Sort current tabs in reverse order...,TsunamiZ,2019-07-31T23:14:12.005Z,2,
 39415,Add key shortcuts to open panels and focus the search box,rf10,2019-08-14T10:59:10.794Z,0,SHORTCUTS:PANELS
 39374,Keep tabs selected after we "ungroup tab stack"...,TsunamiZ,2019-08-12T11:42:00.422Z,3,TAB STACKS
 39390,Single hotkey toggle to "create/ungroup tab stack"...,TsunamiZ,2019-08-13T09:25:17.074Z,1,TABS:SHORTCUTS:TAB STACKS
-27660,Names for Windows,yoxxx,2018-05-26T13:37:21.774Z,17,WINDOWS
 24254,Option to not Append (n) when Saving Duplicate Files - Ask to Overwrite Instead,NemoAnonymous,2018-01-31T12:35:26.195Z,21,SAVING FILES
 39454,In Quick Commands panel  sort Tabs section from MRU to LRU,arnaudm,2019-08-16T03:35:52.289Z,2,TABS:QUICK COMMANDS
-28241,Open Bookmarks Bar Folders on Mouse Hover,BratetsVolk,2018-06-27T19:00:30.318Z,12,BOOKMARKS BAR
+28241,Open Bookmarks Bar Folders on Mouse Hover,BratetsVolk,2018-06-27T19:00:30.318Z,13,BOOKMARKS BAR
 30451,Web Access to Synchronised Data,slick1,2018-09-27T10:30:48.644Z,11,SYNC:PIPELINE
-39459,Web Bluetooth support,AkosLukacs,2019-08-16T08:28:33.604Z,0,
 25059,Ctrl+F Should Toggle Find in Page,torniojaws,2018-02-14T13:24:24.256Z,36,SHORTCUTS:FIND IN PAGE
 24466,Middle-click Scrolling for Linux Version,Stardust,2018-02-01T21:14:29.039Z,8,LINUX:SCROLLING:MIDDLE-CLICK
 39518,Context menu item to download a link straight away to the default download location,felagund,2019-08-20T09:07:44.034Z,1,DOWNLOADS:CONTEXT MENU:LINKS
-28965,On Demand mode for Play Image Animation,dude99,2018-07-25T12:50:24.890Z,10,ANIMATIONS
+28965,On Demand mode for Play Image Animation,dude99,2018-07-25T12:50:24.890Z,12,ANIMATIONS
 29890,Quick Commands "Alt+Enter" to Open Page in New Tab,ukanuk,2018-09-08T20:48:41.877Z,5,SHORTCUTS:QUICK COMMANDS
 24286,Ability to combine domain and keyword filter in vivaldi://history,Guilimote,2018-01-31T16:23:43.893Z,8,HISTORY
 39631,Improve the "press escape key to exit fullscreen" message...,TsunamiZ,2019-08-23T19:08:05.684Z,0,
 39685,Enhance Notes with Highlights,DiscourseStu,2019-08-26T04:03:37.859Z,3,NOTES
-18487,Filters for Visual Impairment,pettrer,2017-07-06T06:34:40.712Z,6,COLOR:PAGE ACTIONS:ACCESSIBILITY:FILTERS
+18487,Filters for Visual Impairment,pettrer,2017-07-06T06:34:40.712Z,6,COLOR:ACCESSIBILITY:PAGE ACTIONS:FILTERS
 35386,Button that displays extensions in a drop down menu...,TsunamiZ,2019-03-11T04:24:50.918Z,4,EXTENSION:TOOLBAR
-24116,RegEx Support for "Find in Page",solidsnake,2018-01-31T08:37:07.538Z,82,FIND IN PAGE:NICE TO HAVE:REGEX
+24116,RegEx Support for "Find in Page",solidsnake,2018-01-31T08:37:07.538Z,86,FIND IN PAGE:NICE TO HAVE:REGEX
 39747,Suggest Recommended Extensions On Startpage ?,techguy88,2019-08-28T17:41:18.710Z,0,
 39749,multi-windows improvement,zangiamit91,2019-08-28T21:31:29.601Z,0,
-39771,Label links,potmeklecbohdan,2019-08-30T08:58:49.690Z,4,KEYBOARD:LINKS:BUTTONS
-24145,Preserve Custom Modifications Across Upgrades,LonM,2018-01-31T09:33:02.161Z,56,MODDING:CUSTOMIZE
-25070,Locking Pinned Tabs,spinnekop,2018-02-14T21:38:15.521Z,25,PINNED TABS
+24145,Preserve Custom Modifications Across Upgrades,LonM,2018-01-31T09:33:02.161Z,57,MODDING:CUSTOMIZE
+25070,Locking Pinned Tabs,spinnekop,2018-02-14T21:38:15.521Z,27,PINNED TABS
 39793,A list of command-line switches,Montiverdi,2019-08-31T08:50:21.951Z,4,
-39812,Grammar Checker Proof-reader,Pesala,2019-08-31T20:13:54.290Z,4,
-39807,Vivaldi://flags "Default" option is unclear & confusing,dude99,2019-08-31T16:42:36.911Z,9,
+39812,Grammar Checker Proof-reader,Pesala,2019-08-31T20:13:54.290Z,5,
+39807,Vivaldi://flags "Default" option is unclear & confusing,dude99,2019-08-31T16:42:36.911Z,10,
 39850,Address drop down menu  the selection focus and color should be dynamic...,TsunamiZ,2019-09-02T18:32:18.319Z,1,
 39852,Untile tabs by using the same hotkey we used to tile them...,TsunamiZ,2019-09-02T19:29:55.095Z,2,SHORTCUTS:TILING
 39848,New hotkey called "move tab to window with active tab"...,TsunamiZ,2019-09-02T15:27:46.166Z,0,
@@ -937,17 +856,99 @@ ID,Title,Author,Date,Votes,Tags
 40164,Quick ways to toggle image properties open/close...,TsunamiZ,2019-09-11T02:56:52.596Z,2,SHORTCUTS:IMAGE
 29659,Option to remember selected area in Screenshot feature,CheVe11e_191,2018-08-29T05:38:40.795Z,8,SCREEN CAPTURE
 37861,More Window Drag Space Above Tabs,kamryn,2019-06-03T14:25:00.349Z,1,WINDOW:DRAGANDDROP
-24123,Allow Editing of Menus,Pesala,2018-01-31T09:18:36.559Z,272,GUI:CUSTOMIZE:MENUS:PIPELINE
-36007,Sync search engines,Omen_20,2019-03-29T20:19:00.165Z,34,SYNC:SEARCH ENGINES
-27409,Pull-down Menus on Hover,equanimity,2018-05-15T10:52:30.503Z,14,IN PROGRESS:MENU BAR
-40133,Find in page: visual highlighting,webaschtl,2019-09-10T14:55:05.312Z,4,FIND IN PAGE
-24248,Option to delete items from disk inside the download panel,krabbel,2018-01-31T11:37:55.472Z,75,DOWNLOADS:PIPELINE:DELETE
+24123,Allow Editing of Menus,Pesala,2018-01-31T09:18:36.559Z,280,GUI:CUSTOMIZE:MENUS:PIPELINE
+36007,Sync search engines,Omen_20,2019-03-29T20:19:00.165Z,40,SYNC:SEARCH ENGINES
+40133,Find in page: visual highlighting,webaschtl,2019-09-10T14:55:05.312Z,5,FIND IN PAGE
+24248,Option to delete items from disk inside the download panel,krabbel,2018-01-31T11:37:55.472Z,76,DOWNLOADS:PIPELINE:DELETE
 25542,Configurable Middle-click,schreck,2018-03-01T02:53:25.551Z,16,CUSTOMIZE:MIDDLE-CLICK
 40308,Forms filling and passwords filling asking for PIN or fingerprints,jseb,2019-09-13T02:17:13.655Z,0,SECURITY:PASSWORDS
 34827,Password or fingerprint lock for Vivaldi,glweb,2019-02-19T22:09:47.408Z,5,PRIVACY
 40310,Manual passwords creation and edition,jseb,2019-09-13T02:45:43.717Z,0,PASSWORDS
 40273,On page Translate option like in Chrome,Sathish804,2019-09-12T14:29:41.742Z,0,WILL NOT DO
 40407,Share tabs via macOS system airdrop,OscarGong,2019-09-15T02:17:18.426Z,1,
-34009,Option to automatically open context menu on selection,tlk,2019-01-22T08:35:50.418Z,7,SEARCH:CONTEXT MENU:SELECTION:COPY
-40393,Diet context menu on selecting text of link,tree1891,2019-09-14T16:34:15.475Z,0,
-24165,Automatically Attempt to Make HTTPS Connections,LonM,2018-01-31T09:39:33.130Z,40,HTTPS REDIRECT
+34009,Option to automatically open context menu on selection,tlk,2019-01-22T08:35:50.418Z,9,SEARCH:CONTEXT MENU:SELECTION:COPY
+40393,Diet context menu on selecting text of link,tree1891,2019-09-14T16:34:15.475Z,1,
+24165,Automatically Attempt to Make HTTPS Connections,LonM,2018-01-31T09:39:33.130Z,41,HTTPS REDIRECT
+25222,User Agent Spoofing,Pesala,2018-02-19T10:32:34.685Z,76,PIPELINE:SITE SETTINGS:USER AGENT
+40474,Live view tab thumbnails...,TsunamiZ,2019-09-16T17:45:20.894Z,2,
+24219,Additional Features for the Extension Icon Container,luetage,2018-01-31T10:41:44.247Z,48,EXTENSION:GUI:CUSTOMIZE:TOOLBAR
+40496,Don't select space after the word when double-clicking,debiedowner,2019-09-17T08:34:54.361Z,8,BUG
+25413,Allow Automatic Update of the Browser,CheVe11e_191,2018-02-24T00:19:52.344Z,34,BACKGROUND:UPDATE:AUTOUPDATE
+40547,Customizable spell check dictionary,AlesPGMeteo,2019-09-18T10:50:02.449Z,0,
+40552,Advanced color settings for our theme...,TsunamiZ,2019-09-18T12:55:58.651Z,5,
+40562,Button for "settings" on the address bar...,TsunamiZ,2019-09-18T15:16:12.878Z,0,
+40558,Zoom option called "enlarge image to fit"...,TsunamiZ,2019-09-18T14:07:40.796Z,5,
+40559,Button to toggle tab thumbnails...,TsunamiZ,2019-09-18T14:48:54.910Z,0,
+40615,Close a drop down menu by clicking on it a second time...,TsunamiZ,2019-09-19T18:40:46.534Z,2,BUG
+40618,Add keyboard navigation to Quick Commands,0x174e,2019-09-19T20:41:10.696Z,0,
+36669,Profile: Set Default Startup Profile,SheldonS,2019-04-18T17:14:12.462Z,7,PROFILES:STARTUP
+40669,Tab selection color use our theme's "highlight" color...,TsunamiZ,2019-09-20T18:11:52.882Z,7,
+40666,Improve showing the browser version in the status bar...,TsunamiZ,2019-09-20T16:59:54.709Z,4,
+40737,Delete history by domain,JaegerFox,2019-09-22T09:42:11.990Z,4,
+25083,Option to Remove the Navigation Bar from Start Page,Pesala,2018-02-15T10:28:19.293Z,13,START PAGE:NAVIGATION BAR
+40772,DNS over TLS,beremour,2019-09-23T10:54:32.884Z,3,
+40788,Put "New Window " "New Private Window " and "Close Window" under the "Window" menu,Fred_M.,2019-09-23T15:52:38.895Z,2,
+27660,Names for Windows,yoxxx,2018-05-26T13:37:21.774Z,20,WINDOWS
+24240,Save Opened files in Temporary Folder,Christian.Rauch,2018-01-31T11:10:59.845Z,121,DOWNLOADS:SAVING FILES
+40817,Preview for desktop version as well,antoine.luboz,2019-09-24T14:20:41.624Z,0,
+40831,"Typed" history  use our actual typed text...,TsunamiZ,2019-09-24T21:50:23.067Z,5,
+29761,Synchronization of entire history,ROTFL,2018-09-03T10:24:33.190Z,19,SYNC:HISTORY
+40873,Tab thumbnails aspect ratio...,TsunamiZ,2019-09-26T01:33:08.199Z,1,
+40874,Add "select related tabs" to the tab right click menu...,TsunamiZ,2019-09-26T02:14:49.379Z,0,
+40876,Button for "move tab to"...,TsunamiZ,2019-09-26T02:35:40.881Z,0,
+40904,Keep the Overlay Scrollbar missing in Chrome 78,jaibamon,2019-09-26T17:13:02.582Z,1,
+40823,Highlight downloaded file in the file manager when hitting 'show in file manager',M44T,2019-09-24T17:21:41.200Z,1,
+39228,Ways to right click on an image to instantly "open image in new tab"...,TsunamiZ,2019-08-03T22:37:38.374Z,0,
+40957,Windows task bar profile menuitem,wchris,2019-09-28T10:03:28.023Z,0,
+40970,Force default fonts,LonM,2019-09-28T13:50:39.761Z,5,ACCESSIBILITY:FONTS
+40987,Hover color effect for our theme...,TsunamiZ,2019-09-29T00:18:27.421Z,8,
+27734,Scroll to Top / Bottom Buttons,bebotette,2018-05-30T07:20:00.140Z,1,GUI:SCROLLING:BUTTONS
+24482,Portable Version,Stardust,2018-02-01T23:10:40.342Z,32,VIVALDI:PORTABLE
+31343,Make the Vivaldi menu disappear when clicking on the menu button for a second time,Ashtar,2018-10-17T16:20:32.683Z,8,BUTTON:MENU
+41110,Cancel tab dragging by right clicking during the drag...,TsunamiZ,2019-10-03T01:35:57.497Z,1,
+41153,Hotkey to toggle show/hide extensions on the address bar...,TsunamiZ,2019-10-04T07:59:09.675Z,2,SHORTCUTS
+41168,Man pages for Vivaldi,DanielSeplarsky,2019-10-04T16:43:24.975Z,4,
+36391,Twitch Low Latency Support,EasyEdo,2019-04-09T15:29:47.958Z,10,VIDEO:VIDEOPLAYBACK:TWITCH
+41154,"++" button on the tab bar for "clone tab"...,TsunamiZ,2019-10-04T08:32:57.802Z,0,
+41192,Pause/Play videos when leaving/reentering tabs,rkzn,2019-10-05T23:46:35.220Z,3,
+41208,Let us move the "open a new tab" button to the address bar row of buttons...,TsunamiZ,2019-10-06T10:35:29.443Z,1,
+41218,Option to exclude certain bookmarks from search engine,karasinskijan97,2019-10-06T16:39:20.690Z,0,
+33987,Built-in High Level Monitoring Tool (Differential Monitoring),Seasonly,2019-01-21T14:17:03.428Z,8,WEBPAGES
+34019,Open a selection of multiple links...,TsunamiZ,2019-01-22T15:38:59.651Z,2,
+28176,Restart from Menu without Extensions,Para-Noid,2018-06-22T16:17:40.354Z,18,EXTENSION:RESTART
+41114,Disable all extensions,stardepp,2019-10-03T09:55:13.221Z,6,
+41243,Automatically show/hide the extensions toolbar...,TsunamiZ,2019-10-07T21:13:49.195Z,1,
+26211,Disable Confirm Form Resubmission,arbpen,2018-03-26T19:36:23.449Z,0,FORM
+24441,Open-source Vivaldi,Christian.Rauch,2018-02-01T18:36:15.463Z,12,VIVALDI:OPENSOURCE
+41260,Draw a selection box to select tabs...,TsunamiZ,2019-10-08T18:29:18.531Z,1,
+25366,Show icons in context menu,bimlas,2018-02-22T22:30:32.296Z,40,CONTEXT MENU:ICONS
+38823,Improve opening a folder of bookmarks...,TsunamiZ,2019-07-13T20:09:06.529Z,1,
+24131,Show Icons in Search with.. Menu,Pesala,2018-01-31T09:22:57.513Z,56,GUI:ICONS:MENUS
+29274,Autoupdate Open Sessions,mrmeireles,2018-08-10T07:41:38.239Z,15,SESSIONS
+24197,Open and Save Session Dialogues Should Remember their Checkbox State,Pesala,2018-01-31T09:57:31.124Z,12,
+24115,RSS and Atom Reader,zakius,2018-01-31T08:33:55.291Z,92,IN PROGRESS:NEWSFEED:RSS
+41321,Scroll bars to show more typed entries in form field,theinvoker,2019-10-11T17:17:19.950Z,5,
+41342,For users with multiple displays,trevorbrooks,2019-10-12T21:27:30.890Z,0,
+41357,Separate themes for active/inactive/private window...,TsunamiZ,2019-10-13T21:34:29.949Z,4,
+41327,Search multiple search engines at once...,TsunamiZ,2019-10-11T21:09:07.622Z,1,
+24477,"Report a bug" on the main menu,ROTFL,2018-02-01T22:52:04.092Z,18,IN PROGRESS:MENUS:BUG REPORT
+24149,Auto-Reload Options,LonM,2018-01-31T09:33:49.949Z,75,PIPELINE:REFRESH PAGE
+39771,Label links,potmeklecbohdan,2019-08-30T08:58:49.690Z,7,
+41459,Task Manager: Prevent Ending process of Extensions,DJC,2019-10-18T04:10:53.652Z,0,
+35369,Better control of website notification bubbles/popups,Dantesoft,2019-03-10T08:13:00.520Z,2,NOTIFICATIONS
+41481,Put the "delete history item" X button in the front...,TsunamiZ,2019-10-19T02:06:10.839Z,1,
+27261,Context Menu Options for Background Images,LonM,2018-05-08T08:41:24.950Z,17,CONTEXT MENU:IMAGE:BACKGROUND
+28848,Add Firefox's SearchWP Functionality to Vivaldi's Search Field,David.P,2018-07-21T15:15:52.968Z,9,
+41561,More personalization options for card panels  search bar and side panel.,MattSolo45,2019-10-22T08:11:47.696Z,1,
+37494,Hotkey for Profile selection,shrazz,2019-05-18T19:34:26.476Z,6,SHORTCUTS:PROFILES
+41572,Startup option : resume last synced session,VMonsch,2019-10-22T16:12:21.795Z,1,
+41585,Extended quick command menu (F2-menu),Vincent500,2019-10-23T08:48:21.844Z,0,
+25289,Multi-Account Containers,VENIX,2018-02-20T23:46:55.244Z,87,PRIVACY:COOKIES:NICE TO HAVE
+28627,Notification Popups: Time Limit and Enable / Disable,ozoratsubasa,2018-07-12T06:15:54.879Z,3,NOTIFICATIONS
+30247,Find and highlight multiple words in multiple colors...,TsunamiZ,2018-09-22T20:56:09.149Z,13,
+30395,Context menu of the extension icon lacks the extensions own menu items,tonyrulez,2018-09-26T17:33:57.711Z,2,EXTENSION:CONTEXT MENU
+41600,Tabs - indication a request is being processed,RobKlo,2019-10-23T19:50:26.010Z,0,
+39459,Web Bluetooth support,AkosLukacs,2019-08-16T08:28:33.604Z,0,
+24440,Pop-up Blocker,david.cortes,2018-02-01T18:34:53.208Z,13,POP-UP:BLOCK
+26828,Super Drag and Drop,kaiyo,2018-04-20T23:34:44.422Z,23,DRAGANDDROP
+24363,Address Bar Search: Remove "Search Google",phil056,2018-02-01T03:49:09.675Z,20,ADDRESS BAR:GOOGLE:SUGGESTIONS
