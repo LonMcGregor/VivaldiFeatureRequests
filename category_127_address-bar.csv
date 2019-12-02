@@ -4,7 +4,7 @@ ID,Title,Author,Date,Votes,Tags
 25349,Improved Address Bar Search,SirWill,2018-02-22T12:34:21.246Z,9,ADDRESS BAR:SEARCH
 25352,Progress Bar with stats to stick,rojaviv,2018-02-22T14:01:48.840Z,3,ADDRESS BAR
 25470,Merge totally addressfield and quickcommand pop-up/ floating mouse addressfield,Seasonly,2018-02-27T10:47:40.190Z,0,ADDRESS BAR:QUICK COMMANDS
-24542,Enable/disable extensions directly from the address bar,luetage,2018-02-02T11:41:34.480Z,27,EXTENSION:ADDRESS BAR
+24542,Enable/disable extensions directly from the address bar,luetage,2018-02-02T11:41:34.480Z,28,EXTENSION:ADDRESS BAR
 27353,Address Bar Auto-complete Subdomain,hepaticboy,2018-05-12T13:41:53.801Z,2,ADDRESS BAR:AUTOCOMPLETE
 29060,Remove URL from "Typed" Category in Address Bar,Ouroboros4545,2018-07-29T19:46:18.053Z,1,ADDRESS BAR
 29435,Auto-focus Address Bar on Keydown,Nekomajin,2018-08-17T21:08:20.238Z,0,SHORTCUTS:ADDRESS BAR:SPEED DIAL
@@ -18,7 +18,6 @@ ID,Title,Author,Date,Votes,Tags
 30441,Search Keyword + Tab Key -> Display Search Name,dchiner,2018-09-27T07:21:46.300Z,0,ADDRESS BAR:SEARCH ENGINES
 30437,IDN URL in Address Bar and History,udev,2018-09-27T06:29:16.235Z,4,ADDRESS BAR:UNICODE
 30740,Focus address bar when creating a new tab and address bar hidden,Omen_20,2018-10-01T23:29:13.503Z,7,ADDRESS BAR:FOCUS
-30741,Place Address Bar in Window Chrome,Omen_20,2018-10-01T23:47:51.201Z,6,ADDRESS BAR:TITLE BAR
 31152,Remove Search command from Typed History,lamantin,2018-10-12T12:00:25.087Z,1,ADDRESS BAR:SEARCH:HISTORY
 31232,Access Screenshot Function from Addressbar,stanikki,2018-10-14T18:24:21.653Z,1,ADDRESS BAR:SCREEN CAPTURE
 31300,Option to Share Light Links,antoine.luboz,2018-10-16T11:18:03.304Z,1,ADDRESS BAR:LINKS:SHARING
@@ -26,7 +25,6 @@ ID,Title,Author,Date,Votes,Tags
 30085,Add a Load Wait Effect Before Getting a Response,hentioe,2018-09-16T06:26:20.103Z,38,ADDRESS BAR:LOADING:CONNECTION:SERVER
 31766,Option to Disable Smoothing of the Progress Bar,LastExceed,2018-10-29T11:12:23.793Z,1,ADDRESS BAR
 31801,Clear browsing data button on the Address bar,Stardust,2018-10-30T00:16:26.041Z,11,ADDRESS BAR
-24400,Downloads Button Popup,kurevska_registracia,2018-02-01T10:59:56.662Z,23,ADDRESS BAR:DOWNLOADS:BUTTON:MENU
 32327,More Search Suggestions in Address Bar,Ashtar,2018-11-18T13:20:06.180Z,6,ADDRESS BAR:SUGGESTIONS
 31953,Firefox-style Zoom Buttons on the Address Bar,Stardust,2018-11-04T21:00:29.993Z,12,ADDRESS BAR:ZOOM
 32486,"Show typed history" Down Arrow Shouldn't Move.,jcdewan,2018-11-24T02:24:17.647Z,0,ADDRESS BAR:TYPED HISTORY
@@ -39,7 +37,7 @@ ID,Title,Author,Date,Votes,Tags
 33016,Focus the Address Bar after Pressing the Home Button,saudiqbal,2018-12-13T22:33:57.777Z,1,ADDRESS BAR:HOME PAGE
 33254,Auto-Show Address Bar below Tabs on Mouse Hover,spymunna,2018-12-20T06:28:04.051Z,3,ADDRESS BAR:AUTO-HIDE
 25831,Multiple Simultaneous Searches Using Nicknames,karel.ulman,2018-03-12T20:09:34.476Z,11,ADDRESS BAR:SEARCH ENGINES:NICKNAMES
-33782,Multi parameter search,potmeklecbohdan,2019-01-12T10:09:51.139Z,3,SEARCH
+33782,Multi parameter search,potmeklecbohdan,2019-01-12T10:09:51.139Z,4,SEARCH
 33911,Select URL field when opening new page when address bar is not shown,E3a6YgawATmGI2J,2019-01-18T16:49:19.710Z,2,ADDRESS BAR
 33912,Keyboard shortcut for "open previous in new tab",E3a6YgawATmGI2J,2019-01-18T16:56:06.365Z,0,SHORTCUTS:KEYBOARD
 34378,Use Text in the Address Bar as input for search (right click option),opera6rules,2019-02-06T19:53:47.866Z,1,ADDRESS BAR:SEARCH
@@ -60,11 +58,10 @@ ID,Title,Author,Date,Votes,Tags
 36676,Support Hard Reload,terere,2019-04-18T23:51:07.794Z,13,TOOLBAR:RELOAD
 35011,Exist bookmark (change bookmark icon),matiasmovie,2019-02-26T23:46:22.910Z,1,BOOKMARKS:ADDRESS BAR:COLOR
 35940,Autocomplete with just the domain part  not full URL,Avi,2019-03-28T15:10:47.625Z,15,ADDRESS BAR:AUTOCOMPLETE
-27964,Hide Address Bar in Popup Windows,cxw,2018-06-12T22:08:32.041Z,8,ADDRESS BAR:POPUP
+27964,Hide Address Bar in Popup Windows,cxw,2018-06-12T22:08:32.041Z,9,ADDRESS BAR:POPUP
 37653,Separate hide and remove for buttons,Hirumo,2019-05-25T04:53:31.696Z,1,EXTENSION:TOOLBAR:BUTTONS:HIDDEN:OPTION
 37731,[SUGGESTION][SPEED DIAL] Right click address to add to speed dial.,ph4nt0m117,2019-05-28T15:43:37.013Z,0,
 29677,Split address into breadcrumbs for Ctrl+Click discoverability,ROTFL,2018-08-29T13:40:37.776Z,12,ADDRESS BAR:URL:DISCOVERABILITY
-24964,Option to Open a URL / Search Results in a New Tab from the Address Bar with "Enter",ysul0614,2018-02-11T20:23:45.171Z,19,SHORTCUTS:ADDRESS BAR:NEW TAB
 37863,Vivaldi UI at low width window size,S_Paternotte,2019-06-03T16:20:10.965Z,3,GUI:ACCESSIBILITY:UI DESIGN:A11Y:RESPONSIVENESS
 38020,Search engine keyboard shortcuts,alexander.koll,2019-06-09T20:09:51.506Z,0,
 38597,Focus Page if Addressbar is deactivated,JulianSteinmann,2019-07-02T20:03:08.095Z,0,SETTINGS:ADDRESS BAR:FOCUS
@@ -80,25 +77,34 @@ ID,Title,Author,Date,Votes,Tags
 39364,Autocomplete nicknames or part of the link that isn't the start,Takaani,2019-08-11T18:07:53.136Z,0,
 37893,Hide EV certificate badge in url field,S_Paternotte,2019-06-04T19:51:45.890Z,11,ADDRESS BAR:SECURITY:WILL NOT DO:CERTIFICATES:SSL
 39452,Add a go to/begin search icon in adressbar/searchbar,Hytnex,2019-08-15T23:53:25.975Z,0,ADDRESS BAR:GO BUTTON
-28801,Add ALT+D as a Default Hotkey for Focus Address Field,TsunamiZ,2018-07-19T21:44:01.740Z,6,SHORTCUTS:KEYBOARD
 34862,Netflix "Add as search engine",enyap,2019-02-20T21:47:36.571Z,0,SEARCH ENGINES
 39510,Make sections in address bar drop-down orderable (and their length customizable),felagund,2019-08-19T20:45:08.266Z,2,ADDRESS BAR
 39509,Make the search section in addess bar drop-down optional,felagund,2019-08-19T20:17:59.163Z,3,
-33658,Full Address Syntax Highlighting,orbik,2019-01-07T22:39:49.361Z,19,ADDRESS BAR:HIGHLIGHT
 30278,Address Drop Down: Delete Highlighted Items with Delete Key,TsunamiZ,2018-09-23T21:43:50.200Z,0,ADDRESS BAR
 34899,Show timer inside address bar to show waiting for response.,saudiqbal,2019-02-22T06:14:52.455Z,27,ADDRESS BAR:STATUS BAR
 39785,Add; change 'search engine' treeview  to the address bar right click context menu.,m3trik,2019-08-30T19:59:33.723Z,0,ADDRESS BAR:SEARCH ENGINES:SEARCH:MENUS
-31878,Combine Window Title and Address Bar when Tabs are on the Side,mathiasbr,2018-11-01T15:51:59.685Z,33,ADDRESS BAR:TAB BAR:TITLE BAR
+31878,Combine Window Title and Address Bar when Tabs are on the Side,mathiasbr,2018-11-01T15:51:59.685Z,35,ADDRESS BAR:TAB BAR:TITLE BAR
 37487,Address bar and search bar color in incognito mode,witherzuo,2019-05-18T13:56:18.101Z,3,ADDRESS BAR:SEARCH BAR
 40118,Select link parameters,deer95,2019-09-10T09:39:32.418Z,1,
 40132,Input language independent URL autocomplete,Fugu90,2019-09-10T14:15:51.205Z,0,ADDRESS BAR:LANGUAGE:IME
-24740,Add Chrome-Like URL Completion & Quicksearch,shooterbret,2018-02-05T21:26:41.776Z,35,ADDRESS BAR:SEARCH ENGINES:SEARCH:AUTOCOMPLETE
 24467,Option to Move Menu Button to Address Bar,Stardust,2018-02-01T21:15:16.098Z,7,ADDRESS BAR:CUSTOMIZE:BUTTON:MENU
 39276,Arrow keys in Search Box,mikiqex,2019-08-07T05:52:48.698Z,2,SHORTCUTS:SEARCH ENGINES:SEARCH BAR
 29924,Focus Address Bar on a New Tab in Fullscreen,zook,2018-09-10T01:44:01.762Z,2,ADDRESS BAR:FULLSCREEN
-41039,Scroll over search icon to change search engine,mosesnarrow,2019-10-01T00:38:25.448Z,3,
-33256,Toggle non-hidden extension buttons  like pre-2.2,inchieri,2018-12-20T07:47:45.719Z,3,EXTENSION:TOOLBAR
+41039,Scroll over search icon to change search engine,mosesnarrow,2019-10-01T00:38:25.448Z,4,
 41325,Opening multiple entries from address bar dropdown,VVivid,2019-10-11T20:17:32.751Z,2,BUG
 41443,(better) use for about:config  vivaldi:config and similar,HughMongoose,2019-10-17T11:59:19.938Z,2,
-41268,Move Vivaldi Menu (V Button) down left or right,stardepp,2019-10-09T09:08:14.376Z,3,
+41268,Move Vivaldi Menu (V Button) down left or right,stardepp,2019-10-09T09:08:14.376Z,4,
 41467,"Customize" view for buttons,madiso,2019-10-18T10:36:40.703Z,4,TOOLBAR
+30741,Place Address Bar in Window Chrome,Omen_20,2018-10-01T23:47:51.201Z,7,ADDRESS BAR:TITLE BAR
+41858,Option to merge the bookmarks bar into the address bar.,0asdf,2019-11-03T18:39:43.742Z,3,
+28801,Add ALT+D as a Default Hotkey for Focus Address Field,TsunamiZ,2018-07-19T21:44:01.740Z,7,SHORTCUTS:KEYBOARD
+33256,Toggle non-hidden extension buttons  like pre-2.2,inchieri,2018-12-20T07:47:45.719Z,6,EXTENSION:TOOLBAR
+24964,Option to Open a URL / Search Results in a New Tab from the Address Bar with "Enter",ysul0614,2018-02-11T20:23:45.171Z,20,SHORTCUTS:ADDRESS BAR:NEW TAB
+42133,Don't take focus away from address bar if url redirects,sushubh,2019-11-13T12:37:01.144Z,1,
+42278,Treat space as any url separator for showing searched keyword in frequently visited pages,sushubh,2019-11-20T21:48:53.836Z,0,
+24740,Add Chrome-Like URL Completion & Quicksearch,shooterbret,2018-02-05T21:26:41.776Z,37,ADDRESS BAR:SEARCH ENGINES:SEARCH:AUTOCOMPLETE
+42313,Shouldn't clear text in address bar while switching tabs,ndaidong,2019-11-22T04:54:53.147Z,1,
+24400,Downloads Button Popup,kurevska_registracia,2018-02-01T10:59:56.662Z,24,ADDRESS BAR:DOWNLOADS:BUTTON:MENU
+33658,Full Address Syntax Highlighting,orbik,2019-01-07T22:39:49.361Z,24,ADDRESS BAR:HIGHLIGHT
+42386,Move Extension Icons  Change Mouse Button Config  I-Beam On Address Bar for New Tab,Omnipoint,2019-11-26T15:40:28.302Z,0,
+42387,Enhanced address bar,benn83,2019-11-26T15:58:21.959Z,0,
