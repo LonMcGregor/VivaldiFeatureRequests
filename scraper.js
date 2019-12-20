@@ -8,11 +8,12 @@ javascript:(function csv(){
             const tags = Array.from(topic.querySelectorAll(".tag"));
             const author = topic.querySelector(".avatar").getAttribute("data-original-title");
             const date = topic.querySelector(".timeago").getAttribute("datetime");
-            const votes = topic.querySelector(".stats > span").innerText;
+            const votes = topic.querySelector(".stats-votes > span").title;
+            const postcount = topic.querySelector(".stats-postcount > span").title;
+            const viewcount = topic.querySelector(".stats-viewcount > span").title;
             const topicId = topic.getAttribute("data-tid");
-
             const tagText = tags.reduce((prev, curr, index, arr) => prev + curr.innerText + ((index + 1 === arr.length) ? "" : ":"), "");
-            const topicCsv = `${topicId},${title},${author},${date},${votes},${tagText}`;
+            const topicCsv = `${topicId},${title},${author},${date},${votes},${tagText},${postcount},${viewcount}`;
             data.push(topicCsv);
         });
     }

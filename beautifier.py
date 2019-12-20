@@ -8,14 +8,14 @@
 ALL_DATA = []
 TAGS = {}
 DATA_FILES = [
-    ["category_113_desktop.csv", ["DESKTOP"]],
+    ["category_113_feature-requests-for-desktop.csv", ["DESKTOP"]],
     ["category_127_address-bar.csv", ["DESKTOP", "ADDRESS BAR"]],
     ["category_128_bookmarks.csv", ["DESKTOP", "BOOKMARKS"]],
     ["category_129_panels.csv", ["DESKTOP", "PANELS"]],
     ["category_130_settings.csv", ["DESKTOP", "SETTINGS"]],
     ["category_131_tabs.csv", ["DESKTOP", "TABS"]],
     ["category_132_themes.csv", ["DESKTOP", "THEMES"]],
-    ["category_136_android.csv", ["ANDROID"]]
+    ["category_136_feature-requests-for-android.csv", ["ANDROID"]]
 ]
 
 def readAFile(filename, base_tags):
@@ -26,6 +26,13 @@ def readAFile(filename, base_tags):
             csv = line.strip()
             csv = csv.replace("\"", "'")
             items = csv.split(",")
+            title = items[1]
+            author = items[2]
+            date = items[3]
+            votes = items[4]
+            postcount = items[6]
+            viewcount = items[7]
+            topicId = items[0]
             tags = items[5].split(":")
             try:
                 tags.remove("")
@@ -39,7 +46,8 @@ def readAFile(filename, base_tags):
                     TAGS[tag] += 1
                 else:
                     TAGS[tag] = 1
-            topic = '["' + '","'.join(items[0:5]) + '",' + '["' + '","'.join(tags) + '"]]'
+            tagsList = '","'.join(tags)
+            topic = '[%s,"%s","%s","%s",%s,%s,%s,%s]' % (topicId, title, author, date, votes, tags, postcount, viewcount)
             ALL_DATA.append(topic)
 
 for file in DATA_FILES:

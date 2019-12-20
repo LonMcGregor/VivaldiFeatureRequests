@@ -176,7 +176,7 @@ class TagItem extends FilterableElement {
 }
 
 class FeatureRequest extends FilterableElement {
-    constructor(id, title, author, date, score, tags) {
+    constructor(id, title, author, date, score, tags, posts, views) {
         super(title);
 
         this.id = id;
@@ -185,6 +185,8 @@ class FeatureRequest extends FilterableElement {
         this.date = date;
         this.score = score;
         this.tags = tags;
+        this.posts = posts;
+        this.views = views;
 
         const shadow = this.attachShadow({mode: "open"});
 
@@ -192,8 +194,16 @@ class FeatureRequest extends FilterableElement {
         titletag.innerText = title;
         titletag.target = "_blank";
         titletag.href = "https://forum.vivaldi.net/topic/" + this.id;
-        const scoretag = document.createElement("span");
+        titletag.rel = "noreferrer";
+        const scoretag = document.createElement("strong");
         scoretag.innerText = score;
+        scoretag.title = score + " votes";
+        const viewcount = document.createElement("i");
+        viewcount.innerText = views + "v";
+        viewcount.title = views + " views";
+        const postcount = document.createElement("i");
+        postcount.innerText = posts + "r";
+        postcount.title = posts + " replies";
         const taglist = document.createElement("div");
         this.tags.forEach(tag => {
             const tagspan = document.createElement("span");
@@ -213,6 +223,10 @@ class FeatureRequest extends FilterableElement {
                 padding: 4px;
                 margin: 2px;
             }
+            i {
+                display: inline-block;
+                margin-left: 4px;
+            }
             div > span {
                 text-transform: lowercase;
                 border: 1px solid #eeeeee;
@@ -224,6 +238,8 @@ class FeatureRequest extends FilterableElement {
 
         shadow.appendChild(scoretag);
         shadow.appendChild(titletag);
+        shadow.appendChild(viewcount);
+        shadow.appendChild(postcount);
         shadow.appendChild(taglist);
         shadow.appendChild(shadowStyle);
     }
@@ -267,7 +283,7 @@ TAGS.forEach(tag => {
 });
 
 DATA.forEach(item => {
-    const fr = new FeatureRequest(item[0], item[1], item[2], item[3], item[4], item[5]);
+    const fr = new FeatureRequest(item[0], item[1], item[2], item[3], item[4], item[5], item[6], item[7]);
     document.querySelector("main").appendChild(fr);
 });
 
