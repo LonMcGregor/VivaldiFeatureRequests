@@ -66,3 +66,77 @@ feature-request:hover {
 feature-request[hidden], tag-item[hidden] {
     visibility: hidden;
 }
+
+
+div#loading {
+    text-align: center;
+    font-size: xx-large;
+    margin: 40px;
+}
+
+div#loading:after,
+div#loading:before {
+    content: '';
+    width: 16px;
+    display: block;
+    height: 16px;
+    border-radius: 50%;
+    animation-duration: 4s;
+    animation-timing-function: cubic-bezier(0.68, -0.55, 0.27, 1.55);
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-fill-mode: none;
+    animation-play-state: running;
+    animation-name: loading;
+    position: relative;
+}
+
+
+div#loading:after {
+    background: #bfbfbf;
+}
+
+div#loading:before {
+    background: #6b6b6b;
+    animation-direction: reverse;
+    bottom: 7px;
+}
+
+@keyframes loading {
+    0% {
+        left: 20%;
+    }
+    50% {
+        left: 80%;
+    }
+    100% {
+        left: 20%;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        color: yellow;
+        background: black;
+    }
+    a, a:link {
+        color: lightskyblue;
+    }
+    a:visited {
+        color: plum;
+    }
+
+    tag-item {
+        background: pink;
+        border-color: #ffffff;
+        color: black;
+    }
+
+    tag-item[unselected] {
+        opacity: 0.5;
+        color: yellow;
+        border-color: #eeeeee;
+        background: transparent;
+    }
+}

@@ -219,6 +219,7 @@ class FeatureRequest extends FilterableElement {
                 font-size: large;
                 margin: 4px;
             }
+
             div {
                 padding: 4px;
                 margin: 2px;
@@ -233,6 +234,18 @@ class FeatureRequest extends FilterableElement {
                 border-radius: 3px;
                 margin: 4px;
                 padding: 2px;
+            }
+
+            @media (prefers-color-scheme: dark) {
+                a, a:link {
+                    color: lightskyblue;
+                }
+                a:visited {
+                    color: plum;
+                }
+                div > span {
+                    border: 1px solid #222222;
+                }
             }
         `;
 
