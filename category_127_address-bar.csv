@@ -1,114 +1,125 @@
 ID,Title,Author,Date,Votes,Tags
-24714,Automatically remove/ignore whitespace in address bar,,2018-02-05T12:40:07.195Z,6,ADDRESS BAR:PASTE,4,601
-24946,Swapping Title and URL in Omnibox,,2018-02-11T09:01:54.446Z,0,ADDRESS BAR:CUSTOMIZE:OMNIBOX,1,495
-25349,Improved Address Bar Search,,2018-02-22T12:34:21.246Z,9,ADDRESS BAR:SEARCH,2,604
-25352,Progress Bar with stats to stick,,2018-02-22T14:01:48.840Z,3,ADDRESS BAR,6,942
-25470,Merge totally addressfield and quickcommand pop-up/ floating mouse addressfield,,2018-02-27T10:47:40.190Z,0,ADDRESS BAR:QUICK COMMANDS,1,605
-24542,Enable/disable extensions directly from the address bar,,2018-02-02T11:41:34.480Z,28,EXTENSION:ADDRESS BAR,8,1600
-27353,Address Bar Auto-complete Subdomain,,2018-05-12T13:41:53.801Z,2,ADDRESS BAR:AUTOCOMPLETE,1,540
-29060,Remove URL from "Typed" Category in Address Bar,,2018-07-29T19:46:18.053Z,1,ADDRESS BAR,1,346
-29435,Auto-focus Address Bar on Keydown,,2018-08-17T21:08:20.238Z,0,SHORTCUTS:ADDRESS BAR:SPEED DIAL,6,593
-25760,Position of Address Bar for Tiled Tabs,,2018-03-09T11:40:08.662Z,5,ADDRESS BAR:TILING,6,845
-29752,Search Field Dictionary Popup,,2018-09-02T22:49:33.171Z,0,EXTENSION:ADDRESS BAR:POP-UP:DICTIONARY,9,593
-29933,Autocomplete Chrome: Prefixes,,2018-09-10T02:50:00.713Z,0,ADDRESS BAR:AUTOCOMPLETE,3,346
-29972,Add option to move or remove title from address bar autocomplete,,2018-09-11T04:53:48.900Z,2,ADDRESS BAR:TITLE,1,322
-29817,Anti-Phishing Address Bar,,2018-09-06T00:57:28.908Z,2,ADDRESS BAR:SECURITY:CERTIFICATES:PAYPAL,13,991
+24740,Add Chrome-Like URL Completion & Quicksearch,,2018-02-05T21:26:41.776Z,42,ADDRESS BAR:SEARCH ENGINES:SEARCH:AUTOCOMPLETE,23,2530
+31878,Combine Window Title and Address Bar when Tabs are on the Side,,2018-11-01T15:51:59.685Z,42,ADDRESS BAR:TAB BAR:TITLE BAR,6,1194
+30085,Add a Load Wait Effect Before Getting a Response,,2018-09-16T06:26:20.103Z,38,ADDRESS BAR:LOADING:CONNECTION:SERVER,8,938
+24400,Downloads Button Popup,,2018-02-01T10:59:56.662Z,30,ADDRESS BAR:DOWNLOADS:BUTTON:MENU,11,1545
+24542,Enable/disable extensions directly from the address bar,,2018-02-02T11:41:34.480Z,29,EXTENSION:ADDRESS BAR,8,1603
+34899,Show timer inside address bar to show waiting for response.,,2019-02-22T06:14:52.455Z,27,ADDRESS BAR:STATUS BAR,15,848
+24576,Show Tab and Address Bar in Fullscreen by Hovering at Top of Screen,,2018-02-02T17:00:53.817Z,26,TABS:ADDRESS BAR:AUTO-HIDE,10,1757
+24964,Option to Open a URL / Search Results in a New Tab from the Address Bar with "Enter",,2018-02-11T20:23:45.171Z,25,SHORTCUTS:ADDRESS BAR:NEW TAB,38,3260
+33658,Full Address Syntax Highlighting,,2019-01-07T22:39:49.361Z,25,ADDRESS BAR:HIGHLIGHT,9,573
+32866,Show Full URL by Default,,2018-12-09T15:25:35.080Z,24,ADDRESS BAR:SECURITY:URL,7,872
+25209,Address Bar and Tab Bar on a Single Line,,2018-02-18T18:22:46.587Z,17,ADDRESS BAR:TAB BAR,6,1056
+35940,Autocomplete with just the domain part  not full URL,,2019-03-28T15:10:47.625Z,16,ADDRESS BAR:AUTOCOMPLETE,4,332
+36676,Support Hard Reload,,2019-04-18T23:51:07.794Z,15,TOOLBAR:RELOAD,10,643
+44585,Option to disable/hide tracker blocker completely,,2020-03-02T15:09:02.541Z,14,,9,161
+29677,Split address into breadcrumbs for Ctrl+Click discoverability,,2018-08-29T13:40:37.776Z,13,ADDRESS BAR:URL:DISCOVERABILITY,7,662
+31953,Firefox-style Zoom Buttons on the Address Bar,,2018-11-04T21:00:29.993Z,13,ADDRESS BAR:ZOOM,10,1342
+25831,Multiple Simultaneous Searches Using Nicknames,,2018-03-12T20:09:34.476Z,12,ADDRESS BAR:SEARCH ENGINES:NICKNAMES,11,1776
+31801,Clear browsing data button on the Address bar,,2018-10-30T00:16:26.041Z,12,ADDRESS BAR,4,562
+36019,Enhanced Calculator,,2019-03-30T12:04:07.347Z,12,QUICK COMMANDS:CALCULATOR,16,897
+37893,Hide EV certificate badge in url field,,2019-06-04T19:51:45.890Z,11,ADDRESS BAR:SECURITY:WILL NOT DO:CERTIFICATES:SSL,30,836
+27964,Hide Address Bar in Popup Windows,,2018-06-12T22:08:32.041Z,10,ADDRESS BAR:POPUP,5,1235
+25349,Improved Address Bar Search,,2018-02-22T12:34:21.246Z,10,ADDRESS BAR:SEARCH,2,605
+24467,Option to Move Menu Button to Address Bar,,2018-02-01T21:15:16.098Z,10,ADDRESS BAR:CUSTOMIZE:BUTTON:MENU,2,820
+30740,Focus address bar when creating a new tab and address bar hidden,,2018-10-01T23:29:13.503Z,10,ADDRESS BAR:FOCUS,2,335
+30938,Selecting a Typed Item should Add the Typed Text to the Address Bar,,2018-10-06T11:32:27.485Z,8,ADDRESS BAR,2,407
+33256,Toggle non-hidden extension buttons  like pre-2.2,,2018-12-20T07:47:45.719Z,9,EXTENSION:TOOLBAR,10,476
+36031,Overflow Dropdown,,2019-03-30T17:42:27.182Z,8,ADDRESS BAR:CUSTOMIZE:TOOLBAR,3,276
+41039,Scroll over search icon to change search engine,,2019-10-01T00:38:25.448Z,9,,1,36
+35847,Drag & drop toolbar buttons now live… but not for all buttons,,2019-03-27T12:40:58.826Z,8,CUSTOMIZE:TOOLBAR,8,296
+45795,clock with the date display witch the Year,,2020-04-17T08:42:58.343Z,8,,8,81
+30741,Place Address Bar in Window Chrome,,2018-10-01T23:47:51.201Z,7,ADDRESS BAR:TITLE BAR,4,513
+32327,More Search Suggestions in Address Bar,,2018-11-18T13:20:06.180Z,6,ADDRESS BAR:SUGGESTIONS,4,544
+32519,More Search Engine Options in Address bar,,2018-11-25T09:18:02.125Z,7,ADDRESS BAR:SEARCH ENGINES,21,489
+28801,Add ALT+D as a Default Hotkey for Focus Address Field,,2018-07-19T21:44:01.740Z,7,SHORTCUTS:KEYBOARD,9,591
+24714,Automatically remove/ignore whitespace in address bar,,2018-02-05T12:40:07.195Z,6,ADDRESS BAR:PASTE,4,603
+43723,Ability to change addressbar colors,,2020-01-26T14:45:12.276Z,6,,2,53
+25760,Position of Address Bar for Tiled Tabs,,2018-03-09T11:40:08.662Z,5,ADDRESS BAR:TILING,6,847
+30437,IDN URL in Address Bar and History,,2018-09-27T06:29:16.235Z,5,ADDRESS BAR:UNICODE,7,508
+32503,Fast Forward link selection,,2018-11-24T18:33:46.113Z,5,,1,149
+41858,Option to merge the bookmarks bar into the address bar.,,2019-11-03T18:39:43.742Z,5,,4,176
+29924,Focus Address Bar on a New Tab in Fullscreen,,2018-09-10T01:44:01.762Z,4,ADDRESS BAR:FULLSCREEN,3,567
 30086,Hide Scheme (http/https) based on displaying the full address,,2018-09-16T06:39:06.835Z,4,ADDRESS BAR:HTTPS,2,472
-30276,Shift+Click to Open a New Tab in Search Bar,,2018-09-23T20:38:53.620Z,0,ADDRESS BAR:NEW TAB:SEARCH BAR,3,387
-30441,Search Keyword + Tab Key -> Display Search Name,,2018-09-27T07:21:46.300Z,0,ADDRESS BAR:SEARCH ENGINES,1,278
-30437,IDN URL in Address Bar and History,,2018-09-27T06:29:16.235Z,5,ADDRESS BAR:UNICODE,7,507
-30740,Focus address bar when creating a new tab and address bar hidden,,2018-10-01T23:29:13.503Z,9,ADDRESS BAR:FOCUS,2,329
+32618,Option to Not Include History in Address Field Drop-down Menu,,2018-11-29T23:12:47.132Z,4,ADDRESS BAR:BROWSER HISTORY,2,281
+32860,Option to remove Extension toggle button,,2018-12-09T12:19:54.412Z,4,EXTENSION:TOOLBAR,11,489
+33782,Multi parameter search,,2019-01-12T10:09:51.139Z,4,SEARCH,1,257
+37487,Address bar and search bar color in incognito mode,,2019-05-18T13:56:18.101Z,4,ADDRESS BAR:SEARCH BAR,2,247
+37863,Vivaldi UI at low width window size,,2019-06-03T16:20:10.965Z,4,GUI:ACCESSIBILITY:UI DESIGN:A11Y:RESPONSIVENESS,2,181
+38480,Show current connection security via the padlock,,2019-06-26T23:20:41.970Z,3,SECURITY:CERTIFICATE:ENCRYPTION:CIPHER,3,220
+41268,Move Vivaldi Menu (V Button) down left or right,,2019-10-09T09:08:14.376Z,4,,2,86
+41467,"Customize" view for buttons,,2019-10-18T10:36:40.703Z,4,,6,100
+45763,Ability to move profile icon after extensions icons,,2020-04-16T07:43:23.496Z,4,,1,23
+25352,Progress Bar with stats to stick,,2018-02-22T14:01:48.840Z,3,ADDRESS BAR,6,942
+31409,Bookmarklets replaces the URL in the address bar,,2018-10-19T11:40:41.996Z,3,ADDRESS BAR:JAVASCRIPT,7,579
+33254,Auto-Show Address Bar below Tabs on Mouse Hover,,2018-12-20T06:28:04.051Z,3,ADDRESS BAR:AUTO-HIDE,1,237
+33138,2nd & 3rd Search Bar,,2018-12-17T05:11:46.757Z,3,ADDRESS BAR:SEARCH ENGINES,4,492
+35587,Collapse menu on click when menu is expanded,,2019-03-18T20:57:26.808Z,3,MENU BAR,1,143
+38877,Add "one click" bookmarking option,,2019-07-16T19:58:18.066Z,3,,3,195
+39276,Arrow keys in Search Box,,2019-08-07T05:52:48.698Z,3,SHORTCUTS:SEARCH ENGINES:SEARCH BAR,5,185
+39509,Make the search section in addess bar drop-down optional,,2019-08-19T20:17:59.163Z,3,,3,52
+41443,(better) use for about:config  vivaldi:config and similar,,2019-10-17T11:59:19.938Z,3,,6,176
+42749,Switch to opened tabs from the address bar,,2019-12-14T22:40:56.275Z,3,,4,132
+45212,Option to replace the start page search box with the address bar,,2020-03-25T15:50:36.745Z,3,,7,68
+27353,Address Bar Auto-complete Subdomain,,2018-05-12T13:41:53.801Z,2,ADDRESS BAR:AUTOCOMPLETE,1,540
+29703,Controlling Addresses found like /etc/hosts redirects names.,,2018-08-31T00:05:02.009Z,1,ADDRESS BAR:REDIRECTION,15,1129
+29817,Anti-Phishing Address Bar,,2018-09-06T00:57:28.908Z,2,ADDRESS BAR:SECURITY:CERTIFICATES:PAYPAL,13,991
+29972,Add option to move or remove title from address bar autocomplete,,2018-09-11T04:53:48.900Z,2,ADDRESS BAR:TITLE,1,322
+33911,Select URL field when opening new page when address bar is not shown,,2019-01-18T16:49:19.710Z,2,ADDRESS BAR,1,155
+35011,Exist bookmark (change bookmark icon),,2019-02-26T23:46:22.910Z,1,BOOKMARKS:ADDRESS BAR:COLOR,3,287
+39510,Make sections in address bar drop-down orderable (and their length customizable),,2019-08-19T20:45:08.266Z,2,ADDRESS BAR,1,30
+41325,Opening multiple entries from address bar dropdown,,2019-10-11T20:17:32.751Z,2,BUG,3,396
+42495,Open typed URL in background,,2019-12-03T07:00:41.720Z,2,,8,66
+44526,"Show full address" should affect more of the UI,,2020-02-28T10:50:59.366Z,2,,1,25
+29060,Remove URL from "Typed" Category in Address Bar,,2018-07-29T19:46:18.053Z,1,ADDRESS BAR,1,346
 31152,Remove Search command from Typed History,,2018-10-12T12:00:25.087Z,1,ADDRESS BAR:SEARCH:HISTORY,3,339
 31300,Option to Share Light Links,,2018-10-16T11:18:03.304Z,1,ADDRESS BAR:LINKS:SHARING,8,558
-30938,Selecting a Typed Item should Add the Typed Text to the Address Bar,,2018-10-06T11:32:27.485Z,8,ADDRESS BAR,2,406
-30085,Add a Load Wait Effect Before Getting a Response,,2018-09-16T06:26:20.103Z,38,ADDRESS BAR:LOADING:CONNECTION:SERVER,8,935
 31766,Option to Disable Smoothing of the Progress Bar,,2018-10-29T11:12:23.793Z,1,ADDRESS BAR,1,268
-31801,Clear browsing data button on the Address bar,,2018-10-30T00:16:26.041Z,11,ADDRESS BAR,4,558
-32327,More Search Suggestions in Address Bar,,2018-11-18T13:20:06.180Z,6,ADDRESS BAR:SUGGESTIONS,4,542
-31953,Firefox-style Zoom Buttons on the Address Bar,,2018-11-04T21:00:29.993Z,12,ADDRESS BAR:ZOOM,10,1338
-32486,"Show typed history" Down Arrow Shouldn't Move.,,2018-11-24T02:24:17.647Z,0,ADDRESS BAR:TYPED HISTORY,1,247
-32503,Fast Forward link selection,,2018-11-24T18:33:46.113Z,5,,1,149
-32589,Delete Search History from Address Bar,,2018-11-28T15:14:23.627Z,0,ADDRESS BAR:SEARCH:HISTORY,2,346
-32618,Option to Not Include History in Address Field Drop-down Menu,,2018-11-29T23:12:47.132Z,4,ADDRESS BAR:BROWSER HISTORY,2,281
-32866,Show Full URL by Default,,2018-12-09T15:25:35.080Z,24,ADDRESS BAR:SECURITY:URL,7,871
 33016,Focus the Address Bar after Pressing the Home Button,,2018-12-13T22:33:57.777Z,1,ADDRESS BAR:HOME PAGE,2,286
-33254,Auto-Show Address Bar below Tabs on Mouse Hover,,2018-12-20T06:28:04.051Z,3,ADDRESS BAR:AUTO-HIDE,1,237
-25831,Multiple Simultaneous Searches Using Nicknames,,2018-03-12T20:09:34.476Z,11,ADDRESS BAR:SEARCH ENGINES:NICKNAMES,11,1775
-33782,Multi parameter search,,2019-01-12T10:09:51.139Z,4,SEARCH,1,257
-33911,Select URL field when opening new page when address bar is not shown,,2019-01-18T16:49:19.710Z,2,ADDRESS BAR,1,155
+33912,Keyboard shortcut for "open previous in new tab",,2019-01-18T16:56:06.365Z,1,SHORTCUTS:KEYBOARD,3,150
 34378,Use Text in the Address Bar as input for search (right click option),,2019-02-06T19:53:47.866Z,1,ADDRESS BAR:SEARCH,3,238
-34507,Autocompletion of the address,,2019-02-09T18:37:14.687Z,0,ADDRESS BAR:SEARCH:SEARCH BAR:AUTOCOMPLETE,1,214
 34657,Improve Performance of Selecting in the Address Field Drop-down Menu,,2019-02-14T19:09:48.730Z,1,ADDRESS BAR,2,206
-31409,Bookmarklets replaces the URL in the address bar,,2018-10-19T11:40:41.996Z,1,ADDRESS BAR:JAVASCRIPT,3,523
 35583,Defined bookmarks for address bar instead typed history,,2019-03-18T19:14:00.781Z,1,BOOKMARKS:ADDRESS BAR:TYPED HISTORY,1,137
-25209,Address Bar and Tab Bar on a Single Line,,2018-02-18T18:22:46.587Z,17,ADDRESS BAR:TAB BAR,6,1055
-35587,Collapse menu on click when menu is expanded,,2019-03-18T20:57:26.808Z,3,MENU BAR,1,143
-29703,Controlling Addresses found like /etc/hosts redirects names.,,2018-08-31T00:05:02.009Z,1,ADDRESS BAR:REDIRECTION,15,1129
-35847,Drag & drop toolbar buttons now live… but not for all buttons,,2019-03-27T12:40:58.826Z,7,CUSTOMIZE:TOOLBAR,8,295
-36031,Overflow Dropdown,,2019-03-30T17:42:27.182Z,8,ADDRESS BAR:CUSTOMIZE:TOOLBAR,3,271
-33138,2nd & 3rd Search Bar,,2018-12-17T05:11:46.757Z,3,ADDRESS BAR:SEARCH ENGINES,4,492
-36402,Adding the Yandex search engine,,2019-04-09T20:00:54.274Z,0,SEARCH ENGINES,2,264
-36742,Play media URLs internally,,2019-04-21T22:24:48.696Z,0,,3,181
-36019,Enhanced Calculator,,2019-03-30T12:04:07.347Z,11,QUICK COMMANDS:CALCULATOR,16,892
-36585,Change search engine by clicking icon in address bar,,2019-04-15T17:04:52.148Z,0,,9,349
-35011,Exist bookmark (change bookmark icon),,2019-02-26T23:46:22.910Z,1,BOOKMARKS:ADDRESS BAR:COLOR,3,285
-35940,Autocomplete with just the domain part  not full URL,,2019-03-28T15:10:47.625Z,15,ADDRESS BAR:AUTOCOMPLETE,4,329
-27964,Hide Address Bar in Popup Windows,,2018-06-12T22:08:32.041Z,9,ADDRESS BAR:POPUP,5,1234
+37731,Right click address to add to speed dial,,2019-05-28T15:43:37.013Z,1,,7,245
 37653,Separate hide and remove for buttons,,2019-05-25T04:53:31.696Z,1,EXTENSION:TOOLBAR:BUTTONS:HIDDEN:OPTION,1,168
-37731,[SUGGESTION][SPEED DIAL] Right click address to add to speed dial.,,2019-05-28T15:43:37.013Z,0,,4,212
-29677,Split address into breadcrumbs for Ctrl+Click discoverability,,2018-08-29T13:40:37.776Z,12,ADDRESS BAR:URL:DISCOVERABILITY,7,661
-37863,Vivaldi UI at low width window size,,2019-06-03T16:20:10.965Z,3,GUI:ACCESSIBILITY:UI DESIGN:A11Y:RESPONSIVENESS,2,179
+39296,Back-button site position,,2019-08-08T11:59:16.314Z,1,SCROLLING:BACK BUTTON,1,58
+40118,Select link parameters,,2019-09-10T09:39:32.418Z,1,,1,36
+42133,Don't take focus away from address bar if url redirects,,2019-11-13T12:37:01.144Z,1,,4,68
+42313,Shouldn't clear text in address bar while switching tabs,,2019-11-22T04:54:53.147Z,1,,5,67
+42387,Enhanced address bar,,2019-11-26T15:58:21.959Z,1,,5,107
+42572,Show speed dial/bookmarks on address bar click,,2019-12-07T13:26:21.910Z,1,,1,40
+43253,Fast Forward as fallback for "go to next page",,2020-01-05T14:52:25.516Z,1,,5,60
+44519,Options to Copy Link  E-Mail Link  Share  Send Tab to Device,,2020-02-28T00:04:34.242Z,1,,2,23
+45658,Make the lock icon an outline  broken lock icon a warning triangle,,2020-04-12T10:49:55.057Z,1,,1,28
+25470,Merge totally addressfield and quickcommand pop-up/ floating mouse addressfield,,2018-02-27T10:47:40.190Z,0,ADDRESS BAR:QUICK COMMANDS,1,606
+24946,Swapping Title and URL in Omnibox,,2018-02-11T09:01:54.446Z,0,ADDRESS BAR:CUSTOMIZE:OMNIBOX,1,495
+29435,Auto-focus Address Bar on Keydown,,2018-08-17T21:08:20.238Z,0,SHORTCUTS:ADDRESS BAR:SPEED DIAL,6,593
+29752,Search Field Dictionary Popup,,2018-09-02T22:49:33.171Z,0,EXTENSION:ADDRESS BAR:POP-UP:DICTIONARY,9,593
+29933,Autocomplete Chrome: Prefixes,,2018-09-10T02:50:00.713Z,0,ADDRESS BAR:AUTOCOMPLETE,3,346
+30276,Shift+Click to Open a New Tab in Search Bar,,2018-09-23T20:38:53.620Z,0,ADDRESS BAR:NEW TAB:SEARCH BAR,3,387
+30278,Address Drop Down: Delete Highlighted Items with Delete Key,,2018-09-23T21:43:50.200Z,0,ADDRESS BAR,7,465
+30441,Search Keyword + Tab Key -> Display Search Name,,2018-09-27T07:21:46.300Z,0,ADDRESS BAR:SEARCH ENGINES,1,278
+32486,"Show typed history" Down Arrow Shouldn't Move.,,2018-11-24T02:24:17.647Z,0,ADDRESS BAR:TYPED HISTORY,1,247
+32589,Delete Search History from Address Bar,,2018-11-28T15:14:23.627Z,0,ADDRESS BAR:SEARCH:HISTORY,2,346
+34507,Autocompletion of the address,,2019-02-09T18:37:14.687Z,0,ADDRESS BAR:SEARCH:SEARCH BAR:AUTOCOMPLETE,1,214
+34862,Netflix "Add as search engine",,2019-02-20T21:47:36.571Z,0,SEARCH ENGINES,6,332
+36402,Adding the Yandex search engine,,2019-04-09T20:00:54.274Z,0,SEARCH ENGINES,2,264
+36585,Change search engine by clicking icon in address bar,,2019-04-15T17:04:52.148Z,0,,9,349
+36742,Play media URLs internally,,2019-04-21T22:24:48.696Z,0,,3,181
 38020,Search engine keyboard shortcuts,,2019-06-09T20:09:51.506Z,0,,2,161
 38597,Focus Page if Addressbar is deactivated,,2019-07-02T20:03:08.095Z,0,SETTINGS:ADDRESS BAR:FOCUS,2,113
-24576,Show Tab and Address Bar in Fullscreen by Hovering at Top of Screen,,2018-02-02T17:00:53.817Z,25,TABS:ADDRESS BAR:AUTO-HIDE,10,1755
-38480,Show current connection security via the padlock,,2019-06-26T23:20:41.970Z,3,SECURITY:CERTIFICATE:ENCRYPTION:CIPHER,3,220
 38673,Quick forum access,,2019-07-06T12:06:18.648Z,0,BOOKMARKS:MENU,4,182
-38877,Add "one click" bookmarking option,,2019-07-16T19:58:18.066Z,3,,3,195
 39018,Increase the number of history,,2019-07-24T07:15:13.897Z,0,,1,89
 39044,Search Box: Show search engines list upon pasting text,,2019-07-25T11:35:31.329Z,0,,13,318
-39296,Back-button site position,,2019-08-08T11:59:16.314Z,1,SCROLLING:BACK BUTTON,1,58
 39364,Autocomplete nicknames or part of the link that isn't the start,,2019-08-11T18:07:53.136Z,0,,5,77
-37893,Hide EV certificate badge in url field,,2019-06-04T19:51:45.890Z,11,ADDRESS BAR:SECURITY:WILL NOT DO:CERTIFICATES:SSL,30,833
-39452,Add a go to/begin search icon in adressbar/searchbar,,2019-08-15T23:53:25.975Z,0,ADDRESS BAR:GO BUTTON,5,84
-34862,Netflix "Add as search engine",,2019-02-20T21:47:36.571Z,0,SEARCH ENGINES,6,330
-39510,Make sections in address bar drop-down orderable (and their length customizable),,2019-08-19T20:45:08.266Z,2,ADDRESS BAR,1,29
-39509,Make the search section in addess bar drop-down optional,,2019-08-19T20:17:59.163Z,3,,3,51
-30278,Address Drop Down: Delete Highlighted Items with Delete Key,,2018-09-23T21:43:50.200Z,0,ADDRESS BAR,7,465
-34899,Show timer inside address bar to show waiting for response.,,2019-02-22T06:14:52.455Z,27,ADDRESS BAR:STATUS BAR,15,838
+39452,Add a go to/begin search icon in adressbar/searchbar,,2019-08-15T23:53:25.975Z,0,ADDRESS BAR:GO BUTTON,5,85
 39785,Add; change 'search engine' treeview  to the address bar right click context menu.,,2019-08-30T19:59:33.723Z,0,ADDRESS BAR:SEARCH ENGINES:SEARCH:MENUS,1,30
-37487,Address bar and search bar color in incognito mode,,2019-05-18T13:56:18.101Z,4,ADDRESS BAR:SEARCH BAR,2,247
-40118,Select link parameters,,2019-09-10T09:39:32.418Z,1,,1,36
 40132,Input language independent URL autocomplete,,2019-09-10T14:15:51.205Z,0,ADDRESS BAR:LANGUAGE:IME,1,56
-24467,Option to Move Menu Button to Address Bar,,2018-02-01T21:15:16.098Z,8,ADDRESS BAR:CUSTOMIZE:BUTTON:MENU,2,815
-39276,Arrow keys in Search Box,,2019-08-07T05:52:48.698Z,2,SHORTCUTS:SEARCH ENGINES:SEARCH BAR,5,183
-29924,Focus Address Bar on a New Tab in Fullscreen,,2018-09-10T01:44:01.762Z,4,ADDRESS BAR:FULLSCREEN,3,567
-41039,Scroll over search icon to change search engine,,2019-10-01T00:38:25.448Z,8,,1,35
-41325,Opening multiple entries from address bar dropdown,,2019-10-11T20:17:32.751Z,2,BUG,3,396
-41268,Move Vivaldi Menu (V Button) down left or right,,2019-10-09T09:08:14.376Z,4,,2,85
-41467,"Customize" view for buttons,,2019-10-18T10:36:40.703Z,4,,6,97
-30741,Place Address Bar in Window Chrome,,2018-10-01T23:47:51.201Z,7,ADDRESS BAR:TITLE BAR,4,511
-41858,Option to merge the bookmarks bar into the address bar.,,2019-11-03T18:39:43.742Z,5,,4,173
-28801,Add ALT+D as a Default Hotkey for Focus Address Field,,2018-07-19T21:44:01.740Z,7,SHORTCUTS:KEYBOARD,9,588
-33256,Toggle non-hidden extension buttons  like pre-2.2,,2018-12-20T07:47:45.719Z,7,EXTENSION:TOOLBAR,10,474
-42133,Don't take focus away from address bar if url redirects,,2019-11-13T12:37:01.144Z,1,,4,68
 42278,Treat space as any url separator for showing searched keyword in frequently visited pages,,2019-11-20T21:48:53.836Z,0,,2,53
-24740,Add Chrome-Like URL Completion & Quicksearch,,2018-02-05T21:26:41.776Z,38,ADDRESS BAR:SEARCH ENGINES:SEARCH:AUTOCOMPLETE,19,2468
-42313,Shouldn't clear text in address bar while switching tabs,,2019-11-22T04:54:53.147Z,1,,5,67
-24400,Downloads Button Popup,,2018-02-01T10:59:56.662Z,30,ADDRESS BAR:DOWNLOADS:BUTTON:MENU,11,1539
-42387,Enhanced address bar,,2019-11-26T15:58:21.959Z,1,,4,83
-42495,Open typed URL in background,,2019-12-03T07:00:41.720Z,2,,8,66
-42572,Show speed dial/bookmarks on address bar click,,2019-12-07T13:26:21.910Z,1,,1,37
+42386,Allow Moving of Extension Icons,,2019-11-26T15:40:28.302Z,0,,4,91
 42608,Exit option direct from menu button,,2019-12-08T20:04:44.383Z,0,,3,34
-31878,Combine Window Title and Address Bar when Tabs are on the Side,,2018-11-01T15:51:59.685Z,40,ADDRESS BAR:TAB BAR:TITLE BAR,5,1165
-42386,Allow Moving of Extension Icons,,2019-11-26T15:40:28.302Z,1,,4,85
-33658,Full Address Syntax Highlighting,,2019-01-07T22:39:49.361Z,25,ADDRESS BAR:HIGHLIGHT,9,568
-24964,Option to Open a URL / Search Results in a New Tab from the Address Bar with "Enter",,2018-02-11T20:23:45.171Z,21,SHORTCUTS:ADDRESS BAR:NEW TAB,35,3222
-41443,(better) use for about:config  vivaldi:config and similar,,2019-10-17T11:59:19.938Z,3,,6,175
 42690,Focus in Linux with new private window,,2019-12-12T12:53:28.491Z,0,,4,50
-42749,Switch to opened tabs from the address bar,,2019-12-14T22:40:56.275Z,2,,4,130
-32860,Option to remove Extension toggle button,,2018-12-09T12:19:54.412Z,3,EXTENSION:TOOLBAR,11,485
-43253,Fast Forward as fallback for "go to next page",,2020-01-05T14:52:25.516Z,1,,5,60
-33912,Keyboard shortcut for "open previous in new tab",,2019-01-18T16:56:06.365Z,1,SHORTCUTS:KEYBOARD,3,149
-43723,Ability to change addressbar colors,,2020-01-26T14:45:12.276Z,5,,1,26
-32519,More Search Engine Options in Address bar,,2018-11-25T09:18:02.125Z,6,ADDRESS BAR:SEARCH ENGINES,9,406
-36676,Support Hard Reload,,2019-04-18T23:51:07.794Z,13,TOOLBAR:RELOAD,10,639
+44341,Please allow drag and drop of desktop shortcuts from address bar,,2020-02-20T11:56:29.157Z,0,,1,20
+45041,Shortcut for switching between copying URLs coded and decoded,,2020-03-19T15:56:20.516Z,0,,2,21
+45815,Emphasize loading state,,2020-04-17T19:44:19.801Z,0,,3,39
+45893,Automatic remove trash GET data from address,,2020-04-20T15:23:15.276Z,0,,2,25
