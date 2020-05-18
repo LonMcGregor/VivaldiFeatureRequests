@@ -1,87 +1,89 @@
 ID,Title,Author,Date,Votes,Tags
-24232,Native Themes to Match the OS Design,,2018-01-31T10:58:50.572Z,62,THEMES:NATIVE OS,15,1662
-24359,Customize Appearance of Menus and Scrollbars,,2018-02-01T01:54:40.532Z,54,THEMES:CUSTOMIZE:MENUS:SCROLLBAR:DARK,10,2243
-24453,Themes: Own Start Page Images and Window Background Images,,2018-02-01T20:23:21.809Z,33,THEMES:IMAGE:BACKGROUND:PIPELINE:SCHEDULED,6,1476
-26468,Make Current Tab More Distinguishable,,2018-04-04T23:30:28.833Z,29,TABS:THEMES,12,1972
-25244,Implement Night mode,,2018-02-19T19:10:16.594Z,29,THEMES:GUI:NIGHT MODE,21,4607
-24237,Switch Icon Themes,,2018-01-31T11:08:22.075Z,26,THEMES:ICONS,2,1057
-25411,Add Undo button (Trash) for mistakenly deleted Themes,,2018-02-24T00:04:23.836Z,22,THEMES:TRASHCAN,4,736
-38634,Add support for Javascripts mods under vivaldi://experiments,,2019-07-04T06:51:36.411Z,19,,6,217
-27022,Network Error Pages should Match Current Theme,,2018-04-28T07:23:53.459Z,17,THEMES,4,750
-25212,GTK native theme window controls,,2018-02-18T19:58:47.226Z,17,THEMES:LINUX:AUTOFILL:GTK,10,2539
-25186,Option to set a Theme per Site or Domain,,2018-02-18T09:36:46.349Z,16,THEMES:WEBSITE,4,791
-30157,Import themes directly from link (and also export),,2018-09-19T06:38:03.162Z,15,THEMES:IMPORT:EXPORT,6,576
-30216,Theme for Incognito Windows,,2018-09-21T19:08:32.086Z,14,THEMES:PRIVATE WINDOW,4,652
-24164,Allow Any Theme to be Used in Reader View,,2018-01-31T09:39:22.941Z,15,THEMES:READER VIEW,3,894
-28052,Different Theme on Private Window,,2018-06-16T15:28:48.999Z,14,THEMES:PRIVATE WINDOW,8,756
-24672,Allow PNG SVG for Themes  Toolbars  Tab Bar  Panels and Buttons,,2018-02-04T12:39:29.231Z,13,PANELS:TOOLBAR:TAB BAR:BUTTONS:SVG,8,1092
-24147,Expose Theme Variables to Extensions,,2018-01-31T09:33:35.849Z,10,EXTENSION:THEMES,1,469
-30634,Accent Color from Active Page needs a Gradient Transition Between Tabs,,2018-09-29T12:06:19.380Z,11,TABS:THEMES:GRADIENT,4,688
-30401,Select Accent Color Manually,,2018-09-26T18:10:32.447Z,10,THEMES:COLOR,7,727
-40673,Themed download progress bar,,2019-09-20T19:38:36.621Z,10,,5,127
-24160,Increase Corner Rounding Range for Themes,,2018-01-31T09:37:29.722Z,9,,2,587
-29679,Day/Night Theme by Longitude,,2018-08-29T17:38:07.472Z,9,THEMES:SCHEDULED,16,1071
-30258,Tab loading progress bar should use our theme's "highlight" color...,,2018-09-23T11:40:53.491Z,9,,13,1178
-35991,Import themes by the sync feature,,2019-03-29T13:07:21.722Z,9,SYNC:THEMES,3,270
-36136,Make vivaldi://themecolors more accessible,,2019-04-02T14:57:53.921Z,9,,1,220
-43873,Allow more complex themes,,2020-01-31T23:58:28.531Z,9,,2,37
-26946,Stretch Window Background Image to the Bookmarks Bar,,2018-04-25T23:50:22.839Z,8,THEMES:BOOKMARKS BAR:BACKGROUND,4,836
-28158,Better Visual Cue on Active Window,,2018-06-21T16:10:11.716Z,7,THEMES:WINDOWS,2,679
-29756,Crop/Resize Image for Window Background Image,,2018-09-03T01:58:00.737Z,7,THEMES:WINDOW:IMAGE:BACKGROUND,2,496
-35884,Sharp corners for interface icons...,,2019-03-27T20:32:36.989Z,7,,4,284
-36916,Sync Accent Color settings with Theme only,,2019-04-30T10:59:36.125Z,7,PIPELINE,3,237
-26635,Different Color Themes for Multiple Windows,,2018-04-12T07:42:36.630Z,6,THEMES:WINDOWS,2,712
-29609,Theme Vivaldi Through Configuration File,,2018-08-25T23:25:56.018Z,5,THEMES:CONFIGURATION,2,515
-30296,Option to Use Accent Color from Each Page,,2018-09-24T10:03:10.202Z,6,TABS:THEMES,1,262
-40683,Vivaldi titlebar should become paler when window no longer has focus,,2019-09-21T03:22:55.735Z,6,,4,74
-44373,Transparent menus,,2020-02-21T12:55:43.033Z,6,,5,96
-28187,Add Yeelight Technology,,2018-06-23T15:17:53.231Z,5,THEMES,3,735
-25106,Greyscale Theme for All Extension Icons,,2018-02-15T14:04:05.058Z,5,EXTENSION:THEMES:ICONS,3,838
-24552,Easily access theme color data,,2018-02-02T12:30:27.857Z,4,THEMES:INTEGRATION,6,616
-24861,Sort themes in settings,,2018-02-08T22:13:51.306Z,5,SETTINGS:THEMES:SORT,1,513
-30864,Warmer Background Colors for Reader View,,2018-10-04T16:53:35.344Z,4,THEMES:BACKGROUND:READER VIEW:COLOR,3,495
-31934,Developer Tools should follow Scheduled Theme,,2018-11-03T21:04:20.817Z,4,THEMES:DEVELOPER TOOLS,2,389
-32846,Allow Different Color for Active Tab,,2018-12-08T16:50:21.863Z,5,THEMES:ACTIVE TABS,3,342
-28544,Ensure Active Tab Is Always Recognizable,,2018-07-08T17:38:02.581Z,4,THEMES:ACTIVE TABS,8,1010
-27073,Improve Tab Contrast: Bevels and Drop Shadow,,2018-04-30T15:56:57.080Z,4,TABS:THEMES:GUI,6,714
-28014,Window Background Image: From Tabs to Title Bar,,2018-06-14T21:42:13.659Z,4,THEMES:CUSTOMIZE:TAB BAR:IN PROGRESS:TITLE BAR,7,1390
-34459,Add a Tab Unread Color to Themes,,2019-02-08T08:29:53.364Z,4,TABS:THEMES:UNREAD,3,237
-37555,Logitech Color Matching?,,2019-05-20T23:11:29.118Z,4,THEMES:INTEGRATION,5,247
-37698,Gradient coloring option and hovered item coloring option...,,2019-05-27T06:43:42.577Z,4,,1,155
-27759,Improve Color Blending for Pinned Tab Icons,,2018-05-30T19:48:35.055Z,3,THEMES:ICONS:PINNED TABS,2,664
-26752,Make Playing Tab (e.g. YouTube) More Visible,,2018-04-17T21:18:27.236Z,3,THEMES:VIDEO:AUDIO:MEDIA:PLAYBACK,1,614
-24505,Import firefox themes,,2018-02-02T03:40:17.272Z,3,THEMES:IMPORT:FIREFOX,1,606
-24469,Limit Accent Color Saturation per Webpage,,2018-02-01T21:16:50.360Z,3,THEMES:COLOR,1,522
-29158,Increase the contrast of panel container background for active web panels,,2018-08-03T11:45:55.548Z,3,PANELS:THEMES:DARK,14,1179
-32672,Option to Change Desktop Wallpaper with Right-click,,2018-12-02T22:57:36.674Z,3,THEMES:BACKGROUND:DESKTOP,2,385
-33403,Option to take color from page header background,,2018-12-25T15:55:54.819Z,3,THEMES:COLOR,1,276
-37165,Steelseries integration - possible?,,2019-05-09T01:00:43.728Z,2,THEMES:INTEGRATION,6,294
-41755,Three Themes to Consider Adding to Vivaldi,,2019-10-31T14:51:36.566Z,3,,4,84
-27473,Extensions Toolbar to match the Accent Color of a Theme,,2018-05-17T19:05:14.186Z,2,EXTENSION:THEMES:TOOLBAR,16,1506
-31941,CSS Class for Each Theme,,2018-11-04T13:39:27.138Z,2,THEMES:CSS,1,327
-34739,Transition when using Accent Color from Active Page,,2019-02-17T19:52:36.443Z,2,TABS:THEMES:GRADIENT,1,192
-35491,Theme coloring improvements...,,2019-03-15T05:41:07.876Z,2,,8,366
-34850,Colors for tabs,,2019-02-20T15:28:52.674Z,2,TABS:THEMES,1,223
-28749,Improve Color Blending for Tabs,,2018-07-18T04:53:06.253Z,1,TABS:THEMES,1,335
-30261,Bookmarks toolbar text: Customize the color or dimming amount...,,2018-09-23T12:16:55.982Z,1,,3,442
-32246,Vivaldi Theme Colors are Too Strong,,2018-11-15T04:58:11.391Z,1,THEMES:COLOR,7,572
-32912,Allow Vivaldi to grab its accent color from Windows 10 accent color,,2018-12-11T04:34:43.032Z,1,THEMES:COLOR,6,533
-34687,Please implement a fixed common.css for Linux Version (super easy fix),,2019-02-15T17:57:03.950Z,1,WINDOW:BORDER,4,271
-37243,Support for Razer Nari series - specifically ultimate also support for synapse 2 devices?,,2019-05-10T13:27:30.917Z,1,THEMES:INTEGRATION,1,170
-41722,Override system settings for dark/light mode in themes,,2019-10-30T12:23:26.257Z,1,,2,50
-29209,Allow Editing of Default Themes,,2018-08-06T11:26:51.954Z,0,THEMES,7,744
-28031,Themes based on Musicians  Actors and Movies,,2018-06-15T16:42:50.481Z,0,THEMES,2,604
-24579,A More Colorful Vivaldi for Top Tab Users,,2018-02-02T17:28:00.339Z,0,THEMES,1,365
-31562,Support Prefers-reduced-motion if Animations Disabled,,2018-10-24T06:54:48.550Z,0,THEMES:CSS:ACCESSIBILITY:ANIMATIONS,1,329
-31914,Make the invert filter a selectable option when choosing a theme.,,2018-11-02T21:44:56.646Z,0,THEMES:PAGE ACTIONS,1,292
-31920,Windows Spotlight on Start Page,,2018-11-03T06:40:27.696Z,0,THEMES:WINDOWS 10:START PAGE:BACKGROUND,4,673
-33071,Dark-Red Theme Comeback,,2018-12-14T23:09:03.330Z,0,THEMES:DARK,9,715
-34738,Background box behind extension toolbar icons,,2019-02-17T19:44:44.092Z,0,EXTENSION:TOOLBAR:ICONS,12,545
-37135,Speed Dial address-bar is too fat,,2019-05-08T16:10:41.828Z,0,SPEED DIAL:TOOLBAR:START PAGE,2,174
-37184,More advanced Razer Chroma integration with themes,,2019-05-09T07:52:25.531Z,0,THEMES:INTEGRATION,2,240
-39403,Appearance and Start Page Theme Link,,2019-08-13T18:47:32.885Z,0,,3,61
-39564,Let the "highlight" color of our theme be always shown vibrantly...,,2019-08-21T23:08:59.308Z,0,THEMES:COLOR,1,41
-40347,Choose active tab color,,2019-09-13T14:08:58.624Z,0,,3,59
-41935,Settings - Topics: Setting for rounding the tabs is hidden - Please make this setting more visible,,2019-11-05T18:33:00.809Z,0,,3,49
-43013,Ability to shuffle themes,,2019-12-24T17:55:33.672Z,0,,3,34
-44653,Add skin opera 12,,2020-03-04T20:30:46.284Z,0,,2,55
+24232,Native Themes to Match the OS Design,Nekomajin,2018-01-31T10:58:50.572Z,62,THEMES:NATIVE OS,15,1677
+24359,Customize Appearance of Menus and Scrollbars,Asires,2018-02-01T01:54:40.532Z,55,THEMES:CUSTOMIZE:MENUS:SCROLLBAR:DARK,10,2252
+24453,Themes: Own Start Page Images and Window Background Images,CheVe11e_191,2018-02-01T20:23:21.809Z,33,THEMES:IMAGE:BACKGROUND:PIPELINE:SCHEDULED,6,1477
+26468,Make Current Tab More Distinguishable,Ornorm,2018-04-04T23:30:28.833Z,30,TABS:THEMES,12,1975
+24237,Switch Icon Themes,awking,2018-01-31T11:08:22.075Z,26,THEMES:ICONS,2,1060
+25411,Add Undo button (Trash) for mistakenly deleted Themes,CheVe11e_191,2018-02-24T00:04:23.836Z,23,THEMES:TRASHCAN,6,758
+38634,Add support for Javascripts mods under vivaldi://experiments,Hadden89,2019-07-04T06:51:36.411Z,20,,6,224
+27022,Network Error Pages should Match Current Theme,LonM,2018-04-28T07:23:53.459Z,17,THEMES,4,750
+25212,GTK native theme window controls,balvik,2018-02-18T19:58:47.226Z,17,THEMES:LINUX:AUTOFILL:GTK,10,2541
+25186,Option to set a Theme per Site or Domain,CheVe11e_191,2018-02-18T09:36:46.349Z,17,THEMES:WEBSITE,4,792
+30157,Import themes directly from link (and also export),ROTFL,2018-09-19T06:38:03.162Z,15,THEMES:IMPORT:EXPORT,6,576
+30216,Theme for Incognito Windows,nikolamar,2018-09-21T19:08:32.086Z,14,THEMES:PRIVATE WINDOW,4,653
+24164,Allow Any Theme to be Used in Reader View,LonM,2018-01-31T09:39:22.941Z,15,THEMES:READER VIEW,3,894
+28052,Different Theme on Private Window,kyu3a,2018-06-16T15:28:48.999Z,14,THEMES:PRIVATE WINDOW,8,761
+24672,Allow PNG SVG for Themes  Toolbars  Tab Bar  Panels and Buttons,Hadden89,2018-02-04T12:39:29.231Z,13,PANELS:TOOLBAR:TAB BAR:BUTTONS:SVG,8,1094
+24147,Expose Theme Variables to Extensions,LonM,2018-01-31T09:33:35.849Z,10,EXTENSION:THEMES,1,469
+30634,Accent Color from Active Page needs a Gradient Transition Between Tabs,rejzor,2018-09-29T12:06:19.380Z,11,TABS:THEMES:GRADIENT,4,690
+43873,Allow more complex themes,gabevilela,2020-01-31T23:58:28.531Z,11,,2,45
+30401,Select Accent Color Manually,trimax,2018-09-26T18:10:32.447Z,10,THEMES:COLOR,7,727
+35991,Import themes by the sync feature,raymond_najii,2019-03-29T13:07:21.722Z,10,SYNC:THEMES,3,272
+40673,Themed download progress bar,potmeklecbohdan,2019-09-20T19:38:36.621Z,10,,5,128
+24160,Increase Corner Rounding Range for Themes,Pesala,2018-01-31T09:37:29.722Z,9,,2,588
+29679,Day/Night Theme by Longitude,luetage,2018-08-29T17:38:07.472Z,9,THEMES:SCHEDULED,16,1072
+30258,Tab loading progress bar should use our theme's "highlight" color...,TsunamiZ,2018-09-23T11:40:53.491Z,9,,13,1178
+36136,Make vivaldi://themecolors more accessible,Hadden89,2019-04-02T14:57:53.921Z,9,,1,220
+26946,Stretch Window Background Image to the Bookmarks Bar,Ornorm,2018-04-25T23:50:22.839Z,8,THEMES:BOOKMARKS BAR:BACKGROUND,4,836
+28158,Better Visual Cue on Active Window,terere,2018-06-21T16:10:11.716Z,7,THEMES:WINDOWS,2,680
+29756,Crop/Resize Image for Window Background Image,Ornorm,2018-09-03T01:58:00.737Z,7,THEMES:WINDOW:IMAGE:BACKGROUND,2,496
+35884,Sharp corners for interface icons...,TsunamiZ,2019-03-27T20:32:36.989Z,7,,4,285
+36916,Sync Accent Color settings with Theme only,vagrod,2019-04-30T10:59:36.125Z,7,PIPELINE,3,237
+26635,Different Color Themes for Multiple Windows,fsfactor,2018-04-12T07:42:36.630Z,6,THEMES:WINDOWS,2,715
+29609,Theme Vivaldi Through Configuration File,KnobBlob,2018-08-25T23:25:56.018Z,6,THEMES:CONFIGURATION,2,516
+30296,Option to Use Accent Color from Each Page,chanon,2018-09-24T10:03:10.202Z,6,TABS:THEMES,1,262
+40683,Vivaldi titlebar should become paler when window no longer has focus,Montiverdi,2019-09-21T03:22:55.735Z,6,,4,75
+44373,Transparent menus,dacousb,2020-02-21T12:55:43.033Z,6,,5,97
+28187,Add Yeelight Technology,NiceStuff,2018-06-23T15:17:53.231Z,5,THEMES,3,735
+25106,Greyscale Theme for All Extension Icons,yes.aravind,2018-02-15T14:04:05.058Z,5,EXTENSION:THEMES:ICONS,3,838
+24552,Easily access theme color data,ROTFL,2018-02-02T12:30:27.857Z,4,THEMES:INTEGRATION,6,616
+24861,Sort themes in settings,Hadden89,2018-02-08T22:13:51.306Z,5,SETTINGS:THEMES:SORT,1,513
+30864,Warmer Background Colors for Reader View,grommelvilla,2018-10-04T16:53:35.344Z,4,THEMES:BACKGROUND:READER VIEW:COLOR,3,495
+31934,Developer Tools should follow Scheduled Theme,LonM,2018-11-03T21:04:20.817Z,4,THEMES:DEVELOPER TOOLS,2,389
+32846,Allow Different Color for Active Tab,Vivipop,2018-12-08T16:50:21.863Z,5,THEMES:ACTIVE TABS,3,342
+28544,Ensure Active Tab Is Always Recognizable,Marc Sigrist,2018-07-08T17:38:02.581Z,4,THEMES:ACTIVE TABS,8,1010
+27073,Improve Tab Contrast: Bevels and Drop Shadow,rmagnuson,2018-04-30T15:56:57.080Z,4,TABS:THEMES:GUI,6,716
+28014,Window Background Image: From Tabs to Title Bar,Motes,2018-06-14T21:42:13.659Z,4,THEMES:CUSTOMIZE:IN PROGRESS:TAB BAR:TITLE BAR,7,1391
+34459,Add a Tab Unread Color to Themes,reyn,2019-02-08T08:29:53.364Z,4,TABS:THEMES:UNREAD,3,237
+37555,Logitech Color Matching?,KSB,2019-05-20T23:11:29.118Z,4,THEMES:INTEGRATION,5,247
+37698,Gradient coloring option and hovered item coloring option...,TsunamiZ,2019-05-27T06:43:42.577Z,4,,1,155
+27759,Improve Color Blending for Pinned Tab Icons,rojaviv,2018-05-30T19:48:35.055Z,3,THEMES:ICONS:PINNED TABS,2,664
+26752,Make Playing Tab (e.g. YouTube) More Visible,bitzbuddhaz,2018-04-17T21:18:27.236Z,3,THEMES:VIDEO:AUDIO:MEDIA:PLAYBACK,1,614
+24505,Import firefox themes,puppyNumber40,2018-02-02T03:40:17.272Z,3,THEMES:IMPORT:FIREFOX,1,606
+24469,Limit Accent Color Saturation per Webpage,AltCode,2018-02-01T21:16:50.360Z,3,THEMES:COLOR,1,522
+29158,Increase the contrast of panel container background for active web panels,Ornorm,2018-08-03T11:45:55.548Z,3,PANELS:THEMES:DARK,14,1179
+32672,Option to Change Desktop Wallpaper with Right-click,w.tromp,2018-12-02T22:57:36.674Z,3,THEMES:BACKGROUND:DESKTOP,2,385
+33403,Option to take color from page header background,ric54321,2018-12-25T15:55:54.819Z,3,THEMES:COLOR,1,276
+37165,Steelseries integration - possible?,t0yz,2019-05-09T01:00:43.728Z,2,THEMES:INTEGRATION,6,294
+41755,Three Themes to Consider Adding to Vivaldi,Chicken07,2019-10-31T14:51:36.566Z,3,,4,88
+46345,Change Chrome themed dialogs to blend in with Vivaldi UI,ethanegarner,2020-04-27T18:43:34.740Z,3,,1,23
+27473,Extensions Toolbar to match the Accent Color of a Theme,mluck94,2018-05-17T19:05:14.186Z,2,EXTENSION:THEMES:TOOLBAR,16,1506
+31941,CSS Class for Each Theme,potmeklecbohdan,2018-11-04T13:39:27.138Z,2,THEMES:CSS,1,327
+34739,Transition when using Accent Color from Active Page,Nekomajin,2019-02-17T19:52:36.443Z,2,TABS:THEMES:GRADIENT,1,192
+35491,Theme coloring improvements...,TsunamiZ,2019-03-15T05:41:07.876Z,2,,8,366
+34850,Colors for tabs,Noah34,2019-02-20T15:28:52.674Z,2,TABS:THEMES,1,224
+28749,Improve Color Blending for Tabs,rojaviv,2018-07-18T04:53:06.253Z,1,TABS:THEMES,1,335
+30261,Bookmarks toolbar text: Customize the color or dimming amount...,TsunamiZ,2018-09-23T12:16:55.982Z,1,,3,442
+32246,Vivaldi Theme Colors are Too Strong,goamn,2018-11-15T04:58:11.391Z,1,THEMES:COLOR,7,573
+32912,Allow Vivaldi to grab its accent color from Windows 10 accent color,fuller1754,2018-12-11T04:34:43.032Z,1,THEMES:COLOR,6,533
+34687,Please implement a fixed common.css for Linux Version (super easy fix),WindowsToLinux,2019-02-15T17:57:03.950Z,1,WINDOW:BORDER,4,271
+37243,Support for Razer Nari series - specifically ultimate also support for synapse 2 devices?,mitchellh,2019-05-10T13:27:30.917Z,1,THEMES:INTEGRATION,1,170
+41722,Override system settings for dark/light mode in themes,mrmamen,2019-10-30T12:23:26.257Z,1,,2,52
+29209,Allow Editing of Default Themes,Hadden89,2018-08-06T11:26:51.954Z,0,THEMES,7,747
+28031,Themes based on Musicians  Actors and Movies,wantluckman,2018-06-15T16:42:50.481Z,0,THEMES,2,604
+24579,A More Colorful Vivaldi for Top Tab Users,Artex,2018-02-02T17:28:00.339Z,0,THEMES,1,365
+31562,Support Prefers-reduced-motion if Animations Disabled,LonM,2018-10-24T06:54:48.550Z,0,THEMES:CSS:ACCESSIBILITY:ANIMATIONS,1,329
+31914,Make the invert filter a selectable option when choosing a theme.,Hodorious,2018-11-02T21:44:56.646Z,0,THEMES:PAGE ACTIONS,1,292
+31920,Windows Spotlight on Start Page,yes.aravind,2018-11-03T06:40:27.696Z,0,THEMES:START PAGE:WINDOWS 10:BACKGROUND,4,673
+33071,Dark-Red Theme Comeback,Stardust,2018-12-14T23:09:03.330Z,0,THEMES:DARK,9,716
+34738,Background box behind extension toolbar icons,Nekomajin,2019-02-17T19:44:44.092Z,0,EXTENSION:TOOLBAR:ICONS,12,546
+37135,Speed Dial address-bar is too fat,georggoetz,2019-05-08T16:10:41.828Z,0,SPEED DIAL:TOOLBAR:START PAGE,2,174
+37184,More advanced Razer Chroma integration with themes,ganestalay,2019-05-09T07:52:25.531Z,0,THEMES:INTEGRATION,2,240
+39403,Appearance and Start Page Theme Link,SheldonS,2019-08-13T18:47:32.885Z,0,,3,61
+39564,Let the "highlight" color of our theme be always shown vibrantly...,TsunamiZ,2019-08-21T23:08:59.308Z,0,THEMES:COLOR,1,42
+40347,Choose active tab color,Idbo,2019-09-13T14:08:58.624Z,0,,3,59
+41935,Settings - Topics: Setting for rounding the tabs is hidden - Please make this setting more visible,stardepp,2019-11-05T18:33:00.809Z,0,,3,50
+43013,Ability to shuffle themes,xKahuna,2019-12-24T17:55:33.672Z,0,,3,35
+44653,Add skin opera 12,vitek620,2020-03-04T20:30:46.284Z,0,,2,59
+46453,Add an option to disable the color change for the bookmarks bar,torkaaa,2020-04-29T19:33:32.562Z,0,,3,19
+46541,Darken web pages when the dark theme is activated (configurable),fantasybenji,2020-05-01T18:45:25.572Z,0,,1,26
