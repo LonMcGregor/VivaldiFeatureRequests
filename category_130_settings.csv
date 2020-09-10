@@ -1,123 +1,126 @@
-ID,Title,Author,Date,Votes,Tags
-24303,Option to Disable Autoload and Autoplay of HTML5 Videos,ghpy,2018-01-31T18:54:02.090Z,136,SETTINGS:VIDEO:PIPELINE:PLAYBACK,39,7942
-25836,Option to Open New Tabs in Background as Default,kuu,2018-03-12T23:19:12.195Z,132,SETTINGS:NEW TAB:BACKGROUND:PIPELINE,97,13211
-30435,Sync More Features,tom.morton,2018-09-27T06:08:47.866Z,64,SETTINGS:SHORTCUTS:SYNC:IN PROGRESS:HISTORY,15,1367
-25257,Add Protocol Handler to Settings,carstorm,2018-02-20T06:47:21.166Z,57,SETTINGS,17,3394
-24801,Export/Import for User Settings,redqueen,2018-02-07T08:01:11.396Z,56,SETTINGS:IMPORT:EXPORT,15,3478
-24180,Browse Buttons in Settings,Pesala,2018-01-31T09:44:32.879Z,47,SETTINGS:DOWNLOADS:IN PROGRESS:SCREEN CAPTURE:HOME PAGE,11,1537
-24926,Tab Bar Below Address Bar,nfsmaniac,2018-02-10T19:52:26.720Z,43,ADDRESS BAR:TAB BAR,24,3783
+ID,Title,Author,Date,Votes,Tags,Posts,Views
+24303,Option to Disable Autoload and Autoplay of HTML5 Videos,ghpy,2018-01-31T18:54:02.090Z,143,SETTINGS:VIDEO:PIPELINE:PLAYBACK,40,7993
+25836,Option to Open New Tabs in Background as Default,kuu,2018-03-12T23:19:12.195Z,139,SETTINGS:NEW TAB:BACKGROUND:PIPELINE,105,13361
+30435,Sync More Features,tom.morton,2018-09-27T06:08:47.866Z,69,SETTINGS:SHORTCUTS:SYNC:HISTORY:IN PROGRESS,15,1381
+25257,Add Protocol Handler to Settings,carstorm,2018-02-20T06:47:21.166Z,60,SETTINGS,17,3406
+24801,Export/Import for User Settings,redqueen,2018-02-07T08:01:11.396Z,56,SETTINGS:IMPORT:EXPORT,15,3482
+24180,Browse Buttons in Settings,Pesala,2018-01-31T09:44:32.879Z,47,SETTINGS:DOWNLOADS:IN PROGRESS:SCREEN CAPTURE:HOME PAGE,11,1539
+24926,Tab Bar Below Address Bar,nfsmaniac,2018-02-10T19:52:26.720Z,45,ADDRESS BAR:TAB BAR,25,3805
 24314,Quick Preferences Menu as in Opera 12.18,Morg42,2018-01-31T19:40:34.764Z,37,SETTINGS:MENUS,6,1402
+32575,Option to Disable Mouse Gestures for Certain URLs,GeeZuZz,2018-11-27T15:44:52.444Z,37,SETTINGS:MOUSE GESTURES,13,692
 24313,Open Download Manager in a separate tab,david.cortes,2018-01-31T19:38:57.500Z,35,DOWNLOADS:TAB,8,1365
-32575,Option to Disable Mouse Gestures for Certain URLs,GeeZuZz,2018-11-27T15:44:52.444Z,33,SETTINGS:MOUSE GESTURES,13,684
 24138,Show Current Version on Updates Tab,Pesala,2018-01-31T09:28:58.019Z,25,,2,683
-24265,Customize Rocker Gestures,Wraith5,2018-01-31T13:23:30.173Z,24,CUSTOMIZE:MOUSE GESTURES,16,1665
-28799,Overwrite Existing Shortcut (with Confirmation),Pesala,2018-07-19T21:23:12.370Z,23,SETTINGS:SHORTCUTS:OVERWRITE,4,441
+28799,Overwrite Existing Shortcut (with Confirmation),Pesala,2018-07-19T21:23:12.370Z,24,SETTINGS:SHORTCUTS:OVERWRITE,4,443
+24265,Customize Rocker Gestures,Wraith5,2018-01-31T13:23:30.173Z,24,CUSTOMIZE:MOUSE GESTURES,16,1669
 24143,Transparency for Speed Dial Thumbnails and Folders,Pesala,2018-01-31T09:32:34.979Z,22,,13,1659
-25211,Consolidate Settings in a Single Place,fofo,2018-02-18T18:50:06.322Z,21,SETTINGS,4,709
-24202,Sort Commands for Mouse Gestures Alphabetically,Pesala,2018-01-31T10:01:14.586Z,20,SETTINGS:GUI,3,510
+25211,Consolidate Settings in a Single Place,fofo,2018-02-18T18:50:06.322Z,21,SETTINGS,4,710
+24202,Sort Commands for Mouse Gestures Alphabetically,Pesala,2018-01-31T10:01:14.586Z,20,SETTINGS:GUI,3,511
+27145,Option to Modify the Tab Width,seeley,2018-05-03T05:32:59.394Z,20,SETTINGS:TAB BAR,9,1983
+42188,Option to change number of tabs shown in Closed Tabs menu,oskark,2019-11-15T13:50:48.830Z,20,,3,100
 30358,Make it easier to find which values have been changed from defaults,ROTFL,2018-09-26T10:48:07.050Z,19,SETTINGS,2,294
-27561,Allow Selecting Text in Settings,LonM,2018-05-21T22:11:09.261Z,17,SETTINGS:SELECTION,4,770
+40624,Stop redirecting `chrome://` URLs to `vivaldi://`,Pathduck,2019-09-19T21:36:06.908Z,19,,9,303
+27561,Allow Selecting Text in Settings,LonM,2018-05-21T22:11:09.261Z,17,SETTINGS:SELECTION,4,771
 27494,Option to Clear Download History on Exit,DRGreen7,2018-05-18T22:01:28.579Z,17,SETTINGS:PRIVACYPOLICY,10,2581
-27145,Option to Modify the Tab Width,seeley,2018-05-03T05:32:59.394Z,17,SETTINGS:TAB BAR,9,1974
 26273,Option not to Open Explorer after Screen Capture,steveh64,2018-03-28T11:51:44.992Z,16,SETTINGS:SCREENSHOT:SCREEN CAPTURE,8,1069
-40624,Stop redirecting `chrome://` URLs to `vivaldi://`,Pathduck,2019-09-19T21:36:06.908Z,16,,9,289
-42188,Option to change number of tabs shown in Closed Tabs menu,oskark,2019-11-15T13:50:48.830Z,16,,3,91
 29344,Path to the Current Background Image,burbuja,2018-08-12T20:34:30.883Z,14,SETTINGS:IMAGE:BACKGROUND,2,627
+31936,Button "Sync Now",D136064RC14,2018-11-04T00:29:57.978Z,14,SETTINGS:SYNC,4,574
 32098,Advanced and New User Modes,Para-Noid,2018-11-09T18:43:19.036Z,14,SETTINGS:NEW USER,14,829
-47242,New Category for Menu,Pesala,2020-05-21T17:06:12.212Z,14,,6,104
+47242,New Category for Menu,Pesala,2020-05-21T17:06:12.212Z,14,,6,105
 24183,Import / Export vivaldi://flags,LonM,2018-01-31T09:45:37.102Z,13,SETTINGS:IMPORT:EXPORT,2,638
-31936,Button "Sync Now",D136064RC14,2018-11-04T00:29:57.978Z,13,SETTINGS:SYNC,4,573
 37293,Local storage of sync data,Summerbreeze,2019-05-12T07:02:42.490Z,13,SYNC,10,349
 33771,Load Images Settings and Preferences,fofo,2019-01-11T19:17:44.967Z,12,SETTINGS:IMAGE,6,500
 32047,Desktop / Mobile View,buss,2018-11-08T08:51:52.213Z,12,SETTINGS,4,489
 24206,Settings Dialogue Should Remember its Active Tab,Pesala,2018-01-31T10:05:10.562Z,11,SETTINGS,3,532
 36303,Download always save as  skip the save/save as/open confirmation dialog,topexpsy,2019-04-06T01:17:05.234Z,11,DOWNLOADS,2,298
 45006,Add Extra Cookie Deleting Functionality,sirfredrick,2020-03-18T01:05:35.607Z,11,,4,70
-28768,Autofill Option under Privacy (Vivaldi settings),Hadden89,2018-07-18T21:52:04.920Z,10,SETTINGS:PRIVACY:AUTOFILL,4,711
-29799,Checkerboard behind transparent image in url?,i00,2018-09-05T05:38:20.836Z,10,SETTINGS:IMAGE:BACKGROUND:TRANSPARENT,5,641
+28768,Autofill Option under Privacy (Vivaldi settings),Hadden89,2018-07-18T21:52:04.920Z,10,SETTINGS:PRIVACY:AUTOFILL,4,719
+29799,Checkerboard behind transparent image in url?,i00,2018-09-05T05:38:20.836Z,10,SETTINGS:IMAGE:BACKGROUND:TRANSPARENT,5,644
 30070,Allow cookies storage per site within Vivaldi's interface,Peter,2018-09-15T08:49:52.611Z,10,SETTINGS:COOKIES,3,480
-32190,Check for Updates in Settings  Updates,Pesala,2018-11-13T18:38:14.087Z,10,,7,1043
-32710,Send a Popup or Notification if Sync Fails,Hadden89,2018-12-04T13:10:22.281Z,9,SETTINGS:SYNC:NOTIFICATIONS,1,270
-36767,Customize anything from context menu,ryofurue,2019-04-23T10:01:16.754Z,10,SETTINGS:CONTEXT MENU,3,341
+32190,Check for Updates in Settings  Updates,Pesala,2018-11-13T18:38:14.087Z,10,,7,1045
+32710,Send a Popup or Notification if Sync Fails,Hadden89,2018-12-04T13:10:22.281Z,10,SETTINGS:SYNC:NOTIFICATIONS,1,273
+36767,Customize anything from context menu,ryofurue,2019-04-23T10:01:16.754Z,10,SETTINGS:CONTEXT MENU,3,343
 38616,Throw Away New Cookies When This Session Ends,brianlj,2019-07-03T11:48:09.932Z,10,SETTINGS:PRIVACY:COOKIES,7,262
-39517,Option for font rendering similar to Firefox and original Edge on Windows,relu84,2019-08-20T08:48:55.309Z,10,FONTS,4,124
+39517,Option for font rendering similar to Firefox and original Edge on Windows,relu84,2019-08-20T08:48:55.309Z,10,FONTS,4,130
 26150,Improve Help/Info/Detail on Settings,IlIlIlIIllI,2018-03-24T09:58:58.632Z,9,SETTINGS:HELP:DOCUMENTATION,18,1917
 27481,Per-site Preferred Language,ryofurue,2018-05-18T03:57:52.617Z,8,SETTINGS:LANGUAGE,1,479
 29458,Option to Disable Site Data Local Storage,Stardust,2018-08-19T02:42:50.480Z,8,SETTINGS:LOCAL STORAGE,1,422
-30627,Clarify Meaning of "Use Tab Zoom",ayanamistyang,2018-09-29T10:49:38.137Z,8,SETTINGS:TAB ZOOM,1,307
+30627,Clarify Meaning of "Use Tab Zoom",ayanamistyang,2018-09-29T10:49:38.137Z,8,SETTINGS:TAB ZOOM,1,308
 32955,Better Auto Scroll Speed,Gregor,2018-12-11T21:54:37.540Z,7,SCROLLING:SCROLL WHEEL,2,361
 34205,Block global and/or site-specific sending a Referrer,Gwen-Dragon,2019-01-30T07:54:21.787Z,8,PRIVACY,4,369
-28951,In Settings Search Engines add a [DEFAULT] Label,TsunamiZ,2018-07-25T02:16:20.034Z,8,SEARCH ENGINES,1,271
+34324,Don't Hide Close Tab Button,Hirumo,2019-02-05T08:57:14.988Z,8,SETTINGS:BUTTON:CLOSE TABS,6,390
+28951,In Settings Search Engines add a [DEFAULT] Label,TsunamiZ,2018-07-25T02:16:20.034Z,8,SEARCH ENGINES,1,272
 36511,Disable hyperlink auditing by default,Vektorweg,2019-04-12T14:14:31.520Z,8,PRIVACY,3,457
 38291,Change the fallback DNS from Google,Dr.Flay,2019-06-21T04:29:37.792Z,8,DNS,6,437
 27465,Inform user of Tab Mute Setting,LonM,2018-05-17T11:01:37.102Z,7,TABS:SETTINGS:MUTE,1,521
 24554,Refine Settings UX and hierarchy / toggle sections,ROTFL,2018-02-02T12:48:59.224Z,7,SETTINGS:GUI,8,1217
-34324,Don't Hide Close Tab Button,Hirumo,2019-02-05T08:57:14.988Z,7,SETTINGS:BUTTON:CLOSE TABS,6,386
+33983,Option to Autohide the Tab Bar for a Single Tab,dannyswift,2019-01-21T11:12:08.410Z,7,SETTINGS:TAB BAR:AUTO-HIDE,1,204
 34770,Remember Page Actions (Filters) for a domain,kivagant,2019-02-18T15:34:28.429Z,7,PAGE ACTIONS,3,277
 33318,Adjust font size/family for notes independently of UI,bugmenot3,2018-12-21T21:29:23.749Z,7,GUI:NOTES:FONT SIZE,3,311
 43170,Backspace shortcut should be disabled by default,joeschmo,2019-12-31T17:37:15.744Z,7,,21,138
 44017,security: add the ability to disable engagement tracking,Tcll,2020-02-08T11:39:55.992Z,7,,13,61
-45597,The "Start Page Navigation" should have more settings and be independent of the Start Page,owasmosy,2020-04-10T06:03:58.663Z,7,,15,159
+45597,The "Start Page Navigation" should have more settings and be independent of the Start Page,owasmosy,2020-04-10T06:03:58.663Z,7,,15,160
 47150,Context menu for per site extension permission,shemtovo,2020-05-18T22:52:53.732Z,7,,6,56
-25865,New Tab Position Setting: After Active Tab in Order Clicked,matmur44,2018-03-13T21:06:48.016Z,6,SETTINGS:NEW TAB:POSITION,8,1186
+25865,New Tab Position Setting: After Active Tab in Order Clicked,matmur44,2018-03-13T21:06:48.016Z,6,SETTINGS:NEW TAB:POSITION,8,1188
 25251,Import Search Engines from Opera and Chrome,Pesala,2018-02-19T23:22:03.237Z,6,SETTINGS:SEARCH ENGINES:IMPORT,1,801
-30882,Search in Settings Dialogue Should Find Hidden Items,Pesala,2018-10-05T05:24:25.675Z,6,SETTINGS:SEARCH,1,276
+30882,Search in Settings Dialogue Should Find Hidden Items,Pesala,2018-10-05T05:24:25.675Z,6,SETTINGS:SEARCH,1,279
 33052,Flexible keybindings and command management,LiorL,2018-12-14T13:58:47.348Z,5,SETTINGS:SHORTCUTS,4,326
 33527,Add a Command to Scroll by a User-defined Number of Lines,Nova1112,2019-01-01T12:22:16.186Z,6,SETTINGS:SHORTCUTS:MOUSE GESTURES:SCROLLING:SMOOTHSCROLLING,23,1783
 33788,Option to Automatically Change Tab Bar Position,jhe,2019-01-13T00:56:41.374Z,6,SETTINGS:TAB BAR:VERTICAL:POSITION,2,284
-33983,Option to Autohide the Tab Bar for a Single Tab,dannyswift,2019-01-21T11:12:08.410Z,6,SETTINGS:TAB BAR:AUTO-HIDE,1,201
 28950,Dynamically Resize the Search Engines List,TsunamiZ,2018-07-25T02:12:48.557Z,6,SEARCH ENGINES,1,222
+37401,Toggle mouse gestures by keybind,HorochovPL,2019-05-15T20:15:18.737Z,6,SHORTCUTS:MOUSE GESTURES:KEYBOARD,4,197
 38682,Cache Location,Viridel,2019-07-06T20:23:29.140Z,6,SETTINGS:CACHE,3,217
-41117,Reload Vivaldi Button,stardepp,2019-10-03T11:30:03.107Z,6,,24,296
-42826,Decouple language spell check from Accept-Language,jumpsq,2019-12-18T16:04:26.231Z,6,,2,47
+41117,Reload Vivaldi Button,stardepp,2019-10-03T11:30:03.107Z,6,,24,297
+42826,Decouple language spell check from Accept-Language,jumpsq,2019-12-18T16:04:26.231Z,6,,2,50
 27424,Increase the Range for Default Zoom,rojaviv,2018-05-15T18:21:43.659Z,5,SETTINGS:ZOOM:WEBPAGES,3,574
 29461,Add Option to Configure Sync,AndreyL,2018-08-19T07:10:39.078Z,5,SETTINGS:SYNC,6,607
-31373,Automatic Reader View,wailord,2018-10-18T09:57:17.515Z,5,SETTINGS:READER VIEW,1,338
+29930,Show the Bookmarks Bar only on New Tabs,zook,2018-09-10T02:19:22.194Z,5,SETTINGS:BOOKMARKS BAR:START PAGE,4,690
+31373,Automatic Reader View,wailord,2018-10-18T09:57:17.515Z,5,SETTINGS:READER VIEW,1,339
 11063,Cycle Tabs with Ctrl+Tab and Arrow Keys,A Former User,2016-09-17T03:40:45.000Z,4,SETTINGS:SHORTCUTS:TAB CYCLING,8,1066
 34663,Keyboard Shortcuts for Page Actions (e.g. Filter Invert),kerussell,2019-02-14T20:58:31.004Z,5,SETTINGS:SHORTCUTS:PAGE ACTIONS,5,342
 36301,Media Keyboard Keys Compatibility,KSB,2019-04-05T23:15:18.995Z,5,SHORTCUTS:KEYBOARD:MEDIA KEYS,11,432
-36923,Global dark mode with invert filter?,sneaky4oe,2019-04-30T15:51:44.427Z,5,PAGE ACTIONS:DARK,2,236
+36923,Global dark mode with invert filter?,sneaky4oe,2019-04-30T15:51:44.427Z,5,PAGE ACTIONS:DARK,2,238
 37738,Keyboard shortcuts for enabling/disabling extension.,zaxonxp45,2019-05-28T20:46:36.231Z,5,EXTENSION:SETTINGS:SHORTCUTS:KEYBOARD:TOGGLE,5,216
 38493,Better hints for gesture recording,idgor,2019-06-27T08:54:48.027Z,4,MOUSE GESTURES,2,110
 39190,Switch profiles from Quick Commands,Llamanerds,2019-08-01T20:49:16.158Z,5,QUICK COMMANDS:PROFILES,1,73
+39833,Allow making a "Person" the default,mscha,2019-09-01T18:51:47.700Z,5,PROFILES,1,36
 42638,Privacy Settings: Do not report to Google by default,MyOtherNamesAreCooler,2019-12-10T12:03:27.211Z,5,,1,44
-42815,SpellChecker in Settings {to add more languages},Liarus,2019-12-18T11:04:44.697Z,5,,5,61
+42815,SpellChecker in Settings {to add more languages},Liarus,2019-12-18T11:04:44.697Z,5,,5,62
 46006,Option to make the clock bigger,vivaldiadmin,2020-04-22T19:22:37.744Z,5,,5,58
-49071,PDF Viewer - Temp instead of save,KSB,2020-07-20T03:51:30.329Z,5,,14,104
+49071,PDF Viewer - Temp instead of save,KSB,2020-07-20T03:51:30.329Z,5,,15,119
 28050,Settings Reset to Defaults,Para-Noid,2018-06-16T13:53:07.214Z,4,SETTINGS:DEFAULT SETTING,2,480
 27606,Add Whitelist to Settings  Privacy,Jack9,2018-05-23T19:48:47.555Z,4,SETTINGS:PRIVACY:COOKIES,4,1220
 24543,Keyboard Settings Should Default to Collapsed,Pesala,2018-02-02T11:47:51.752Z,4,SETTINGS:SHORTCUTS:GUI,1,407
 31151,Separate Typed History from History,lamantin,2018-10-12T11:44:22.362Z,4,SETTINGS:BROWSER HISTORY:TYPED HISTORY,1,260
 32461,Add "Save link as..." Mouse Gesture and Hotkey,kay_D,2018-11-23T09:19:04.434Z,4,SETTINGS:SHORTCUTS:MOUSE GESTURES,2,365
-33553,Add a Command for Override Scroll is Pan,Pesala,2019-01-02T20:08:13.714Z,4,SETTINGS:SHORTCUTS:MOUSE GESTURES:SCROLLING,3,420
-33772,Option to Move Menu Button,gigel2007,2019-01-11T20:02:07.415Z,4,SETTINGS:BUTTON:MENU,2,251
+33553,Add a Command for Override Scroll is Pan,Pesala,2019-01-02T20:08:13.714Z,4,SETTINGS:SHORTCUTS:MOUSE GESTURES:SCROLLING,4,432
+33772,Option to Move Menu Button,gigel2007,2019-01-11T20:02:07.415Z,4,SETTINGS:BUTTON:MENU,2,252
 34206,Block global/site-specific Redirects,Gwen-Dragon,2019-01-30T07:56:59.197Z,4,SETTINGS:SITE SETTINGS:REDIRECTION,1,215
-35810,Hide search engine in context menu,Leradis,2019-03-26T19:23:37.076Z,3,SETTINGS:SEARCH ENGINES:CONTEXT MENU,3,254
+35810,Hide search engine in context menu,Leradis,2019-03-26T19:23:37.076Z,3,SETTINGS:SEARCH ENGINES:CONTEXT MENU,3,256
 36097,Paste as plain text by default,Gregor,2019-04-01T17:10:08.098Z,4,SHORTCUTS:PASTE,6,235
-36221,Allow to place status bar on top,Hadden89,2019-04-04T09:48:44.257Z,4,STATUS BAR,12,575
+36221,Allow to place status bar on top,Hadden89,2019-04-04T09:48:44.257Z,4,STATUS BAR,12,576
 28952,Vertically Stack the UI for Editing a Search Engine,TsunamiZ,2018-07-25T02:20:16.597Z,4,SEARCH ENGINES,1,212
 28834,Sort search engines alphabetically once by name or by nickname...,TsunamiZ,2018-07-21T00:59:24.140Z,4,,5,578
-37401,Toggle mouse gestures by keybind,HorochovPL,2019-05-15T20:15:18.737Z,4,SHORTCUTS:MOUSE GESTURES:KEYBOARD,4,195
 37857,Show favicon in Windows taskbar,DavidBevi,2019-06-03T10:43:09.624Z,4,WINDOWS:FAVICONS:TASKBAR,2,208
 37670,Customize the number of lines that are scrolled...,TsunamiZ,2019-05-25T19:48:10.550Z,4,SETTINGS:SCROLLING:SCROLL WHEEL,4,199
-39833,Allow making a "Person" the default,mscha,2019-09-01T18:51:47.700Z,4,PROFILES,1,35
 42485,Sync: separate download and upload options,paul1149,2019-12-02T14:45:55.585Z,4,,1,38
-34108,Clear Browser History on Exit,Wintings,2019-01-25T11:18:37.651Z,4,SETTINGS:PRIVACY,49,1802
-45481,Multi row for extension dropdown,Hadden89,2020-04-05T17:50:48.968Z,4,,8,88
+34108,Clear Browser History on Exit,Wintings,2019-01-25T11:18:37.651Z,4,SETTINGS:PRIVACY,60,1917
+45481,Multi row for extension dropdown,Hadden89,2020-04-05T17:50:48.968Z,4,,8,93
 48143,Possibility to force save all settings,potmeklecbohdan,2020-06-16T08:56:53.765Z,4,,1,22
+50113,Add custom blocking rules to Vivaldi's Adblocker,Obiwan2208,2020-08-28T00:29:05.264Z,4,,12,133
 28198,Bookmark Bar Show/Hide Multi Options (as in Chrome),washere,2018-06-24T18:06:01.506Z,3,SETTINGS:BOOKMARKS BAR,7,949
 27484,Setting to Disable Javascript "copy" Event,robhol,2018-05-18T10:20:58.963Z,3,SETTINGS:JAVASCRIPT,8,1168
 24331,OK/Cancel buttons in Settings window,ivnltv,2018-01-31T20:43:14.301Z,3,SETTINGS:GUI,4,507
-29631,Add Built-in 3rd Password Manager Support,yuzukun,2018-08-27T09:54:32.669Z,3,SETTINGS:PASSWORDS,1,415
+29631,Add Built-in 3rd Password Manager Support,yuzukun,2018-08-27T09:54:32.669Z,3,SETTINGS:PASSWORDS,1,416
 30921,Personal Note of Any Item in the Settings Dialogue,drkh,2018-10-06T01:56:43.824Z,3,SETTINGS:NOTES,8,420
 22904,Keyboard Shortcut to Clear All Closed Tabs in the Window Panel,shickmo,2017-12-07T03:45:57.240Z,3,SETTINGS:SHORTCUTS:CLOSED TABS:CLEAR,3,1157
+31575,Disable Cache and/or Set Cache Size,jhale,2018-10-24T13:54:30.488Z,3,SETTINGS:CACHE,1,637
 31808,Option to Remove Search Engine from Quick Commands,LastExceed,2018-10-30T09:17:53.010Z,3,SETTINGS:SEARCH ENGINES:QUICK COMMANDS,3,413
 32066,Option for Notification that Download has Started,artokut,2018-11-08T15:54:17.643Z,3,SETTINGS:DOWNLOADS:NOTIFICATIONS,12,890
 32124,Setting to Disable Closed Tabs History and Remove Trashcan,Kobi,2018-11-10T21:08:01.054Z,3,SETTINGS:HISTORY:TRASHCAN:CLOSED TABS,14,1425
-32367,Option to Disable Middle Mouse Button Autoscrolling,rseiler,2018-11-20T03:56:02.080Z,3,SETTINGS:MIDDLE-CLICK,2,806
+32367,Option to Disable Middle Mouse Button Autoscrolling,rseiler,2018-11-20T03:56:02.080Z,3,SETTINGS:MIDDLE-CLICK,2,812
 32441,Adapt Settings to user GPU to avoid Hardware Acceleration Issues,Hadden89,2018-11-22T12:55:46.843Z,3,SETTINGS:WEBPAGES,1,260
-32848,Option to Always Reuse Active Tab,Pesala,2018-12-08T19:18:50.267Z,3,SETTINGS:LINKS:ACTIVE TABS,2,325
-32939,Enable Spellcheck in Settings  Webpages,Wireaddict,2018-12-11T17:58:00.602Z,3,SETTINGS:WEBPAGES:SPELLCHECK,5,276
+32848,Option to Always Reuse Active Tab,Pesala,2018-12-08T19:18:50.267Z,3,SETTINGS:LINKS:ACTIVE TABS,2,326
+32939,Enable Spellcheck in Settings  Webpages,Wireaddict,2018-12-11T17:58:00.602Z,3,SETTINGS:WEBPAGES:SPELLCHECK,7,300
 33500,Option to Never Save History,rhubarbpieguy,2018-12-30T20:23:30.596Z,2,SETTINGS:HISTORY,3,385
 33704,Disable zoom with button or shortcut.,palmoon,2019-01-09T05:02:55.910Z,3,SETTINGS:ZOOM,2,203
 34216,Option to Disable Closing Tab on Middle-click,liebezeit,2019-01-30T22:43:33.016Z,3,SETTINGS:CLOSE TABS:MIDDLE-CLICK,3,230
@@ -129,64 +132,67 @@ ID,Title,Author,Date,Votes,Tags
 38116,Language switching without requiring restart,IdanAdar,2019-06-13T17:29:25.726Z,3,,4,161
 38912,Allow to change (few) settings for guest profile,Hadden89,2019-07-18T19:15:11.325Z,3,,1,88
 39501,Select which UI animations to disable,relu84,2019-08-19T11:36:20.016Z,3,LOADING:ANIMATIONS:FAVICON,1,37
-39787,Move Chromium settings to Vivaldi's settings,dannyswift,2019-08-30T21:50:27.360Z,3,CHROMIUM:UI DESIGN,1,54
-39871,Make Hangouts and Chromecast optional,madiso,2019-09-03T16:24:04.018Z,3,,1,76
-42020,Support DNS-over-HTTP (DoH),bc3tech,2019-11-08T22:25:39.014Z,3,,24,321
+39787,Move Chromium settings to Vivaldi's settings,dannyswift,2019-08-30T21:50:27.360Z,3,CHROMIUM:UI DESIGN,1,55
+39871,Make Hangouts and Chromecast optional,madiso,2019-09-03T16:24:04.018Z,3,,1,77
+42020,Support DNS-over-HTTP (DoH),bc3tech,2019-11-08T22:25:39.014Z,3,,24,331
 42316,Auto copy selected text in clipboard,Fighter4Freedom,2019-11-22T12:26:26.717Z,3,,6,82
 43447,Overlay link info when status bar shown,potmeklecbohdan,2020-01-13T18:10:02.998Z,3,,7,80
 44325,better integration with KDE notifications,zany130,2020-02-19T16:33:33.462Z,3,,1,26
 45507,Option for right-to-left languages in reader mode,petol777,2020-04-06T12:35:19.451Z,3,,5,46
 45908,Read-only for some Bookmarks+BookmarkSubfolders,ns20a1,2020-04-21T09:35:01.306Z,3,,8,35
-45966,Allow (native) notifications for Standalone|Current User installations,Hadden89,2020-04-22T13:59:06.778Z,3,,1,27
+45966,Allow (native) notifications for Standalone|Current User installations,Hadden89,2020-04-22T13:59:06.778Z,3,,1,28
+48934,Option to choose a custom folder for storing Session files,Eftegarie,2020-07-12T13:50:49.612Z,3,,4,43
+49477,Vivaldi settings and configuration,jjsanchez46,2020-08-05T21:39:19.810Z,3,,4,27
+49689,Auto Clean Browser Cache on Exit,Acerus,2020-08-13T11:22:10.791Z,3,,15,126
 29306,Extended Referrer Settings,becm,2018-08-11T10:46:46.204Z,2,SETTINGS:PRIVACY,1,534
 29514,Option to Limit Closed Tab Menu to the Current Window,Omen_20,2018-08-21T18:11:12.783Z,1,SETTINGS:WINDOW:CLOSED TABS,1,412
-29930,Show the Bookmarks Bar only on New Tabs,zook,2018-09-10T02:19:22.194Z,2,SETTINGS:BOOKMARKS BAR:START PAGE,4,682
+29632,Open a New Private Window or Tab with Tor,yuzukun,2018-08-27T10:02:12.005Z,2,SETTINGS:PRIVACY:TOR,1,382
 30178,Save Sync Password Independently of Other Passwords,gggmmm,2018-09-20T10:09:35.949Z,2,SETTINGS:SYNC:PASSWORD,1,475
-30279,Clear Per Host Zoom Levels in Clear Private Data,Pesala,2018-09-23T22:59:48.775Z,2,SETTINGS:PRIVACY:ZOOM,2,1182
-30256,Option for PageDown/Up travel range,dude99,2018-09-23T10:46:40.613Z,2,SETTINGS:SCROLLING,3,448
+30279,Clear Per Host Zoom Levels in Clear Private Data,Pesala,2018-09-23T22:59:48.775Z,2,SETTINGS:PRIVACY:ZOOM,2,1183
+30256,Option for PageDown/Up travel range,dude99,2018-09-23T10:46:40.613Z,2,SETTINGS:SCROLLING,3,449
 30819,Option to Reverse Tab Cycler Direction,seron,2018-10-03T11:25:58.984Z,2,SETTINGS:WINDOWS 10:TAB CYCLING:SCROLL WHEEL:RIGHT-CLICK,3,458
-31575,Disable Cache and/or Set Cache Size,jhale,2018-10-24T13:54:30.488Z,2,SETTINGS:CACHE,1,636
 31814,Task Bar Right-click Options: Recent  Pinned  Most Visited  etc.,robinartdesign,2018-10-30T11:11:58.870Z,1,SETTINGS:CONTEXT MENU:TASKBAR,1,370
 32203,Stop Saving Login Names,pccobbler,2018-11-14T01:15:08.048Z,1,SETTINGS:PRIVACY:AUTOFILL,4,637
-32816,Option for Image Feeds,Seasonly,2018-12-07T11:08:05.003Z,2,SETTINGS:START PAGE:IMAGE:BACKGROUND,3,398
+32816,Option for Image Feeds,Seasonly,2018-12-07T11:08:05.003Z,2,SETTINGS:START PAGE:IMAGE:BACKGROUND,3,399
 33050,Tab Cycling: Wrap or no Wrap Option,Purgator,2018-12-14T13:00:24.427Z,2,SETTINGS:TAB CYCLING,9,388
-27735,Close Button Minimizes the Browser to System Tray,bebotette,2018-05-30T07:24:10.845Z,2,SETTINGS:MINIMIZE WINDOW,3,1068
+27735,Close Button Minimizes the Browser to System Tray,bebotette,2018-05-30T07:24:10.845Z,2,SETTINGS:MINIMIZE WINDOW,3,1069
 33637,Wider Search Engines Listbox,dracho,2019-01-06T19:19:00.559Z,2,SETTINGS:SEARCH ENGINES,4,361
 33982,Add the Safari/Epiphany tab view,dannyswift,2019-01-21T11:10:35.764Z,2,SETTINGS:TAB BAR:TAB VIEW,1,210
 35103,Ability to highlight item in dropdown-menus,Prvock,2019-03-01T14:50:04.963Z,2,CONTEXT MENU,1,176
-35722,Importing/Exporting passwords from a file,RROO,2019-03-22T23:43:21.600Z,2,PASSWORDS:IMPORT:EXPORT,6,647
-35763,Password search consistency,jpaulbiss,2019-03-24T20:05:11.469Z,2,PRIVACY:PASSWORDS,2,173
+35722,Importing/Exporting passwords from a file,RROO,2019-03-22T23:43:21.600Z,2,PASSWORDS:IMPORT:EXPORT,6,649
+35763,Password search consistency,jpaulbiss,2019-03-24T20:05:11.469Z,2,PRIVACY:PASSWORDS,2,174
 36224,Question dialog for third-party cookies,sdtbluethink,2019-04-04T10:18:04.043Z,1,PRIVACY:COOKIES,1,140
 36252,Private User Profiles,dies_felices,2019-04-04T23:34:20.019Z,2,PROFILES:PRIVATE MODE,1,177
-37681,Filter by domain for saved webpage passwords.,System32,2019-05-26T06:37:41.663Z,2,SETTINGS:PASSWORD:FILTERS:PASSWORD MANAGER,3,157
-39088,Performing gestures using 2 fingers (on touchpads),Zeta616,2019-07-27T17:59:46.924Z,2,,1,82
-39189,Multiple "People" with single Vivaldi sync account,Llamanerds,2019-08-01T20:42:57.205Z,2,SYNC:PROFILES,11,255
+37681,Filter by domain for saved webpage passwords.,System32,2019-05-26T06:37:41.663Z,2,SETTINGS:PASSWORD:FILTERS:PASSWORD MANAGER,3,158
+39088,Performing gestures using 2 fingers (on touchpads),Zeta616,2019-07-27T17:59:46.924Z,2,,1,83
+39189,Multiple "People" with single Vivaldi sync account,Llamanerds,2019-08-01T20:42:57.205Z,2,SYNC:PROFILES,11,259
 39209,Keep Pinned-Tabs,TeraNovaLP,2019-08-02T12:26:41.169Z,2,,8,170
-39500,Show the profile name alongside the profile picture,stephanvanniekerk,2019-08-19T10:54:00.856Z,2,PROFILES,3,60
+39500,Show the profile name alongside the profile picture,stephanvanniekerk,2019-08-19T10:54:00.856Z,2,PROFILES,3,61
 39962,Choose what settings to opt out of sync,azohc,2019-09-06T19:29:38.683Z,2,,9,105
-40854,Add reload all tabs option in mouse gestures settings,K1976,2019-09-25T13:18:10.401Z,2,,1,35
+40854,Add reload all tabs option in mouse gestures settings,K1976,2019-09-25T13:18:10.401Z,2,,1,36
 41204,Restore unsaved pages when crash happened.,kukuro,2019-10-06T09:08:55.988Z,2,,1,27
 41616,Display link URL how it's defined in HTML,potmeklecbohdan,2019-10-24T16:52:22.217Z,2,,7,293
-41238,Site-specific settings for cookies,jumpsq,2019-10-07T17:37:33.967Z,2,,7,139
+41238,Site-specific settings for cookies,jumpsq,2019-10-07T17:37:33.967Z,2,,7,141
+43474,Mute Auto play videos.,andrew5757,2020-01-15T00:06:41.984Z,2,,1,26
 44293,Toggle: Prefill saved passwords,taugimo,2020-02-18T11:52:28.284Z,2,,1,18
 45086,Improve Privacy Settings: Customizable privacy profile with more settings,xtech,2020-03-20T14:54:54.702Z,2,,1,29
 45905,Add function [Pause/UnPause Sync],ns20a1,2020-04-21T09:05:41.281Z,2,SYNC,1,20
 46139,The "session only" privacy setting should also be available for "Closed Tab" and "Download History",Durango,2020-04-24T08:07:53.434Z,2,,1,14
 47348,[Quick Command] Add an option to hide URLs of tabs in Quick Command popup window,admacro,2020-05-26T04:31:14.495Z,2,,3,22
 48046,Download option: "Save As and Open",pattiobear,2020-06-14T04:16:25.535Z,2,,3,23
-48934,Option to choose a custom folder for storing Session files,Eftegarie,2020-07-12T13:50:49.612Z,2,,4,40
 25361,Add Settings to the Navigation Bar,AltCode,2018-02-22T20:11:39.211Z,1,SETTINGS:NAVIGATION BAR,1,469
-29632,Open a New Private Window or Tab with Tor,yuzukun,2018-08-27T10:02:12.005Z,1,SETTINGS:PRIVACY:TOR,1,381
 29751,Selecting Save Location After Starting Downloads,vydas,2018-09-02T22:38:18.890Z,1,SETTINGS:DOWNLOADS:DOWNLOADMANAGER,2,405
 29950,Set Default Layout for Tile Tab Stack,roberthendershot,2018-09-10T15:04:35.238Z,1,SETTINGS:TAB STACKS:TILING,5,708
 32006,Shortcut to toggle tab cycling order,nitsi,2018-11-07T02:53:30.922Z,1,SETTINGS:SHORTCUTS:TAB CYCLING,1,295
 32597,WASAPI Exclusive Mode,zufar,2018-11-28T21:31:08.436Z,1,SETTINGS:AUDIO,1,396
-33794,Option to Remove Bookmark Count,timeissand,2019-01-13T14:21:40.034Z,1,SETTINGS:BOOKMARKS,8,474
+33794,Option to Remove Bookmark Count,timeissand,2019-01-13T14:21:40.034Z,1,SETTINGS:BOOKMARKS,8,478
 33922,Option to start in a private window,0001,2019-01-18T21:57:59.646Z,1,SETTINGS:STARTUP:PRIVATE WINDOW,2,249
 33996,Option to ASCII encode search strings,jberentsson,2019-01-21T18:13:51.937Z,1,SEARCH ENGINES:ENCRYPTION,15,613
 34037,Please add Group Policy,jp1,2019-01-23T12:59:23.166Z,1,CONFIGURATION,5,412
+34181,Transparency Setting for Borders,handel,2019-01-29T11:17:24.574Z,1,SETTINGS:UI DESIGN:TRANSPARENT,3,254
 24720,Optional Compact Mode for Panels and UI Elements,Hadden89,2018-02-05T13:25:53.055Z,1,TABS:SETTINGS:PANELS:BOOKMARKS BAR:ICONS,1,635
 34757,Remember Default Save Format,sventhebarbarian,2019-02-18T10:54:49.653Z,1,SETTINGS:WEBPAGES,3,308
+34797,User interface zoom,ineuw,2019-02-19T07:46:33.551Z,1,GUI:ZOOM,1,178
 35254,Start Page Background Image  Preserve Aspect Ratio Option,geodox,2019-03-06T22:00:24.468Z,1,START PAGE:BACKGROUND:SCALE:ASPECT RATIO,1,154
 35632,Separate shortcut to exit reader mode,AnrDaemon,2019-03-19T20:58:41.683Z,1,SHORTCUTS:KEYBOARD:READER VIEW,1,137
 35634,Capture FULL webpage images from command line,silhoette,2019-03-20T01:12:45.459Z,1,SCREENSHOT:COMMANDLINE,3,207
@@ -195,41 +201,42 @@ ID,Title,Author,Date,Votes,Tags
 35751,enable/disable Independent search field for all tabs,ztMAMOHT,2019-03-24T08:27:49.987Z,1,SETTINGS:SEARCH BAR,1,147
 36281,sync complete settings with option yes / no,theimer,2019-04-05T14:42:20.151Z,1,SYNC,2,167
 36446,Autofocusing the address and search bars,Aussith9NT,2019-04-10T17:47:07.593Z,1,SETTINGS:ADDRESS BAR:SEARCH BAR:FOCUS,3,225
-36698,Add Shortcut in Menu,mib2berlin,2019-04-19T21:20:13.959Z,1,SHORTCUTS:CONTEXT MENU,3,235
-38180,Video settings,Philipvivaldi,2019-06-16T17:03:26.905Z,1,,4,182
+36698,Add Shortcut in Menu,mib2berlin,2019-04-19T21:20:13.959Z,1,SHORTCUTS:CONTEXT MENU,3,236
+38180,Video settings,Philipvivaldi,2019-06-16T17:03:26.905Z,1,,4,185
 38358,Add Support for More Interface Languages,Pesala,2019-06-23T04:34:27.801Z,1,,3,183
 38581,Closing tabs by filter,Kovan2002,2019-07-02T06:56:25.556Z,1,,3,119
 39841,A message on status bar indicating the start of a download,zhangdl,2019-09-02T09:31:02.590Z,1,DOWNLOADS:STATUS BAR,4,67
 41470,Rename "private mode" to "historyless mode",madiso,2019-10-18T13:12:07.693Z,1,,12,193
-41535,Require entering password before showing saved passwords,ndaidong,2019-10-21T04:54:15.019Z,1,,21,178
+41535,Require entering password before showing saved passwords,ndaidong,2019-10-21T04:54:15.019Z,1,,22,193
 42261,A Keystroke to Control Extensions' Features Directly from Vivaldi,tedcurran,2019-11-20T00:03:10.070Z,1,,2,35
 43216,Have a separate 'Accept Cookies' setting for Private Windows,usslnx,2020-01-03T11:12:18.584Z,1,,5,62
 43283,DRM should work like a permission,madiso,2020-01-07T09:25:56.310Z,1,,1,39
-43474,Mute Auto play videos.,andrew5757,2020-01-15T00:06:41.984Z,1,,1,25
 43841,Load Media Router Component Extension,matiasmovie,2020-01-30T16:11:53.858Z,1,,1,17
 43874,Add Support for Multiple Languages with User-Defined Weighting/Sorting  Allow User to Disable Sync for this Setting,danfiscus,2020-02-01T00:10:30.632Z,1,IN PROGRESS,3,25
-44612,"Continue running background apps when Vivaldi is closed" option in the VIVALDI settings!,pointofview,2020-03-03T16:54:04.823Z,1,,9,66
-45121,Make the extensions settings page easier to navigate,keeganwitt,2020-03-22T01:43:58.589Z,1,,7,67
+44612,"Continue running background apps when Vivaldi is closed" option in the VIVALDI settings!,pointofview,2020-03-03T16:54:04.823Z,1,,9,67
+45121,Make the extensions settings page easier to navigate,keeganwitt,2020-03-22T01:43:58.589Z,1,,7,68
 45734,Filter keyboard shortcuts by pressing the shortcut,stdedos,2020-04-15T10:59:24.566Z,1,,1,15
 46330,Profile sort Alphabetically,BillH,2020-04-27T14:01:37.697Z,1,,1,21
 47575,Full page cookie information,saudiqbal,2020-06-03T02:09:10.043Z,1,,1,20
 48224,Prevent sites from blocking page scrolling,ethanverht,2020-06-18T08:45:52.636Z,1,,1,16
-48625,Custom rules for build-in advertising blocker,AlexeyB,2020-06-29T15:29:33.672Z,1,,4,39
+48625,Custom rules for build-in advertising blocker,AlexeyB,2020-06-29T15:29:33.672Z,1,,4,45
+48916,Option to disable Enable Text Fragment Anchor in settings.,iyo13,2020-07-11T18:19:41.101Z,1,,3,38
 49227,Spellchecking language per page or site,JoDan,2020-07-27T14:08:38.885Z,1,,2,20
-25422,Merge Downloads / Sync / Updates in Settings,Hadden89,2018-02-24T09:55:16.934Z,0,SETTINGS,1,476
-29521,Not Safe for Work Filter,dadiocoleman,2018-08-22T02:37:29.389Z,0,SETTINGS:WEBPAGES,6,527
+50209,Option to disable Mouse4/Mouse5 forward/back,Auhrii,2020-08-31T20:21:15.133Z,1,,2,17
+25422,Merge Downloads / Sync / Updates in Settings,Hadden89,2018-02-24T09:55:16.934Z,0,SETTINGS,1,477
+29521,Not Safe for Work Filter,dadiocoleman,2018-08-22T02:37:29.389Z,0,SETTINGS:WEBPAGES,6,528
 29934,Tune the Scroll Wheel Distance,zook,2018-09-10T02:54:01.377Z,0,SETTINGS:SCROLL WHEEL,3,345
 30010,Hide the Bookmark Bar on New Tabs,hentioe,2018-09-13T06:15:36.483Z,0,SETTINGS:BOOKMARKS BAR:START PAGE,3,611
-30047,Reorganize the Settings Dialogue,RandomlyFish,2018-09-14T08:20:06.683Z,0,SETTINGS:GUI,7,557
-30154,Modern System for Modifications,Azenix,2018-09-19T00:18:00.832Z,0,SETTINGS:MODDING,2,463
+30047,Reorganize the Settings Dialogue,RandomlyFish,2018-09-14T08:20:06.683Z,0,SETTINGS:GUI,7,558
+30154,Modern System for Modifications,Azenix,2018-09-19T00:18:00.832Z,0,SETTINGS:MODDING,2,464
 30339,Rocker Shortcuts for Left-handed Mouses,igorsantos07,2018-09-25T23:57:09.816Z,0,SHORTCUTS:GESTURE:MOUSE:LEFT-HANDED,2,311
 30662,Ask Me Every Time Cookie Option,Stacy,2018-09-30T04:44:35.679Z,0,SETTINGS:PRIVACY:COOKIES,2,328
-30739,Option for Vivaldi Menu Button to Toggle the Horizontal Main Menu,TsunamiZ,2018-10-01T23:14:20.376Z,0,SETTINGS:MENU:MENU BAR,1,350
+30739,Option for Vivaldi Menu Button to Toggle the Horizontal Main Menu,TsunamiZ,2018-10-01T23:14:20.376Z,0,SETTINGS:MENU:MENU BAR,1,351
 30872,Option to log out and delete all locally synced data from disk,mhofer,2018-10-04T20:46:14.765Z,0,SYNC:PRIVATE DATA,1,228
-31283,Change Download Notification timeout,browseruser,2018-10-16T02:42:03.978Z,0,SETTINGS:DOWNLOADS:NOTIFICATIONS,4,500
+31283,Change Download Notification timeout,browseruser,2018-10-16T02:42:03.978Z,0,SETTINGS:DOWNLOADS:NOTIFICATIONS,4,501
 31472,Assign Shortcuts to Mouse-gestures,Paykoman,2018-10-21T09:07:11.473Z,0,SETTINGS:SHORTCUTS:MOUSE GESTURES,2,321
 31676,Hotkey to Focus Developer Tools,YakovL_,2018-10-26T10:21:36.523Z,0,SETTINGS:SHORTCUTS:DEVELOPER TOOLS:NAVIGATION,4,433
-31846,Option to Always Print with System Dialog,imp666,2018-10-31T14:44:03.798Z,0,SETTINGS:PRINT,5,694
+31846,Option to Always Print with System Dialog,imp666,2018-10-31T14:44:03.798Z,0,SETTINGS:PRINT,5,695
 32046,Hold cmd + Q to quit on macOS,carlmathisen,2018-11-08T08:26:15.678Z,0,SETTINGS:SHORTCUTS:MACOS:MAC,8,1044
 32091,Save Password Notification Pop-up,Koolio,2018-11-09T14:23:17.353Z,0,SETTINGS:PASSWORDS:NOTIFICATIONS,2,390
 32485,Increase Maximum Number of Typed History Entries.,jcdewan,2018-11-24T02:19:06.603Z,0,SETTINGS:TYPED HISTORY,1,196
@@ -239,26 +246,24 @@ ID,Title,Author,Date,Votes,Tags
 33929,Option to Omit Bookmarks from Speed Dial Suggestions,Pesala,2019-01-19T05:21:11.460Z,0,SPEED DIAL,1,216
 33957,Plugins have per Window Settings (Private Browsing + VPN),Dakingof,2019-01-19T22:10:41.900Z,0,SETTINGS:PRIVACY,1,221
 34030,Bookmark All Tabs should Bookmark only Tabs not Already Bookmarked,dracho,2019-01-23T01:29:29.128Z,0,SETTINGS:BOOKMARKS,7,347
-34119,Close Tab with Double Right-click,FlorianLisak,2019-01-25T20:23:33.064Z,0,SETTINGS:CLOSE TABS:DOUBLE-CLICK,5,418
-34181,Transparency Setting for Borders,handel,2019-01-29T11:17:24.574Z,0,SETTINGS:UI DESIGN:TRANSPARENT,3,252
+34119,Close Tab with Double Right-click,FlorianLisak,2019-01-25T20:23:33.064Z,0,SETTINGS:CLOSE TABS:DOUBLE-CLICK,5,419
 34339,Option to Separate Ctrl and Shift for Selecting Tabs,matiasmovie,2019-02-05T17:20:51.953Z,0,SETTINGS:SHORTCUTS:TAB:SELECTION,2,189
-34367,Remove the Close Button on Tab Stacks,m.mahmoudian,2019-02-06T13:21:25.710Z,0,SETTINGS:BUTTON:CLOSE TABS,5,354
+34367,Remove the Close Button on Tab Stacks,m.mahmoudian,2019-02-06T13:21:25.710Z,0,SETTINGS:BUTTON:CLOSE TABS,5,355
 34443,User Configurable Minimum Window Width,smelly,2019-02-07T21:17:35.057Z,0,SETTINGS:WINDOW:SIZE,4,317
 34445,Related Tabs on Close Tab Should Consider Child Tabs as Related,kantoku,2019-02-07T22:06:57.548Z,0,SETTINGS:CLOSE TABS,2,199
 34471,Select/deselect Tabs with Double-click,TsunamiZ,2019-02-08T13:14:37.270Z,0,TABS:SETTINGS:SELECTION:DOUBLE-CLICK,5,216
 34564,Dual Page Reader View,srdgrb,2019-02-11T20:15:08.857Z,0,SETTINGS:READER VIEW,1,191
-34797,User interface zoom,ineuw,2019-02-19T07:46:33.551Z,0,GUI:ZOOM,1,177
 34799,Start Page background image opacity,treetey,2019-02-19T08:09:28.989Z,0,THEMES:START PAGE:BACKGROUND,1,182
 34867,Allow search engine in right click context menu for links,chaoscreater,2019-02-21T00:03:27.144Z,0,SEARCH:CONTEXT MENU:LINKS,4,284
-34892,Different Settings,batukman,2019-02-21T19:02:23.913Z,0,SETTINGS,4,306
+34892,Different Settings,batukman,2019-02-21T19:02:23.913Z,0,SETTINGS,4,307
 35372,Setting that allows the user to "Hide" the exit [X] button in the upper right hand corner of the browser window,lrade,2019-03-10T10:51:31.593Z,0,GUI:WINDOW,3,191
 35405,Add Maximize Mouse Gesture,GreenLantern,2019-03-12T00:48:39.094Z,0,MOUSE GESTURES,3,235
 37034,Screen reset,Knuthf,2019-05-05T14:19:56.981Z,0,SETTINGS:SHORTCUTS:DEFAULT SETTING,2,157
 37181,Startup with Last Session + Startpage,raystanz,2019-05-09T06:42:32.678Z,0,SESSIONS:START PAGE:STARTUP,3,187
 37274,Ability to right click on taskbar icon to switch profiles,D0tted,2019-05-11T12:34:19.302Z,0,PROFILES:TASKBAR,1,115
-37598,Add a option to chose playback device,thesunshined,2019-05-22T19:55:03.399Z,0,WINDOWS:PLAYBACK,2,141
+37598,Add a option to chose playback device,thesunshined,2019-05-22T19:55:03.399Z,0,WINDOWS:PLAYBACK,2,142
 37838,Scanning of cookies for the detection of viruses and malware,MattSolo45,2019-06-02T07:02:04.421Z,0,SECURITY:COOKIES:MALWARE,9,195
-38720,Allow multi selection on Vivaldi Settings: Privacy Password,hectorline,2019-07-09T08:42:03.347Z,0,SETTINGS:PASSWORDS,1,107
+38720,Allow multi selection on Vivaldi Settings: Privacy Password,hectorline,2019-07-09T08:42:03.347Z,0,SETTINGS:PASSWORDS,1,108
 38939,open files like PDF direct from web,theimer,2019-07-19T19:33:18.257Z,0,,4,100
 38977,Vivaldi Processes,wdsdarkbrain,2019-07-22T01:45:30.814Z,0,,1,115
 39124,Add More Options to "Save Browsing History",xchimp,2019-07-29T17:43:47.382Z,0,PRIVACY:BROWSER HISTORY:OPTION,1,109
@@ -269,7 +274,7 @@ ID,Title,Author,Date,Votes,Tags
 42112,Close Panel,jumpsq,2019-11-12T11:22:51.276Z,0,,5,58
 42206,User-customizable target arguments (as a hidden setting),madiso,2019-11-16T19:47:29.260Z,0,,1,29
 42257,Persistent Zoom-Slider on a per Domain / Website basis,m0n0krom,2019-11-19T21:31:17.357Z,0,,2,36
-42565,Downloading favicons from Vivaldi,Montiverdi,2019-12-07T06:18:20.421Z,0,,9,125
+42565,Downloading favicons from Vivaldi,Montiverdi,2019-12-07T06:18:20.421Z,0,,9,126
 42794,Add an extensions panel keyboard navigation,dannyswift,2019-12-17T15:15:43.978Z,0,,2,25
 42828,Update Multiple Passwords,steve8track,2019-12-18T17:59:38.420Z,0,,16,232
 43037,Copy-and-paste friendly system info,myVivaldiUsername,2019-12-25T14:04:20.691Z,0,,4,38
@@ -278,9 +283,9 @@ ID,Title,Author,Date,Votes,Tags
 43603,Import Data | Portable Browsers,Zalex108,2020-01-21T19:21:16.514Z,0,,1,27
 43749,Mouse Gesture : Open Image in New Tab or/and Window,Alex5,2020-01-27T09:13:53.829Z,0,,2,21
 43894,toggle ui mode at startup,parisni,2020-02-02T12:06:59.432Z,0,,4,32
-43901,Settings not visible.,pabb,2020-02-02T18:20:46.282Z,0,,6,33
+43901,Settings not visible.,pabb,2020-02-02T18:20:46.282Z,0,,6,35
 44103,Detailed view/management of autofill data,KSB,2020-02-12T14:46:02.197Z,0,,5,41
-40704,Sync tabs without history,madiso,2019-09-21T17:30:58.265Z,0,,3,48
+40704,Sync tabs without history,madiso,2019-09-21T17:30:58.265Z,0,,3,49
 44566,keyboard shortcut to "send to device",Konra,2020-03-01T14:21:45.869Z,0,,3,32
 44957,Make the tab cycler stay on the current tab...,TsunamiZ,2020-03-16T11:46:00.009Z,0,,17,82
 45036,Clearing the Vivaldi keyboard shortcut assignments,ineuw,2020-03-19T13:17:22.163Z,0,,6,51
@@ -290,27 +295,32 @@ ID,Title,Author,Date,Votes,Tags
 45181,Option to Disable fully automatic auto-fill,ashus,2020-03-24T19:15:04.274Z,0,,3,30
 45295,Support for RoamingProfileSupportEnabled Policy,AakashShah,2020-03-29T10:46:45.094Z,0,POLICY,2,19
 45598,Show Background Image should be a radio button instead of a checkbox,owasmosy,2020-04-10T06:09:31.376Z,0,,1,20
-45615,Tabs  Panel and Address Bar should be placed below General settings,owasmosy,2020-04-10T16:26:42.040Z,0,,3,35
-45644,RNB1 The Start Page Navigation should have its own section and be named just Navigation Bar,owasmosy,2020-04-11T21:07:51.926Z,0,,1,19
+45615,Tabs  Panel and Address Bar should be placed below General settings,owasmosy,2020-04-10T16:26:42.040Z,0,,3,36
+45644,RNB1 The Start Page Navigation should have its own section and be named just Navigation Bar,owasmosy,2020-04-11T21:07:51.926Z,0,,1,20
 45645,RNB2 There should be a list of check boxes that tell where to display the navigation bar,owasmosy,2020-04-11T21:10:02.647Z,0,,2,24
 45646,RNB3 There should be a list elements to display in the navigation bar including a Search Bar,owasmosy,2020-04-11T21:11:00.642Z,0,,1,21
 45647,RNB4 The navigation bar should have a transparency slider,owasmosy,2020-04-11T21:13:00.892Z,0,,1,16
 45648,RNB5 The navigation bar should have a Width Slider,owasmosy,2020-04-11T21:14:47.013Z,0,,1,19
 45842,Option to strip newline from copied text,xantheose,2020-04-18T12:37:47.748Z,0,,7,54
 45910,Option to Exclude [Bookmark Bar Folder] setting from SYNC,ns20a1,2020-04-21T12:35:51.320Z,0,,1,18
-45972,Make the tab title tooltip a setting,Hadden89,2020-04-22T14:41:10.891Z,0,,2,21
+45972,Make the tab title tooltip a setting,Hadden89,2020-04-22T14:41:10.891Z,0,,2,22
 46201,Options for browser update notifications,karllangercroager,2020-04-25T00:17:26.784Z,0,,2,25
 46228,Dual Quick Commands / larger QC window,AV1,2020-04-25T13:17:48.875Z,0,,2,36
 46334,disable screenshot notification,mizouniihichem,2020-04-27T14:48:38.470Z,0,,4,44
 46677,Clearing cookies/history on close website,srdgrb,2020-05-05T13:32:57.698Z,0,,1,22
 47380,Allow blocking or whitelisting web sockets,briannelsonutd,2020-05-27T13:53:40.744Z,0,,2,27
-47562,[RESOLVED] Fix Popups for existing Site Settings,greybeard,2020-06-02T16:34:07.698Z,0,,6,24
+47562,[RESOLVED] Fix Popups for existing Site Settings,greybeard,2020-06-02T16:34:07.698Z,0,,6,25
 48087,Store visual settings per Window,castaway,2020-06-15T10:11:21.975Z,0,,10,63
-48426,More settings for Download function,toroned,2020-06-23T17:13:21.553Z,0,,1,19
-48511,Open links in incognito mode,bavariancowboy,2020-06-25T21:15:01.717Z,0,,1,15
-48538,Add - 'Open Start Page in Current Tab' - command for Mouse Gesture,PAKman,2020-06-26T16:43:38.519Z,0,,2,16
+48426,More settings for Download function,toroned,2020-06-23T17:13:21.553Z,0,,1,20
+48511,Open links in incognito mode,bavariancowboy,2020-06-25T21:15:01.717Z,0,,1,16
+48538,Add - 'Open Start Page in Current Tab' - command for Mouse Gesture,PAKman,2020-06-26T16:43:38.519Z,0,,2,17
 48795,hyphenation,woi,2020-07-07T09:34:21.162Z,0,,3,29
 48885,Add option to prioritize open tabs on Quick Commands,eduardocanellas,2020-07-10T17:03:43.315Z,0,,1,15
-48916,Option to disable Enable Text Fragment Anchor in settings.,iyo13,2020-07-11T18:19:41.101Z,0,,1,18
-49153,Ad blocking request - youtube video ads,paul1149,2020-07-23T15:07:45.914Z,0,ADBLOCK,2,35
-49335,Enterprise Management on Windows & Mac,loikawhaticando,2020-07-30T22:32:12.603Z,0,,2,28
+49153,Ad blocking request - youtube video ads,paul1149,2020-07-23T15:07:45.914Z,0,ADBLOCK,2,43
+49335,Enterprise Management on Windows & Mac,loikawhaticando,2020-07-30T22:32:12.603Z,0,,2,31
+49519,Payment info synchronization between devices,sergentum,2020-08-07T07:34:57.015Z,0,,3,16
+49531,Allow sharing links with Windows 10 apps,kevinr,2020-08-07T19:19:21.403Z,0,,4,51
+49684,Option to clear cookies on exit,boruta,2020-08-13T09:55:41.066Z,0,,3,23
+49933,I wish add disable write the Clipboard feature,e1399579,2020-08-22T11:12:03.743Z,0,,3,18
+49948,Option to move the extension tray to other places in the UI.,tobyone,2020-08-22T18:04:46.790Z,0,,1,16
+50094,Ad filter to avoid all those fake premium branded contents,molins,2020-08-27T12:14:53.504Z,0,,2,20

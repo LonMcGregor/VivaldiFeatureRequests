@@ -1,6 +1,6 @@
 javascript:(function csv(){
     "use strict";
-    const data = ["ID,Title,Author,Date,Votes,Tags"];
+    const data = ["ID,Title,Author,Date,Votes,Tags,Posts,Views"];
     function csvOnePage(){
         const topics = document.querySelectorAll(".topic-list li:not(.deleted):not(.locked)");
         Array.from(topics).forEach(topic => {
