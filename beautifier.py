@@ -15,7 +15,7 @@ DATA_FILES = [
     ["category_130_settings.csv", ["DESKTOP", "SETTINGS"]],
     ["category_131_tabs.csv", ["DESKTOP", "TABS"]],
     ["category_132_themes.csv", ["DESKTOP", "THEMES"]],
-    ["category_136_mobile.csv", ["MOBILE"]]
+    ["category_136_mobile.csv", ["ANDROID"]]
 ]
 
 def readAFile(filename, base_tags):
