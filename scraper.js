@@ -32,7 +32,7 @@ javascript:(function csv(){
             document.body.appendChild(a);
             a.style = "display: none";
             a.href = datafileurl;
-            let filename = window.location.pathname.replace("/", "_")+".csv";
+            let filename = window.location.pathname.split("/")[2]+".csv";
             filename = filename.substr(1);
             a.download = filename;
             a.click();

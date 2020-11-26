@@ -8,14 +8,17 @@
 ALL_DATA = []
 TAGS = {}
 DATA_FILES = [
-    ["category_185_desktop.csv", ["DESKTOP"]],
-    ["category_127_address-bar.csv", ["DESKTOP", "ADDRESS BAR"]],
-    ["category_128_bookmarks.csv", ["DESKTOP", "BOOKMARKS"]],
-    ["category_129_panels.csv", ["DESKTOP", "PANELS"]],
-    ["category_130_settings.csv", ["DESKTOP", "SETTINGS"]],
-    ["category_131_tabs.csv", ["DESKTOP", "TABS"]],
-    ["category_132_themes.csv", ["DESKTOP", "THEMES"]],
-    ["category_136_mobile.csv", ["ANDROID"]]
+    ["185.csv", ["DESKTOP"]],
+    ["127.csv", ["DESKTOP", "ADDRESS BAR"]],
+    ["128.csv", ["DESKTOP", "BOOKMARKS"]],
+    ["129.csv", ["DESKTOP", "PANELS"]],
+    ["130.csv", ["DESKTOP", "SETTINGS"]],
+    ["131.csv", ["DESKTOP", "TABS"]],
+    ["132.csv", ["DESKTOP", "THEMES"]],
+    ["194.csv", ["DESKTOP", "MAIL"]],
+    ["195.csv", ["DESKTOP", "CALENDAR"]],
+    ["196.csv", ["DESKTOP", "FEEDS"]],
+    ["136.csv", ["ANDROID"]],
 ]
 
 def readAFile(filename, base_tags):
