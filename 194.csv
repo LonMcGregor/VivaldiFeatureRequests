@@ -1,0 +1,94 @@
+ID,Title,Author,Date,Votes,Tags,Posts,Views
+53355,Auto mark email as read option,saudiqbal,2020-11-25T02:16:01.524Z,24,,4,95
+53327,Import & Export for Mail  Calendar and Feeds,Clairvaux,2020-11-24T17:29:06.455Z,23,,8,135
+53346,Plaintext only mode,jumpsq,2020-11-24T23:37:03.130Z,19,,8,132
+53376,Allow to drag-and-drop emails in between different folders / accounts,jumpsq,2020-11-25T10:33:34.480Z,18,,4,57
+53298,PGP/GPG Encryption and Signing,LonM,2020-11-24T13:44:08.216Z,17,,6,71
+53311,Identities/Aliases,Topha,2020-11-24T14:57:30.212Z,17,,3,88
+25623,Send URL by Email,fofo,2018-03-03T21:30:50.977Z,16,IN PROGRESS:URL:EMAIL,10,1105
+53339,Always open panel in mail view,jumpsq,2020-11-24T19:33:42.124Z,16,,1,44
+53323,Favorites/Reordering mail panel,Topha,2020-11-24T16:47:57.819Z,13,,8,113
+53366,S/MIME support for signing and encryption,Gwen-Dragon,2020-11-25T09:37:15.943Z,12,ENCRYPTION,1,29
+53321,Add Folder and Label settings,jumpsq,2020-11-24T16:22:04.815Z,11,,2,63
+53379,Allow editing of sender address when composing,jumpsq,2020-11-25T11:06:41.976Z,10,,4,64
+53420,Sync email/RSS/Calendar configurations and seen/read statuses,pauloaguia,2020-11-25T22:08:49.432Z,10,,2,26
+53426,Provide Option to Assign Unique Names to Email Accounts,DarylO,2020-11-26T00:19:44.316Z,10,,2,36
+53336,handle mailto:,jumpsq,2020-11-24T19:28:53.377Z,9,,7,88
+53373,Override SSL certificate errors,Gwen-Dragon,2020-11-25T10:19:02.335Z,9,SSL:CERTIFICATE ERR,3,33
+53444,Mail Window Theme,mib2berlin,2020-11-26T10:01:41.946Z,9,,1,37
+53596,Make it usable with all UI configurations,potmeklecbohdan,2020-11-28T17:20:40.190Z,9,,15,151
+53641,Markdown Editor for Composing HTML Messages,burnout426,2020-11-29T12:07:59.215Z,8,,1,21
+53350,Allow nesting views in symbolic folders/subfolders,Hadden89,2020-11-25T00:47:53.376Z,7,,1,37
+53407,Export / Import | Mail / Rss Settings,Zalex108,2020-11-25T19:02:31.737Z,7,,5,52
+53513,Remove items from mail panel,Vistaus,2020-11-27T12:48:11.633Z,7,,1,24
+53314,Contacts CardDav sync,Topha,2020-11-24T15:17:50.371Z,6,,2,47
+53369,Option to display "Receiver",jumpsq,2020-11-25T09:57:17.673Z,6,,1,21
+53435,Multiple Word Search Filter with AND / OR functionality,DarylO,2020-11-26T03:36:50.201Z,6,,5,63
+53453,Preview pdfs/image attachments in a new tab before saving them,AltCode,2020-11-26T13:15:59.998Z,6,,11,51
+53503,Fully split Mail and Feed Reader,NSANE,2020-11-27T10:48:50.293Z,6,,4,52
+53526,Rename Flags,calande,2020-11-27T14:44:21.500Z,6,,1,19
+53599,Support accented characters consistently in Mail,gunainm,2020-11-28T20:18:59.059Z,6,,1,22
+53716,Mark and filter messages with attachments,Zsul,2020-12-01T02:44:35.902Z,6,,1,15
+53365,Add Sender to the block list,pauloaguia,2020-11-25T09:23:52.266Z,5,,1,23
+53410,Copy email to calendar entry / task (or create calendar entry from email),WildEnte,2020-11-25T19:56:04.578Z,5,,1,23
+53496,Option to view and/or copy custom mail headers,bimlas,2020-11-27T07:43:51.567Z,5,,5,28
+53499,Warning when replying/forwarding and your sender address is not in the list of recipients,pauloaguia,2020-11-27T08:44:58.969Z,5,,2,23
+53561,Auto-Label Function,DarylO,2020-11-27T23:32:23.668Z,5,,4,46
+53612,HTML Support in Email Composer,DarylO,2020-11-29T01:30:15.203Z,5,,4,59
+53639,Option to Manually Set IMAP Special-Use Folders,burnout426,2020-11-29T11:51:06.083Z,5,,1,26
+53349,"List View Only" as Mail view option,greybeard,2020-11-25T00:08:00.900Z,4,,2,43
+53412,Mark as read for xy days or "follow up in xy days" label,WildEnte,2020-11-25T20:08:52.831Z,4,,3,18
+53427,Open Emails in New Window,DarylO,2020-11-26T00:26:10.629Z,4,,4,40
+53441,Notifications per account / filter,pauloaguia,2020-11-26T09:10:58.029Z,4,,1,16
+53870,Differentiate feeds from mail visually,jumpsq,2020-12-04T07:28:14.055Z,4,,1,23
+53347,Quick Read/Archive/Delete directly from the posts views,NSANE,2020-11-24T23:41:19.330Z,3,,2,32
+53534,Better Mail Filters Support,Hadden89,2020-11-27T15:52:27.092Z,3,,1,29
+53638,Style Markdown in Plain Text Messages,burnout426,2020-11-29T11:41:25.961Z,3,,4,24
+53650,Set differing standard account for contacts,Popanz,2020-11-29T15:20:55.653Z,3,,1,16
+53960,Quote Selection when Replying,burnout426,2020-12-06T11:37:31.434Z,3,,1,19
+53963,Per-Account Mail Check Interval,burnout426,2020-12-06T11:51:31.991Z,3,,1,20
+53965,Feed Article Link Should Be in the Header Bar,burnout426,2020-12-06T12:27:32.693Z,3,,2,27
+54016,[Option] Sidebar-like mail layout,Hadden89,2020-12-07T22:29:00.329Z,3,,1,19
+42121,Copy whole link for mailto:,jumpsq,2019-11-12T16:47:01.730Z,2,,2,41
+38213,Copy Note to Vivaldi Email,coppolajj,2019-06-18T13:09:14.232Z,2,NOTES:EMAIL,2,142
+53308,Show mail to/from all of Contact's email addresses,Fonant,2020-11-24T14:42:19.237Z,2,,1,26
+53337,Save drafts locally when closing them,jumpsq,2020-11-24T19:29:42.937Z,2,,4,34
+53340,Shortcuts for Compose  Open Mail & Focus Mail Search,jumpsq,2020-11-24T19:44:21.359Z,2,,6,45
+53372,Open `Unread: All Messages` view when clicking on a notification,jumpsq,2020-11-25T10:11:14.869Z,2,,1,19
+53424,Option to Open Web Links in Alternative Browser,DarylO,2020-11-25T23:47:13.222Z,2,,1,20
+53425,Allow Extensions to Work in Vivaldi Mail,DarylO,2020-11-26T00:17:02.139Z,2,,7,85
+53431,Time-Based Slider Request,DarylO,2020-11-26T01:36:39.128Z,2,,3,40
+53472,Ability to fix calendar panel on the right side of the window,WildEnte,2020-11-26T18:19:49.694Z,2,,3,23
+53473,Add 'countdown to next calendar entry' in clock,WildEnte,2020-11-26T18:35:10.678Z,2,,3,38
+53515,Open mail view in one click,Vistaus,2020-11-27T12:51:09.553Z,2,,1,22
+53774,Forward as attachment,maiiler,2020-12-02T10:20:13.502Z,2,,2,25
+53778,Don't use monospace font for textual emails (it harms UX a lot),maiiler,2020-12-02T11:13:03.625Z,2,,3,37
+53945,Separate Internal Address For Each Email  Feed  ect.,legobuilder26,2020-12-05T21:48:03.555Z,2,,1,20
+53969,IMAP Server-Side Search,burnout426,2020-12-06T16:54:06.499Z,2,,1,12
+54021,Customize > "Add separator" after this button...,Hadden89,2020-12-08T03:28:23.121Z,2,,1,15
+53378,Add `compose to` to the users' dropdown menu,jumpsq,2020-11-25T10:55:55.738Z,1,,1,14
+53389,Option for Delete button to close email tab,pauloaguia,2020-11-25T14:32:19.669Z,1,,1,17
+53497,Option to archive email on server when marking as Read,pauloaguia,2020-11-27T07:48:46.038Z,1,,1,13
+53516,Read mail in side panel,Vistaus,2020-11-27T12:52:39.333Z,1,,2,27
+53683,Drop-down menu for labels and flags,jumpsq,2020-11-30T09:20:04.002Z,1,,1,21
+53720,Lacking of manual proxy settings in the new email panel,ibin7777,2020-12-01T05:22:34.615Z,1,,2,21
+53748,Option to have double-click mark message as 'read',jdvernet,2020-12-01T17:26:11.613Z,1,,3,33
+53790,Remember Composition / Formatting preferences,jdvernet,2020-12-02T14:02:01.453Z,1,,1,16
+53959,Option to Start Reply Below Quote,burnout426,2020-12-06T11:33:02.303Z,1,,1,12
+53961,Paste as Quotation,burnout426,2020-12-06T11:41:46.258Z,1,,1,15
+53962,Properties Item when Right-Clicking on an Account in the Mail Panel,burnout426,2020-12-06T11:47:32.433Z,1,,1,14
+53968,IMAP QUOTA Extension,burnout426,2020-12-06T16:25:26.083Z,1,,1,13
+54020,[Option] Show the URL bar on M3,Hadden89,2020-12-08T03:18:36.320Z,1,,1,14
+53430,Option to Mass-Delete or -Move Emails,DarylO,2020-11-26T01:24:37.791Z,0,,2,32
+53514,Folder list in mail view?,Vistaus,2020-11-27T12:49:25.373Z,0,,2,20
+53562,Gravatar Support for Emails,DarylO,2020-11-27T23:54:31.549Z,0,,1,17
+53706,Add mailing list support,FloridaMatt,2020-11-30T18:40:47.679Z,0,,1,18
+53737,Emails sent are placed in "Received" folder,calande,2020-12-01T14:49:00.395Z,0,,3,23
+53773,Improve tablet experience (and experience for visually impaired with big font sizes),maiiler,2020-12-02T10:14:14.515Z,0,,2,19
+53775,"Edit as new" versus "Forward" versus "Templates",maiiler,2020-12-02T10:43:49.086Z,0,,1,12
+53781,To avoid all spams : please allow two times verification as in Thunderbird,eiua,2020-12-02T11:57:39.581Z,0,,1,19
+53819,Option to Modify Sent Folder Double-Click Behaviour,DarylO,2020-12-03T04:17:43.199Z,0,,1,16
+53964,Option to Send Body as 8bit,burnout426,2020-12-06T12:22:35.174Z,0,,1,17
+53966,Display Attachments Inline,burnout426,2020-12-06T12:50:45.687Z,0,,1,19
+54019,Filter By Account,phyddeaux,2020-12-08T01:21:54.790Z,0,,1,11
+54023,Customize > "Show label on this button",Hadden89,2020-12-08T03:36:40.295Z,0,,1,12

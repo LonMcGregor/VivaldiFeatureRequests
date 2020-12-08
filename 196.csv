@@ -1,0 +1,18 @@
+ID,Title,Author,Date,Votes,Tags,Posts,Views
+24115,Add RSS and Atom Reader,zakius,2018-01-31T08:33:55.291Z,105,IN PROGRESS:NEWSFEED:RSS,208,5587
+53302,Folders for Feeds,LonM,2020-11-24T14:32:28.792Z,15,,1,31
+53303,Disable Feed Reader (when use of feed reader extension),Gwen-Dragon,2020-11-24T14:33:32.601Z,6,,2,34
+53626,Reorder feeds via drag&drop,Jaws,2020-11-29T06:46:22.833Z,6,,1,16
+53750,Add a setting for how long a feed should keep it's content,Popanz,2020-12-01T18:08:00.146Z,4,,1,18
+53733,"Are you sure?" prompt when deleting a feed,Jaws,2020-12-01T13:56:33.443Z,3,,1,19
+53785,Synchronization RSS reader,Kevinar,2020-12-02T13:23:59.854Z,3,,4,35
+53359,Mark feed item as read automatically.,Sojiro84,2020-11-25T07:54:18.637Z,2,,3,29
+53396,Entry rules for filtering RSS posts,Obiwan2208,2020-11-25T16:15:24.846Z,2,,1,18
+53881,Add additional article views,zakius,2020-12-04T11:13:05.946Z,2,,1,16
+24502,Newsfeed for Top News,ngelmat,2018-02-02T03:07:29.528Z,1,NEWSFEED,6,803
+37938,Speed dial visualisation for RSS / Feeds,brianerc,2019-06-06T15:15:39.320Z,1,SPEED DIAL:NEWSFEED:RSS,7,198
+53370,Support HTTP basic authentication for RSS/Atom,jumpsq,2020-11-25T10:02:18.731Z,1,,4,35
+53627,Switch focus to message list when opening a feed,Jaws,2020-11-29T06:48:43.627Z,1,,1,16
+53879,Keep main toolbar available + show address in address bar,zakius,2020-12-04T11:08:12.891Z,1,,1,17
+53880,Allow middle click on article list to open original page in new tab,zakius,2020-12-04T11:09:18.068Z,1,,1,16
+53975,Filter for duplicate articles across feeds,Crimsonshade,2020-12-06T23:52:06.534Z,1,,5,39
