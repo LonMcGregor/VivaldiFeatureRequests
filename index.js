@@ -34,6 +34,13 @@ class FilterForm extends HTMLElement {
         shadow.appendChild(or);
         this.orInput = or.querySelector("input");
 
+        const count = document.createElement("input")
+        count.type = "number";
+        count.min = 0;
+        count.value = 0;
+        this.count = count;
+        shadow.appendChild(count);
+
         const shadowStyle = document.createElement("style");
         shadowStyle.textContent = `
             span {
@@ -50,6 +57,14 @@ class FilterForm extends HTMLElement {
         searchText = searchText.map(term => term.trim());
         searchText = searchText.filter(term => term !== "");
         return searchText;
+    }
+
+    get filterCount(){
+        return this.count.value;
+    }
+
+    set filterCount(newcount){
+        this.count.value = newcount;
     }
 
     get filterText(){
@@ -87,12 +102,14 @@ class FilterForm extends HTMLElement {
         this.andInput.addEventListener("input", this.filterUpdated.bind(this));
         this.orInput.addEventListener("input", this.filterUpdated.bind(this));
         this.text.addEventListener("input", this.filterTextChanged.bind(this));
+        this.count.addEventListener("input", this.filterTextChanged.bind(this));
     }
 
     disconnectedCallback() {
         this.andInput.removeEventListener("input", this.filterUpdated);
         this.orInput.removeEventListener("input", this.filterUpdated);
         this.text.removeEventListener("input", this.filterTextChanged);
+        this.count.removeEventListener("input", this.filterTextChanged);
     }
 }
 
@@ -257,6 +274,10 @@ class FeatureRequest extends FilterableElement {
         shadow.appendChild(shadowStyle);
     }
 
+    get count(){
+        return this.score;
+    }
+
     hasTag(name){
         return this.tags.indexOf(name) > -1;
     }
@@ -277,7 +298,8 @@ function setURLParams(){
     const tagText = encodeURIComponent(document.querySelector("#tagFilter").filterText);
     const reqText = encodeURIComponent(document.querySelector("#requestFilter").filterText);
     const activeTags = getEnabledTags().join("+");
-    window.location = `#tag=${tagText}&req=${reqText}&tagsEnabled=${activeTags}`;
+    const minScore = document.querySelector("#requestFilter").filterCount;
+    window.location = `#tag=${tagText}&req=${reqText}&minscore=${minScore}&tagsEnabled=${activeTags}`;
 }
 
 const initialTagMatch = window.location.hash.match(/tag=([^&]+)/);
@@ -286,6 +308,8 @@ const initialRequestMatch = window.location.hash.match(/req=([^&]+)/);
 const initialRequestFilter = initialRequestMatch ? decodeURIComponent(initialRequestMatch[1]) : undefined;
 const initialTagsEnabledMatch = window.location.hash.match(/tagsEnabled=([^&]+)/);
 const initialTagsEnabled = initialTagsEnabledMatch ? initialTagsEnabledMatch[1].split("+") : [];
+const initialCountMatch = window.location.hash.match(/minscore=(\d+)/);
+const initialCountFilter = initialCountMatch ? initialCountMatch[1] : 0;
 
 // maybe a new tag should be created automatically when a feature request that contains one is created
 // then again, maybe that's not how this is supposed to work
@@ -316,26 +340,28 @@ function onTagToggled(){
 
 function onRequestFilterUpdate(filterEvent){
     let total = 0;
+    const count = filterEvent.target.filterCount;
     const enabledTags = getEnabledTags();
     const searchText = filterEvent.target.filterTerms;
     const searchAllTerms = filterEvent.target.matchAll;
     Array.from(document.querySelectorAll("feature-request")).forEach(request => {
         request.visible = searchText.length > 0
-            ? request.hasTags(enabledTags) && request.matches(searchText, searchAllTerms)
-            : request.hasTags(enabledTags);
+            ? request.hasTags(enabledTags) && request.matches(searchText, searchAllTerms) && request.count >= count
+            : request.hasTags(enabledTags) && request.count >= count;
         total += request.visible ? 1 : 0;
     });
     document.querySelector("#reqCount").innerText = total;
     setURLParams();
 }
-
+// TODO lots of duplication. how can it be simplified?
 function filterTags(filterEvent){
     let total = 0;
+    const count = filterEvent.target.filterCount;
     const searchText = filterEvent.target.filterTerms;
     const searchAllTerms = filterEvent.target.matchAll;
     const tags = Array.from(document.querySelectorAll("tag-item"));
     tags.forEach(tag => {
-        tag.visible = searchText.length > 0 ? tag.matches(searchText, searchAllTerms) : true;
+        tag.visible = searchText.length > 0 ? tag.matches(searchText, searchAllTerms) && tag.count >= count : tag.count >= count;
         total += tag.visible ? 1 : 0;
     });
     document.querySelector("#tagCount").innerText = total;
@@ -354,6 +380,8 @@ if(initialRequestFilter){
     document.querySelector("#requestFilter").filterText = initialRequestFilter;
     document.querySelector("#requestFilter").filterUpdated();
 }
+document.querySelector("#requestFilter").filterCount = initialCountFilter;
+document.querySelector("#requestFilter").filterUpdated();
 
 /**
  * add the tags - all disabled by default
