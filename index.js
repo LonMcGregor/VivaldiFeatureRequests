@@ -1,9 +1,3 @@
-// load all of the elements
-// get all of the tags
-// make a cloud of tags
-// show all requests
-// when a tag is selected filter just those requests, and "gray out" any tags that no longer occur
-
 class FilterForm extends HTMLElement {
     constructor(){
         super();
@@ -112,11 +106,13 @@ class FilterForm extends HTMLElement {
         this.count.removeEventListener("input", this.filterTextChanged);
     }
 }
+customElements.define("filter-form", FilterForm);
 
 class FilterableElement extends HTMLElement {
-    constructor(filterText) {
+    constructor(filterText, count) {
         super();
         this.filterText = filterText;
+        this.count = count;
         this.visible = true;
     }
 
@@ -143,10 +139,9 @@ class FilterableElement extends HTMLElement {
 
 class TagItem extends FilterableElement {
     constructor(name, count) {
-        super(name);
+        super(name, count);
 
         this.name = name;
-        this.count = count;
 
         const shadow = this.attachShadow({mode: "open"});
 
@@ -190,11 +185,18 @@ class TagItem extends FilterableElement {
     disconnectedCallback() {
         this.removeEventListener("click", this.toggleSelection);
     }
+
+    static getEnabledTags(){
+        let enabledTags = Array.from(document.querySelectorAll("tag-item"));
+        enabledTags = enabledTags.filter(tag => tag.selected);
+        return enabledTags.map(tag => tag.name);
+    }
 }
+customElements.define("tag-item", TagItem);
 
 class FeatureRequest extends FilterableElement {
     constructor(id, title, author, date, score, tags, posts, views) {
-        super(title);
+        super(title, score);
 
         this.id = id;
         this.titleText = title;
@@ -274,10 +276,6 @@ class FeatureRequest extends FilterableElement {
         shadow.appendChild(shadowStyle);
     }
 
-    get count(){
-        return this.score;
-    }
-
     hasTag(name){
         return this.tags.indexOf(name) > -1;
     }
@@ -288,17 +286,68 @@ class FeatureRequest extends FilterableElement {
         return x;
     }
 }
-
-customElements.define("tag-item", TagItem);
 customElements.define("feature-request", FeatureRequest);
-customElements.define("filter-form", FilterForm);
 
+class FilterableSet extends HTMLElement{
+    constructor(dataset, title, defaultopen, elementGeneratorFn){
+        super();
+        this.dataArray = dataset;
+        this.dataObjectArray = [];
+        this.counterElement = document.createElement("span");
+        this.counterElement.innerText = this.dataArray.length;
+
+        const details = document.createElement("details");
+        details.open = defaultopen;
+        const summary = document.createElement("summary");
+        const titleEl = document.createElement("h2");
+        titleEl.appendChild(document.createTextNode(title + ": ("));
+        titleEl.appendChild(this.counterElement);
+        titleEl.appendChild(document.createTextNode(")"));
+        summary.appendChild(titleEl);
+        details.appendChild(summary);
+
+        this.filterForm = document.createElement("filter-form");
+        this.filterForm.addEventListener("FilterUpdated", this.filter.bind(this));
+        details.appendChild(this.filterForm);
+
+        const div = document.createElement("div");
+        this.dataArray.forEach(element => {
+            const newel = elementGeneratorFn(element);
+            div.appendChild(newel);
+            this.dataObjectArray.push(newel);
+        });
+        details.appendChild(div);
+
+        this.appendChild(details);
+    }
+
+    filter(filterEvent){
+        if(!filterEvent){
+            filterEvent = {target:this.filterForm};
+        }
+        let total = 0;
+        const count = filterEvent.target.filterCount;
+        const enabledTags = TagItem.getEnabledTags();
+        const searchText = filterEvent.target.filterTerms;
+        const searchAllTerms = filterEvent.target.matchAll;
+        this.dataObjectArray.forEach(element => {
+            let filtered = element.count >= count
+              && ((element.hasTags && element.hasTags(enabledTags)) || !element.hasTags)
+              && ((searchText.length > 0 && element.matches(searchText, searchAllTerms)) || searchText.length === 0);
+            element.visible = filtered;
+            total += filtered ? 1 : 0;
+        });
+        this.counterElement.innerText = total;
+        setURLParams();
+    }
+}
+customElements.define("filterable-set", FilterableSet);
 
 function setURLParams(){
-    const tagText = encodeURIComponent(document.querySelector("#tagFilter").filterText);
-    const reqText = encodeURIComponent(document.querySelector("#requestFilter").filterText);
-    const activeTags = getEnabledTags().join("+");
-    const minScore = document.querySelector("#requestFilter").filterCount;
+    const tagText = encodeURIComponent(TAGSET.filterForm.filterText);
+    const reqText = encodeURIComponent(FRQSET.filterForm.filterText);
+    const activeTags = TagItem.getEnabledTags().join("+");
+    const minScore = FRQSET.filterForm.filterCount;
     window.location = `#tag=${tagText}&req=${reqText}&minscore=${minScore}&tagsEnabled=${activeTags}`;
 }
 
@@ -311,121 +360,29 @@ const initialTagsEnabled = initialTagsEnabledMatch ? initialTagsEnabledMatch[1].
 const initialCountMatch = window.location.hash.match(/minscore=(\d+)/);
 const initialCountFilter = initialCountMatch ? initialCountMatch[1] : 0;
 
-// maybe a new tag should be created automatically when a feature request that contains one is created
-// then again, maybe that's not how this is supposed to work
-TAGS.forEach(tag => {
+TAGSET = new FilterableSet(TAGS, "Tags", false, tag => {
     const tagtag = new TagItem(tag[0], tag[1]);
     tagtag.setSelected(initialTagsEnabled.indexOf(tag[0]) >= 0);
-    document.querySelector("nav").appendChild(tagtag);
+    return tagtag;
 });
+TAGSET.id = "tags";
+FRQSET = new FilterableSet(DATA, "Feature Requests", true, item => {
+    return new FeatureRequest(item[0], item[1], item[2], item[3], item[4], item[5], item[6], item[7]);
+})
+FRQSET.id = "reqs";
+document.body.insertAdjacentElement("afterbegin", FRQSET);
+document.body.insertAdjacentElement("afterbegin", TAGSET);
 
-DATA.forEach(item => {
-    const fr = new FeatureRequest(item[0], item[1], item[2], item[3], item[4], item[5], item[6], item[7]);
-    document.querySelector("main").appendChild(fr);
+document.addEventListener("TagToggled", () => {
+    setURLParams();
+    FRQSET.filter();
 });
-
-document.querySelector("#reqCount").innerText = DATA.length;
-document.querySelector("#tagCount").innerText = TAGS.length;
-
-function getEnabledTags(){
-    let enabledTags = Array.from(document.querySelectorAll("tag-item"));
-    enabledTags = enabledTags.filter(tag => tag.selected);
-    return enabledTags.map(tag => tag.name);
-}
-
-function onTagToggled(){
-    setURLParams();
-    onRequestFilterUpdate({target:document.querySelector("#requestFilter")});
-}
-
-function onRequestFilterUpdate(filterEvent){
-    let total = 0;
-    const count = filterEvent.target.filterCount;
-    const enabledTags = getEnabledTags();
-    const searchText = filterEvent.target.filterTerms;
-    const searchAllTerms = filterEvent.target.matchAll;
-    Array.from(document.querySelectorAll("feature-request")).forEach(request => {
-        request.visible = searchText.length > 0
-            ? request.hasTags(enabledTags) && request.matches(searchText, searchAllTerms) && request.count >= count
-            : request.hasTags(enabledTags) && request.count >= count;
-        total += request.visible ? 1 : 0;
-    });
-    document.querySelector("#reqCount").innerText = total;
-    setURLParams();
-}
-// TODO lots of duplication. how can it be simplified?
-function filterTags(filterEvent){
-    let total = 0;
-    const count = filterEvent.target.filterCount;
-    const searchText = filterEvent.target.filterTerms;
-    const searchAllTerms = filterEvent.target.matchAll;
-    const tags = Array.from(document.querySelectorAll("tag-item"));
-    tags.forEach(tag => {
-        tag.visible = searchText.length > 0 ? tag.matches(searchText, searchAllTerms) && tag.count >= count : tag.count >= count;
-        total += tag.visible ? 1 : 0;
-    });
-    document.querySelector("#tagCount").innerText = total;
-    setURLParams();
-}
-
-document.addEventListener("TagToggled", onTagToggled);
-document.querySelector("#requestFilter").addEventListener("FilterUpdated", onRequestFilterUpdate);
-document.querySelector("#tagFilter").addEventListener("FilterUpdated", filterTags);
 
 if(initialTagFilter){
-    document.querySelector("#tagFilter").filterText = initialTagFilter;
-    document.querySelector("#tagFilter").filterUpdated();
+    TAGSET.filterForm.filterText = initialTagFilter;
 }
 if(initialRequestFilter){
-    document.querySelector("#requestFilter").filterText = initialRequestFilter;
-    document.querySelector("#requestFilter").filterUpdated();
+    FRQSET.filterForm.filterText = initialRequestFilter;
 }
-document.querySelector("#requestFilter").filterCount = initialCountFilter;
-document.querySelector("#requestFilter").filterUpdated();
-
-/**
- * add the tags - all disabled by default
- * populate the topics - all hidden by default
- *
- * have "(de-)select all tags" buttons which show or hide all tags
- *
- * when activating a single tag
- *  for all of the topics
- *      if they have that tag, show it
- * when deactivating a tag
- *  for all the topics
- *      if they have that tag, hide it
- *
- *
- *
- * filter text in title
- *  on text type
- *      for each topic
- *          show if match title and match tags else hide
- *
- * sort by date, votes
- */
-
-
-/** if we don't care about efficiency
- *
- * add the tags - all disabled by default
- * populate the topics - all hidden by default
- *
- * on tag toggle or filter text change
- *     for each topic
- *         check enabled tags match (OR, so as long as one matches)
- *         check filter text match in tags or title
- *         show if all match else hide
- *
- * on sort change
- *     for each topic
- *         use either title, date or score as order style
- */
-
-/**
- * what are tags for?
- *    you search for things that have ALL of the tags, or SOME of the tags
- *    anything else is excluded
- *
- */
+FRQSET.filterForm.filterCount = initialCountFilter;
+FRQSET.filter();

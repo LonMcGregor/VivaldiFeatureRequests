@@ -2,12 +2,7 @@ details h2 {
     display: inline-block;
 }
 
-.navcontainer {
-    max-height: 250px;
-    overflow: scroll;
-}
-
-nav {
+#tags div {
     display: flex;
     flex-flow: row wrap;
     justify-content: space-evenly;
@@ -29,7 +24,7 @@ tag-item[unselected] {
     background: transparent;
 }
 
-main {
+#reqs div {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     max-height: calc(100vh - 50px);
@@ -37,18 +32,18 @@ main {
 }
 
 @media screen and (max-width: 1200px) {
-    main {
+    #reqs div {
         grid-template-columns: 1fr 1fr;
     }
 }
 
 @media screen and (max-width: 825px) {
-    main {
+    #reqs div {
         grid-template-columns: 1fr;
     }
 }
 
-main feature-request {
+#reqs div feature-request {
     margin: 2px;
     padding: 2px;
     justify-self: stretch;
