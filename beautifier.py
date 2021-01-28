@@ -24,8 +24,12 @@ DATA_FILES = [
 def readAFile(filename, base_tags):
     with open(filename, "r", encoding="utf-8") as datafile:
         datafile.readline() # ditch the first line
+        previousline = None
         line = ""
         for line in datafile:
+            if line == previousline:
+                # avoid duplicates
+                continue
             csv = line.strip()
             csv = csv.replace("\"", "'")
             items = csv.split(",")
@@ -52,6 +56,7 @@ def readAFile(filename, base_tags):
             tagsList = '","'.join(tags)
             topic = '[%s,"%s","%s","%s",%s,%s,%s,%s]' % (topicId, title, author, date, votes, tags, postcount, viewcount)
             ALL_DATA.append(topic)
+            previousline = line
 
 for file in DATA_FILES:
     readAFile(file[0], file[1])

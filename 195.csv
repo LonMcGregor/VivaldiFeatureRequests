@@ -1,9 +1,15 @@
 ID,Title,Author,Date,Votes,Tags,Posts,Views
-25296,Add a nice calendar,jumpsq,2018-02-21T06:57:37.295Z,11,IN PROGRESS:CALDAV:CALENDAR,14,1322
-25698,Add Calendar Panel,CheVe11e_191,2018-03-06T13:45:06.261Z,8,PANELS:IN PROGRESS:CALENDAR,6,1049
-53423,Day Names (Sat  Sun  etc),heronheart,2020-11-25T23:36:47.600Z,8,,2,39
-53299,Microsoft Calendar Sync support,LonM,2020-11-24T13:51:40.750Z,5,,6,79
-53400,Printable monthly view,summoner,2020-11-25T17:45:36.680Z,1,,1,23
-53946,Alert When Event is Over,legobuilder26,2020-12-05T22:09:52.352Z,1,,2,28
-53367,Fix Width for week view and panel,jumpsq,2020-11-25T09:49:58.080Z,0,,4,35
-54039,Better support for tasks in Calendar panel,valiowk,2020-12-08T10:05:56.387Z,0,,1,5
+25296,Add a nice calendar,jumpsq,2018-02-21T06:57:37.295Z,12,IN PROGRESS:CALDAV:CALENDAR,14,1340
+53423,Day Names (Sat  Sun  etc),heronheart,2020-11-25T23:36:47.600Z,11,,2,49
+54574,Add Import button to Calendar page and in Calendar settings,Gwen-Dragon,2020-12-17T08:27:33.745Z,8,,1,30
+25698,Add Calendar Panel,CheVe11e_191,2018-03-06T13:45:06.261Z,8,PANELS:IN PROGRESS:CALENDAR,6,1058
+53299,Microsoft Calendar Sync support,LonM,2020-11-24T13:51:40.750Z,6,,5,97
+54039,Better support for tasks in Calendar panel,valiowk,2020-12-08T10:05:56.387Z,4,,1,23
+55051,Calendar user interface - too small and crammed,WildEnte,2021-01-01T15:57:29.749Z,3,,8,95
+54114,Default notification for new Events &#x2F; Tasks,jumpsq,2020-12-09T10:29:52.939Z,3,,1,22
+55142,Display notes in the calendar as an option,alvk,2021-01-04T12:56:44.019Z,2,,1,19
+53946,Alert When Event is Over,legobuilder26,2020-12-05T22:09:52.352Z,2,,3,49
+53400,Printable monthly view,summoner,2020-11-25T17:45:36.680Z,1,,1,24
+55537,Import&#x2F;export as .csv-file,uhbwitt64,2021-01-15T18:32:33.488Z,0,,2,26
+55365,Appt Color Options,janrifkinson,2021-01-11T05:21:30.173Z,0,,1,15
+53367,Fix Width for week view and panel,jumpsq,2020-11-25T09:49:58.080Z,0,,4,38
