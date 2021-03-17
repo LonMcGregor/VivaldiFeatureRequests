@@ -32,7 +32,7 @@ def do_a_category(category):
             tagText = functools.reduce(lambda a, b: a + b['valueEscaped'] + ":", request['tags'], "").strip(":").upper()
             csvfile.write("%s,%s,%s,%s,%s,%s,%s,%s\n" % (
                 request['tid'],
-                request['title'].replace(",", " "),
+                request['titleRaw'].replace(",", " "),
                 request['user']['username'],
                 request['timestampISO'],
                 request['upvotes'],
