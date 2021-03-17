@@ -21,25 +21,25 @@ DATA_FILES = [
     ["136.csv", ["ANDROID"]],
 ]
 
+ALREADY_PROCESSED = set([])
+
 def readAFile(filename, base_tags):
     with open(filename, "r", encoding="utf-8") as datafile:
         datafile.readline() # ditch the first line
-        previousline = None
-        line = ""
         for line in datafile:
-            if line == previousline:
-                # avoid duplicates
-                continue
             csv = line.strip()
             csv = csv.replace("\"", "'")
             items = csv.split(",")
+            topicId = items[0]
+            if topicId in ALREADY_PROCESSED:
+                # avoid dupes
+                continue
             title = items[1]
             author = items[2]
             date = items[3]
             votes = items[4]
             postcount = items[6]
             viewcount = items[7]
-            topicId = items[0]
             tags = items[5].split(":")
             try:
                 tags.remove("")
@@ -53,10 +53,9 @@ def readAFile(filename, base_tags):
                     TAGS[tag] += 1
                 else:
                     TAGS[tag] = 1
-            tagsList = '","'.join(tags)
             topic = '[%s,"%s","%s","%s",%s,%s,%s,%s]' % (topicId, title, author, date, votes, tags, postcount, viewcount)
             ALL_DATA.append(topic)
-            previousline = line
+            ALREADY_PROCESSED.add(topicId)
 
 for file in DATA_FILES:
     readAFile(file[0], file[1])
