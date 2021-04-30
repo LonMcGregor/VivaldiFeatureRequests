@@ -1,18 +1,21 @@
 ID,Title,Author,Date,Votes,Tags,Posts,Views
-53423,Day Names (Sat  Sun  etc),heronheart,2020-11-25T23:36:47.600Z,14,,2,65
-25296,Add a nice calendar,jumpsq,2018-02-21T06:57:37.295Z,12,IN PROGRESS:CALDAV:CALENDAR,14,1347
-54574,Add Import button to Calendar page and in Calendar settings,Gwen-Dragon,2020-12-17T08:27:33.745Z,11,,2,47
-25698,Add Calendar Panel,CheVe11e_191,2018-03-06T13:45:06.261Z,8,PANELS:IN PROGRESS:CALENDAR,6,1061
-54039,Better support for tasks in Calendar panel,valiowk,2020-12-08T10:05:56.387Z,6,,1,27
-53299,Microsoft Calendar Sync support,LonM,2020-11-24T13:51:40.750Z,6,,5,99
-54114,Default notification for new Events / Tasks,jumpsq,2020-12-09T10:29:52.939Z,4,,1,24
-55051,Calendar user interface - too small and crammed,WildEnte,2021-01-01T15:57:29.749Z,3,,8,98
+53423,Day Names (Sat  Sun  etc),heronheart,2020-11-25T23:36:47.600Z,14,,2,67
+25296,Add a nice calendar,jumpsq,2018-02-21T06:57:37.295Z,12,IN PROGRESS:CALDAV:CALENDAR,14,1348
+54574,Add Import button to Calendar page and in Calendar settings,Gwen-Dragon,2020-12-17T08:27:33.745Z,11,,3,61
+25698,Add Calendar Panel,CheVe11e_191,2018-03-06T13:45:06.261Z,8,PANELS:IN PROGRESS:CALENDAR,6,1064
+54114,Default notification for new Events / Tasks,jumpsq,2020-12-09T10:29:52.939Z,6,,2,40
+54039,Better support for tasks in Calendar panel,valiowk,2020-12-08T10:05:56.387Z,6,,1,28
+53299,Microsoft Calendar Sync support,LonM,2020-11-24T13:51:40.750Z,6,,5,100
+55051,Calendar user interface - too small and crammed,WildEnte,2021-01-01T15:57:29.749Z,3,,8,100
+59512,consistent highlight day of week,janrifkinson,2021-04-12T13:00:40.340Z,2,,1,14
 55142,Display notes in the calendar as an option,alvk,2021-01-04T12:56:44.019Z,2,,1,20
 53946,Alert When Event is Over,legobuilder26,2020-12-05T22:09:52.352Z,2,,3,49
+60238,Calendar Highlight Consistency,janrifkinson,2021-04-29T10:20:21.529Z,1,,1,15
+59231,Notification window for missed calendar/task events,arcsnim,2021-04-05T06:22:34.687Z,1,,2,29
 57271,Allow clicking links from Google Calendar task description?,Iaaa123456789,2021-02-19T22:33:20.571Z,1,,4,44
 53400,Printable monthly view,summoner,2020-11-25T17:45:36.680Z,1,,1,26
-57393,How to sync Tasks with Google Tasks?,AdilAkhmetov,2021-02-22T16:42:53.477Z,0,IN PROGRESS,2,35
-56725,Birthdays imported by contacts.vcf are not displayed in Calendar,valdorox,2021-02-09T15:21:50.103Z,0,,1,18
+57393,How to sync Tasks with Google Tasks?,AdilAkhmetov,2021-02-22T16:42:53.477Z,0,IN PROGRESS,2,43
+56725,Birthdays imported by contacts.vcf are not displayed in Calendar,valdorox,2021-02-09T15:21:50.103Z,0,,1,19
 56086,Do not auto-adjust end-date when start-date of all-day-events is changed,luator,2021-01-29T10:38:01.236Z,0,,1,11
-55365,Appt Color Options,janrifkinson,2021-01-11T05:21:30.173Z,0,,1,21
+55365,Appt Color Options,janrifkinson,2021-01-11T05:21:30.173Z,0,,1,23
 53367,Fix Width for week view and panel,jumpsq,2020-11-25T09:49:58.080Z,0,,4,39
