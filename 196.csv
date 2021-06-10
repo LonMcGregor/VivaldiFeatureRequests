@@ -1,41 +1,41 @@
 ID,Title,Author,Date,Votes,Tags,Posts,Views
-53302,Folders for Feeds,LonM,2020-11-24T14:32:28.792Z,28,,2,73
-53302,Folders for Feeds,LonM,2020-11-24T14:32:28.792Z,28,,2,73
-54121,Refresh button for feeds,luetage,2020-12-09T11:11:16.866Z,18,,4,75
-54121,Refresh button for feeds,luetage,2020-12-09T11:11:16.866Z,18,,4,75
-53626,Reorder feeds (via settings or drag&drop),Jaws,2020-11-29T06:46:22.833Z,16,,5,54
-53626,Reorder feeds (via settings or drag&drop),Jaws,2020-11-29T06:46:22.833Z,16,,5,54
-54298,Separate feed reader internal page,Nekomajin,2020-12-11T21:32:16.428Z,13,PIPELINE,1,49
-54298,Separate feed reader internal page,Nekomajin,2020-12-11T21:32:16.428Z,13,PIPELINE,1,49
-54222,Allow Full screen mode for Youtube video feeds,Ornorm,2020-12-10T23:55:56.226Z,12,IN PROGRESS,15,110
-54222,Allow Full screen mode for Youtube video feeds,Ornorm,2020-12-10T23:55:56.226Z,12,IN PROGRESS,15,110
-53785,Synchronization RSS reader,Kevinar,2020-12-02T13:23:59.854Z,9,,7,77
-54479,Import full contents from Opera 12 feed reader ...,DF55,2020-12-15T15:21:49.027Z,9,,3,60
-53785,Synchronization RSS reader,Kevinar,2020-12-02T13:23:59.854Z,9,,7,77
-54479,Import full contents from Opera 12 feed reader ...,DF55,2020-12-15T15:21:49.027Z,9,,3,60
-55489,Podcast support in M3,luetage,2021-01-14T18:06:08.431Z,8,,10,151
-53880,Allow middle click on article list to open original page in new tab,zakius,2020-12-04T11:09:18.068Z,8,,4,63
-55489,Podcast support in M3,luetage,2021-01-14T18:06:08.431Z,8,,10,151
-53880,Allow middle click on article list to open original page in new tab,zakius,2020-12-04T11:09:18.068Z,8,,4,63
-54533,Preview the page in the feed reader,pauloaguia,2020-12-16T13:03:07.453Z,7,,4,66
-54180,Each RSS has its own notification,Ryanchuang,2020-12-10T11:24:08.918Z,7,,1,31
-54533,Preview the page in the feed reader,pauloaguia,2020-12-16T13:03:07.453Z,7,,4,66
-54180,Each RSS has its own notification,Ryanchuang,2020-12-10T11:24:08.918Z,7,,1,31
-53881,Add additional article views,zakius,2020-12-04T11:13:05.946Z,5,,1,30
-53881,Add additional article views,zakius,2020-12-04T11:13:05.946Z,5,,1,30
-55053,Rename a feed,WildEnte,2021-01-01T16:45:35.062Z,4,IN PROGRESS,6,83
-55053,Rename a feed,WildEnte,2021-01-01T16:45:35.062Z,4,IN PROGRESS,6,83
-56551,Search for feeds,pauloaguia,2021-02-06T07:52:51.174Z,2,,1,28
-56551,Search for feeds,pauloaguia,2021-02-06T07:52:51.174Z,2,,1,28
-59344,Show Article Cover Image/Thumbnails,Geniusak,2021-04-07T22:24:54.913Z,1,,1,18
-54602,Create RSS feed from Twitter  Facebook,bugmenot3,2020-12-17T19:53:34.041Z,1,,1,24
-54194,'Mark as Read' from Status Bar/Panel icon's content menu,npro,2020-12-10T14:46:44.541Z,1,,1,17
-53975,Filter for duplicate articles across feeds,Crimsonshade,2020-12-06T23:52:06.534Z,1,,5,46
-59344,Show Article Cover Image/Thumbnails,Geniusak,2021-04-07T22:24:54.913Z,1,,1,18
-54602,Create RSS feed from Twitter  Facebook,bugmenot3,2020-12-17T19:53:34.041Z,1,,1,24
-54194,'Mark as Read' from Status Bar/Panel icon's content menu,npro,2020-12-10T14:46:44.541Z,1,,1,17
-53975,Filter for duplicate articles across feeds,Crimsonshade,2020-12-06T23:52:06.534Z,1,,5,46
-56411,URL list from bookmark folder,Privacy,2021-02-03T17:32:12.890Z,0,,1,16
-55770,Create RSS feed from instagram,el3ctron,2021-01-22T09:52:59.855Z,0,,7,52
-56411,URL list from bookmark folder,Privacy,2021-02-03T17:32:12.890Z,0,,1,16
-55770,Create RSS feed from instagram,el3ctron,2021-01-22T09:52:59.855Z,0,,7,52
+53302,Folders for Feeds,LonM,2020-11-24T14:32:28.792Z,32,,4,127
+53302,Folders for Feeds,LonM,2020-11-24T14:32:28.792Z,32,,4,127
+54121,Refresh button for feeds,luetage,2020-12-09T11:11:16.866Z,18,,4,88
+54121,Refresh button for feeds,luetage,2020-12-09T11:11:16.866Z,18,,4,88
+53626,Reorder feeds (via settings or drag&drop),Jaws,2020-11-29T06:46:22.833Z,16,,5,66
+54298,Separate feed reader internal page,Nekomajin,2020-12-11T21:32:16.428Z,16,,1,96
+53626,Reorder feeds (via settings or drag&drop),Jaws,2020-11-29T06:46:22.833Z,16,,5,66
+54298,Separate feed reader internal page,Nekomajin,2020-12-11T21:32:16.428Z,16,,1,96
+54222,Allow Full screen mode for Youtube video feeds,Ornorm,2020-12-10T23:55:56.226Z,12,IN PROGRESS,15,118
+54222,Allow Full screen mode for Youtube video feeds,Ornorm,2020-12-10T23:55:56.226Z,12,IN PROGRESS,15,118
+53785,Synchronization RSS reader,Kevinar,2020-12-02T13:23:59.854Z,10,,7,121
+53785,Synchronization RSS reader,Kevinar,2020-12-02T13:23:59.854Z,10,,7,121
+54479,Import full contents from Opera 12 feed reader ...,DF55,2020-12-15T15:21:49.027Z,9,,3,81
+54479,Import full contents from Opera 12 feed reader ...,DF55,2020-12-15T15:21:49.027Z,9,,3,81
+55489,Podcast support in M3,luetage,2021-01-14T18:06:08.431Z,8,,10,158
+53880,Allow middle click on article list to open original page in new tab,zakius,2020-12-04T11:09:18.068Z,8,,4,68
+55489,Podcast support in M3,luetage,2021-01-14T18:06:08.431Z,8,,10,158
+53880,Allow middle click on article list to open original page in new tab,zakius,2020-12-04T11:09:18.068Z,8,,4,68
+54533,Preview the page in the feed reader,pauloaguia,2020-12-16T13:03:07.453Z,7,,4,74
+54180,Each RSS has its own notification,Ryanchuang,2020-12-10T11:24:08.918Z,7,,1,36
+54533,Preview the page in the feed reader,pauloaguia,2020-12-16T13:03:07.453Z,7,,4,74
+54180,Each RSS has its own notification,Ryanchuang,2020-12-10T11:24:08.918Z,7,,1,36
+55053,Rename a feed,WildEnte,2021-01-01T16:45:35.062Z,4,IN PROGRESS,6,89
+55053,Rename a feed,WildEnte,2021-01-01T16:45:35.062Z,4,IN PROGRESS,6,89
+56551,Search for feeds,pauloaguia,2021-02-06T07:52:51.174Z,2,,1,34
+56551,Search for feeds,pauloaguia,2021-02-06T07:52:51.174Z,2,,1,34
+59344,Show Article Cover Image/Thumbnails,Geniusak,2021-04-07T22:24:54.913Z,1,,1,24
+54602,Create RSS feed from Twitter  Facebook,bugmenot3,2020-12-17T19:53:34.041Z,1,,1,29
+54194,'Mark as Read' from Status Bar/Panel icon's content menu,npro,2020-12-10T14:46:44.541Z,1,,1,22
+59344,Show Article Cover Image/Thumbnails,Geniusak,2021-04-07T22:24:54.913Z,1,,1,24
+54602,Create RSS feed from Twitter  Facebook,bugmenot3,2020-12-17T19:53:34.041Z,1,,1,29
+54194,'Mark as Read' from Status Bar/Panel icon's content menu,npro,2020-12-10T14:46:44.541Z,1,,1,22
+62078,Change window for feed/mail panel,alexandremckinnon,2021-06-09T14:31:31.037Z,0,,3,28
+61513,Sound Notification when,juanvase,2021-05-25T15:24:23.196Z,0,,1,36
+56411,URL list from bookmark folder,Privacy,2021-02-03T17:32:12.890Z,0,,1,20
+55770,Create RSS feed from instagram,el3ctron,2021-01-22T09:52:59.855Z,0,,7,122
+62078,Change window for feed/mail panel,alexandremckinnon,2021-06-09T14:31:31.037Z,0,,3,28
+61513,Sound Notification when,juanvase,2021-05-25T15:24:23.196Z,0,,1,36
+56411,URL list from bookmark folder,Privacy,2021-02-03T17:32:12.890Z,0,,1,20
+55770,Create RSS feed from instagram,el3ctron,2021-01-22T09:52:59.855Z,0,,7,122
