@@ -1,61 +1,61 @@
 ID,Title,Author,Date,Votes,Tags,Posts,Views
-53423,Day Names (Sat  Sun  etc),heronheart,2020-11-25T23:36:47.600Z,13,,2,73
-54039,Better support for tasks in Calendar panel,valiowk,2020-12-08T10:05:56.387Z,8,,1,45
-54114,Default notification for new Events / Tasks,jumpsq,2020-12-09T10:29:52.939Z,7,,2,50
-62177,Calendar Icon in Panel should display the current date,HellbillyDeluxe,2021-06-10T07:20:52.289Z,6,,4,38
-53299,Microsoft Calendar Sync support,LonM,2020-11-24T13:51:40.750Z,6,,5,389
-64070,time stamps on events,AbdSah,2021-07-17T14:17:59.718Z,4,,1,33
-64070,time stamps on events,AbdSah,2021-07-17T14:17:59.718Z,4,,1,33
-60513,Calendar Notification - Custom setting,jerskine,2021-05-03T00:13:39.823Z,3,,3,59
-62937,3 or 4 day view,johnvn,2021-06-20T19:49:58.145Z,3,,6,80
-60513,Calendar Notification - Custom setting,jerskine,2021-05-03T00:13:39.823Z,3,,3,59
-62937,3 or 4 day view,johnvn,2021-06-20T19:49:58.145Z,3,,6,80
-55142,Display notes in the calendar as an option,alvk,2021-01-04T12:56:44.019Z,3,,2,39
-64831,"Description Area" be able to newline by press key `Enter`,full,2021-08-04T08:37:17.487Z,2,,3,45
-65161,Quarterly events ie appointments & tasks,CThomas,2021-08-11T20:36:50.829Z,2,,1,26
-65074,Automatic deletion of calendar entries,Horst2021,2021-08-09T13:53:03.583Z,2,,2,30
-62819,Choose local sound file as Notification Sound,juanvase,2021-06-18T12:29:50.182Z,2,,1,38
-64831,"Description Area" be able to newline by press key `Enter`,full,2021-08-04T08:37:17.487Z,2,,3,45
-65161,Quarterly events ie appointments & tasks,CThomas,2021-08-11T20:36:50.829Z,2,,1,26
-65074,Automatic deletion of calendar entries,Horst2021,2021-08-09T13:53:03.583Z,2,,2,30
-62819,Choose local sound file as Notification Sound,juanvase,2021-06-18T12:29:50.182Z,2,,1,38
-55051,Calendar user interface - too small and crammed,WildEnte,2021-01-01T15:57:29.749Z,2,,7,109
-53946,Alert When Event is Over,legobuilder26,2020-12-05T22:09:52.352Z,2,,3,55
-53400,Printable monthly view,summoner,2020-11-25T17:45:36.680Z,2,,1,28
-64660,Faster way of creating events : Writing the date in the title,AbdSah,2021-08-01T02:20:22.254Z,1,,2,31
-62897,Office 365 support,AhmadMS1988,2021-06-19T18:59:51.933Z,1,,5,108
-64660,Faster way of creating events : Writing the date in the title,AbdSah,2021-08-01T02:20:22.254Z,1,,2,31
-62897,Office 365 support,AhmadMS1988,2021-06-19T18:59:51.933Z,1,,5,108
+25296,Add a nice calendar,jumpsq,2018-02-21T06:57:37.295Z,12,IN PROGRESS:CALENDAR:CALDAV,17,1509
+25296,Add a nice calendar,jumpsq,2018-02-21T06:57:37.295Z,12,IN PROGRESS:CALENDAR:CALDAV,17,1509
+62177,Calendar Icon in Panel should display the current date,HellbillyDeluxe,2021-06-10T07:20:52.289Z,7,,4,49
+67527,turning off notifications for calendar events,tuckerw,2021-10-13T20:55:11.598Z,5,,4,101
+67527,turning off notifications for calendar events,tuckerw,2021-10-13T20:55:11.598Z,5,,4,101
+64070,time stamps on events,AbdSah,2021-07-17T14:17:59.718Z,5,,1,42
+55142,Display notes in the calendar as an option,alvk,2021-01-04T12:56:44.019Z,4,,2,40
+67770,Dismissing a calendar notification in 1 window dismisses in all,RichardJActon,2021-10-20T15:23:21.046Z,3,,1,34
+65161,Quarterly events ie appointments & tasks,CThomas,2021-08-11T20:36:50.829Z,3,,1,47
+67770,Dismissing a calendar notification in 1 window dismisses in all,RichardJActon,2021-10-20T15:23:21.046Z,3,,1,34
+65161,Quarterly events ie appointments & tasks,CThomas,2021-08-11T20:36:50.829Z,3,,1,47
+60513,Calendar Notification - Custom setting,jerskine,2021-05-03T00:13:39.823Z,3,,3,68
+62937,3 or 4 day view,johnvn,2021-06-20T19:49:58.145Z,3,,6,81
+62819,Choose local sound file as Notification Sound,juanvase,2021-06-18T12:29:50.182Z,3,,1,40
+62710,iCloud Support like Thunderbirds "tbSync",hosh0815,2021-06-16T12:08:31.697Z,2,,3,105
+64660,Faster way of creating events : Writing the date in the title,AbdSah,2021-08-01T02:20:22.254Z,2,,5,107
+64831,"Description Area" be able to newline by press key `Enter`,full,2021-08-04T08:37:17.487Z,2,,3,72
+62710,iCloud Support like Thunderbirds "tbSync",hosh0815,2021-06-16T12:08:31.697Z,2,,3,105
+64660,Faster way of creating events : Writing the date in the title,AbdSah,2021-08-01T02:20:22.254Z,2,,5,107
+64831,"Description Area" be able to newline by press key `Enter`,full,2021-08-04T08:37:17.487Z,2,,3,72
+65074,Automatic deletion of calendar entries,Horst2021,2021-08-09T13:53:03.583Z,2,,2,47
+64072,Transparent colors for events,AbdSah,2021-07-17T15:15:29.499Z,2,,1,36
+62897,Office 365 support,AhmadMS1988,2021-06-19T18:59:51.933Z,2,,5,167
+61380,Import/export calendar entries as spreadsheet-file (.csv),uhbwitt64,2021-05-21T14:20:30.577Z,2,,1,24
+66324,Import/export calendars through ics files,AltCode,2021-09-15T13:30:54.744Z,1,,8,168
+67793,To scale hours display,deniscremer,2021-10-21T08:13:10.587Z,1,,1,32
+66876,Tick Tick Integration,canders,2021-09-28T14:07:30.625Z,1,,2,64
+66556,Notification of past alarms on next start of Vivaldi,snertev,2021-09-20T14:46:18.983Z,1,,3,67
+66324,Import/export calendars through ics files,AltCode,2021-09-15T13:30:54.744Z,1,,8,168
+67793,To scale hours display,deniscremer,2021-10-21T08:13:10.587Z,1,,1,32
+66876,Tick Tick Integration,canders,2021-09-28T14:07:30.625Z,1,,2,64
+66556,Notification of past alarms on next start of Vivaldi,snertev,2021-09-20T14:46:18.983Z,1,,3,67
+64074,Shades  patterns  textures for events,AbdSah,2021-07-17T16:37:54.871Z,1,,1,55
 61381,Tagging events,uhbwitt64,2021-05-21T14:29:52.670Z,1,,1,23
-61380,Import/export calendar entries as spreadsheet-file (.csv),uhbwitt64,2021-05-21T14:20:30.577Z,1,,1,21
-60514,Calendar - wheel mouse scroll through months,jerskine,2021-05-03T00:18:41.739Z,1,,2,33
-59231,Notification window for missed calendar/task events,arcsnim,2021-04-05T06:22:34.687Z,1,,2,38
-59512,consistent highlight day of week,janrifkinson,2021-04-12T13:00:40.340Z,1,,1,24
-57271,Allow clicking links from Google Calendar task description?,Iaaa123456789,2021-02-19T22:33:20.571Z,1,,4,52
-65623,Snooze units,honzamf,2021-08-25T11:38:02.998Z,0,,1,22
-65470,Sign into calender with google,lavender29,2021-08-20T22:54:50.600Z,0,,2,31
-64770,Google calendar,ALPPHI,2021-08-03T07:50:11.660Z,0,,2,31
-61435,adding calendar-data with events  - in a special format,steelie,2021-05-22T19:39:49.219Z,0,,2,39
-64074,Shades  patterns  textures for events,AbdSah,2021-07-17T16:37:54.871Z,0,,1,46
-64072,Transparent colors for events,AbdSah,2021-07-17T15:15:29.499Z,0,,1,26
-57393,How to sync Tasks with Google Tasks?,AdilAkhmetov,2021-02-22T16:42:53.477Z,0,IN PROGRESS,3,107
-62768,Allow access to local  password/username protected ICS files,ThomasHelzle,2021-06-17T12:40:37.890Z,0,,8,91
-62710,iCloud Support like Thunderbirds "tbSync",hosh0815,2021-06-16T12:08:31.697Z,0,,1,19
-62609,"Current Time Bar" in day/week calendar views,deathau,2021-06-15T00:51:21.270Z,0,,2,26
-62273,Sidebar agenda,sukovec,2021-06-10T19:46:56.799Z,0,,5,27
-65623,Snooze units,honzamf,2021-08-25T11:38:02.998Z,0,,1,22
-65470,Sign into calender with google,lavender29,2021-08-20T22:54:50.600Z,0,,2,31
-64770,Google calendar,ALPPHI,2021-08-03T07:50:11.660Z,0,,2,31
-61435,adding calendar-data with events  - in a special format,steelie,2021-05-22T19:39:49.219Z,0,,2,39
-64074,Shades  patterns  textures for events,AbdSah,2021-07-17T16:37:54.871Z,0,,1,46
-64072,Transparent colors for events,AbdSah,2021-07-17T15:15:29.499Z,0,,1,26
-57393,How to sync Tasks with Google Tasks?,AdilAkhmetov,2021-02-22T16:42:53.477Z,0,IN PROGRESS,3,107
-62768,Allow access to local  password/username protected ICS files,ThomasHelzle,2021-06-17T12:40:37.890Z,0,,8,91
-62710,iCloud Support like Thunderbirds "tbSync",hosh0815,2021-06-16T12:08:31.697Z,0,,1,19
-62609,"Current Time Bar" in day/week calendar views,deathau,2021-06-15T00:51:21.270Z,0,,2,26
-62273,Sidebar agenda,sukovec,2021-06-10T19:46:56.799Z,0,,5,27
-62080,Kalendereintrag von Google Kalender,sapiatz,2021-06-09T14:48:11.140Z,0,,3,47
-60238,Calendar Highlight Consistency,janrifkinson,2021-04-29T10:20:21.529Z,0,,1,27
-56725,Birthdays imported by contacts.vcf are not displayed in Calendar,valdorox,2021-02-09T15:21:50.103Z,0,,1,26
-56086,Do not auto-adjust end-date when start-date of all-day-events is changed,luator,2021-01-29T10:38:01.236Z,0,,1,14
-55365,Appt Color Options,janrifkinson,2021-01-11T05:21:30.173Z,0,,1,28
+60514,Calendar - wheel mouse scroll through months,jerskine,2021-05-03T00:18:41.739Z,1,,2,37
+68285,Hide tasks option (+ eventually a tasks app?),st0567,2021-11-04T14:31:18.768Z,0,,2,35
+67929,Allow the "Time Increments" to go down to 5 minutes,romankubiv101,2021-10-25T10:41:37.282Z,0,,1,31
+67454,User-specified range for display,Shaare,2021-10-12T00:50:15.877Z,0,,1,32
+67099,Monthly calendar view,PerFischer,2021-10-04T21:54:36.089Z,0,,1,46
+66373,Alert schedule wherever using other app,ppgm,2021-09-16T11:21:17.889Z,0,,1,35
+66259,Standard week view,mimavox,2021-09-14T09:25:23.545Z,0,,2,42
+66106,remainders or alerts by mail,soldierone,2021-09-09T22:46:18.308Z,0,,1,36
+65623,Snooze units,honzamf,2021-08-25T11:38:02.998Z,0,,1,43
+65470,Sign into calender with google,lavender29,2021-08-20T22:54:50.600Z,0,,2,61
+68285,Hide tasks option (+ eventually a tasks app?),st0567,2021-11-04T14:31:18.768Z,0,,2,35
+67929,Allow the "Time Increments" to go down to 5 minutes,romankubiv101,2021-10-25T10:41:37.282Z,0,,1,31
+67454,User-specified range for display,Shaare,2021-10-12T00:50:15.877Z,0,,1,32
+67099,Monthly calendar view,PerFischer,2021-10-04T21:54:36.089Z,0,,1,46
+66373,Alert schedule wherever using other app,ppgm,2021-09-16T11:21:17.889Z,0,,1,35
+66259,Standard week view,mimavox,2021-09-14T09:25:23.545Z,0,,2,42
+66106,remainders or alerts by mail,soldierone,2021-09-09T22:46:18.308Z,0,,1,36
+65623,Snooze units,honzamf,2021-08-25T11:38:02.998Z,0,,1,43
+65470,Sign into calender with google,lavender29,2021-08-20T22:54:50.600Z,0,,2,61
+64770,Google calendar,ALPPHI,2021-08-03T07:50:11.660Z,0,,2,46
+61435,adding calendar-data with events  - in a special format,steelie,2021-05-22T19:39:49.219Z,0,,2,47
+57393,How to sync Tasks with Google Tasks?,AdilAkhmetov,2021-02-22T16:42:53.477Z,0,IN PROGRESS,3,159
+62768,Allow access to local  password/username protected ICS files,ThomasHelzle,2021-06-17T12:40:37.890Z,0,,8,94
+62609,"Current Time Bar" in day/week calendar views,deathau,2021-06-15T00:51:21.270Z,0,,2,28
+62273,Sidebar agenda,sukovec,2021-06-10T19:46:56.799Z,0,,5,29
+62080,Kalendereintrag von Google Kalender,sapiatz,2021-06-09T14:48:11.140Z,0,,3,50

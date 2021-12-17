@@ -1,681 +1,741 @@
 ID,Title,Author,Date,Votes,Tags,Posts,Views
-31078,Support Extensions,LonM,2018-10-10T07:21:50.291Z,382,MOBILE:EXTENSION,211,7711
-40148,Customizable search engines,jcprevel,2019-09-10T19:13:36.169Z,169,PIPELINE:SEARCH ENGINES:SEARCH,43,1340
-32053,Text Wrap option,dmitrik,2018-11-08T10:40:07.550Z,148,MOBILE:NICE TO HAVE,35,1909
-32053,Text Wrap option,dmitrik,2018-11-08T10:40:07.550Z,148,MOBILE:NICE TO HAVE,35,1909
-40377,Option to disable autoplay video,mariuszkujawa,2019-09-14T09:33:30.351Z,124,VIDEO:PIPELINE,26,1665
-40377,Option to disable autoplay video,mariuszkujawa,2019-09-14T09:33:30.351Z,124,VIDEO:PIPELINE,26,1665
-36184,Play video in background,honorine.brice,2019-04-03T16:29:15.857Z,48,NICE TO HAVE,20,962
-52338,Shortcut 'Dark mode for webpages' in menu,Korkado,2020-10-29T20:53:27.038Z,46,,14,275
-40073,Option to clear cookies on exit and dedicated whitelist,luetage,2019-09-09T20:02:10.303Z,44,,22,707
-32020,"Seamless browsing experience" aka. realtime tabs syncing with PC,jacekn,2018-11-07T14:14:14.917Z,36,SYNC:MOBILE:TABS:SESSIONS,13,876
-49997,Disable 'Dark mode' for specific sites,Anuay,2020-08-24T06:18:05.102Z,33,,10,205
-49255,Dark websites schedule,taronpro,2020-07-28T12:59:52.084Z,30,,10,190
-41165,Option to close all tabs when app is closed,deinonychuscowboy,2019-10-04T14:51:37.097Z,29,PIPELINE,25,623
-36044,Theme engine.,k9ketan,2019-03-31T08:14:54.302Z,29,MOBILE:THEMES:PIPELINE,3,320
-40240,Option to Disable Accent Colors from Active Site,marek.gontarczyk,2019-09-12T08:13:05.937Z,28,,23,495
-31072,Utilize fingerprint scanner,ROTFL,2018-10-09T22:24:16.422Z,27,MOBILE,5,493
-32057,Support for Android Autofill framework,Rafale,2018-11-08T11:20:58.475Z,26,MOBILE,6,531
-47579,"Remove AMP" Setting,gerardlouw,2020-06-03T06:25:13.756Z,26,,10,326
-27229,Vivaldi Mail app for mobile phones,CheVe11e_191,2018-05-06T18:23:02.293Z,26,APP:ANDROID:EMAIL:MOBILE,7,1831
-40412,Option to open new tabs in foreground mode,Musikolo,2019-09-15T06:04:32.992Z,23,,5,159
-40192,Rearrange/Reorder/Edit the function buttons.,MattSolo45,2019-09-11T11:40:53.675Z,22,,7,191
-41017,1Password Support for Android version,alisufyan,2019-09-30T10:13:46.212Z,21,PASSWORD MANAGER,30,789
-40043,Specific mobile speed dial,luetage,2019-09-09T13:02:19.811Z,21,,5,185
-40387,Cookie dialog blocker,dewey,2019-09-14T14:37:01.390Z,20,COOKIES,7,194
-48523,Everything should be a tab,luetage,2020-06-26T07:20:50.891Z,20,,11,203
-40879,Gestures,sdlzhd,2019-09-26T05:35:10.510Z,20,PIPELINE,19,396
-52019,Fingerprinting protection,tverye,2020-10-21T15:45:08.850Z,19,,9,301
-40695,Choose what to load at startup,Marko Indaco,2019-09-21T10:24:08.278Z,19,,5,123
-38732,Save Browsing History Duration,Folgore101,2019-07-09T17:22:36.926Z,19,MOBILE:SETTINGS:HISTORY:PIPELINE,3,300
-40013,UI resizing,remi.flores,2019-09-09T09:17:01.313Z,19,USER INTERFACE,2,127
-48334,Compact Tabs as option (hide thumbnails),davidsprinkle91,2020-06-20T13:40:37.552Z,18,,4,81
-31061,Import bookmarks from other mobile browsers,ROTFL,2018-10-09T20:56:02.618Z,18,MOBILE:IMPORT:BOOKMARKS,2,367
-40078,Option to use Private mode by default,Stardust,2019-09-09T20:13:29.393Z,18,PRIVACY,9,272
-43319,Make "simplified view" more subtle,madiso,2020-01-08T15:31:04.064Z,17,,4,107
-46428,Markdown support for notes,infosrefanvlad,2020-04-29T12:57:53.804Z,17,,4,93
-32042,UserScript/User Javascript/Greasemonkey support,Viqsi,2018-11-08T03:24:19.713Z,17,MOBILE:JAVASCRIPT,3,512
+31078,Support Extensions,LonM,2018-10-10T07:21:50.291Z,420,MOBILE:EXTENSION,220,9411
+31078,Support Extensions,LonM,2018-10-10T07:21:50.291Z,420,MOBILE:EXTENSION,220,9411
+40148,Customizable search engines,jcprevel,2019-09-10T19:13:36.169Z,214,SEARCH ENGINES:SEARCH:IN PROGRESS,56,2061
+40148,Customizable search engines,jcprevel,2019-09-10T19:13:36.169Z,214,SEARCH ENGINES:SEARCH:IN PROGRESS,56,2061
+40377,Option to disable autoplay video,mariuszkujawa,2019-09-14T09:33:30.351Z,179,VIDEO:PIPELINE,34,3194
+32053,Text Wrap option,dmitrik,2018-11-08T10:40:07.550Z,161,MOBILE:NICE TO HAVE,42,2540
+36184,Play video in background,honorine.brice,2019-04-03T16:29:15.857Z,56,NICE TO HAVE,20,1575
+36184,Play video in background,honorine.brice,2019-04-03T16:29:15.857Z,56,NICE TO HAVE,20,1575
+40073,Option to clear cookies on exit and dedicated whitelist,luetage,2019-09-09T20:02:10.303Z,48,,25,1069
+49255,Dark websites schedule,taronpro,2020-07-28T12:59:52.084Z,35,,10,217
+32020,"Seamless browsing experience" aka. realtime tabs syncing with PC,jacekn,2018-11-07T14:14:14.917Z,35,SYNC:MOBILE:TABS:SESSIONS,13,904
+41165,Option to close all tabs when app is closed,deinonychuscowboy,2019-10-04T14:51:37.097Z,33,PIPELINE,27,1054
+47579,"Remove AMP" Setting,gerardlouw,2020-06-03T06:25:13.756Z,31,,10,480
+40240,Option to Disable Accent Colors from Active Site,marek.gontarczyk,2019-09-12T08:13:05.937Z,29,,23,580
+36044,Theme engine.,k9ketan,2019-03-31T08:14:54.302Z,28,MOBILE:THEMES:PIPELINE,3,379
+32057,Support for Android Autofill framework,Rafale,2018-11-08T11:20:58.475Z,27,MOBILE,6,568
+27229,Vivaldi Mail app for mobile phones,CheVe11e_191,2018-05-06T18:23:02.293Z,27,APP:ANDROID:EMAIL:MOBILE,7,2128
+31072,Utilize fingerprint scanner,ROTFL,2018-10-09T22:24:16.422Z,27,MOBILE,4,497
+40192,Rearrange/Reorder/Edit the function buttons.,MattSolo45,2019-09-11T11:40:53.675Z,24,,7,205
+40043,Specific mobile speed dial,luetage,2019-09-09T13:02:19.811Z,23,,5,225
+40412,Option to open new tabs in foreground mode,Musikolo,2019-09-15T06:04:32.992Z,23,,4,194
+41017,1Password Support for Android version,alisufyan,2019-09-30T10:13:46.212Z,21,PASSWORD MANAGER,30,970
+40879,Gestures,sdlzhd,2019-09-26T05:35:10.510Z,21,PIPELINE,19,556
+40387,Cookie dialog blocker,dewey,2019-09-14T14:37:01.390Z,20,COOKIES,6,235
+48523,Everything should be a tab,luetage,2020-06-26T07:20:50.891Z,20,,11,223
+43319,Make "simplified view" more subtle,madiso,2020-01-08T15:31:04.064Z,19,,4,128
+40695,Choose what to load at startup,Marko Indaco,2019-09-21T10:24:08.278Z,19,,5,126
+52019,Fingerprinting protection,tverye,2020-10-21T15:45:08.850Z,19,,7,462
+40078,Option to use Private mode by default,Stardust,2019-09-09T20:13:29.393Z,19,PRIVACY,9,348
+38732,Save Browsing History Duration,Folgore101,2019-07-09T17:22:36.926Z,19,MOBILE:SETTINGS:HISTORY:PIPELINE,3,359
+40013,UI resizing,remi.flores,2019-09-09T09:17:01.313Z,19,USER INTERFACE,2,139
+40077,Option to Show full address,Stardust,2019-09-09T20:09:32.687Z,18,ADDRESS BAR,5,206
+40077,Option to Show full address,Stardust,2019-09-09T20:09:32.687Z,18,ADDRESS BAR,5,206
+32042,UserScript/User Javascript/Greasemonkey support,Viqsi,2018-11-08T03:24:19.713Z,18,MOBILE:JAVASCRIPT,3,588
+31061,Import bookmarks from other mobile browsers,ROTFL,2018-10-09T20:56:02.618Z,18,MOBILE:IMPORT:BOOKMARKS,2,382
+40417,Built in RSS Feed,luetage,2019-09-15T10:13:46.444Z,18,,4,138
+40070,Improvements to existing Reader Mode,luetage,2019-09-09T19:19:19.627Z,18,,5,123
+46428,Markdown support for notes,infosrefanvlad,2020-04-29T12:57:53.804Z,17,,4,97
 40057,One column layout for tab list,algeron,2019-09-09T16:45:19.853Z,17,,3,77
-40417,Built in RSS Feed,luetage,2019-09-15T10:13:46.444Z,17,,4,133
-40070,Improvements to existing Reader Mode,luetage,2019-09-09T19:19:19.627Z,17,,5,118
-40482,Swipes from screen edges navigate back and forward,elbahek,2019-09-16T23:15:34.214Z,16,,13,410
-40694,Choose default download folder location,dewey,2019-09-21T09:52:24.806Z,16,,8,216
-40077,Option to Show full address,Stardust,2019-09-09T20:09:32.687Z,16,ADDRESS BAR,3,149
-24538,Sync with Android contacts / calendar,ROTFL,2018-02-02T11:28:27.990Z,15,,4,796
-46946,Import and export bookmarks,Neon99,2020-05-12T23:06:30.095Z,15,,8,191
-49837,Remove dependency on Google Service from Android App,mirevsky,2020-08-18T21:33:37.698Z,15,,2,81
-43855,Scroll to top button,sungmin7062,2020-01-31T02:18:08.267Z,14,,4,49
-37546,Send button to devices synchronized as in Microsoft Edge on Android.,MattSolo45,2019-05-20T14:59:57.600Z,14,SYNC:BROWSERS,13,402
-46367,Desktop mode list,akshaythorat,2020-04-28T06:33:21.233Z,13,,4,60
+40482,Swipes from screen edges navigate back and forward,elbahek,2019-09-16T23:15:34.214Z,16,,13,549
+48334,Compact Tabs as option (hide thumbnails),davidsprinkle91,2020-06-20T13:40:37.552Z,16,,2,83
+40694,Choose default download folder location,dewey,2019-09-21T09:52:24.806Z,16,,8,341
+46946,Import and export bookmarks,Neon99,2020-05-12T23:06:30.095Z,15,,10,351
+46946,Import and export bookmarks,Neon99,2020-05-12T23:06:30.095Z,15,,10,351
+50976,Change the whole interface when address bar is on bottom,sirien.neiris,2020-09-22T09:57:03.442Z,15,,11,162
+24538,Sync with Android contacts / calendar,ROTFL,2018-02-02T11:28:27.990Z,15,,4,809
+49837,Remove dependency on Google Service from Android App,mirevsky,2020-08-18T21:33:37.698Z,15,,2,84
+37546,Send button to devices synchronized as in Microsoft Edge on Android.,MattSolo45,2019-05-20T14:59:57.600Z,14,SYNC:BROWSERS,13,459
+40390,Possibility to use the profiles,PIERREV,2019-09-14T15:09:20.269Z,13,PROFILES,4,118
+40553,Hard reload (cache reset),rohschinken,2019-09-18T13:09:23.498Z,13,,19,783
+43855,Scroll to top button,sungmin7062,2020-01-31T02:18:08.267Z,13,,4,55
 40253,Speed dial/Bookmarks folders navigation,ChimeraLove,2019-09-12T09:44:02.329Z,13,,3,113
-52426,Option to clear all data on exit or option to never remember history,Rhaegwynn,2020-11-01T07:58:08.981Z,12,,14,115
-40553,Hard reload (cache reset),rohschinken,2019-09-18T13:09:23.498Z,12,,19,490
-47664,Reader View Button on V Menu or Along with Url Bar,Gurmeetim,2020-06-05T08:40:43.702Z,12,,4,53
-53557,Enable text reflow,msjazzmaven,2020-11-27T21:37:53.694Z,12,,6,82
-40390,Possibility to use the profiles,PIERREV,2019-09-14T15:09:20.269Z,11,PROFILES,3,76
-40041,Allow disabling the bottom bar,madiso,2019-09-09T12:50:15.538Z,11,,2,86
-35837,Collect links from other apps (like Firefox),sdtbluethink,2019-03-27T10:28:16.961Z,11,MOBILE,5,237
-62041,Option to Disable Tab Groups,takawo,2021-06-09T09:17:21.113Z,10,DONE,25,416
-53268,Hide the bottom navigation bar,madonnaragu,2020-11-23T11:17:20.095Z,10,,6,101
-51538,Adblock lists,SirRico1975,2020-10-11T18:50:20.416Z,10,,9,161
-40210,Add intent receiver that allows saving to a note (any selected text 🢂 Share 🢂 Vivaldi Notes),ROTFL,2019-09-11T17:24:18.299Z,10,,3,103
-37117,Sessions,ROTFL,2019-05-08T12:19:03.190Z,10,MOBILE:SESSIONS,4,334
-50976,Change the whole interface when address bar is on bottom,sirien.neiris,2020-09-22T09:57:03.442Z,10,,7,85
-31075,A light version in addition to the standard one,Ornorm,2018-10-09T23:03:26.159Z,10,MOBILE,5,706
-60426,Inbuilt Video Player (Like Samsung Internet Browser),Dhannush,2021-05-01T16:01:06.724Z,9,,11,236
-57936,Start Page Background,iamansingh,2021-03-09T21:25:36.157Z,9,,12,208
-47598,Button to open link in related external app,jpegio,2020-06-03T13:02:25.035Z,9,,4,73
-40081,Remember the last opened bookmark folder,Stardust,2019-09-09T20:36:21.245Z,9,BOOKMARKS,3,93
+43670,Default Assistant,crmsn,2020-01-24T12:17:54.754Z,12,,5,102
+53557,Enable text reflow,msjazzmaven,2020-11-27T21:37:53.694Z,12,,6,97
+46367,Desktop mode list,akshaythorat,2020-04-28T06:33:21.233Z,12,,3,61
+37117,Sessions,ROTFL,2019-05-08T12:19:03.190Z,12,MOBILE:SESSIONS,4,400
+40041,Allow toggling (or remove) the bottom bar,madiso,2019-09-09T12:50:15.538Z,11,UI DESIGN,7,304
+52426,Option to clear all data on exit or option to never remember history,Rhaegwynn,2020-11-01T07:58:08.981Z,11,,13,143
+35837,Collect links from other apps (like Firefox),sdtbluethink,2019-03-27T10:28:16.961Z,11,MOBILE,5,268
+36484,Quick scrolling capabilities / Scrollbar,ROTFL,2019-04-11T16:31:08.805Z,10,MOBILE:SCROLLING,6,295
+66600,Speed Dial at the bottom.,acrov,2021-09-21T12:28:34.298Z,10,,4,105
+62041,Option to Disable Tab Groups,takawo,2021-06-09T09:17:21.113Z,10,DONE,25,516
+53268,Hide the bottom navigation bar,madonnaragu,2020-11-23T11:17:20.095Z,10,,6,137
+51538,Adblock lists,SirRico1975,2020-10-11T18:50:20.416Z,10,,9,200
+40210,Add intent receiver that allows saving to a note (any selected text 🢂 Share 🢂 Vivaldi Notes),ROTFL,2019-09-11T17:24:18.299Z,10,,3,107
+40081,Remember the last opened bookmark folder,Stardust,2019-09-09T20:36:21.245Z,10,BOOKMARKS,3,127
+32140,Voice Support for Quick Commands,MasterLeo29,2018-11-11T20:11:43.286Z,10,MOBILE:VOICE,3,386
+31075,A light version in addition to the standard one,Ornorm,2018-10-09T23:03:26.159Z,10,MOBILE,5,708
 55370,Make reader mode a page action.,luetage,2021-01-11T09:37:10.579Z,9,,1,35
-32140,Voice Support for Quick Commands,MasterLeo29,2018-11-11T20:11:43.286Z,9,MOBILE:VOICE,3,365
-40679,Allow moving Vivaldi to external SD card,muttleyaxe,2019-09-21T00:34:07.247Z,9,,5,153
-43670,Default Assistant,crmsn,2020-01-24T12:17:54.754Z,9,,3,53
-41178,Non-grid tab layout,shabaabk,2019-10-05T00:16:07.150Z,8,,2,99
-50554,Navigation buttons in the bottom of the menu when the bottom address bar is enabled,marek.gontarczyk,2020-09-10T07:27:43.226Z,8,,2,47
-42224,"Switch to tab" function,madiso,2019-11-17T19:53:07.567Z,8,,8,177
-41614,Making Vivaldi browser Android TV compatible,callionifabio,2019-10-24T15:22:15.193Z,8,,4,184
-47831,Fix the Dark Mode implementation.,Mcmeman,2020-06-09T18:35:21.187Z,8,,1,62
-39354,Vivaldi mobile add-on handling design,MattSolo45,2019-08-11T12:42:44.737Z,8,,3,243
-41105,Notes Widget,francescomariani,2019-10-02T22:25:27.775Z,8,,2,51
-33006,Tab Queue,MichaelKirk,2018-12-13T16:51:33.977Z,8,MOBILE,3,414
-38863,Left-handed mode,ROTFL,2019-07-15T21:48:58.800Z,8,ACCESSIBILITY:MOBILE,1,125
-54691,Recent tabs - open in new tab,madonnaragu,2020-12-19T20:25:54.796Z,7,,5,53
-52469,Read web page content aloud,malv,2020-11-02T06:04:52.893Z,7,,3,61
-63036,Background/Screen Off Play,TnTori,2021-06-22T21:45:02.260Z,7,,5,115
-61337,Dark Web pages for Vivaldi android,Namira7,2021-05-20T14:17:20.079Z,7,,8,139
-59844,Improve your Dark Mode for Web Pages,hotlikewassabi,2021-04-20T15:55:40.993Z,7,,2,44
-58801,Page Tiling in Android Vivaldi,DheerajSingh,2021-03-26T11:53:19.336Z,7,,4,68
-51502,Option to open external links straight into private tabs,omaralsharif,2020-10-10T09:02:06.014Z,7,,3,46
-49476,Notes-Widget on Android,wernermic,2020-08-05T21:05:45.576Z,7,,3,42
-55421,Bookmark all Tabs,Zalex108,2021-01-12T20:37:02.764Z,7,,23,222
-50579,Please add the tab bar above the address bar,e3s3m3a3i3l3,2020-09-10T18:02:41.128Z,7,,5,59
-54728,Option to deactivate dark mode for web pages on light theme,barkocak,2020-12-21T04:08:39.492Z,7,,1,30
-50652,View source code,rabe85,2020-09-12T10:41:24.056Z,7,,2,102
-52060,Allow to rename [native] blocker lists,Hadden89,2020-10-22T12:44:25.641Z,7,,1,34
-51928,Dark Theme | Color Palette,Zalex108,2020-10-19T17:31:06.396Z,7,,1,36
-50505,Keepass2Android support,oudstand,2020-09-09T06:03:28.105Z,7,PASSWORD MANAGER,3,80
-50614,Allow tab bar at top  address bar at bottom,maxauthority,2020-09-11T11:51:00.092Z,7,PIPELINE,3,69
-40389,Remove device name from user agent,dewey,2019-09-14T14:46:40.008Z,7,,7,176
-40805,add bulit in vpn for private window,look90,2019-09-24T04:31:53.942Z,7,,31,263
-46613,User agent for Android,Samuraj,2020-05-03T17:40:28.738Z,7,,1,58
-45472,Moving the Vivaldi button for easier access,jnss98b,2020-04-05T06:20:07.849Z,7,,18,161
-40319,Standalone / Separate Notes from phone app  for easier direct access,aeiou,2019-09-13T05:23:39.741Z,7,NOTES,4,104
-36484,Quick scrolling capabilities / Scrollbar,ROTFL,2019-04-11T16:31:08.805Z,7,MOBILE:SCROLLING,5,250
-62427,Choose the download folder,Veto88,2021-06-12T13:16:22.770Z,6,,3,77
-62885,Clear cookies and data on tab close,adzarooni,2021-06-19T14:57:59.069Z,6,,6,161
-50135,Full screen for devices with a notch,Anubiz32,2020-08-28T16:54:14.247Z,6,,4,52
-61251,Notes widget for Android's launchers,TheQuantumAlpha,2021-05-18T14:35:45.391Z,6,,1,37
-45702,video downloads,Ledenav,2020-04-14T15:25:34.059Z,6,,7,115
-51642,Have just a single toolbar like chrome,HeinrichCorneliusAgrippa,2020-10-14T23:06:40.180Z,6,,14,124
-54495,Dark mode like opera browser,666jones,2020-12-15T20:45:58.777Z,6,,13,81
-53902,Longpress menu options on a speedial version 2. 0,Abdolreza,2020-12-04T20:26:04.788Z,6,,1,30
-37576,ARM Package for SailfishOS,PeerAtle,2019-05-21T20:00:19.693Z,6,,8,377
-53005,Feature request : Undo button inside notes,abdellahb,2020-11-14T19:34:30.687Z,6,,1,23
-52274,Longpress "Back" button to view tab history (with Bottom Address Bar enable),rodrigoswz,2020-10-28T02:00:20.743Z,6,,2,25
-49726,Manually update ad-block and tracker lists,Gort,2020-08-14T14:28:04.044Z,6,,3,70
-37768,Built-in video player with scrolling function with download gestures  etc.,MattSolo45,2019-05-29T21:05:46.890Z,6,,5,202
-43199,Add the ability to control Javascript per site,poopooracoocoo,2020-01-02T10:23:26.869Z,6,,5,73
-44424,Focus address bar when opening a new tab,felagund,2020-02-23T11:47:56.547Z,6,,8,94
-42182,Change behavior of middle bottom button when on a web page.,impune,2019-11-15T12:43:59.349Z,6,,5,106
-42254,Is it possible to have a standard Vivaldi desktop browser for Android?,chdsl,2019-11-19T18:06:51.545Z,6,,18,378
-40034,History: add time and device information,howardb,2019-09-09T12:01:25.159Z,6,HISTORY,3,69
-63965,Custom Speed Dial Thumbnails &More,angelspeak,2021-07-14T00:21:13.861Z,5,,4,98
-65437,add Video Downloader feature,riyan7780,2021-08-19T22:45:06.117Z,5,,2,52
-63058,Disable Speed Dial,slydog3333,2021-06-23T12:09:56.997Z,5,,5,101
-63965,Custom Speed Dial Thumbnails &More,angelspeak,2021-07-14T00:21:13.861Z,5,,4,98
-65437,add Video Downloader feature,riyan7780,2021-08-19T22:45:06.117Z,5,,2,52
-63058,Disable Speed Dial,slydog3333,2021-06-23T12:09:56.997Z,5,,5,101
-63263,A shortcut to go to top of page,asrat,2021-06-28T08:56:52.162Z,5,,2,41
-45371,Panel bar on the side,jumpsq,2020-04-01T09:45:55.527Z,5,,3,57
-60001,Translate selected text in contextmenu  using deepl.,miketuxedo,2021-04-24T04:19:00.050Z,5,,2,85
-52512,Save page as PDF on Android,SerGom,2020-11-03T04:28:52.064Z,5,,17,285
-61492,Show tabs in list view,juanvase,2021-05-24T18:20:56.820Z,5,,2,57
-61491,Delta updates when updating from playstore.,juanvase,2021-05-24T17:51:34.267Z,5,,5,50
-61152,Jump to top of page button,davidgreen80,2021-05-16T00:27:40.882Z,5,,3,60
-53868,Bring back previous layout for speed dials,Gurmeetim,2020-12-04T06:48:09.294Z,5,IN PROGRESS,6,137
+54728,Option to deactivate dark mode for web pages on light theme,barkocak,2020-12-21T04:08:39.492Z,9,,1,47
+40679,Allow moving Vivaldi to external SD card,muttleyaxe,2019-09-21T00:34:07.247Z,9,,5,168
+42224,"Switch to tab" function,madiso,2019-11-17T19:53:07.567Z,9,,8,204
+33006,Tab Queue,MichaelKirk,2018-12-13T16:51:33.977Z,9,MOBILE,3,450
+54691,Recent tabs - open in new tab,madonnaragu,2020-12-19T20:25:54.796Z,8,,8,104
+63058,Disable Speed Dial,slydog3333,2021-06-23T12:09:56.997Z,8,,5,188
+62427,Choose the download folder,Veto88,2021-06-12T13:16:22.770Z,8,,4,110
+57936,Start Page Background,iamansingh,2021-03-09T21:25:36.157Z,8,,10,394
+47598,Button to open link in related external app,jpegio,2020-06-03T13:02:25.035Z,8,,4,88
+41614,Making Vivaldi browser Android TV compatible,callionifabio,2019-10-24T15:22:15.193Z,8,,4,248
+47831,Fix the Dark Mode implementation.,Mcmeman,2020-06-09T18:35:21.187Z,8,,1,64
+39354,Vivaldi mobile add-on handling design,MattSolo45,2019-08-11T12:42:44.737Z,8,,3,266
+41105,Notes Widget,francescomariani,2019-10-02T22:25:27.775Z,8,,2,54
+40319,Standalone / Separate Notes from phone app  for easier direct access,aeiou,2019-09-13T05:23:39.741Z,8,NOTES,4,154
+38863,Left-handed mode,ROTFL,2019-07-15T21:48:58.800Z,8,ACCESSIBILITY:MOBILE,1,146
+40074,Option to disable pull to refresh,Stardust,2019-09-09T20:02:33.040Z,7,,3,122
+60426,Inbuilt Video Player (Like Samsung Internet Browser),Dhannush,2021-05-01T16:01:06.724Z,7,,10,384
+41178,Non-grid tab layout,shabaabk,2019-10-05T00:16:07.150Z,7,,2,116
+52469,Read web page content aloud,malv,2020-11-02T06:04:52.893Z,7,,3,94
+63036,Background/Screen Off Play,TnTori,2021-06-22T21:45:02.260Z,7,,5,122
+61337,Dark Web pages for Vivaldi android,Namira7,2021-05-20T14:17:20.079Z,7,IN PROGRESS,8,182
+51502,Option to open external links straight into private tabs,omaralsharif,2020-10-10T09:02:06.014Z,7,,3,56
+55421,Bookmark all Tabs,Zalex108,2021-01-12T20:37:02.764Z,7,,23,348
+50579,Please add the tab bar above the address bar,e3s3m3a3i3l3,2020-09-10T18:02:41.128Z,7,,5,65
+50652,View source code,rabe85,2020-09-12T10:41:24.056Z,7,,2,152
+52060,Allow to rename [native] blocker lists,Hadden89,2020-10-22T12:44:25.641Z,7,,1,36
+50505,Keepass2Android support,oudstand,2020-09-09T06:03:28.105Z,7,PASSWORD MANAGER,3,108
+50554,Navigation buttons in the bottom of the menu when the bottom address bar is enabled,marek.gontarczyk,2020-09-10T07:27:43.226Z,7,,1,59
+40389,Remove device name from user agent,dewey,2019-09-14T14:46:40.008Z,7,,7,187
+40805,add bulit in vpn for private window,look90,2019-09-24T04:31:53.942Z,7,,31,276
+46613,User agent for Android,Samuraj,2020-05-03T17:40:28.738Z,7,,1,70
+45472,Moving the Vivaldi button for easier access,jnss98b,2020-04-05T06:20:07.849Z,7,,17,163
+40034,History: add time and device information,howardb,2019-09-09T12:01:25.159Z,7,HISTORY,3,96
+37576,ARM Package for SailfishOS,PeerAtle,2019-05-21T20:00:19.693Z,6,,9,420
+67881,Disable Android's back button close tab.,ChimeraLove,2021-10-23T16:27:38.983Z,6,,3,67
+56890,Please add a confirmation dialog to the Delete Note button.,aoisensi,2021-02-12T22:58:36.623Z,6,,3,48
+65297,Data Saver mode,Karatay,2021-08-15T17:11:36.587Z,6,,5,163
+65730,Scroll Button for easy navigation on long sites,meggrain,2021-08-28T15:47:18.592Z,6,,1,26
+65437,add Video Downloader feature,riyan7780,2021-08-19T22:45:06.117Z,6,,2,71
+62885,Clear cookies and data on tab close,adzarooni,2021-06-19T14:57:59.069Z,6,,5,205
+63263,A shortcut to go to top of page,asrat,2021-06-28T08:56:52.162Z,6,,2,49
+52512,Save page as PDF on Android,SerGom,2020-11-03T04:28:52.064Z,6,,17,505
+50135,Full screen for devices with a notch,Anubiz32,2020-08-28T16:54:14.247Z,6,,4,62
+61251,Notes widget for Android's launchers,TheQuantumAlpha,2021-05-18T14:35:45.391Z,6,,1,40
+45702,video downloads,Ledenav,2020-04-14T15:25:34.059Z,6,,7,140
+59844,Improve your Dark Mode for Web Pages,hotlikewassabi,2021-04-20T15:55:40.993Z,6,,2,51
+58801,Page Tiling in Android Vivaldi,DheerajSingh,2021-03-26T11:53:19.336Z,6,,2,127
+49476,Notes-Widget on Android,wernermic,2020-08-05T21:05:45.576Z,6,,3,45
+53902,Longpress menu options on a speedial version 2. 0,Abdolreza,2020-12-04T20:26:04.788Z,6,,1,35
+52274,Longpress "Back" button to view tab history (with Bottom Address Bar enable),rodrigoswz,2020-10-28T02:00:20.743Z,6,,2,27
+49726,Manually update ad-block and tracker lists,Gort,2020-08-14T14:28:04.044Z,6,,3,82
+51928,Dark Theme | Color Palette,Zalex108,2020-10-19T17:31:06.396Z,6,,1,47
+50974,Remove bottom bar,DominateEye,2020-09-22T08:11:22.291Z,6,,0,192
+50614,Allow tab bar at top  address bar at bottom,maxauthority,2020-09-11T11:51:00.092Z,6,PIPELINE,3,101
+40806,Add to Speed Dial button,look90,2019-09-24T04:38:03.180Z,6,,17,349
+37768,Built-in video player with scrolling function with download gestures  etc.,MattSolo45,2019-05-29T21:05:46.890Z,6,,5,203
+43199,Add the ability to control Javascript per site,poopooracoocoo,2020-01-02T10:23:26.869Z,6,,5,87
+44424,Focus address bar when opening a new tab,felagund,2020-02-23T11:47:56.547Z,6,,8,119
+42182,Change behavior of middle bottom button when on a web page.,impune,2019-11-15T12:43:59.349Z,6,,5,108
+42254,Is it possible to have a standard Vivaldi desktop browser for Android?,chdsl,2019-11-19T18:06:51.545Z,6,,18,394
+40010,Provide option to disable font auto sizing,howardb,2019-09-09T08:59:43.793Z,6,FONT SIZE,1,63
+65822,Integrated password manager : allow to edit passwords,abdellahb,2021-08-31T08:56:29.490Z,5,,6,112
+65748,chagne tab switch layout alignment when address bar at bottom,Maary,2021-08-29T04:46:14.686Z,5,,1,34
+45371,Panel bar on the side,jumpsq,2020-04-01T09:45:55.527Z,5,,3,58
+60001,Translate selected text in contextmenu  using deepl.,miketuxedo,2021-04-24T04:19:00.050Z,5,,2,114
+61492,Show tabs in list view,juanvase,2021-05-24T18:20:56.820Z,5,,2,61
+61491,Delta updates when updating from playstore.,juanvase,2021-05-24T17:51:34.267Z,5,,5,52
+61152,Jump to top of page button,davidgreen80,2021-05-16T00:27:40.882Z,5,,3,67
 58955,Video detector,Zaryan,2021-03-29T14:34:53.245Z,5,,2,54
-54681,Add Microsoft Authenticator autofill support,sergioad,2020-12-19T15:25:00.872Z,5,PASSWORD MANAGER,3,62
-46390,Choose number of tab switcher columns,infosrefanvlad,2020-04-28T17:20:57.339Z,5,,3,48
-50864,Icons to Easily Switch Between Search Engines in toolbar,supar,2020-09-18T14:10:02.501Z,5,,2,26
-40292,All toolbars always visible,venetin,2019-09-12T18:39:55.112Z,5,TOOLBAR:IN PROGRESS,4,105
-52769,SpeedDial | Launcher Like Dial,Zalex108,2020-11-08T16:29:43.893Z,5,,16,71
-40244,Read-only mode for browsing notes,ROTFL,2019-09-12T08:59:54.176Z,5,,2,71
-52747,Copy url via long tap on addressfield,Hadden89,2020-11-07T21:38:04.513Z,5,,1,28
-45471,Edge-to-edge rendering with Android 10 navigation gestures,jnss98b,2020-04-05T06:07:43.255Z,5,,3,57
-50570,White flashes on websites with dark mode,Gurmeetim,2020-09-10T14:51:26.474Z,5,,3,44
-49795,On demand synchronization (manual sync),Primokorn,2020-08-17T11:32:41.584Z,5,,8,119
-40806,Add to Speed Dial button,look90,2019-09-24T04:38:03.180Z,5,,17,217
+54681,Add Microsoft Authenticator autofill support,sergioad,2020-12-19T15:25:00.872Z,5,PASSWORD MANAGER,3,110
+46390,Choose number of tab switcher columns,infosrefanvlad,2020-04-28T17:20:57.339Z,5,,3,67
+50864,Icons to Easily Switch Between Search Engines in toolbar,supar,2020-09-18T14:10:02.501Z,5,,2,29
+40292,All toolbars always visible,venetin,2019-09-12T18:39:55.112Z,5,TOOLBAR:IN PROGRESS,4,148
+51642,Have just a single toolbar like chrome,HeinrichCorneliusAgrippa,2020-10-14T23:06:40.180Z,5,,14,141
+54495,Dark mode like opera browser,666jones,2020-12-15T20:45:58.777Z,5,,12,87
+52769,SpeedDial | Launcher Like Dial,Zalex108,2020-11-08T16:29:43.893Z,5,,16,74
+53005,Feature request : Undo button inside notes,abdellahb,2020-11-14T19:34:30.687Z,5,,1,23
+40244,Read-only mode for browsing notes,ROTFL,2019-09-12T08:59:54.176Z,5,,2,80
+52747,Copy url via long tap on addressfield,Hadden89,2020-11-07T21:38:04.513Z,5,,1,29
+45471,Edge-to-edge rendering with Android 10 navigation gestures,jnss98b,2020-04-05T06:07:43.255Z,5,,3,62
+49795,On demand synchronization (manual sync),Primokorn,2020-08-17T11:32:41.584Z,5,,8,193
 47099,Save as,jumpsq,2020-05-17T15:01:10.609Z,5,,2,29
-32062,Orientation locking option,GoldNoway,2018-11-08T13:39:59.437Z,5,MOBILE,8,678
-42868,Support for higher than 60Hz refresh rate,Jaws,2019-12-19T21:17:32.479Z,5,,3,185
-42088,Asking before download,zxcvbco,2019-11-11T13:16:25.843Z,5,,2,48
-40095,Enhanced notes,theprawn,2019-09-10T01:53:58.184Z,5,NOTES,3,83
-40010,Provide option to disable font auto sizing,howardb,2019-09-09T08:59:43.793Z,5,FONT SIZE,1,42
-38734,Reload page,Folgore101,2019-07-09T17:59:40.516Z,5,MOBILE:SETTINGS:RELOAD,3,237
-37708,Application for passwords like Firefox Lockbox with synchronization.,MattSolo45,2019-05-27T12:52:20.375Z,5,PASSWORDS:PASSWORD MANAGER:SYNC:APP,1,177
-37643,Built-in choice of page/text translator,MattSolo45,2019-05-24T12:27:07.052Z,5,MOBILE:TRANSLATION,2,190
-42712,Scrollable open tabs in the form of cards,alessandro.pian,2019-12-13T14:28:00.550Z,4,,3,85
-63442,The notes window hovers over the webpage as a card,Poto,2021-07-01T20:24:45.587Z,4,,2,44
-61689,Suggest Password,PapaFranku,2021-05-30T14:43:28.047Z,4,,6,96
-61690,Automatic dark mode for web pages,joeybui,2021-05-30T14:53:58.155Z,4,,2,71
-59792,More personalization options,dariuszolszowka,2021-04-19T08:21:27.330Z,4,,2,50
-57158,A highly quality inspect element feature / Developer Tools,ChromiumBased,2021-02-17T14:58:16.104Z,4,,3,78
-50260,Menu | Icons for extra options,Zalex108,2020-09-02T18:44:44.564Z,4,,8,69
-57691,Swipe menus,infosrefanvlad,2021-03-02T19:47:44.170Z,4,,2,33
-57507,Duplicate Tab | Hint,Zalex108,2021-02-25T12:16:14.040Z,4,,2,30
-56786,Disable Scroll to hide toolbar,Sanskar,2021-02-10T20:18:22.259Z,4,IN PROGRESS,2,46
-55808,Swipe gesture,Lukunt,2021-01-23T05:18:56.326Z,4,,3,43
-55225,"Open all in Tabs" for Speed Dial folders in android  just like desktop...,juanvase,2021-01-07T13:37:57.727Z,4,,1,53
-53393,Add open in background tab in speeddial,tw9,2020-11-25T15:32:25.651Z,4,,3,32
-52632,Customizable swipes on the Address Bar,Stardust,2020-11-05T23:36:55.343Z,4,,6,60
+32062,Orientation locking option,GoldNoway,2018-11-08T13:39:59.437Z,5,MOBILE,8,707
+42868,Support for higher than 60Hz refresh rate,Jaws,2019-12-19T21:17:32.479Z,5,,3,306
+42088,Asking before download,zxcvbco,2019-11-11T13:16:25.843Z,5,,2,49
+40095,Enhanced notes,theprawn,2019-09-10T01:53:58.184Z,5,NOTES,3,116
+38734,Reload page,Folgore101,2019-07-09T17:59:40.516Z,5,MOBILE:SETTINGS:RELOAD,3,262
+37708,Application for passwords like Firefox Lockbox with synchronization.,MattSolo45,2019-05-27T12:52:20.375Z,5,PASSWORDS:PASSWORD MANAGER:SYNC:APP,1,199
+37643,Built-in choice of page/text translator,MattSolo45,2019-05-24T12:27:07.052Z,5,MOBILE:TRANSLATION,2,213
+55745,Dark Mode/Light Mode Timer / Scheduled Themes,ehlimaide,2021-01-21T16:21:18.228Z,4,,6,125
+59453,Copy image address,FabulousMythicalBird,2021-04-11T08:03:46.898Z,4,,7,65
+61995,Themes on Android,leonard178,2021-06-08T16:18:06.107Z,4,,2,49
+44444,Option for displaying individual tabs as apps in androids native app switcher,saturnfig,2020-02-25T00:07:36.149Z,4,,2,58
+66505,An option to toggle night mode in menu.,lockrol,2021-09-19T08:03:31.559Z,4,,0,38
+55041,cname cloaking blocker,xyzjkl,2021-01-01T01:50:47.229Z,4,,4,162
+42712,Scrollable open tabs in the form of cards,alessandro.pian,2019-12-13T14:28:00.550Z,4,,3,108
+63442,The notes window hovers over the webpage as a card,Poto,2021-07-01T20:24:45.587Z,4,,2,51
+61689,Suggest Password,PapaFranku,2021-05-30T14:43:28.047Z,4,,6,105
+59792,More personalization options,dariuszolszowka,2021-04-19T08:21:27.330Z,4,,1,53
+59269,"Download with" dialog,FabulousMythicalBird,2021-04-06T04:58:29.716Z,4,,3,55
+57158,A highly quality inspect element feature / Developer Tools,ChromiumBased,2021-02-17T14:58:16.104Z,4,,3,119
+50645,Search tabs in switcher/ list view on Android,tij.gupta,2020-09-12T09:10:03.610Z,4,,2,32
+57507,Duplicate Tab | Hint,Zalex108,2021-02-25T12:16:14.040Z,4,,2,34
+57151,Speed dial in private mode,OBC9HHuKoB,2021-02-17T13:56:26.574Z,4,,1,29
+56786,Disable Scroll to hide toolbar,Sanskar,2021-02-10T20:18:22.259Z,4,IN PROGRESS,2,59
+55808,Swipe gesture,Lukunt,2021-01-23T05:18:56.326Z,4,,3,48
+55225,"Open all in Tabs" for Speed Dial folders in android  just like desktop...,juanvase,2021-01-07T13:37:57.727Z,4,,1,62
+52632,Customizable swipes on the Address Bar,Stardust,2020-11-05T23:36:55.343Z,4,,5,75
 52777,Allow to copy Vivaldi info,Hadden89,2020-11-08T20:39:46.263Z,4,,1,22
 50892,Moving back to main speedial from speedial folder using main back navigation button,exefex,2020-09-19T09:23:18.622Z,4,,4,42
-52030,Adblock filter updates...,ahmetulusoy,2020-10-21T22:09:25.524Z,4,,1,29
-51776,Save to speed dial from context menu,obrcian,2020-10-16T08:47:30.148Z,4,,2,22
-49702,Adding an "Open in Vivaldi" share button in Android,anildeolalikar,2020-08-13T16:35:51.765Z,4,,1,19
-48328,Tabs with half screen list view,Ledenav,2020-06-20T11:25:35.329Z,4,,2,34
-47526,Qwant as default engine?,ramdroid,2020-06-01T07:25:18.263Z,4,,13,175
-45955,Change the home button to url bar button.,EvilSpark,2020-04-22T11:47:57.084Z,4,,1,24
-42434,Make "tap to search" work with any search engine,madiso,2019-11-29T08:30:30.165Z,4,,1,41
-40803,insert from note,look90,2019-09-24T04:19:03.738Z,4,,2,41
-40136,Tab switch by swiping from the edge,NogrtL,2019-09-10T15:12:58.863Z,4,TAB CYCLING:GESTURE,10,145
-40245,Extension's & option to change BG,Deniel,2019-09-12T09:04:51.002Z,4,,2,76
-40173,Separate default Private and Regular search engines,Innertuber40,2019-09-11T05:42:27.974Z,4,SEARCH ENGINES,1,28
-40162,The reading mode is not started by default.,Poto,2019-09-11T02:53:19.500Z,4,READER VIEW,1,34
-40074,Option to disable pull to refresh,Stardust,2019-09-09T20:02:33.040Z,4,,2,76
-40071,Disable animation opening new tab,Melvidor,2019-09-09T19:27:39.860Z,4,ANIMATIONS,1,34
-37717,Access to history from all devices with grouping,MattSolo45,2019-05-27T18:33:43.886Z,4,SYNC:HISTORY,8,307
-65748,chagne tab switch layout alignment when address bar at bottom,Maary,2021-08-29T04:46:14.686Z,3,,1,15
-65730,Scroll Button for easy navigation on long sites,meggrain,2021-08-28T15:47:18.592Z,3,,1,17
-65297,Data Saver mode feature should come,Karatay,2021-08-15T17:11:36.587Z,3,,4,86
-55041,cname cloaking blocker,xyzjkl,2021-01-01T01:50:47.229Z,3,,4,116
-65748,chagne tab switch layout alignment when address bar at bottom,Maary,2021-08-29T04:46:14.686Z,3,,1,15
-65730,Scroll Button for easy navigation on long sites,meggrain,2021-08-28T15:47:18.592Z,3,,1,17
-65297,Data Saver mode feature should come,Karatay,2021-08-15T17:11:36.587Z,3,,4,86
-55041,cname cloaking blocker,xyzjkl,2021-01-01T01:50:47.229Z,3,,4,116
-62247,Auto update APK,SonicEP3,2021-06-10T15:32:27.852Z,3,,3,120
-64946,Themes,Tanmay10,2021-08-06T17:25:36.766Z,3,,1,35
-64425,Tabs | Autoclose Duplicate,Zalex108,2021-07-27T12:56:06.420Z,3,,1,37
-62424,Add another grid for Speed Dials,Veto88,2021-06-12T13:09:41.174Z,3,,2,58
-63585,Videos playing in background,noodlebike,2021-07-05T11:01:28.438Z,3,,1,31
-48326,Switch between tabs and tab menu switch,Ledenav,2020-06-20T10:29:00.783Z,3,,3,48
-62510,simulate ctrl+F5 with long tap on refresh icon,carlonike,2021-06-13T16:26:13.606Z,3,,1,26
-62425,UX correction,Veto88,2021-06-12T13:12:08.017Z,3,,1,33
-61311,Option to continue browsing the Website directly in the Redirect Browser In Redirect To Related Applications,earthquake,2021-05-20T05:42:29.137Z,3,,7,87
-61638,Vivaldi smartphone OS,siddharthjbaburaj,2021-05-28T22:22:25.831Z,3,,11,167
-55469,Top address bar UI suggestions (please remove bottom navigation bar),balachandarsmr,2021-01-14T05:11:57.708Z,3,,5,98
-61284,Download speed indicator is missed [Android],Cjcr,2021-05-19T12:37:15.688Z,3,,1,107
-60465,QR codes scanning  in private TABs  too.,newscpq,2021-05-02T10:54:56.445Z,3,,2,32
-60602,Vivaldi is missing from the Android's Web Search options,RammsteinAM,2021-05-04T13:04:39.819Z,3,,2,36
-59109,Set A Different/Custom New Tab Page,y0himba,2021-04-02T06:13:26.682Z,3,,3,35
-60154,User Scripts support,tverye,2021-04-27T13:27:21.044Z,3,,1,45
-57616,More rows for speed dial,zenonn67,2021-02-28T17:44:52.923Z,3,,3,50
-59269,"Download with" dialog,FabulousMythicalBird,2021-04-06T04:58:29.716Z,3,,3,45
-57070,Option in light theme to replace bright red tab background with a fixed pastel shade.,ScribeUK,2021-02-15T13:34:10.242Z,3,,2,16
-50645,Search tabs in switcher/ list view on Android,tij.gupta,2020-09-12T09:10:03.610Z,3,,2,30
-57605,Swiping vertically on bottom bar to brings up opened tabs,ehlimaide,2021-02-28T13:57:13.833Z,3,,2,42
-57151,Speed dial in private mode,OBC9HHuKoB,2021-02-17T13:56:26.574Z,3,,1,25
-55745,Dark Mode/Light Mode Timer / Scheduled Themes,ehlimaide,2021-01-21T16:21:18.228Z,3,,5,76
+52030,Adblock filter updates...,ahmetulusoy,2020-10-21T22:09:25.524Z,4,,1,33
+51776,Save to speed dial from context menu,obrcian,2020-10-16T08:47:30.148Z,4,,2,28
+49702,Adding an "Open in Vivaldi" share button in Android,anildeolalikar,2020-08-13T16:35:51.765Z,4,,1,22
+47526,Qwant as default engine?,ramdroid,2020-06-01T07:25:18.263Z,4,,13,245
+45955,Change the home button to url bar button.,EvilSpark,2020-04-22T11:47:57.084Z,4,,1,26
+42434,Make "tap to search" work with any search engine,madiso,2019-11-29T08:30:30.165Z,4,,1,43
+40803,insert from note,look90,2019-09-24T04:19:03.738Z,4,,2,42
+41271,*https everywhere* as a built-in flag,e.ninger,2019-10-09T12:43:41.909Z,4,,7,417
+40136,Tab switch by swiping from the edge,NogrtL,2019-09-10T15:12:58.863Z,4,TAB CYCLING:GESTURE,10,192
+40245,Extension's & option to change BG,Deniel,2019-09-12T09:04:51.002Z,4,,2,77
+40173,Separate default Private and Regular search engines,Innertuber40,2019-09-11T05:42:27.974Z,4,SEARCH ENGINES,1,46
+40162,The reading mode is not started by default.,Poto,2019-09-11T02:53:19.500Z,4,READER VIEW,1,46
+40071,Disable animation opening new tab,Melvidor,2019-09-09T19:27:39.860Z,4,ANIMATIONS,1,45
+37717,Access to history from all devices with grouping,MattSolo45,2019-05-27T18:33:43.886Z,4,SYNC:HISTORY,8,357
+69658,search button in settings,gamrbuoi3122,2021-12-09T05:19:23.071Z,3,,2,23
+69754,Cosmetic Filtering Vivaldi Android.,BlogMan,2021-12-10T09:47:04.373Z,3,,1,30
+69658,search button in settings,gamrbuoi3122,2021-12-09T05:19:23.071Z,3,,2,23
+69754,Cosmetic Filtering Vivaldi Android.,BlogMan,2021-12-10T09:47:04.373Z,3,,1,30
+64477,A way to disable Google AMP.,K129,2021-07-28T14:09:30.343Z,3,,4,79
+56614,Do not forget iOS version,Haldex,2021-02-07T08:40:20.910Z,3,,12,1113
+62247,Auto update APK,SonicEP3,2021-06-10T15:32:27.852Z,3,,3,131
+64946,Themes,Tanmay10,2021-08-06T17:25:36.766Z,3,,1,51
+64425,Tabs | Autoclose Duplicate,Zalex108,2021-07-27T12:56:06.420Z,3,,1,43
+64350,Tabs at the bottom in the tab overview,JustAhero,2021-07-25T12:58:43.452Z,3,,1,27
+48326,Switch between tabs and tab menu switch,Ledenav,2020-06-20T10:29:00.783Z,3,,3,54
+62510,simulate ctrl+F5 with long tap on refresh icon,carlonike,2021-06-13T16:26:13.606Z,3,,1,29
+62425,UX correction,Veto88,2021-06-12T13:12:08.017Z,3,,1,34
+61311,Option to continue browsing the Website directly in the Redirect Browser In Redirect To Related Applications,earthquake,2021-05-20T05:42:29.137Z,3,,7,91
+61638,Vivaldi smartphone OS,siddharthjbaburaj,2021-05-28T22:22:25.831Z,3,,11,169
+55469,Top address bar UI suggestions (please remove bottom navigation bar),balachandarsmr,2021-01-14T05:11:57.708Z,3,,5,105
+61284,Download speed indicator is missed [Android],Cjcr,2021-05-19T12:37:15.688Z,3,,1,138
+60465,QR codes scanning  in private TABs  too.,newscpq,2021-05-02T10:54:56.445Z,3,,2,34
+60154,User Scripts support,tverye,2021-04-27T13:27:21.044Z,3,,1,48
+60069,[Suggestion] Potential "Vivaldi Lite" app,supra107,2021-04-25T17:05:51.860Z,3,,3,59
+57070,Option in light theme to replace bright red tab background with a fixed pastel shade.,ScribeUK,2021-02-15T13:34:10.242Z,3,,2,17
+58091,✨ Pinned tabs for Vivaldi Android ✨,stardepp,2021-03-13T17:17:51.881Z,3,,3,96
+50260,Menu | Icons for extra options,Zalex108,2020-09-02T18:44:44.564Z,3,,6,83
+57691,Swipe menus,infosrefanvlad,2021-03-02T19:47:44.170Z,3,,1,33
+57616,More rows for speed dial,zenonn67,2021-02-28T17:44:52.923Z,3,,2,54
+57605,Swiping vertically on bottom bar to brings up opened tabs,ehlimaide,2021-02-28T13:57:13.833Z,3,,2,44
 56531,Functional pop-up blocker,andYisus13,2021-02-05T21:59:38.773Z,3,,1,18
 55620,Custom icon color on Android (not red!),Cron,2021-01-18T00:26:34.959Z,3,,1,18
-55307,QR Code Scanner Vivaldi Android with Share Function,stardepp,2021-01-09T16:37:10.608Z,3,,1,99
+55307,QR Code Scanner Vivaldi Android with Share Function,stardepp,2021-01-09T16:37:10.608Z,3,,1,105
 54617,Print to PDF from Reader Mode,SridharAnanthanarayanan,2020-12-18T05:33:03.125Z,3,,2,23
-54319,Separate offline pages folder,atomicloli,2020-12-12T11:02:18.221Z,3,,3,28
 53538,Print / Share from Simplified "Reader" View,Mattman,2020-11-27T16:28:32.695Z,3,,1,13
-53483,Add Adguard optimized filters in built-in lists,balachandarsmr,2020-11-27T00:00:42.281Z,3,,1,339
-53081,SpeedDial | [Option] Reflow text in two rows,Hadden89,2020-11-17T10:13:06.297Z,3,,5,38
-52929,Import Notes from Google Keep to Vivaldi cloud,abdellahb,2020-11-12T20:02:14.183Z,3,,6,54
-52966,Navigate back to Bookmark,KurtFill,2020-11-13T17:50:46.316Z,3,,1,17
-52810,📱 BookMarks | Soft Indicator,Zalex108,2020-11-09T12:02:58.829Z,3,,9,48
-52611,Capture visible area have two functions,Poto,2020-11-05T11:34:19.442Z,3,,1,25
+53483,Add Adguard optimized filters in built-in lists,balachandarsmr,2020-11-27T00:00:42.281Z,3,,1,822
+53393,Add open in background tab in speeddial,tw9,2020-11-25T15:32:25.651Z,3,,3,33
+53081,SpeedDial | [Option] Reflow text in two rows,Hadden89,2020-11-17T10:13:06.297Z,3,,5,39
+52929,Import Notes from Google Keep to Vivaldi cloud,abdellahb,2020-11-12T20:02:14.183Z,3,,6,66
+52810,📱 BookMarks | Soft Indicator,Zalex108,2020-11-09T12:02:58.829Z,3,,9,50
 50891,Option to select visible buttons on address bar,exefex,2020-09-19T08:37:07.218Z,3,,1,19
-48996,utilize ACTION_PROCESS_TEXT to add a search item in Android context menu,ssynhtn,2020-07-15T15:09:59.143Z,3,,1,22
-31551,Support for Amazon Kindle Fire,greybeard,2018-10-23T15:35:42.753Z,3,MOBILE,10,722
+48996,utilize ACTION_PROCESS_TEXT to add a search item in Android context menu,ssynhtn,2020-07-15T15:09:59.143Z,3,,1,24
+31551,Support for Amazon Kindle Fire,greybeard,2018-10-23T15:35:42.753Z,3,MOBILE,10,780
+48328,Tabs with half screen list view,Ledenav,2020-06-20T11:25:35.329Z,3,,2,36
 47774,'Find in page' often makes the page unreadable,Montiverdi,2020-06-08T11:21:56.228Z,3,,2,27
-47653,Skip Captchas using Trust Tokens / Privacy Pass,rjackdaw,2020-06-04T22:56:39.762Z,3,,1,26
-47393,Double tap to close tab [tab strip],Hadden89,2020-05-28T03:20:14.252Z,3,,4,55
-46310,Screen up and Screen Down Buttons,aspermont,2020-04-27T03:06:40.610Z,3,,3,42
-46084,Option for tiny text in address bar,LonM,2020-04-23T15:00:11.293Z,3,ADDRESS BAR,2,44
-40344,Image control,shoust,2019-09-13T13:56:59.330Z,3,,3,65
+47653,Skip Captchas using Trust Tokens / Privacy Pass,rjackdaw,2020-06-04T22:56:39.762Z,3,,1,28
+47393,Double tap to close tab [tab strip],Hadden89,2020-05-28T03:20:14.252Z,3,,4,57
+46310,Screen up and Screen Down Buttons,aspermont,2020-04-27T03:06:40.610Z,3,,2,47
+46629,Enable nicknames,jumpsq,2020-05-04T10:43:39.775Z,3,,1,21
+46084,Option for tiny text in address bar,LonM,2020-04-23T15:00:11.293Z,3,ADDRESS BAR,2,74
+40344,Image control,shoust,2019-09-13T13:56:59.330Z,3,,3,75
 46007,Redraw the shield icon in the address bar,Nekomajin,2020-04-22T19:23:44.429Z,3,,1,22
 45592,Tab sliding switch can cycle,Poto,2020-04-10T00:38:23.958Z,3,,1,23
-43664,Yubikey support,0xff0000,2020-01-23T23:13:50.758Z,3,,1,34
-42544,More intuitive UI for Android (suggestion),xoomerq,2019-12-05T23:50:29.424Z,3,,4,140
+45189,Video supports background playback,Poto,2020-03-25T02:38:29.547Z,3,,1,26
+43664,Yubikey support,0xff0000,2020-01-23T23:13:50.758Z,3,,1,62
+42544,More intuitive UI for Android (suggestion),xoomerq,2019-12-05T23:50:29.424Z,3,,4,142
 43136,Chromecast compatibility,Daithai,2019-12-30T16:27:39.286Z,3,,1,32
 42940,[Android] keep tap on tab  will open a new tab,nio04,2019-12-22T06:39:39.443Z,3,,6,74
-41271,*https everywhere* as a built-in flag,e.ninger,2019-10-09T12:43:41.909Z,3,,7,292
 40488,Synchronise site settings,PIERREV,2019-09-17T04:24:21.662Z,3,,4,74
 40119,Vivaldi SystemWebView,MattSolo45,2019-09-10T09:54:05.006Z,3,,3,118
-40130,Vertical Tab bar Menu,Hadden89,2019-09-10T12:13:17.426Z,3,,1,97
-40083,Too many taps to open bookmark/dial in the new tab,Stardust,2019-09-09T21:05:26.566Z,3,USER INTERFACE,1,52
-37437,Custom icons for thumbnails of speed dial.,MattSolo45,2019-05-16T16:52:52.181Z,3,SPEED DIAL,1,213
-31069,QR login system for Vivaldi.net like on Aliexpress.com,ROTFL,2018-10-09T21:31:46.464Z,3,MOBILE:LOGIN:QR CODES,3,596
-65435,When there will be note titles?,jyrto,2021-08-19T21:51:09.497Z,2,,4,54
-65435,When there will be note titles?,jyrto,2021-08-19T21:51:09.497Z,2,,4,54
-65016,Dark mode for Web Pages should follow Dark Theme setting!,theodoreippon,2021-08-08T10:44:29.287Z,2,,4,76
-56614,Do not forget iOS version,Haldex,2021-02-07T08:40:20.910Z,2,,9,579
-64575,Move option notification 'Show simplied view',Fa2,2021-07-30T10:22:06.864Z,2,,2,24
-64350,Tabs at the bottom in the tab overview,JustAhero,2021-07-25T12:58:43.452Z,2,,1,18
-64079,Scan QR code from gallery (images),orbit21,2021-07-17T19:01:57.281Z,2,,2,48
-48111,Remove ads by flagging,Ledenav,2020-06-15T17:36:26.746Z,2,,2,49
-63670,Password/biometric Private Browsing request,hari120,2021-07-07T13:52:28.357Z,2,,1,20
-63649,Option to choose tab switcher layout,davidgreen80,2021-07-07T00:26:25.632Z,2,,2,41
-63166,Disable tab stacking + open in tab stack,FabulousMythicalBird,2021-06-25T17:20:46.537Z,2,,2,44
-62328,Clear completed downloads from download history without deleting corresponding files.,Ery,2021-06-11T09:55:35.502Z,2,,1,29
-62246,An Android launcher,Jak2k,2021-06-10T15:23:47.743Z,2,,1,34
-61995,Themes on Android,leonard178,2021-06-08T16:18:06.107Z,2,,1,34
-60853,Play audio in a webpage with screen turned off,dhemp,2021-05-09T19:02:18.339Z,2,,3,43
-55742,Hide bookmarks in address bar suggestions,Baemir,2021-01-21T15:04:31.863Z,2,,2,34
-60069,[Suggestion] Potential "Vivaldi Lite" app,supra107,2021-04-25T17:05:51.860Z,2,,3,50
-59850,Expand edit link field,FabulousMythicalBird,2021-04-20T18:40:07.520Z,2,,2,19
+40060,Make Vivaldi for android a service to autofill passwords from other apps,jaibamon,2019-09-09T17:09:40.985Z,3,PASSWORDS,3,220
+40130,Vertical Tab bar Menu,Hadden89,2019-09-10T12:13:17.426Z,3,,1,103
+40083,Too many taps to open bookmark/dial in the new tab,Stardust,2019-09-09T21:05:26.566Z,3,USER INTERFACE,1,61
+38100,Support for desktop mode for Samsung Dex and Android Q and the next versions.,MattSolo45,2019-06-13T10:38:59.088Z,3,,1,214
+37437,Custom icons for thumbnails of speed dial.,MattSolo45,2019-05-16T16:52:52.181Z,3,SPEED DIAL,1,221
+31069,QR login system for Vivaldi.net like on Aliexpress.com,ROTFL,2018-10-09T21:31:46.464Z,3,MOBILE:LOGIN:QR CODES,3,634
+69241,Text reflow (yep I know this is a dup),lerudd,2021-12-02T23:47:12.445Z,2,,2,35
+69681,Share to Vivaldi on iOS,fabioromeo,2021-12-09T10:30:16.829Z,2,,3,40
+69241,Text reflow (yep I know this is a dup),lerudd,2021-12-02T23:47:12.445Z,2,,2,35
+69681,Share to Vivaldi on iOS,fabioromeo,2021-12-09T10:30:16.829Z,2,,3,40
+69604,homepage button between back and forward disable,Treap,2021-12-08T05:25:06.328Z,2,,4,35
+68960,Bottom address bar  inverted suggestion ranking,patso,2021-11-25T17:04:22.083Z,2,,2,45
+56682,More icons in share menu,OBC9HHuKoB,2021-02-08T14:48:10.956Z,2,,2,52
+68967,External app open link in vivaldi should ask if to use private mode or not,1Z0FPMeRD5I,2021-11-26T09:04:12.808Z,2,,1,19
+68495,Read aloud feature,leonard178,2021-11-11T16:08:07.224Z,2,,1,32
+68248,Phone's back button to close tab,Vivaldiino,2021-11-03T09:10:59.161Z,2,,3,31
+67554,Allow collapsing of folders when adding/editing bookmarks,WDSMobile,2021-10-14T12:23:46.663Z,2,BOOKMARKS,1,35
+60778,Option to choose behavior when closing tabs,paulojrmam,2021-05-07T20:47:13.089Z,2,,2,45
+66983,Manage Cookies,kirigeo06,2021-10-01T11:57:33.166Z,2,,3,50
+65977,Select text to "Private Search" in private tabs,maruume,2021-09-05T18:02:55.313Z,2,,1,19
+65435,When there will be note titles?,jyrto,2021-08-19T21:51:09.497Z,2,,4,57
+64575,Move option notification 'Show simplied view',Fa2,2021-07-30T10:22:06.864Z,2,,2,28
+62426,Bookmarks —> import / export,Veto88,2021-06-12T13:14:18.907Z,2,,2,49
+64124,A "Bookmarks" widget,gmanton,2021-07-18T22:12:06.218Z,2,,1,40
+64079,Scan QR code from gallery (images),orbit21,2021-07-17T19:01:57.281Z,2,,2,54
+48111,Remove ads by flagging,Ledenav,2020-06-15T17:36:26.746Z,2,,2,53
+63649,Option to choose tab switcher layout,davidgreen80,2021-07-07T00:26:25.632Z,2,,2,47
+63585,Videos playing in background,noodlebike,2021-07-05T11:01:28.438Z,2,,1,33
+63166,Disable tab stacking + open in tab stack,FabulousMythicalBird,2021-06-25T17:20:46.537Z,2,,2,55
+62986,[Request] Vivaldi for iOS!,Z3ROS1X,2021-06-21T18:10:41.606Z,2,,4,103
+62424,Add another grid for Speed Dials,Veto88,2021-06-12T13:09:41.174Z,2,,1,60
+62328,Clear completed downloads from download history without deleting corresponding files.,Ery,2021-06-11T09:55:35.502Z,2,,1,35
+62246,An Android launcher,Jak2k,2021-06-10T15:23:47.743Z,2,,1,36
+60853,Play audio in a webpage with screen turned off,dhemp,2021-05-09T19:02:18.339Z,2,,3,46
+60602,Vivaldi is missing from the Android's Web Search options,RammsteinAM,2021-05-04T13:04:39.819Z,2,,1,37
+60546,Show simplified view,FabulousMythicalBird,2021-05-03T14:37:06.743Z,2,,1,20
+55742,Hide bookmarks in address bar suggestions,Baemir,2021-01-21T15:04:31.863Z,2,,2,37
+59109,Set A Different/Custom New Tab Page,y0himba,2021-04-02T06:13:26.682Z,2,,2,48
 59594,Share with qr code on mobile,bkepps,2021-04-15T02:32:48.123Z,2,,1,20
-59543,Get notified from every notification of forums on Android notification panel,Abdolreza,2021-04-13T06:20:55.520Z,2,,1,9
 59440,History panel - Organise by site / domain,diaviva,2021-04-11T00:16:01.290Z,2,,2,12
-59029,Please integrate Xayn search,forumuser1,2021-03-31T13:46:36.526Z,2,,18,145
+59029,Please integrate Xayn search,forumuser1,2021-03-31T13:46:36.526Z,2,,18,199
 58494,Feature Request: V for Android settings page,greybeard,2021-03-20T18:47:13.747Z,2,,2,32
-57381,Move Start Page Layout options from vivaldi settings onto speeddial page as lever,Abdolreza,2021-02-22T12:00:39.405Z,2,,1,12
-48511,Open links in incognito mode,bavariancowboy,2020-06-25T21:15:01.717Z,2,,9,98
-54864,Remove white line between nav bar and toolbar  please,TheQuantumAlpha,2020-12-25T04:04:02.629Z,2,,5,63
-54833,Ad Blocker External,StartLight,2020-12-23T23:06:57.743Z,2,,6,59
+48511,Open links in incognito mode,bavariancowboy,2020-06-25T21:15:01.717Z,2,,9,150
+54833,Ad Blocker External,StartLight,2020-12-23T23:06:57.743Z,2,,6,61
+54864,Remove white line between nav bar and toolbar  please,TheQuantumAlpha,2020-12-25T04:04:02.629Z,2,,4,89
+54319,Separate offline pages folder,atomicloli,2020-12-12T11:02:18.221Z,2,,2,29
 54161,Add note shortcuts,Poto,2020-12-10T01:32:51.451Z,2,,1,14
-54132,Scrollable/Swipable main toolbar,Abdolreza,2020-12-09T16:23:53.111Z,2,,1,21
-54030,Move the downloads menu,NarukoNiceUser,2020-12-08T07:58:21.791Z,2,,2,27
-53995,Improve speeddial plus button please,Abdolreza,2020-12-07T13:47:51.537Z,2,,1,27
-53837,Support Sync for User custom settings,Abdolreza,2020-12-03T14:08:50.227Z,2,,1,16
-52811,📱Bookmarks | Parent Sign,Zalex108,2020-11-09T12:12:07.160Z,2,,6,38
-52456,(Option) Show sidebar button on v-menu,Hadden89,2020-11-01T23:32:25.668Z,2,,5,37
-52328,Multiple tab view like brave or chrome,souravchak008,2020-10-29T12:32:23.416Z,2,,3,116
-52327,Option to move the vivaldi menu to bottom toolbar,souravchak008,2020-10-29T12:07:34.421Z,2,,5,26
-52313,[edited] status/notification bar color change,patsang,2020-10-29T07:29:48.168Z,2,,1,12
-52278,Can we increase resolution of Speed Dial on Android?,nellaiseemai,2020-10-28T07:07:17.677Z,2,,7,33
+54132,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2020-12-09T16:23:53.111Z,2,,1,23
+53995,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2020-12-07T13:47:51.537Z,2,,1,28
+53837,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2020-12-03T14:08:50.227Z,2,,1,18
+52966,Navigate back to Bookmark,KurtFill,2020-11-13T17:50:46.316Z,2,,1,17
+52811,📱Bookmarks | Parent Sign,Zalex108,2020-11-09T12:12:07.160Z,2,,6,39
+52456,(Option) Show sidebar button on v-menu,Hadden89,2020-11-01T23:32:25.668Z,2,,5,46
+52611,Capture visible area have two functions,Poto,2020-11-05T11:34:19.442Z,2,,1,27
+52328,Multiple tab view like brave or chrome,souravchak008,2020-10-29T12:32:23.416Z,2,,3,178
+52327,Option to move the vivaldi menu to bottom toolbar,souravchak008,2020-10-29T12:07:34.421Z,2,,5,33
+52313,[edited] status/notification bar color change,patsang,2020-10-29T07:29:48.168Z,2,,1,18
+52278,Can we increase resolution of Speed Dial on Android?,nellaiseemai,2020-10-28T07:07:17.677Z,2,,7,38
 52198,Automatically changing or manual editing a file name and folder when saving ('Save As' advanced options),dodger,2020-10-26T03:55:07.076Z,2,,1,15
-51000,smaller search widget,sahands,2020-09-23T00:28:40.298Z,2,,6,44
-51296,Allow overriding PWA install during "add to home screen",liebezeit,2020-10-02T02:42:59.359Z,2,,3,44
-51592,Horizontal[Swipe up] close tabs,Pliex,2020-10-13T15:56:31.974Z,2,,1,20
-51187,Add quick toggles for night theme,walian21,2020-09-28T15:25:22.292Z,2,,3,17
+51000,smaller search widget,sahands,2020-09-23T00:28:40.298Z,2,,6,46
+51296,Allow overriding PWA install during "add to home screen",liebezeit,2020-10-02T02:42:59.359Z,2,,3,55
+51592,Horizontal[Swipe up] close tabs,Pliex,2020-10-13T15:56:31.974Z,2,,1,22
+51187,Add quick toggles for night theme,walian21,2020-09-28T15:25:22.292Z,2,,3,18
 50750,Long press address bar to copy URL instantly.,TheQuantumAlpha,2020-09-15T03:15:01.423Z,2,,1,16
-50655,Custom CSS / Userstyles for websites on Android,antoine.luboz,2020-09-12T12:01:46.355Z,2,,1,34
+50655,Custom CSS / Userstyles for websites on Android,antoine.luboz,2020-09-12T12:01:46.355Z,2,,1,48
 49812,Per site text scaling,Gort,2020-08-17T23:44:31.677Z,2,,1,15
-49562,Youtube/Video play even mobile screen lock,colabear,2020-08-09T03:52:23.294Z,2,,1,18
-48832,Small size speed dial optional,Gurmeetim,2020-07-08T09:18:22.431Z,2,,1,35
-47298,One-click toggle to disable sound on websites,Gort,2020-05-23T15:47:10.375Z,2,,2,25
-48341,Load the page when going back,Ledenav,2020-06-20T20:01:46.144Z,2,,1,14
+49562,Youtube/Video play even mobile screen lock,colabear,2020-08-09T03:52:23.294Z,2,,1,21
+47298,One-click toggle to disable sound on websites,Gort,2020-05-23T15:47:10.375Z,2,,2,26
+48341,Load the page when going back,Ledenav,2020-06-20T20:01:46.144Z,2,,1,15
 48244,Suggestions about the user interface.,Ouros,2020-06-18T14:05:33.189Z,2,,1,31
-47560,Heavy Pop-up blocker,callionifabio,2020-06-02T14:49:37.882Z,2,,4,60
-47045,Long press to open in background,Gurmeetim,2020-05-16T04:56:46.929Z,2,,3,34
+47560,Heavy Pop-up blocker,callionifabio,2020-06-02T14:49:37.882Z,2,,4,64
 46740,Share option for Vivaldi desktop Browser,knk040919,2020-05-07T07:23:59.755Z,2,,2,22
-46702,Minimum Changes To Ui,Gurmeetim,2020-05-06T11:12:04.233Z,2,,2,33
-46703,An option to prevent instant search on suggestion tap,elbahek,2020-05-06T11:56:41.706Z,2,,1,15
-42209,Disable search predictions,jumpsq,2019-11-16T22:57:58.774Z,2,,5,64
-46629,Enable nicknames,jumpsq,2020-05-04T10:43:39.775Z,2,,1,19
-46026,Delete Browsing Data as Easily as Desktop Version,RedBaron16,2020-04-23T00:43:04.181Z,2,,5,41
-45604,Instant clear button,scrutinizer,2020-04-10T10:21:08.617Z,2,,1,14
-45189,Video supports background playback,Poto,2020-03-25T02:38:29.547Z,2,,1,17
-44937,One-button picture-in-picture (PiP) with buttons like desktop,Poto,2020-03-15T15:20:56.458Z,2,PIC-IN-PIC,3,56
-45134,Privacy window allows features that affect user experience,Poto,2020-03-22T18:15:42.104Z,2,,5,65
+46703,An option to prevent instant search on suggestion tap,elbahek,2020-05-06T11:56:41.706Z,2,,1,18
+42209,Disable search predictions,jumpsq,2019-11-16T22:57:58.774Z,2,,5,67
+46026,Delete Browsing Data as Easily as Desktop Version,RedBaron16,2020-04-23T00:43:04.181Z,2,,5,52
+45604,Instant clear button,scrutinizer,2020-04-10T10:21:08.617Z,2,,1,15
+44937,One-button picture-in-picture (PiP) with buttons like desktop,Poto,2020-03-15T15:20:56.458Z,2,PIC-IN-PIC,3,76
+45134,Privacy window allows features that affect user experience,Poto,2020-03-22T18:15:42.104Z,2,,5,70
 44885,Added time sorting filter for notes,Poto,2020-03-13T18:48:17.617Z,2,,2,17
 44546,Open all links and other sites in 1 (same) tab,pointofview,2020-02-29T10:44:20.811Z,2,,1,31
-44444,Option for displaying individual tabs as apps in androids native app switcher,saturnfig,2020-02-25T00:07:36.149Z,2,,1,17
-44317,Autoclose SD Tabs,Zalex108,2020-02-19T12:01:04.719Z,2,,7,38
-42436,Make tab overview bottom bar more consistent,madiso,2019-11-29T10:12:01.226Z,2,,2,67
-43466,Tab switcher one row and home button,Lucaboox,2020-01-14T18:28:59.556Z,2,,1,23
+44317,Autoclose SD Tabs,Zalex108,2020-02-19T12:01:04.719Z,2,,7,39
+42436,Make tab overview bottom bar more consistent,madiso,2019-11-29T10:12:01.226Z,2,,2,73
+43466,Tab switcher one row and home button,Lucaboox,2020-01-14T18:28:59.556Z,2,,1,25
 43325,Ui Requests.,venetin,2020-01-08T21:53:31.218Z,2,,2,50
 43209,Full screen,Redrooster99,2020-01-02T19:03:02.987Z,2,,1,29
-41899,Bookmarks can search for folders,Poto,2019-11-05T03:20:49.754Z,2,,2,29
-41166,Search widget opacity,Nekomajin,2019-10-04T15:16:25.948Z,2,,3,34
-40557,Search Feature like Firefox about Using Other Search Engine,kyu3a,2019-09-18T14:07:40.578Z,2,,4,132
-40396,Share function not yet everywhere,stardepp,2019-09-14T17:39:42.452Z,2,,2,50
+42064,Why removing the "share to desktop" feature ?,antoine.luboz,2019-11-10T11:38:54.504Z,2,,2,70
+41899,Bookmarks can search for folders,Poto,2019-11-05T03:20:49.754Z,2,,2,30
+41166,Search widget opacity,Nekomajin,2019-10-04T15:16:25.948Z,2,,3,43
+40804,remove tab bar in tablet version,look90,2019-09-24T04:23:25.001Z,2,,0,52
+40731,Add separate "edit mode" for Speed Dial,ROTFL,2019-09-22T07:32:45.647Z,2,,1,36
+40557,Search Feature like Firefox about Using Other Search Engine,kyu3a,2019-09-18T14:07:40.578Z,2,,4,148
+40396,Share function not yet everywhere,stardepp,2019-09-14T17:39:42.452Z,2,,2,52
 40135,Separate Widget for opening Private Browser Window,Slashpepper,2019-09-10T15:07:04.448Z,2,,1,26
-40093,Fast forward button on mobile,sirfredrick,2019-09-10T00:36:43.748Z,2,,5,67
-38100,Support for desktop mode for Samsung Dex and Android Q and the next versions.,MattSolo45,2019-06-13T10:38:59.088Z,2,,1,197
+40093,Fast forward button on mobile,sirfredrick,2019-09-10T00:36:43.748Z,2,,5,69
+69842,Add to speed dial shortcut.,stojanovic,2021-12-12T15:42:19.888Z,1,,1,28
+69666,Accordion Tab Stacking in Vivaldi Mobile [FEATURE REQUEST],SaranSDS008,2021-12-09T06:58:07.002Z,1,,1,21
+69842,Add to speed dial shortcut.,stojanovic,2021-12-12T15:42:19.888Z,1,,1,28
+69666,Accordion Tab Stacking in Vivaldi Mobile [FEATURE REQUEST],SaranSDS008,2021-12-09T06:58:07.002Z,1,,1,21
+69523,Reopen Closed Tab,laceystinson,2021-12-06T19:34:29.527Z,1,,6,44
+69529,Recent history only as favicons  no text anymore,niko83,2021-12-06T21:14:34.875Z,1,,1,15
+69437,Option to hide the tab stack bar in landscape mode,habusan,2021-12-05T11:01:02.534Z,1,,1,22
+69313,Round corners disabling,Treap,2021-12-03T15:43:58.177Z,1,,1,20
+61405,Print dialog/preview enable and disable,balabany,2021-05-22T08:14:54.871Z,1,,5,51
+68878,Speed Dial in Private mode,at09,2021-11-23T00:14:06.523Z,1,,1,33
+68644,Adding a suggestion to the search field without text selection,YevgenyVasylenko,2021-11-16T05:26:51.251Z,1,,4,50
+68333,Tab Stack Toolbar and Tab Bar at Same Time,JackBonhomie,2021-11-06T09:55:09.122Z,1,,1,31
+68157,Option to place Speed Dial to bottom,vichumvk,2021-10-31T13:49:51.504Z,1,,2,39
+68155,HIDE Add New Speed Dial,vichumvk,2021-10-31T13:46:55.868Z,1,,1,28
+67537,Add option to specify source language for translate page functionality,IevgenSobko,2021-10-14T07:08:28.761Z,1,,1,13
+61346,Metamask support on mobile,jadit2,2021-05-20T19:52:28.018Z,1,,2,65
+65986,I hope to add baidu.com search engine,zhanghongxun,2021-09-06T02:11:24.443Z,1,SEARCH ENGINES,3,98
+66887,customize the menu bar that appears after clicking on the vivaldi icon,Poto,2021-09-28T16:15:24.022Z,1,,1,34
+65984,Webmail Panel for Mobile Browser,HyggeJack,2021-09-06T00:41:13.787Z,1,,1,41
+65772,Live tiles as widgets for websites,aadil545454,2021-08-30T05:44:54.085Z,1,,1,22
 65729,Data Saver Mode is Needed,meggrain,2021-08-28T15:35:57.105Z,1,,0,13
-64940,Support for ChromeOS,vkk178,2021-08-06T12:26:05.627Z,1,,5,82
-65472,Mobile interface should look more like PC,lavender29,2021-08-20T23:13:39.823Z,1,,2,45
-65393,Vivaldi for Android/Google TV,fred8615,2021-08-18T19:15:59.492Z,1,,6,73
-65729,Data Saver Mode is Needed,meggrain,2021-08-28T15:35:57.105Z,1,,0,13
-64940,Support for ChromeOS,vkk178,2021-08-06T12:26:05.627Z,1,,5,82
-65472,Mobile interface should look more like PC,lavender29,2021-08-20T23:13:39.823Z,1,,2,45
-65393,Vivaldi for Android/Google TV,fred8615,2021-08-18T19:15:59.492Z,1,,6,73
-65369,Background playback feature,Manjnder,2021-08-18T02:46:17.138Z,1,,1,44
-58258,Hide history and bookmark suggestion option!,EmperorDante,2021-03-17T11:19:56.414Z,1,,3,83
-64976,Capture active window!,lockrol,2021-08-07T10:26:23.941Z,1,,9,80
-64896,Add option to disable theme colors,AndiLeni,2021-08-05T13:34:15.815Z,1,,2,26
-64601,Move more options contextmenu into HOME button icon tool position on toolbar,Abdolreza,2021-07-30T22:29:05.471Z,1,,1,30
-64574,Suppress popup informing popup blocked,Fa2,2021-07-30T10:16:42.610Z,1,,4,34
-62426,Bookmarks —> import / export,Veto88,2021-06-12T13:14:18.907Z,1,,2,34
-64351,No history saved in normal mode,JustAhero,2021-07-25T13:07:49.066Z,1,,1,18
-64144,Show a site's search entries below it's own search-bar,spectre19,2021-07-19T11:20:41.478Z,1,,1,26
-64124,A "Bookmarks" widget,gmanton,2021-07-18T22:12:06.218Z,1,,1,33
-64104,Req. Simple gesture to jump to top of page,RedViv,2021-07-18T13:31:27.872Z,1,,1,23
-64053,Bug : Pressing back button inside a bookmark folder directly closes the panel,abhishekmj303,2021-07-17T01:26:30.479Z,1,,1,25
+65557,"Search with Google Lens" when long press image,hkdoublecat,2021-08-24T00:26:31.168Z,1,,1,101
+64940,Support for ChromeOS,vkk178,2021-08-06T12:26:05.627Z,1,,5,131
+65393,Vivaldi for Android/Google TV,fred8615,2021-08-18T19:15:59.492Z,1,,6,93
+65369,Background playback feature,Manjnder,2021-08-18T02:46:17.138Z,1,,1,64
+58258,Hide history and bookmark suggestion option!,EmperorDante,2021-03-17T11:19:56.414Z,1,,3,102
+64976,Capture active window!,lockrol,2021-08-07T10:26:23.941Z,1,,9,88
+64973,shortcut to add directly to speed dail,lockrol,2021-08-07T09:54:46.769Z,1,,2,21
+64896,Add option to disable theme colors,AndiLeni,2021-08-05T13:34:15.815Z,1,,2,31
+64601,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-07-30T22:29:05.471Z,1,,1,34
+64574,Suppress popup informing popup blocked,Fa2,2021-07-30T10:16:42.610Z,1,,4,36
+64351,No history saved in normal mode,JustAhero,2021-07-25T13:07:49.066Z,1,,1,22
+64104,Req. Simple gesture to jump to top of page,RedViv,2021-07-18T13:31:27.872Z,1,,1,27
+64053,Bug : Pressing back button inside a bookmark folder directly closes the panel,abhishekmj303,2021-07-17T01:26:30.479Z,1,,1,35
 63826,No checkbox for desktop view on a new tab,FabulousMythicalBird,2021-07-10T10:04:04.324Z,1,,4,32
-63584,Reader Mode Button In Menu Bar,noodlebike,2021-07-05T10:58:05.901Z,1,,1,21
+63584,Reader Mode Button In Menu Bar,noodlebike,2021-07-05T10:58:05.901Z,1,,1,24
+63575,Save web page as MHTML file to the path I want,aqsh,2021-07-05T03:32:14.595Z,1,,1,36
 63141,Visit website directly from password manager,Zuenonentu,2021-06-25T09:09:20.537Z,1,,1,20
-62905,Feature parity with desktop?,paulcoholic,2021-06-19T23:44:11.411Z,1,,9,112
-62957,Focus scroll tab bar on current tab  not new ones,AlesPG,2021-06-21T08:10:59.249Z,1,,3,35
-62986,[Request] Vivaldi for iOS!,Z3ROS1X,2021-06-21T18:10:41.606Z,1,,4,71
-62784,Feature request - 4 Requests,anujkmr953,2021-06-17T19:41:38.408Z,1,,1,32
-51738,Option to Disable in-browser "Tab Closed" Notification,haleakalari,2020-10-15T21:12:52.173Z,1,,2,40
-62647,Customized number of columns in speed dial page,belenus,2021-06-15T13:41:08.168Z,1,,1,17
-62601,Option to prevent links from opening in a new tab,kaqqao,2021-06-14T22:30:00.466Z,1,,1,17
-62423,Add sorting of bookmarks by date ascending and descending,Veto88,2021-06-12T13:07:24.112Z,1,,1,18
-62090,Address bar at the bottom while preserving navigation buttons,ValorZero,2021-06-09T16:52:24.919Z,1,,1,33
+62957,Focus scroll tab bar on current tab  not new ones,AlesPG,2021-06-21T08:10:59.249Z,1,,3,36
+62784,Feature request - 4 Requests,anujkmr953,2021-06-17T19:41:38.408Z,1,,1,33
+51738,Option to Disable in-browser "Tab Closed" Notification,haleakalari,2020-10-15T21:12:52.173Z,1,,2,41
+62647,Customized number of columns in speed dial page,belenus,2021-06-15T13:41:08.168Z,1,,1,18
+62601,Option to prevent links from opening in a new tab,kaqqao,2021-06-14T22:30:00.466Z,1,,1,18
+62423,Add sorting of bookmarks by date ascending and descending,Veto88,2021-06-12T13:07:24.112Z,1,,1,19
+62090,Address bar at the bottom while preserving navigation buttons,ValorZero,2021-06-09T16:52:24.919Z,1,,1,34
 61944,Distribution of uploaded files into categories.,Endorf1n,2021-06-07T08:33:54.753Z,1,,1,16
-61691,Opening links in external apps,joeybui,2021-05-30T14:57:26.332Z,1,,1,36
-61688,Download progress in Private,PapaFranku,2021-05-30T14:39:11.148Z,1,,1,21
-61405,Print dialog/preview enable and disable,balabany,2021-05-22T08:14:54.871Z,1,,4,41
-61346,Metamask support on mobile,jadit2,2021-05-20T19:52:28.018Z,1,,1,36
-61223,Stop loading gesture,user_unknown,2021-05-17T19:22:14.044Z,1,,1,24
-61131,Splash screen when launching the app,TheQuantumAlpha,2021-05-15T14:28:47.159Z,1,,1,39
-61126,The desktop mode of the menu bar and the swap position added to the screen,Poto,2021-05-15T11:51:04.497Z,1,,1,21
+61701,iPad,HSchulien,2021-05-30T22:33:00.448Z,1,,3,68
+61691,Opening links in external apps,joeybui,2021-05-30T14:57:26.332Z,1,,1,46
+61688,Download progress in Private,PapaFranku,2021-05-30T14:39:11.148Z,1,,1,23
+61223,Stop loading gesture,user_unknown,2021-05-17T19:22:14.044Z,1,,1,28
+61131,Splash screen when launching the app,TheQuantumAlpha,2021-05-15T14:28:47.159Z,1,,1,40
+61126,The desktop mode of the menu bar and the swap position added to the screen,Poto,2021-05-15T11:51:04.497Z,1,,1,24
 42045,share from pocket to Vivaldi notes,grwkremilek,2019-11-09T19:12:08.171Z,1,,2,66
 60823,Colorize Reload Animation ♺,Zalex108,2021-05-08T19:45:54.722Z,1,,1,27
-60551,Tab bar on top when adress bar in bottom,FabulousMythicalBird,2021-05-03T15:11:06.893Z,1,,1,22
+60551,Tab bar on top when adress bar in bottom,FabulousMythicalBird,2021-05-03T15:11:06.893Z,1,,1,24
 60195,Добавьте поддержку расширений интернет-магазина Chrome.,AnVeA,2021-04-28T11:26:53.120Z,1,,2,20
-60187,Option to hide address bar on scroll,Axo20,2021-04-28T09:29:12.920Z,1,,5,40
-60002,Bookmarks. Folder creation made simple,3mme,2021-04-24T05:28:46.919Z,1,,3,19
-59935,Extracting all NOTES as in one pdf or docs,Abdolreza,2021-04-22T15:06:43.839Z,1,,1,16
-59908,Upgrade Side bar menu for mobile devices version2.0,Abdolreza,2021-04-22T08:11:45.120Z,1,,1,15
-52514,JavaScript ON/OFF switch button ("Vivaldi Supershield" mode on Mobile),SerGom,2020-11-03T05:41:08.686Z,1,,9,165
-59486,Bookmarks search box on speed dial page,Abdolreza,2021-04-11T19:55:52.977Z,1,,5,46
-59664,Another view of opened sites,Rusal,2021-04-16T07:04:28.491Z,1,,7,31
-59546,In ALL TABS add MULTIPLE SELECTED option to...,Abdolreza,2021-04-13T06:54:28.911Z,1,,1,10
-59542,Refresh All Tabs request,Abdolreza,2021-04-13T05:32:38.564Z,1,,1,8
+60187,Option to hide address bar on scroll,Axo20,2021-04-28T09:29:12.920Z,1,,5,63
+60002,Bookmarks. Folder creation made simple,3mme,2021-04-24T05:28:46.919Z,1,,2,19
+59935,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-04-22T15:06:43.839Z,1,,1,18
+59908,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-04-22T08:11:45.120Z,1,,1,21
+59850,Expand edit link field,FabulousMythicalBird,2021-04-20T18:40:07.520Z,1,,1,19
+59486,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-04-11T19:55:52.977Z,1,,3,49
+59546,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-04-13T06:54:28.911Z,1,,1,11
+59543,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-04-13T06:20:55.520Z,1,,1,10
+59542,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-04-13T05:32:38.564Z,1,,1,11
 59472,Return "open in new tab",FabulousMythicalBird,2021-04-11T14:46:12.079Z,1,,1,11
-59293,Ask me always option for External Download Manger,preetranjan,2021-04-06T17:02:36.751Z,1,,2,19
-59208,Block specific websites by domain,Zaryan,2021-04-04T18:32:07.916Z,1,,3,52
+59293,Ask me always option for External Download Manger,preetranjan,2021-04-06T17:02:36.751Z,1,,2,23
+59208,Block specific websites by domain,Zaryan,2021-04-04T18:32:07.916Z,1,,3,58
 59413,I wish "allowed apps to open",vicphos,2021-04-09T21:59:32.177Z,1,,2,27
-59372,show all current opened pages on bookmarks via OPENED and numbers,Abdolreza,2021-04-08T19:01:30.768Z,1,,1,8
+59372,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-04-08T19:01:30.768Z,1,,1,9
 59171,Auto send logs option,Fannste94,2021-04-03T14:55:29.568Z,1,,3,25
-58807,Option to send page link from phone to desktop,crys28,2021-03-26T13:46:47.943Z,1,,5,44
-58664,Side-bar pie controls,DeltaSingh,2021-03-24T06:01:48.635Z,1,,1,27
-58549,Customizing default fonts setting for webpage,nowy08,2021-03-21T21:39:19.089Z,1,,1,19
-58091,✨ Pinned tabs for Vivaldi Android ✨,stardepp,2021-03-13T17:17:51.881Z,1,,3,55
+58807,Option to send page link from phone to desktop,crys28,2021-03-26T13:46:47.943Z,1,,5,58
+58664,Side-bar pie controls,DeltaSingh,2021-03-24T06:01:48.635Z,1,,1,56
 57444,Capture page in simplified view,baranumut,2021-02-24T05:57:50.060Z,1,,1,15
+57381,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-02-22T12:00:39.405Z,1,,1,14
 56970,Error Reporting and Add on,Harshapeace,2021-02-14T17:39:09.947Z,1,,1,8
-56682,More icons in share menu,OBC9HHuKoB,2021-02-08T14:48:10.956Z,1,,1,20
-56245,Bitdefender support for Vivaldi browser,bartek1000,2021-01-31T23:05:22.458Z,1,,2,38
-56165,Cardboard VR Mode,clejunsu,2021-01-30T13:55:32.872Z,1,,1,20
-56118,New Speed Dial Tab creation,Stardust,2021-01-29T17:59:59.213Z,1,,1,21
-55964,Selectable and copyable text in links context menu,pokemn,2021-01-27T15:02:34.468Z,1,,7,38
-42579,Samsung pass,viclef,2019-12-07T19:16:54.064Z,1,PASSWORD MANAGER,3,77
-55546,Add ability to modify URL when using "Add to home screen",damianesteves,2021-01-15T21:39:59.555Z,1,,1,14
-55530,Suggest remove 2 items [New tab] and [New private tab] in V-Menu,Baolikedilac,2021-01-15T15:56:53.285Z,1,,1,32
+56245,Bitdefender support for Vivaldi browser,bartek1000,2021-01-31T23:05:22.458Z,1,,2,50
+56165,Cardboard VR Mode,clejunsu,2021-01-30T13:55:32.872Z,1,,1,24
+56118,New Speed Dial Tab creation,Stardust,2021-01-29T17:59:59.213Z,1,,1,23
+55964,Selectable and copyable text in links context menu,pokemn,2021-01-27T15:02:34.468Z,1,,7,40
+42579,Samsung pass,viclef,2019-12-07T19:16:54.064Z,1,PASSWORD MANAGER,2,100
+55546,Add ability to modify URL when using "Add to home screen",damianesteves,2021-01-15T21:39:59.555Z,1,,1,15
+55530,Suggest remove 2 items [New tab] and [New private tab] in V-Menu,Baolikedilac,2021-01-15T15:56:53.285Z,1,,1,35
 42498,Frisian Language,ytsma,2019-12-03T09:35:53.023Z,1,,2,62
-55039,Add An Option To Automatically Close Tabs After A Certain Period Of Time,xyzjkl,2021-01-01T01:32:14.616Z,1,,4,24
-55036,A hand button,xyzjkl,2021-01-01T01:25:58.315Z,1,,1,17
-54995,Improve dark mode unstead of page action.,Gurmeetim,2020-12-30T08:43:27.331Z,1,,1,27
-54970,Opening external links in the browser.,D3ZOXY,2020-12-29T06:39:00.023Z,1,,1,25
-54754,create page flip effect when reading articles in the browser,ErialdoRamosConsorcio,2020-12-21T19:43:24.326Z,1,,1,14
-53940,Improve Add Speeddial folder into Speeddial bar as Favourites,Abdolreza,2020-12-05T18:22:02.369Z,1,,1,22
-53854,ADD "Close All Tabs" in popup list,Abdolreza,2020-12-03T19:27:42.344Z,1,,1,14
-53761,(Option) show video controls for webm and gifs,ScifiOne,2020-12-01T21:57:18.383Z,1,,5,75
-53682,IMPROVE longpressing menu on a Speed Dial Folder,Abdolreza,2020-11-30T09:02:41.953Z,1,,1,18
-53603,Select multiple & select All in speeddial,Abdolreza,2020-11-28T23:32:31.690Z,1,,1,18
+55039,Add An Option To Automatically Close Tabs After A Certain Period Of Time,xyzjkl,2021-01-01T01:32:14.616Z,1,,4,25
+54030,Move the downloads menu,NarukoNiceUser,2020-12-08T07:58:21.791Z,1,,1,32
+53940,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2020-12-05T18:22:02.369Z,1,,1,23
+53886,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2020-12-04T12:49:58.711Z,1,,1,16
+53854,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2020-12-03T19:27:42.344Z,1,,1,15
+53761,(Option) show video controls for webm and gifs,ScifiOne,2020-12-01T21:57:18.383Z,1,,5,91
+53682,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2020-11-30T09:02:41.953Z,1,,1,26
+53603,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2020-11-28T23:32:31.690Z,1,,1,20
 53535,Add "Share To" option in Android,PacketHauler,2020-11-27T16:01:26.906Z,1,,1,21
-53267,Cycle through tabs using volume buttons,madonnaragu,2020-11-23T11:15:31.747Z,1,,1,10
-53112,video Downloader button,Lorddragonj,2020-11-18T08:41:29.110Z,1,,1,22
-52918,Quick search tile,antoine.luboz,2020-11-12T14:29:03.175Z,1,,1,16
+53267,Cycle through tabs using volume buttons,madonnaragu,2020-11-23T11:15:31.747Z,1,,1,14
+53188,Include option for "show bookmark bar" for large screen devices such as tablet,sudonose,2020-11-20T14:23:44.743Z,1,,1,10
+53112,video Downloader button,Lorddragonj,2020-11-18T08:41:29.110Z,1,,1,25
+52918,Quick search tile,antoine.luboz,2020-11-12T14:29:03.175Z,1,,1,17
 52917,Different search engine for private mode and regular mode on mobile,antoine.luboz,2020-11-12T14:23:18.153Z,1,,1,13
-52881,Notes | Allow to rename them,Hadden89,2020-11-11T14:06:35.729Z,1,,1,25
+52881,Notes | Allow to rename them,Hadden89,2020-11-11T14:06:35.729Z,1,,1,26
 52417,Support for iPad,FloridaMatt,2020-10-31T18:15:13.336Z,1,,1,18
-52250,"Close all tabs" undo button,ChimeraLove,2020-10-27T11:39:20.302Z,1,,1,9
+52250,"Close all tabs" undo button,ChimeraLove,2020-10-27T11:39:20.302Z,1,,1,10
 52022,Clearing links from redirects and advertising parameters,tverye,2020-10-21T16:18:26.713Z,1,,1,15
-51919,Have notes in Vivaldi mobile include attachment's URL,Starr88,2020-10-19T16:24:06.743Z,1,,1,19
 51808,Erase privacy data when closing browser,Andromath,2020-10-16T20:26:54.020Z,1,,1,20
 51240,Floating vertical action bar,glx,2020-09-30T07:26:21.371Z,1,,1,14
 51208,Add a easy to find 'History and cache clear' option.,SartazRahi,2020-09-29T03:29:47.917Z,1,,1,9
 51036,Swipe to open Bookmarks,Stardust,2020-09-23T23:18:46.903Z,1,,1,16
 50975,Share image address directly,sirien.neiris,2020-09-22T09:33:19.532Z,1,,1,18
-50825,Dark | Blue Mode,Zalex108,2020-09-17T08:41:06.151Z,1,,1,20
 46926,Respect systemwide text scaling,zakius,2020-05-12T11:18:28.342Z,1,,3,32
-50606,How about an option for a rounded address bar  like in the demo I made below?,TheQuantumAlpha,2020-09-11T07:49:22.070Z,1,,7,61
+50606,How about an option for a rounded address bar  like in the demo I made below?,TheQuantumAlpha,2020-09-11T07:49:22.070Z,1,,7,62
 49752,Touch ring navigation,Anubiz32,2020-08-15T12:53:09.353Z,1,,1,13
-49437,Reduce the font size in some parts of UI or use icons,jdranver,2020-08-05T05:05:24.240Z,1,,1,19
-49200,Speed Dial Navigation with Android's Buttons,ChimeraLove,2020-07-25T20:36:19.541Z,1,,1,18
+49437,Reduce the font size in some parts of UI or use icons,jdranver,2020-08-05T05:05:24.240Z,1,,1,21
+49200,Speed Dial Navigation with Android's Buttons,ChimeraLove,2020-07-25T20:36:19.541Z,1,,1,19
 49179,Vivaldi video player,Chrisbiun,2020-07-24T18:25:37.071Z,1,,1,19
-48955,add reload and back  button to line with address bar,mhandze,2020-07-13T16:31:17.080Z,1,,7,99
+48955,add reload and back  button to line with address bar,mhandze,2020-07-13T16:31:17.080Z,1,,7,142
 48858,Dont hide tab and adress bar option in settings,Malayash22,2020-07-09T18:28:00.792Z,1,,1,17
-48469,Open the link with the Share Key in Vivaldi,Ledenav,2020-06-24T20:24:33.896Z,1,,5,25
-48112,Adding a new search engine,Ledenav,2020-06-15T17:46:51.398Z,1,,3,48
+48469,Open the link with the Share Key in Vivaldi,Ledenav,2020-06-24T20:24:33.896Z,1,,5,26
+48112,Adding a new search engine,Ledenav,2020-06-15T17:46:51.398Z,1,,3,53
 48318,For blocked content Counter,Ledenav,2020-06-20T06:34:05.402Z,1,,3,32
-48319,Tab menu closes after closing the last tab,Ledenav,2020-06-20T06:38:35.382Z,1,,1,12
+48319,Tab menu closes after closing the last tab,Ledenav,2020-06-20T06:38:35.382Z,1,,1,16
 48084,Add Note and Note Folder to Homescreen,jtid,2020-06-15T08:00:31.803Z,1,,1,15
-48076,Tiling Tabs on Android App,Fezito,2020-06-14T22:04:48.939Z,1,,1,32
-47792,Close browser when the last tab is closed,rodrigoswz,2020-06-08T18:14:57.989Z,1,,1,17
-43485,disable search from address bar,kalkahn,2020-01-15T22:26:50.904Z,1,,6,50
-46964,Prevent tabs reload on return,dayveeys,2020-05-13T10:55:53.070Z,1,,2,18
-46632,Show Simplified View Popup Under V button On Top Right,Gurmeetim,2020-05-04T11:09:05.025Z,1,,1,17
+48076,Tiling Tabs on Android App,Fezito,2020-06-14T22:04:48.939Z,1,,1,49
+47792,Close browser when the last tab is closed,rodrigoswz,2020-06-08T18:14:57.989Z,1,,1,18
+43485,disable search from address bar,kalkahn,2020-01-15T22:26:50.904Z,1,,6,51
+47024,Removing Tabs in tablet mode,Anubiz32,2020-05-15T13:49:06.383Z,1,,2,20
+46964,Prevent tabs reload on return,dayveeys,2020-05-13T10:55:53.070Z,1,,2,20
 46407,Bookmarks grouped with Speed Dial,Raizok,2020-04-29T00:43:49.759Z,1,,1,16
-46270,Translate popup on First Attempt,Gurmeetim,2020-04-26T08:09:32.353Z,1,,1,18
-42004,Private Mode with password setting and separate tabs,MattSolo45,2019-11-08T11:16:11.911Z,1,,2,53
-46023,Please add a function like Autopagerize or Pagezipper.,barbudo2005,2020-04-22T23:56:49.924Z,1,,1,13
-45956,Print page,artpoetryfiction,2020-04-22T11:51:48.912Z,1,,1,12
+42004,Private Mode with password setting and separate tabs,MattSolo45,2019-11-08T11:16:11.911Z,1,,2,54
+46023,Please add a function like Autopagerize or Pagezipper.,barbudo2005,2020-04-22T23:56:49.924Z,1,,1,15
+45969,master password / fingerprint or face to unlock it,yigit,2020-04-22T14:22:20.090Z,1,,1,22
+45956,Print page,artpoetryfiction,2020-04-22T11:51:48.912Z,1,,1,14
 45366,Give a permanent button that can be used to access URL Bar without going back to new tab.,EvilSpark,2020-04-01T06:41:25.020Z,1,,1,15
 45182,snapshot for Android does not support External web search,Poto,2020-03-24T20:54:26.925Z,1,,1,20
-44102,I want old tab switcher design,brian21st,2020-02-12T14:20:09.223Z,1,,4,68
+44102,I want old tab switcher design,brian21st,2020-02-12T14:20:09.223Z,1,,4,77
 44903,Repositioning of bars/buttons to sides  font size for URL/omnibar,LogicDaemon,2020-03-14T07:45:25.387Z,1,,2,27
 44901,Bottom bar should reduce page view height,LogicDaemon,2020-03-14T07:37:49.554Z,1,,2,16
 44013,Search suggestions,sungmin7062,2020-02-08T09:19:47.434Z,1,,1,17
-36631,Respect system wide font size settings,zakius,2019-04-17T12:21:05.534Z,1,,2,127
+36631,Respect system wide font size settings,zakius,2019-04-17T12:21:05.534Z,1,,2,128
 43730,disable refresh on swipe down,kalkahn,2020-01-26T17:48:25.732Z,1,,1,11
-43615,Vivaldi для Андроид ТВ,foxifox,2020-01-22T09:36:44.534Z,1,,1,12
-43502,stop page load,kalkahn,2020-01-16T15:27:06.386Z,1,,2,19
-43252,Sync open tabs' history,jhammers,2020-01-05T14:20:53.950Z,1,,1,15
+43615,Vivaldi для Андроид ТВ,foxifox,2020-01-22T09:36:44.534Z,1,,1,16
+43502,stop page load,kalkahn,2020-01-16T15:27:06.386Z,1,,2,25
+43252,Sync open tabs' history,jhammers,2020-01-05T14:20:53.950Z,1,,1,17
 42857,Android Wallpapers,fabiodesousa,2019-12-19T13:49:20.651Z,1,,1,33
-42705,Option to add bookmark shortcut (not just add to homescreen),mtnight,2019-12-13T08:38:53.012Z,1,,1,52
-42302,Disable spell check popup,Komposten,2019-11-21T17:30:02.657Z,1,,4,98
-42196,Download all images on page,mRkukov,2019-11-15T19:15:27.570Z,1,,1,47
-42064,Why removing the "share to desktop" feature ?,antoine.luboz,2019-11-10T11:38:54.504Z,1,,2,69
+42705,Option to add bookmark shortcut (not just add to homescreen),mtnight,2019-12-13T08:38:53.012Z,1,,1,72
+42302,Disable spell check popup,Komposten,2019-11-21T17:30:02.657Z,1,,4,107
+42196,Download all images on page,mRkukov,2019-11-15T19:15:27.570Z,1,,1,71
 41745,Slide to seek on videos,fsc,2019-10-31T12:28:47.100Z,1,,1,23
 41558,Option to focus address bar and show keyboard on new tab,valiowk,2019-10-22T05:39:43.332Z,1,,1,20
-41335,Speed reader (/Speed reading) function for Simplified view,sirien.neiris,2019-10-12T12:48:23.249Z,1,,1,74
-40794,Double tap to quick-close tabs in tab overview,krabbel,2019-09-23T20:05:51.457Z,1,,3,42
-40758,zoom override option,ncdmr,2019-09-23T07:16:14.214Z,1,,2,41
-40731,Add separate "edit mode" for Speed Dial,ROTFL,2019-09-22T07:32:45.647Z,1,,1,35
-40460,Acces Notes 1 click away not 2 as it currently stands,colombiacanada,2019-09-16T14:16:49.100Z,1,NOTES,1,25
-40452,Make browsing experience same as Vivaldi for PC,stilgarwolf,2019-09-16T10:00:05.602Z,1,,3,90
-40060,Make Vivaldi for android a service to autofill passwords from other apps,jaibamon,2019-09-09T17:09:40.985Z,1,PASSWORDS,3,168
-40189,Option to disable direct download.,deppigiu,2019-09-11T11:08:53.862Z,1,DOWNLOADS,1,33
-40172,More Payment Options,Innertuber40,2019-09-11T05:34:21.686Z,1,,1,33
-40166,Provide an option to turn off the notification bar to turn off all private tabs,Poto,2019-09-11T03:01:21.412Z,1,PRIVACY:NOTIFICATIONS:TABS,2,32
-40169,Show and highlight URL on address bar tap,madiso,2019-09-11T04:12:12.539Z,1,,2,145
-40131,Speed Dial Selection Positions order by frequency of most visited,Hankers1946,2019-09-10T12:14:53.666Z,1,,2,49
-40104,Option to set bookmark bar folder,Joe633,2019-09-10T06:43:13.405Z,1,BOOKMARKS,4,52
-38432,Vivaldi Mobile for KaiOS,MattSolo45,2019-06-25T18:42:37.653Z,1,,2,153
-37611,The mobile keyboard application from Vivaldi,MattSolo45,2019-05-23T09:50:57.571Z,1,MOBILE:KEYBOARD,1,179
-65772,Live tiles as widgets for websites,aadil545454,2021-08-30T05:44:54.085Z,0,,1,9
-65728,Data saver mode,meggrain,2021-08-28T15:32:08.441Z,0,,0,13
-65557,"Search with Google Lens" when long press image,hkdoublecat,2021-08-24T00:26:31.168Z,0,,1,26
-65510,Allow viewing of saved passwords without screen lock,abdellahb,2021-08-22T09:43:07.877Z,0,,1,19
-65498,Make PROFILE main panel at upper left side of vivaldi corner,Abdolreza,2021-08-21T17:52:53.077Z,0,,1,22
-65419,Simulate "Exit" with closing of app,nickbucciere,2021-08-19T14:01:36.011Z,0,,2,38
-65772,Live tiles as widgets for websites,aadil545454,2021-08-30T05:44:54.085Z,0,,1,9
-65728,Data saver mode,meggrain,2021-08-28T15:32:08.441Z,0,,0,13
-65557,"Search with Google Lens" when long press image,hkdoublecat,2021-08-24T00:26:31.168Z,0,,1,26
-65510,Allow viewing of saved passwords without screen lock,abdellahb,2021-08-22T09:43:07.877Z,0,,1,19
-65498,Make PROFILE main panel at upper left side of vivaldi corner,Abdolreza,2021-08-21T17:52:53.077Z,0,,1,22
-65419,Simulate "Exit" with closing of app,nickbucciere,2021-08-19T14:01:36.011Z,0,,2,38
-65385,Option to close all tabs on exit,anstapa,2021-08-18T15:04:55.186Z,0,,5,67
+41335,Speed reader (/Speed reading) function for Simplified view,sirien.neiris,2019-10-12T12:48:23.249Z,1,,1,75
+40794,Double tap to quick-close tabs in tab overview,krabbel,2019-09-23T20:05:51.457Z,1,,3,43
+40758,zoom override option,ncdmr,2019-09-23T07:16:14.214Z,1,,2,45
+40460,Acces Notes 1 click away not 2 as it currently stands,colombiacanada,2019-09-16T14:16:49.100Z,1,NOTES,1,43
+40452,Make browsing experience same as Vivaldi for PC,stilgarwolf,2019-09-16T10:00:05.602Z,1,,3,91
+40189,Option to disable direct download.,deppigiu,2019-09-11T11:08:53.862Z,1,DOWNLOADS,1,56
+40172,More Payment Options,Innertuber40,2019-09-11T05:34:21.686Z,1,,1,36
+40166,Provide an option to turn off the notification bar to turn off all private tabs,Poto,2019-09-11T03:01:21.412Z,1,PRIVACY:NOTIFICATIONS:TABS,2,56
+40169,Show and highlight URL on address bar tap,madiso,2019-09-11T04:12:12.539Z,1,,2,147
+40131,Speed Dial Selection Positions order by frequency of most visited,Hankers1946,2019-09-10T12:14:53.666Z,1,,2,51
+40104,Option to set bookmark bar folder,Joe633,2019-09-10T06:43:13.405Z,1,BOOKMARKS,4,87
+38432,Vivaldi Mobile for KaiOS,MattSolo45,2019-06-25T18:42:37.653Z,1,,2,159
+37611,The mobile keyboard application from Vivaldi,MattSolo45,2019-05-23T09:50:57.571Z,1,MOBILE:KEYBOARD,1,200
+69919,Search function for History,hyperlive77,2021-12-14T10:22:55.825Z,0,,3,16
+69923,Hide tab bar on tablets,crossLain,2021-12-14T11:28:58.078Z,0,,1,25
+69889,Close every tab from same domain,Halvid,2021-12-13T17:19:49.411Z,0,,1,15
+69779,Hide '+' buttons on tab bars by user setting  |  '+'-Schaltflächen auf Tab-Leisten ausblenden durch Benutzer-Einstellung,johnnyGitar,2021-12-10T19:34:32.246Z,0,,1,14
+69773,Minimum tab width by user setting   |   Minimale Tab-Breite durch Benutzer-Einstellung,johnnyGitar,2021-12-10T17:23:24.125Z,0,,1,16
+69733,Vivaldi themes,yash4k,2021-12-10T03:51:02.705Z,0,,1,27
+69663,android 12 style one handed,gamrbuoi3122,2021-12-09T05:53:33.120Z,0,,2,21
+69661,startpage renovation,gamrbuoi3122,2021-12-09T05:25:39.417Z,0,,2,24
+69662,animations at/ from bottom,gamrbuoi3122,2021-12-09T05:35:52.721Z,0,,1,11
+69919,Search function for History,hyperlive77,2021-12-14T10:22:55.825Z,0,,3,16
+69923,Hide tab bar on tablets,crossLain,2021-12-14T11:28:58.078Z,0,,1,25
+69889,Close every tab from same domain,Halvid,2021-12-13T17:19:49.411Z,0,,1,15
+69779,Hide '+' buttons on tab bars by user setting  |  '+'-Schaltflächen auf Tab-Leisten ausblenden durch Benutzer-Einstellung,johnnyGitar,2021-12-10T19:34:32.246Z,0,,1,14
+69773,Minimum tab width by user setting   |   Minimale Tab-Breite durch Benutzer-Einstellung,johnnyGitar,2021-12-10T17:23:24.125Z,0,,1,16
+69733,Vivaldi themes,yash4k,2021-12-10T03:51:02.705Z,0,,1,27
+69663,android 12 style one handed,gamrbuoi3122,2021-12-09T05:53:33.120Z,0,,2,21
+69661,startpage renovation,gamrbuoi3122,2021-12-09T05:25:39.417Z,0,,2,24
+69662,animations at/ from bottom,gamrbuoi3122,2021-12-09T05:35:52.721Z,0,,1,11
+69572,Bottom address bar miss some menu compare to top address bar,ForteD,2021-12-07T13:44:15.000Z,0,,1,26
+69568,Tablet force mobile view,ForteD,2021-12-07T12:21:45.073Z,0,,2,23
+69413,Option to disable country code auto-fill,ThatOneFungi,2021-12-05T00:44:02.730Z,0,,1,6
+69411,option to disable double-tapping on a paragraph for Accessibility Settings,kento,2021-12-04T22:03:14.161Z,0,,1,9
+69396,Select menu inconsistency,VulishaVivaldi,2021-12-04T16:16:58.364Z,0,,1,11
+69395,Option to set open in background/stack tab as first option,VulishaVivaldi,2021-12-04T16:10:56.816Z,0,,1,10
+69319,Swipe up on bottom address bar should not open tab switcher,Mrxyzl,2021-12-03T16:25:29.552Z,0,,1,7
+69207,Désactiver les sites Google AMP,sebastienbb16,2021-12-02T15:57:37.777Z,0,,1,9
+69093,[Feature Request] About Synced Items and Passwords Menu,gaga33,2021-11-30T02:44:43.239Z,0,,4,54
+69027,When editing a bookmark  the directory tree must be collapsed by default,inFlowiaLab,2021-11-28T09:22:37.830Z,0,,1,17
+68935,Notify about new update when opening browser,lockrol,2021-11-25T02:54:10.358Z,0,,1,17
+68895,Open in new tab option for speed dials when holding them. An option to save all open tabs.,PhenomenalZJ,2021-11-23T18:18:00.801Z,0,,1,18
+68812,Logged-in website translation,abdellahb,2021-11-21T07:11:50.715Z,0,,1,21
+68687,Add features like Chameleon Extension,MrSinor,2021-11-17T14:34:17.624Z,0,,1,43
+68415,Add an option like "Clear all data and close all tabs on exit".,Evendi,2021-11-09T10:07:59.469Z,0,,2,30
+68412,Make Website icons larger when the option to display icons on tabs instead of website name is selected,TechboyDexe,2021-11-09T06:36:40.548Z,0,,1,18
+68267,Install App option for all websites,lockrol,2021-11-03T20:01:15.344Z,0,,1,21
+68253,Close the tab and the new tab will open to right,Vivaldiino,2021-11-03T11:31:56.362Z,0,,1,20
+68249,Select the text and search with search engine,Vivaldiino,2021-11-03T09:34:24.606Z,0,,1,15
+68220,DELETED,Abdolreza,2021-11-02T14:15:29.936Z,0,,1,40
+68197,Support Unified Push,Steerider,2021-11-02T04:44:40.227Z,0,NOTIFICATIONS,1,31
+68161,Customizable menu items.,vichumvk,2021-10-31T13:56:52.831Z,0,,1,31
+68160,Single Button for Close All Tabs,vichumvk,2021-10-31T13:54:25.776Z,0,,1,26
+68158,Vivaldi button to bottom,vichumvk,2021-10-31T13:51:55.236Z,0,,1,36
+68118,Instagram post preview on forums,lordjesus,2021-10-30T11:31:06.133Z,0,,2,80
+68037,News,alifachridho,2021-10-28T06:19:20.568Z,0,,1,36
+67984,手机端增加搜索引擎自定义，,mahuaer,2021-10-26T11:49:52.466Z,0,,1,24
+67940,an option to disable address bar swipe gesture,vdrandom,2021-10-25T14:08:47.150Z,0,,1,29
+67878,Vivaldi  ANDRIOD Cookie White list or Granular Cookie Management feature request,vermillian,2021-10-23T14:54:48.481Z,0,,1,13
+67877,Vivaldi  ANDRIOD Cookie White list or Granular Cookie Management feature request,vermillian,2021-10-23T14:44:46.026Z,0,,0,14
+67840,Tasker Integration for Dark Mode for Web Pages,andrew.peters88,2021-10-22T11:02:07.346Z,0,,1,28
+67829,SATTA | MATKA | SATTAMATKA | KALYAN RESULT | MONA BAZAR,satta,2021-10-22T06:49:06.618Z,0,,1,9
+66124,Show only tabs in the active tab stack in tab bar,iuvenis,2021-09-10T10:28:25.666Z,0,,8,132
+67845,Remove Tab Bar in tablet version,look90,2021-10-22T12:37:18.929Z,0,TABLET:TAB BAR,6,123
+67796,Hide Tab Bar,tipping,2021-10-21T08:41:09.572Z,0,,0,27
+67714,Adjust the size of fonts when zooming,5tr1x,2021-10-19T14:39:03.624Z,0,,1,17
+67693,Make iOS version on 3rd party appstore,Thescorb0,2021-10-19T01:34:24.717Z,0,,3,66
+67673,Speed dial icon size (I'd like to be able resize them smaller).,mgboarder,2021-10-18T13:11:41.495Z,0,,1,13
+67500,Option to remove QR scanner button from the search widget,Hims333,2021-10-13T07:13:35.491Z,0,,1,18
+66801,Lite App Support for Vivaldi Mobile,schmebi,2021-09-26T09:43:59.480Z,0,,4,85
+67149,Open in a new tab from speed dial,panosdk,2021-10-05T22:11:05.114Z,0,,1,22
+66837,Option for reading mode and open in app,lockrol,2021-09-27T13:00:33.848Z,0,,5,78
+66074,Dark Mode Theme more accessible,ChimeraLove,2021-09-08T23:01:41.782Z,0,,1,49
+65976,Select text to "Private Search" in private tabs,yuyasuzuki,2021-09-05T17:40:28.029Z,0,,1,21
+65833,Please add touch effect to speed dial and bookmarks,cxyjordan,2021-08-31T18:26:54.089Z,0,,1,26
+65728,Data saver mode,meggrain,2021-08-28T15:32:08.441Z,0,,0,14
+65510,Allow viewing of saved passwords without screen lock,abdellahb,2021-08-22T09:43:07.877Z,0,,1,22
+65498,DELETED,Abdolreza,2021-08-21T17:52:53.077Z,0,,1,27
+65472,Mobile interface should look more like PC,lavender29,2021-08-20T23:13:39.823Z,0,,2,57
+65419,Simulate "Exit" with closing of app,nickbucciere,2021-08-19T14:01:36.011Z,0,,2,40
+65385,Option to close all tabs on exit,anstapa,2021-08-18T15:04:55.186Z,0,,5,119
 65306,free virtual sms number,pvapins,2021-08-16T05:40:48.029Z,0,,1,8
-65112,Swiping on toolbar to show tabs isn't working.,lockrol,2021-08-10T13:12:07.930Z,0,,3,60
-65094,Please make notes and calendar for mobile that can be sync with the desktop version,rustiklopp,2021-08-10T05:49:44.467Z,0,,3,47
-65059,It took three minutes to make a comment.,wanglongtao,2021-08-09T09:58:40.696Z,0,,1,27
-64973,shortcut to add directly to speed dail,lockrol,2021-08-07T09:54:46.769Z,0,,2,15
-64953,MetaMask extension support on Android,jadit2,2021-08-06T21:39:43.909Z,0,,1,39
-64917,New PANELS options,Abdolreza,2021-08-05T20:35:33.614Z,0,,1,27
-64803,where is Qr-code reader option on Address bar,Abdolreza,2021-08-03T18:59:48.932Z,0,,12,76
+65094,Please make notes and calendar for mobile that can be sync with the desktop version,rustiklopp,2021-08-10T05:49:44.467Z,0,,3,59
+65059,It took three minutes to make a comment.,wanglongtao,2021-08-09T09:58:40.696Z,0,,1,29
+64953,MetaMask extension support on Android,jadit2,2021-08-06T21:39:43.909Z,0,,1,56
+64917,DELETED,Abdolreza,2021-08-05T20:35:33.614Z,0,,1,54
 64848,bookmarking  bottom bar,mrfe,2021-08-04T13:22:27.057Z,0,,1,20
 64847,No bright/clear background selectable,niko83,2021-08-04T12:54:35.136Z,0,,1,15
-64841,vivaldi does not support capture Full page properly good,Abdolreza,2021-08-04T11:48:28.656Z,0,,1,20
-64827,Sync app settings.,Kreuzberg36,2021-08-04T07:42:38.362Z,0,,2,21
-64637,Remove speeddial page,Abdolreza,2021-07-31T14:53:25.939Z,0,,3,55
-64436,Night mode with eye protection function,ItsenkoTimur,2021-07-27T18:42:32.988Z,0,,3,46
-64648,Longpress on more option instead of Tapping,Abdolreza,2021-07-31T17:34:51.322Z,0,,1,20
-64499,New feature anti popup,ToroLoco94,2021-07-28T19:23:53.868Z,0,,7,113
-64477,A way to disable Google AMP.,K129,2021-07-28T14:09:30.343Z,0,,3,41
-64437,Add Vivaldi Browser to Eset Mobile Security for Phishing Protection,ItsenkoTimur,2021-07-27T18:51:17.366Z,0,,1,24
-64431,Add feature to convert amp sites to html sites,iamthelara,2021-07-27T17:55:27.471Z,0,,1,19
-63879,Features  extensions and more :),Eriquin,2021-07-11T22:21:14.622Z,0,,1,53
-63818,Vivaldi Button's Position Flexibility,spectre19,2021-07-10T04:50:44.706Z,0,,3,54
-63747,copy text into a desire/Default FOLDER,Abdolreza,2021-07-08T19:33:52.835Z,0,,1,22
+64841,DELETED,Abdolreza,2021-08-04T11:48:28.656Z,0,,1,26
+64827,Sync app settings.,Kreuzberg36,2021-08-04T07:42:38.362Z,0,,2,23
+64637,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-07-31T14:53:25.939Z,0,,3,65
+64436,Night mode with eye protection function,ItsenkoTimur,2021-07-27T18:42:32.988Z,0,,3,52
+64648,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-07-31T17:34:51.322Z,0,,1,26
+64499,New feature anti popup,ToroLoco94,2021-07-28T19:23:53.868Z,0,,7,128
+64437,Add Vivaldi Browser to Eset Mobile Security for Phishing Protection,ItsenkoTimur,2021-07-27T18:51:17.366Z,0,,1,29
+64431,Add feature to convert amp sites to html sites,iamthelara,2021-07-27T17:55:27.471Z,0,,1,24
+63879,Features  extensions and more :),Eriquin,2021-07-11T22:21:14.622Z,0,,1,54
+63747,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-07-08T19:33:52.835Z,0,,1,24
 63596,Partnership with Flipkart,User1user1,2021-07-05T14:21:42.026Z,0,,1,15
-63182,Lite mode,Adam990,2021-06-26T02:34:20.181Z,0,,5,96
-63575,Save web page as MHTML file to the path I want,aqsh,2021-07-05T03:32:14.595Z,0,,1,27
-63559,fullscreen not margin,kimgh2117,2021-07-04T20:20:00.594Z,0,,1,22
-63435,Bug: Bottom panel disappears when type. Can't swipe between tabs,FabulousMythicalBird,2021-07-01T17:17:08.499Z,0,,2,25
+63182,Lite mode,Adam990,2021-06-26T02:34:20.181Z,0,,5,110
+63559,fullscreen not margin,kimgh2117,2021-07-04T20:20:00.594Z,0,,1,23
+63435,Bug: Bottom panel disappears when type. Can't swipe between tabs,FabulousMythicalBird,2021-07-01T17:17:08.499Z,0,,2,30
 63130,YouTube video playback problem,Adam990,2021-06-24T19:27:34.822Z,0,,1,30
 63091,Tab stacker is not useful for some,Adam990,2021-06-24T01:16:45.635Z,0,,1,21
-63023,mobile browser: masquerade as desktop browser,anteroh,2021-06-22T12:29:18.048Z,0,,8,98
-62610,Option to hide search engine selection bar,eonwe,2021-06-15T01:13:20.986Z,0,,3,41
-62940,In this scrsht support create NewFolder,Abdolreza,2021-06-20T21:43:04.422Z,0,,1,18
-62864,Notification panel bleaches when open a new tab,FabulousMythicalBird,2021-06-19T09:27:10.256Z,0,,2,34
+63023,mobile browser: masquerade as desktop browser,anteroh,2021-06-22T12:29:18.048Z,0,,11,127
+62610,Option to hide search engine selection bar,eonwe,2021-06-15T01:13:20.986Z,0,,3,42
+62940,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-06-20T21:43:04.422Z,0,,1,20
+62864,Notification panel bleaches when open a new tab,FabulousMythicalBird,2021-06-19T09:27:10.256Z,0,,2,36
 62814,Theme store and back and forward Button etc. Changeable to Pictures!,sebbi,2021-06-18T09:58:28.179Z,0,,1,21
-62729,Build for X86 Android Variant,YsPan,2021-06-16T17:52:33.329Z,0,,1,25
-62371,External download manager,digvijaysrivastava9,2021-06-11T20:26:30.038Z,0,,1,38
-62308,Configuration Editor for Vivaldi,balabany,2021-06-11T06:39:51.040Z,0,,1,23
-61942,Custom Default Start Page Accent Color,zachray00,2021-06-07T03:39:41.050Z,0,,2,35
-61701,iPad,HSchulien,2021-05-30T22:33:00.448Z,0,,3,58
-61430,Add Vivaldi to the "search with" list,termel,2021-05-22T15:39:10.895Z,0,,7,69
-61589,voice input,Endorf1n,2021-05-27T17:11:44.970Z,0,,1,19
+62729,Build for X86 Android Variant,YsPan,2021-06-16T17:52:33.329Z,0,,1,26
+62371,External download manager,digvijaysrivastava9,2021-06-11T20:26:30.038Z,0,,1,44
+62308,Configuration Editor for Vivaldi,balabany,2021-06-11T06:39:51.040Z,0,,1,24
+61942,Custom Default Start Page Accent Color,zachray00,2021-06-07T03:39:41.050Z,0,,2,36
+61430,Add Vivaldi to the "search with" list,termel,2021-05-22T15:39:10.895Z,0,,7,70
+61589,voice input,Endorf1n,2021-05-27T17:11:44.970Z,0,,1,22
 60850,Auto Translate,ZENYOSHIN,2021-05-09T16:43:58.724Z,0,,4,71
-61449,Managing search engines in Vivaldi snapshot,Endorf1n,2021-05-23T10:43:28.068Z,0,,1,25
+61449,Managing search engines in Vivaldi snapshot,Endorf1n,2021-05-23T10:43:28.068Z,0,,1,26
 61407,VPN  economics of mobile traffic and page translation,Endorf1n,2021-05-22T08:28:48.086Z,0,,7,48
 61281,my feedback,Voko6503,2021-05-19T10:31:12.027Z,0,,7,65
-61235,Cloud tabs management,rikuriku,2021-05-18T08:01:38.619Z,0,,4,39
-61231,Add "Add page to white list" directly under the Vivaldi button,mikewin,2021-05-18T02:40:53.799Z,0,,3,44
-60719,Remove default search engines and add own.,FabulousMythicalBird,2021-05-06T15:41:27.326Z,0,,6,86
+61235,Cloud tabs management,rikuriku,2021-05-18T08:01:38.619Z,0,,4,43
+61231,Add "Add page to white list" directly under the Vivaldi button,mikewin,2021-05-18T02:40:53.799Z,0,,3,45
+60719,Remove default search engines and add own.,FabulousMythicalBird,2021-05-06T15:41:27.326Z,0,,6,89
 60758,Pine64,R0B,2021-05-07T12:58:11.829Z,0,,4,65
-60718,Any flag to hide "+" on speeddial?,FabulousMythicalBird,2021-05-06T15:37:37.973Z,0,,9,116
-60912,Force a website to open in desktop mode,numal,2021-05-10T23:15:20.106Z,0,,2,37
-60791,Zoom/scale videos,SheikhAzharuddin,2021-05-08T05:31:50.215Z,0,,1,25
-60778,Option to choose behavior when closing tabs,paulojrmam,2021-05-07T20:47:13.089Z,0,,1,25
-60717,Add "Share to devices" on Android,louismorel,2021-05-06T15:18:04.118Z,0,,6,65
-60616,Add homescreen shortcut for anything,AC9BX,2021-05-04T18:35:15.949Z,0,,2,32
-60546,Show simplified view,FabulousMythicalBird,2021-05-03T14:37:06.743Z,0,,1,16
-60013,Cookie dialogue blocker (like opera touch),Pandorino,2021-04-24T10:26:56.176Z,0,,4,60
-60145,Request Same theme for Android Tablets please,Abdolreza,2021-04-27T10:50:26.638Z,0,,1,13
-60139,My experience  vivaldi on s20 plus android 11,AboutBrowser,2021-04-27T09:01:44.671Z,0,,1,38
-60120,Add GT tools icon on text editor tools icon,Abdolreza,2021-04-26T20:12:09.986Z,0,,1,11
+60718,Any flag to hide "+" on speeddial?,FabulousMythicalBird,2021-05-06T15:37:37.973Z,0,,9,119
+60912,Force a website to open in desktop mode,numal,2021-05-10T23:15:20.106Z,0,,2,40
+60791,Zoom/scale videos,SheikhAzharuddin,2021-05-08T05:31:50.215Z,0,,1,30
+60717,Add "Share to devices" on Android,louismorel,2021-05-06T15:18:04.118Z,0,,6,69
+60616,Add homescreen shortcut for anything,AC9BX,2021-05-04T18:35:15.949Z,0,,2,47
+60013,Cookie dialogue blocker (like opera touch),Pandorino,2021-04-24T10:26:56.176Z,0,,3,62
+60145,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-04-27T10:50:26.638Z,0,,1,15
+60139,My experience  vivaldi on s20 plus android 11,AboutBrowser,2021-04-27T09:01:44.671Z,0,,1,59
+60120,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-04-26T20:12:09.986Z,0,,1,13
 60052,Save bookmarks with selection option,Dancer18,2021-04-25T09:02:24.966Z,0,,8,41
-59927,Change android icon colour,EbrahimLodi,2021-04-22T13:12:39.880Z,0,,30,169
-59925,Tab switcher,EbrahimLodi,2021-04-22T13:10:24.795Z,0,,3,49
-59940,Support 120hz on oneplus devices please,ngabi05,2021-04-22T15:55:44.505Z,0,,1,23
-59869,Add SideBar Menu for Tablet Devices Ver1.0,Abdolreza,2021-04-21T09:19:49.247Z,0,,1,26
-59856,In Edit Bookmark please Add an Searchbox,Abdolreza,2021-04-21T02:33:39.368Z,0,,1,14
-59806,Feature to collapsing expanding vivaldi notifications,Abdolreza,2021-04-19T19:14:05.411Z,0,,1,13
-59572,About update Vivaldi's servers On Wednesday 14th of April at 9 am UTC,Abdolreza,2021-04-13T22:34:16.421Z,0,,3,40
-58508,Allowed apps or website in issue notification,Abdolreza,2021-03-21T03:55:31.023Z,0,,3,23
-59453,Copy image address,FabulousMythicalBird,2021-04-11T08:03:46.898Z,0,,3,16
-59393,Unable Copying url from address bar as decrypted,Abdolreza,2021-04-09T11:34:09.903Z,0,,1,8
-59298,Keep speeddial page folder or subfolder open in last visited on next time we open new tab,Abdolreza,2021-04-06T18:17:03.233Z,0,,1,9
-59270,Auto clearing download notifications by closing the tab page,Abdolreza,2021-04-06T05:31:27.728Z,0,,1,7
-59194,Save some/all tabs to bookmarks,linqu,2021-04-04T07:43:09.819Z,0,,1,8
+59927,Change android icon colour,EbrahimLodi,2021-04-22T13:12:39.880Z,0,,21,184
+59925,Tab switcher,EbrahimLodi,2021-04-22T13:10:24.795Z,0,,3,63
+59940,Support 120hz on oneplus devices please,ngabi05,2021-04-22T15:55:44.505Z,0,,1,45
+59869,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-04-21T09:19:49.247Z,0,,1,28
+59856,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-04-21T02:33:39.368Z,0,,1,15
+59806,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-04-19T19:14:05.411Z,0,,1,15
+59664,Another view of opened sites,Rusal,2021-04-16T07:04:28.491Z,0,,4,31
+59572,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-04-13T22:34:16.421Z,0,,3,41
+58508,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-03-21T03:55:31.023Z,0,,3,24
+59393,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-04-09T11:34:09.903Z,0,,1,9
+59298,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-04-06T18:17:03.233Z,0,,1,10
+59270,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-04-06T05:31:27.728Z,0,,1,8
+59194,Save some/all tabs to bookmarks,linqu,2021-04-04T07:43:09.819Z,0,,1,9
 59193,Send many/all tabs,linqu,2021-04-04T07:39:39.270Z,0,,1,14
-58848,colors for tabs in dark mode,FabulousMythicalBird,2021-03-27T10:22:54.237Z,0,,1,16
-58806,Option to disable "search-ready omnibox",0x5c,2021-03-26T13:19:14.452Z,0,,2,100
-58756,Customize Font Size for Websites,myronandez,2021-03-25T18:48:35.635Z,0,,1,19
-58542,Adblock feature for youtube,int512,2021-03-21T19:15:54.048Z,0,,25,347
-58326,longpress on new Tab plus button >add "Bookmark All" & "Recent Tabs" & Close All,Abdolreza,2021-03-18T06:05:17.819Z,0,,1,6
-58154,Option to show page scroll bar at left or right,Abdolreza,2021-03-15T16:08:04.457Z,0,,1,12
-58136,Open multiple speed dials at once,Abdolreza,2021-03-15T08:15:12.314Z,0,,1,15
-58085,Share button for type field / text edit selection context menu,OBC9HHuKoB,2021-03-13T13:10:34.112Z,0,,1,11
-58009,Do not clear sunsubmitted address bar when switching tabs,goulashsoup,2021-03-11T14:44:58.583Z,0,,1,12
-57933,COPY LINK TEXT & SEARCH Option request,Abdolreza,2021-03-09T20:46:59.835Z,0,,1,14
-57923,how can remove or add needed icons in Address bar,Abdolreza,2021-03-09T13:35:11.007Z,0,,1,13
-56711,Customisable Context menu,OBC9HHuKoB,2021-02-09T08:13:10.864Z,0,,6,59
-46288,Customisable Keyboard shortcuts,RobA,2020-04-26T12:48:28.003Z,0,,6,43
+58848,colors for tabs in dark mode,FabulousMythicalBird,2021-03-27T10:22:54.237Z,0,,1,17
+58806,Option to disable "search-ready omnibox",0x5c,2021-03-26T13:19:14.452Z,0,,2,134
+58542,Adblock feature for youtube,int512,2021-03-21T19:15:54.048Z,0,,25,761
+58326,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-03-18T06:05:17.819Z,0,,1,7
+58154,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-03-15T16:08:04.457Z,0,,1,14
+58136,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-03-15T08:15:12.314Z,0,,1,18
+58085,Share button for type field / text edit selection context menu,OBC9HHuKoB,2021-03-13T13:10:34.112Z,0,,1,15
+58009,Do not clear sunsubmitted address bar when switching tabs,goulashsoup,2021-03-11T14:44:58.583Z,0,,1,13
+57933,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-03-09T20:46:59.835Z,0,,1,16
+57923,how can remove or add needed icons in Address bar,Abdolreza,2021-03-09T13:35:11.007Z,0,,1,14
+56711,Customisable Context menu,OBC9HHuKoB,2021-02-09T08:13:10.864Z,0,,6,71
+46288,Customisable Keyboard shortcuts,RobA,2020-04-26T12:48:28.003Z,0,,6,47
 57749,Full page option,Sdeshwjack,2021-03-04T16:45:38.436Z,0,,1,12
 57676,Notes renaming do not sync,jyrto,2021-03-02T13:37:23.295Z,0,,1,14
 57672,Vivaldi OS for smartphones,C2A,2021-03-02T13:10:13.911Z,0,,2,23
-57662,Copy file download links are not supported,nttwqz,2021-03-02T08:26:07.314Z,0,,1,17
-57383,Support immediate accessing to navigation page options by predicting an long pressing menu on a opened Tab,Abdolreza,2021-02-22T12:37:11.498Z,0,,1,10
-56974,support Run USSD commands and even dialing phone numbers in Address bar,Abdolreza,2021-02-14T19:23:05.884Z,0,,4,21
-56975,support accessing file manager in Address bar,Abdolreza,2021-02-14T19:27:30.548Z,0,,3,22
-56890,Please add a confirmation dialog to the Delete Note button.,aoisensi,2021-02-12T22:58:36.623Z,0,,2,11
-56846,Move and replace Refresh&Stop   Download Page  AddTo buttons on navigation bar..,Abdolreza,2021-02-11T21:26:55.249Z,0,,1,13
-56783,Search engine icons,OBC9HHuKoB,2021-02-10T18:36:41.375Z,0,,1,19
+57662,Copy file download links are not supported,nttwqz,2021-03-02T08:26:07.314Z,0,,1,18
+57383,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-02-22T12:37:11.498Z,0,,1,12
+56974,support Run USSD commands and even dialing phone numbers in Address bar,Abdolreza,2021-02-14T19:23:05.884Z,0,,4,23
+56975,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-02-14T19:27:30.548Z,0,,3,23
+56846,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2021-02-11T21:26:55.249Z,0,,1,16
+56783,Search engine icons,OBC9HHuKoB,2021-02-10T18:36:41.375Z,0,,1,27
 56712,Swipe to remove auto suggestions in forms,OBC9HHuKoB,2021-02-09T08:32:40.017Z,0,,1,11
 56709,X / Close button in address bar,OBC9HHuKoB,2021-02-09T08:01:34.142Z,0,,1,12
-56097,Text size adjustment option,sadifuo,2021-01-29T12:47:55.974Z,0,,1,12
-55840,Make UI and Tab switching easier,fabma,2021-01-23T22:05:24.396Z,0,,1,23
-55527,Allow to display full site title,Maxr1998,2021-01-15T14:09:39.013Z,0,,1,13
-55367,Reader mode  allow bigger body font size.,vivaldiadmin,2021-01-11T07:44:53.648Z,0,,1,11
-54697,Share bookmark option like Samsung internet,666jones,2020-12-19T22:39:32.279Z,0,,1,7
-54695,Add separate search for incognito/private mode,sergioad,2020-12-19T21:37:05.633Z,0,,1,8
-54499,Change bookmark icon in bottom left of toolbar,666jones,2020-12-15T20:55:23.580Z,0,,1,14
-54460,tab bookmarking/downloading for offline "mind mapping" usage in the future,cregox,2020-12-15T07:03:20.151Z,0,,1,12
-54353,Open homepage to new tab,koraydiyebirisi,2020-12-13T01:39:41.109Z,0,,1,13
+56097,Text size adjustment option,sadifuo,2021-01-29T12:47:55.974Z,0,,1,18
+55840,Make UI and Tab switching easier,fabma,2021-01-23T22:05:24.396Z,0,,1,24
+55527,Allow to display full site title,Maxr1998,2021-01-15T14:09:39.013Z,0,,1,15
+55367,Reader mode  allow bigger body font size.,vivaldiadmin,2021-01-11T07:44:53.648Z,0,,1,13
+55036,A hand button,xyzjkl,2021-01-01T01:25:58.315Z,0,,1,17
+54970,Opening external links in the browser.,D3ZOXY,2020-12-29T06:39:00.023Z,0,,1,27
+54754,create page flip effect when reading articles in the browser,ErialdoRamosConsorcio,2020-12-21T19:43:24.326Z,0,,1,15
+54697,Share bookmark option like Samsung internet,666jones,2020-12-19T22:39:32.279Z,0,,1,8
+54695,Add separate search for incognito/private mode,sergioad,2020-12-19T21:37:05.633Z,0,,1,12
+54499,Change bookmark icon in bottom left of toolbar,666jones,2020-12-15T20:55:23.580Z,0,,1,15
+54460,tab bookmarking/downloading for offline "mind mapping" usage in the future,cregox,2020-12-15T07:03:20.151Z,0,,1,13
+54353,Open homepage to new tab,koraydiyebirisi,2020-12-13T01:39:41.109Z,0,,1,15
 54317,QR Code scanner,atomicloli,2020-12-12T10:50:55.765Z,0,,1,2
-54276,Dedicated App for Vivaldi mail,kamaleshjoy,2020-12-11T16:14:52.309Z,0,,2,35
-53886,When tapping on Plus button in Bookmark manager,Abdolreza,2020-12-04T12:49:58.711Z,0,,1,13
-53876,ADD Speeddial FONT(Very Tiny  Tiny  Small  Normal  Large),Abdolreza,2020-12-04T10:22:56.071Z,0,,1,14
-53855,ADD "Recent Tabs" option in popup list,Abdolreza,2020-12-03T19:30:19.242Z,0,,1,10
-53831,Show selecion checkbox when longpressing on a speeddial folder or thumbnail,Abdolreza,2020-12-03T11:34:18.369Z,0,,1,13
-53813,Security Master password,Abdolreza,2020-12-02T22:58:28.082Z,0,,1,35
-53757,Improve Browsing path top of speeddial page,Abdolreza,2020-12-01T21:07:19.865Z,0,,1,19
-53552,Bookmark page mobile,mustasch,2020-11-27T19:52:37.609Z,0,,4,31
-53681,Longpressing menu on out of speeddial folders,Abdolreza,2020-11-30T08:40:36.074Z,0,,1,12
-53660,Show navigation and other appliable options by Longpress on Speed Dial icon,Abdolreza,2020-11-29T18:48:34.000Z,0,,3,23
-53558,Add Mouse Pointer/Trackpad,msjazzmaven,2020-11-27T21:51:35.242Z,0,,1,8
-53542,Notification clearer,Abdolreza,2020-11-27T17:10:13.433Z,0,,1,14
-53530,New Private Tab & New speeddial Folder,Abdolreza,2020-11-27T15:15:12.539Z,0,,1,13
-53527,Support keep First Tab,Abdolreza,2020-11-27T14:52:05.460Z,0,,1,10
+53876,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2020-12-04T10:22:56.071Z,0,,1,15
+53855,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2020-12-03T19:30:19.242Z,0,,1,11
+53831,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2020-12-03T11:34:18.369Z,0,,1,14
+53813,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2020-12-02T22:58:28.082Z,0,,1,50
+53757,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2020-12-01T21:07:19.865Z,0,,1,20
+53552,Bookmark page mobile,mustasch,2020-11-27T19:52:37.609Z,0,,4,36
+53681,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2020-11-30T08:40:36.074Z,0,,1,17
+53660,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2020-11-29T18:48:34.000Z,0,,3,25
+53558,Add Mouse Pointer/Trackpad,msjazzmaven,2020-11-27T21:51:35.242Z,0,,1,11
+53542,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2020-11-27T17:10:13.433Z,0,,1,16
+53530,DELETED DELETED DELETED DELETED DELETED DELETED,Abdolreza,2020-11-27T15:15:12.539Z,0,,1,16
+53527,Support keep First Tab,Abdolreza,2020-11-27T14:52:05.460Z,0,,1,11
 53518,The size of tiles on the express panel,BehemothXxx,2020-11-27T13:34:44.562Z,0,,1,18
+52514,JavaScript ON/OFF switch button ("Vivaldi Supershield" mode on Mobile),SerGom,2020-11-03T05:41:08.686Z,0,,7,215
 53271,Favicon-only tab bar and curved screen edges.,Jm0123,2020-11-23T14:34:08.507Z,0,,1,26
-53217,Separated apps for contacts and calendar,abdellahb,2020-11-21T09:17:16.645Z,0,,2,22
+53217,Separated apps for contacts and calendar,abdellahb,2020-11-21T09:17:16.645Z,0,,2,23
 53216,CPU/FPS active load (freezing prevention),clejunsu,2020-11-21T09:16:43.455Z,0,,1,11
 53211,Pop-ups with Date when scrolling History,pokemn,2020-11-21T08:14:06.435Z,0,,1,8
-53188,Include option for "show bookmark bar" for large screen devices such as tablet,sudonose,2020-11-20T14:23:44.743Z,0,,1,7
 53075,MIUI 12 Features,dearbijay,2020-11-17T02:00:27.913Z,0,,2,9
-41047,Developer options,AhmadFaragPhD,2019-10-01T11:21:04.965Z,0,,11,209
+41047,Developer options,AhmadFaragPhD,2019-10-01T11:21:04.965Z,0,,11,293
 52526,Articles for you based on searches made,mizzunet,2020-11-03T14:07:12.817Z,0,,2,14
-52465,Makes the menu items view as a grid style,Gurmeetim,2020-11-02T02:14:28.511Z,0,,1,8
 52457,(Option) Search button/bar on top,Hadden89,2020-11-01T23:51:42.464Z,0,,1,19
 52364,Individual management of semi-automatic input fields,Alegria,2020-10-30T14:22:43.483Z,0,,1,12
-52343,Downloads menu like in samsung internet browser,Fever,2020-10-30T05:39:47.284Z,0,,1,15
-50144,Apps and Contacts as search engine shortcuts on widget,danielmciver,2020-08-28T20:14:18.089Z,0,,4,27
+52343,Downloads menu like in samsung internet browser,Fever,2020-10-30T05:39:47.284Z,0,,1,19
+51919,Have notes in Vivaldi mobile include attachment's URL,Starr88,2020-10-19T16:24:06.743Z,0,,1,19
+50144,Apps and Contacts as search engine shortcuts on widget,danielmciver,2020-08-28T20:14:18.089Z,0,,2,28
 51332,a few feature suggestions on UX for tablet,furkanunluturk,2020-10-03T12:16:48.125Z,0,,1,15
-51172,Save last position of bookmark and add scroll bar,battlebeyond,2020-09-28T07:59:34.260Z,0,,2,13
-50786,We need separate Speed Dials (Mobile // Desktop),raull127,2020-09-16T05:55:57.202Z,0,,5,64
+51172,Save last position of bookmark and add scroll bar,battlebeyond,2020-09-28T07:59:34.260Z,0,,2,17
+50825,Dark | Blue Mode,Zalex108,2020-09-17T08:41:06.151Z,0,,1,20
+50786,We need separate Speed Dials (Mobile // Desktop),raull127,2020-09-16T05:55:57.202Z,0,,5,77
 50781,Chrome like developers console or similar,jordan52,2020-09-16T02:13:59.896Z,0,,0,10
-50743,Hot-swappable search-engine for different tabs,TeddT,2020-09-14T18:55:32.320Z,0,,1,11
-50663,You should add Yandex option for Turkey.,metehanc8s9,2020-09-12T16:02:58.439Z,0,,4,28
-50589,How about colorizing the navbar on Android  like the demo I made below  to match the main accent colour?,TheQuantumAlpha,2020-09-10T23:17:13.229Z,0,,1,21
+50743,Hot-swappable search-engine for different tabs,TeddT,2020-09-14T18:55:32.320Z,0,,1,12
+50663,You should add Yandex option for Turkey.,metehanc8s9,2020-09-12T16:02:58.439Z,0,,4,33
+50589,How about colorizing the navbar on Android  like the demo I made below  to match the main accent colour?,TheQuantumAlpha,2020-09-10T23:17:13.229Z,0,,1,23
 50453,immerse mode or full screen mode in 3 way just like<via browser>,mycal,2020-09-08T05:16:44.943Z,0,,2,16
-50462,Privacy Redirect extension functionality,obiwan1,2020-09-08T09:20:59.878Z,0,,1,16
-50378,Time and battery indicator in ' Hide Status Bar',gsterwadkar,2020-09-06T17:55:49.989Z,0,,3,32
-50156,Differentiate Speed Dial Thumbnails with same favicon,Gurmeetim,2020-08-29T07:30:01.823Z,0,,2,18
-49673,Option to switch tab button and bookmarks button.,wilburluo,2020-08-13T02:49:07.299Z,0,,1,13
+50462,Privacy Redirect extension functionality,obiwan1,2020-09-08T09:20:59.878Z,0,,1,20
+50378,Time and battery indicator in ' Hide Status Bar',gsterwadkar,2020-09-06T17:55:49.989Z,0,,3,36
+49673,Option to switch tab button and bookmarks button.,wilburluo,2020-08-13T02:49:07.299Z,0,,1,15
 48859,Home button  downloads  no of tabs  should move to a single button on address bar,Malayash22,2020-07-09T18:33:15.129Z,0,,3,43
 49180,Disable autofill search,Chrisbiun,2020-07-24T18:34:21.210Z,0,,1,16
-45356,Get Tab Grid layout flag back(Option to change how tab switcher looks).,EvilSpark,2020-03-31T20:36:39.432Z,0,WILL NOT DO,4,81
-48452,⚠️ Pop-up search screen,Ledenav,2020-06-24T12:29:54.231Z,0,,1,15
+45356,Get Tab Grid layout flag back(Option to change how tab switcher looks).,EvilSpark,2020-03-31T20:36:39.432Z,0,WILL NOT DO,4,123
+48452,⚠️ Pop-up search screen,Ledenav,2020-06-24T12:29:54.231Z,0,,1,17
 48327,Quick copying notes,Ledenav,2020-06-20T10:32:26.653Z,0,,1,9
-48263,One click bookmark button W click & hold drop into folder menu,ahitempman,2020-06-18T22:45:16.988Z,0,,1,30
+48263,One click bookmark button W click & hold drop into folder menu,ahitempman,2020-06-18T22:45:16.988Z,0,,1,40
 48113,Quick access editing,Ledenav,2020-06-15T17:48:53.799Z,0,,2,10
 48116,Open a new link,Ledenav,2020-06-15T18:00:34.009Z,0,,1,11
-47794,Auto Desktop Mode/Tab Strip when in landscape,rodrigoswz,2020-06-08T18:33:17.605Z,0,,1,15
+47794,Auto Desktop Mode/Tab Strip when in landscape,rodrigoswz,2020-06-08T18:33:17.605Z,0,,1,16
 47594,Long press the link pop-up window can slide to the button to release the trigger function,Poto,2020-06-03T11:42:38.887Z,0,,1,11
 47147,Mobile Markdown support,BodeSpezial,2020-05-18T22:17:50.997Z,0,,2,9
-47024,Removing Tabs in tablet mode,Anubiz32,2020-05-15T13:49:06.383Z,0,,2,15
-46296,Hide UI on scroll down,Pleomin,2020-04-26T14:56:59.047Z,0,,13,130
-46380,Can you add safesty research,Ganipote,2020-04-28T14:07:42.965Z,0,,1,9
-46183,Scrolling and pinch and zoom on capacitive keyboard,RobA,2020-04-24T19:24:16.491Z,0,,1,17
-45969,master password / fingerprint or face to unlock it,yigit,2020-04-22T14:22:20.090Z,0,,1,18
-45022,Higher refresh rate,Meelis203,2020-03-18T18:55:30.990Z,0,RESOLVED,3,50
-42437,Replace "recent tabs" menu item with "panel view",madiso,2019-11-29T10:19:24.318Z,0,,1,48
-42191,Show more autocomplete entries in Omnibox,madiso,2019-11-15T16:15:24.361Z,0,,1,35
-41805,Show both regular and private tabs on the same page in tab list,valiowk,2019-11-01T19:17:16.175Z,0,,1,20
-41683,Sharing whole note as a text (dedicated option),ROTFL,2019-10-28T07:37:28.348Z,0,,1,26
+46296,Hide UI on scroll down,Pleomin,2020-04-26T14:56:59.047Z,0,,13,189
+46380,Can you add safesty research,Ganipote,2020-04-28T14:07:42.965Z,0,,1,11
+46183,Scrolling and pinch and zoom on capacitive keyboard,RobA,2020-04-24T19:24:16.491Z,0,,1,19
+45022,Higher refresh rate,Meelis203,2020-03-18T18:55:30.990Z,0,RESOLVED,3,86
+42437,Replace "recent tabs" menu item with "panel view",madiso,2019-11-29T10:19:24.318Z,0,,1,50
+42191,Show more autocomplete entries in Omnibox,madiso,2019-11-15T16:15:24.361Z,0,,1,43
+41805,Show both regular and private tabs on the same page in tab list,valiowk,2019-11-01T19:17:16.175Z,0,,1,23
+41683,Sharing whole note as a text (dedicated option),ROTFL,2019-10-28T07:37:28.348Z,0,,1,27
 41557,Show new tab page if private mode has no other tabs open,valiowk,2019-10-22T05:30:45.460Z,0,,1,18
-41145,Option to arrange tabs by last used order,valiowk,2019-10-04T01:08:04.778Z,0,,1,22
+41145,Option to arrange tabs by last used order,valiowk,2019-10-04T01:08:04.778Z,0,,1,25
 41097,no speed dial delay after closing the last tab,sirien.neiris,2019-10-02T17:29:29.195Z,0,,2,27
-41030,activating lite mode,AhmadFaragPhD,2019-09-30T16:50:14.673Z,0,,7,324
-40804,remove tab bar in tablet version,look90,2019-09-24T04:23:25.001Z,0,,2,45
-40783,System equalizer support (android beta),oldmelnik99,2019-09-23T13:36:47.073Z,0,,2,19
-40453,Cookie and site settings from lock icon at the beginning of the address bar,Zsul,2019-09-16T10:43:34.835Z,0,,7,111
-40429,Catalonian translation.,tomjoma,2019-09-15T18:29:48.193Z,0,,3,53
-40185,Disabling history,kmrni,2019-09-11T08:02:33.215Z,0,HISTORY:PRIVACY,1,65
-40161,Tab page long press delete tab,Poto,2019-09-11T02:50:29.831Z,0,TABS:GESTURE:SHORTCUTS,2,53
-36043,Bookmark Bar integration.,k9ketan,2019-03-31T08:12:15.238Z,0,MOBILE:BOOKMARKS:BOOKMARKS BAR,1,172
+41030,activating lite mode,AhmadFaragPhD,2019-09-30T16:50:14.673Z,0,,7,378
+40783,System equalizer support (android beta),oldmelnik99,2019-09-23T13:36:47.073Z,0,,2,20
+40453,Cookie and site settings from lock icon at the beginning of the address bar,Zsul,2019-09-16T10:43:34.835Z,0,,7,118
+40429,Catalonian translation.,tomjoma,2019-09-15T18:29:48.193Z,0,,3,54
+40185,Disabling history,kmrni,2019-09-11T08:02:33.215Z,0,HISTORY:PRIVACY,1,98
+40161,Tab page long press delete tab,Poto,2019-09-11T02:50:29.831Z,0,TABS:GESTURE:SHORTCUTS,2,82
