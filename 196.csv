@@ -1,61 +1,101 @@
 ID,Title,Author,Date,Votes,Tags,Posts,Views
-53302,Folders for Feeds,LonM,2020-11-24T14:32:28.792Z,70,,10,512
-53302,Folders for Feeds,LonM,2020-11-24T14:32:28.792Z,70,,10,512
-53626,Reorder feeds (via settings or drag&drop),Jaws,2020-11-29T06:46:22.833Z,35,,11,347
-53626,Reorder feeds (via settings or drag&drop),Jaws,2020-11-29T06:46:22.833Z,35,,11,347
-53785,Synchronization RSS reader,Kevinar,2020-12-02T13:23:59.854Z,19,,8,400
-54533,Preview the page in the feed reader,pauloaguia,2020-12-16T13:03:07.453Z,11,,6,188
-53359,Mark feed item as read automatically.,Sojiro84,2020-11-25T07:54:18.637Z,10,,4,88
-53880,Allow middle click on article list to open original page in new tab,zakius,2020-12-04T11:09:18.068Z,10,,5,100
-55489,Podcast support in M3,luetage,2021-01-14T18:06:08.431Z,10,,11,219
-64760,Dissociate feeds from mail,garyo,2021-08-03T00:44:40.922Z,5,,5,153
-64760,Dissociate feeds from mail,garyo,2021-08-03T00:44:40.922Z,5,,5,153
-64098,Separate count for unread feed items (instead of only showing count on Mail Panel icon),KuramaDono,2021-07-18T11:24:01.240Z,4,,3,93
-66133,Import/Export OPML Feed Subscriptions,isolation42,2021-09-10T15:50:10.070Z,4,,5,131
-64098,Separate count for unread feed items (instead of only showing count on Mail Panel icon),KuramaDono,2021-07-18T11:24:01.240Z,4,,3,93
-66133,Import/Export OPML Feed Subscriptions,isolation42,2021-09-10T15:50:10.070Z,4,,5,131
-62450,A generalized and more user-centered feed ; data streams monitoring (mail  html differences  rss feed),Seasonly,2021-06-12T17:42:31.206Z,4,,7,172
-53396,Entry rules for filtering RSS posts,Obiwan2208,2020-11-25T16:15:24.846Z,4,,2,66
-59344,Show Article Cover Image/Thumbnails,Geniusak,2021-04-07T22:24:54.913Z,3,,2,66
-59344,Show Article Cover Image/Thumbnails,Geniusak,2021-04-07T22:24:54.913Z,3,,2,66
-65080,Show feed reader in its own tab,stardepp,2021-08-09T16:10:20.781Z,3,,10,121
-56411,URL list from bookmark folder,Privacy,2021-02-03T17:32:12.890Z,2,,3,83
-68270,A continuous social-media-like 'feed' of RSS sources,LikeADingo,2021-11-04T01:05:50.770Z,2,,5,103
-56411,URL list from bookmark folder,Privacy,2021-02-03T17:32:12.890Z,2,,3,83
-68270,A continuous social-media-like 'feed' of RSS sources,LikeADingo,2021-11-04T01:05:50.770Z,2,,5,103
-64756,Remove duplicate news items,rolypoly,2021-08-02T23:03:32.231Z,2,,3,51
-63939,Feed Reader selection  ONLY,ardsur,2021-07-13T08:14:42.805Z,2,,6,120
-62078,Change window for feed/mail panel,alexandremckinnon,2021-06-09T14:31:31.037Z,2,,1,50
-69179,Can let RSS feature like this,haomin,2021-12-02T10:58:11.758Z,1,,3,57
-66676,Translate RSS titles (and maybe content) with built in translator,molex,2021-09-23T07:23:34.595Z,1,,1,47
-66675,Display channel list inside the RSS interface,molex,2021-09-23T07:17:01.428Z,1,,1,51
-66164,Flickr Group Pools: Show the Author  Not the Group,KoHoSo,2021-09-11T15:56:51.286Z,1,,1,38
-66161,Abbility to read article in RSS feed panel,daivy.merlijs,2021-09-11T14:40:14.957Z,1,,1,50
-69179,Can let RSS feature like this,haomin,2021-12-02T10:58:11.758Z,1,,3,57
-66676,Translate RSS titles (and maybe content) with built in translator,molex,2021-09-23T07:23:34.595Z,1,,1,47
-66675,Display channel list inside the RSS interface,molex,2021-09-23T07:17:01.428Z,1,,1,51
-66164,Flickr Group Pools: Show the Author  Not the Group,KoHoSo,2021-09-11T15:56:51.286Z,1,,1,38
-66161,Abbility to read article in RSS feed panel,daivy.merlijs,2021-09-11T14:40:14.957Z,1,,1,50
-64757,Add a filter to only show un-read items,rolypoly,2021-08-02T23:13:44.167Z,1,,3,50
-64100,A keyboard shortcut to switch to next feed with unread items.,KuramaDono,2021-07-18T11:36:38.272Z,1,,5,119
-63048,Ability to scroll multiple items,Sennarok,2021-06-23T08:00:28.533Z,1,,3,46
-62377,import feeds html,shawnpeterson77,2021-06-11T21:26:18.538Z,1,,5,106
-69590,Auto Select Feed Title,mdoverl,2021-12-07T22:05:06.653Z,0,,1,14
-69436,Save .eml content as markdown via the context menu,novikoiva,2021-12-05T09:47:18.160Z,0,,1,15
-68187,General refresh interval for importing multiple feeds,govivald1,2021-11-01T13:24:31.272Z,0,,1,32
-68142,Deleting articles like Opera 12,david760,2021-10-30T19:51:57.556Z,0,,1,54
-67327,Default/General feeds settings,Seji,2021-10-09T11:19:57.985Z,0,,1,45
-66160,Subscribe to Twitter  Facebook  Google and Reddit feeds,daivy.merlijs,2021-09-11T14:36:46.848Z,0,,1,44
-65523,Group by day received - like Thunderbird,mozi,2021-08-22T22:58:27.346Z,0,,1,41
-69590,Auto Select Feed Title,mdoverl,2021-12-07T22:05:06.653Z,0,,1,14
-69436,Save .eml content as markdown via the context menu,novikoiva,2021-12-05T09:47:18.160Z,0,,1,15
-68187,General refresh interval for importing multiple feeds,govivald1,2021-11-01T13:24:31.272Z,0,,1,32
-68142,Deleting articles like Opera 12,david760,2021-10-30T19:51:57.556Z,0,,1,54
-67327,Default/General feeds settings,Seji,2021-10-09T11:19:57.985Z,0,,1,45
-66160,Subscribe to Twitter  Facebook  Google and Reddit feeds,daivy.merlijs,2021-09-11T14:36:46.848Z,0,,1,44
-65523,Group by day received - like Thunderbird,mozi,2021-08-22T22:58:27.346Z,0,,1,41
-65480,Notification by keywords,summoner,2021-08-21T07:23:21.875Z,0,,1,53
-65397,Star and Archive Features for Feed Reader,brimwats,2021-08-19T03:28:21.444Z,0,,2,58
-63976,Feed detection for other services,zakius,2021-07-14T10:21:24.328Z,0,,2,51
-62709,Don't merge different feeds from the same site,baoutsi,2021-06-16T11:40:22.246Z,0,,1,32
-62707,Disable images in Feed Reader don't work,Trent,2021-06-16T11:24:30.005Z,0,,1,25
+53302,Folders for Feeds,LonM,2020-11-24T14:32:28.792Z,82,,10,704
+53626,Reorder feeds (via settings or drag&drop),Jaws,2020-11-29T06:46:22.833Z,55,,12,591
+54298,Separate feed reader internal page,Nekomajin,2020-12-11T21:32:16.428Z,34,,1,244
+53785,Synchronization RSS reader,Kevinar,2020-12-02T13:23:59.854Z,30,,10,814
+54121,Refresh button for feeds,luetage,2020-12-09T11:11:16.866Z,18,,4,113
+64760,Dissociate feeds from mail,garyo,2021-08-03T00:44:40.922Z,12,,6,296
+54533,Preview the page in the feed reader,pauloaguia,2020-12-16T13:03:07.453Z,12,,6,205
+54222,Allow Full screen mode for Youtube video feeds,Ornorm,2020-12-10T23:55:56.226Z,11,IN PROGRESS,15,136
+53359,Mark feed item as read automatically.,Sojiro84,2020-11-25T07:54:18.637Z,10,,4,115
+53880,Allow middle click on article list to open original page in new tab,zakius,2020-12-04T11:09:18.068Z,10,,5,110
+55489,Podcast support in M3,luetage,2021-01-14T18:06:08.431Z,10,,11,235
+54479,Import full contents from Opera 12 feed reader ...,DF55,2020-12-15T15:21:49.027Z,9,,3,138
+54180,Each RSS has its own notification,Ryanchuang,2020-12-10T11:24:08.918Z,9,,1,47
+53750,Add a setting for how long a feed should keep it's content,Popanz,2020-12-01T18:08:00.146Z,9,,1,32
+76385,Feed reader - grouping in folders,helixo,2022-06-09T17:13:53.422Z,8,,2,63
+76385,Feed reader - grouping in folders,helixo,2022-06-09T17:13:53.422Z,8,,2,63
+64098,Separate count for unread feed items (instead of only showing count on Mail Panel icon),KuramaDono,2021-07-18T11:24:01.240Z,8,,3,120
+72150,RSS Feed Delete Problem and Proposed Solutions,cobalt3096,2022-02-16T18:14:14.679Z,6,,2,106
+66133,Import/Export OPML Feed Subscriptions,isolation42,2021-09-10T15:50:10.070Z,6,,5,210
+53733,"Are you sure?" prompt when deleting a feed,Jaws,2020-12-01T13:56:33.443Z,6,,1,44
+65080,Show feed reader in its own tab,stardepp,2021-08-09T16:10:20.781Z,5,,11,175
+53396,Entry rules for filtering RSS posts,Obiwan2208,2020-11-25T16:15:24.846Z,5,,4,131
+65080,Show feed reader in its own tab,stardepp,2021-08-09T16:10:20.781Z,5,,11,175
+53396,Entry rules for filtering RSS posts,Obiwan2208,2020-11-25T16:15:24.846Z,5,,4,131
+59344,Show Article Cover Image/Thumbnails,Geniusak,2021-04-07T22:24:54.913Z,5,,2,101
+53881,Add additional article views,zakius,2020-12-04T11:13:05.946Z,5,,1,34
+74593,The "Open Article" button being at the top of a feed item instead of the bottom,KuramaDono,2022-04-21T06:43:03.150Z,4,,1,54
+74593,The "Open Article" button being at the top of a feed item instead of the bottom,KuramaDono,2022-04-21T06:43:03.150Z,4,,1,54
+65870,"Copy address" option in the RSS button,Olomorn,2021-09-01T22:02:57.997Z,4,,2,52
+62450,A generalized and more user-centered feed ; data streams monitoring (mail  html differences  rss feed),Seasonly,2021-06-12T17:42:31.206Z,4,,7,196
+76545,Option to disable distinction between unseen/unread mails/feeds.,Gregor,2022-06-12T19:50:05.412Z,3,,3,63
+76545,Option to disable distinction between unseen/unread mails/feeds.,Gregor,2022-06-12T19:50:05.412Z,3,,3,63
+73840,Per Feed Notifications,Geniusak,2022-04-06T18:56:51.509Z,3,,1,62
+71537,Import full contents saved from Opera 12 feed reader  not just list of feeds.,DF55,2022-02-02T21:55:53.749Z,3,,1,77
+56411,URL list from bookmark folder,Privacy,2021-02-03T17:32:12.890Z,3,,3,129
+68270,A continuous social-media-like 'feed' of RSS sources,LikeADingo,2021-11-04T01:05:50.770Z,3,,5,156
+66676,Translate RSS titles (and maybe content) with built in translator,molex,2021-09-23T07:23:34.595Z,3,,1,67
+64756,Remove duplicate news items,rolypoly,2021-08-02T23:03:32.231Z,3,,3,57
+63939,Feed Reader selection  ONLY,ardsur,2021-07-13T08:14:42.805Z,3,,6,129
+56551,Search for feeds,pauloaguia,2021-02-06T07:52:51.174Z,3,,1,51
+53879,Keep main toolbar available + show address in address bar,zakius,2020-12-04T11:08:12.891Z,3,,1,27
+76803,Feed deletion prevention,NSANE,2022-06-17T17:56:45.957Z,2,,1,21
+76274,Option to disable feeds panel unread badge,AltCode,2022-06-07T21:34:41.133Z,2,,4,56
+76803,Feed deletion prevention,NSANE,2022-06-17T17:56:45.957Z,2,,1,21
+76274,Option to disable feeds panel unread badge,AltCode,2022-06-07T21:34:41.133Z,2,,4,56
+69179,Can let RSS feature like this,haomin,2021-12-02T10:58:11.758Z,2,,3,101
+66161,Abbility to read article in RSS feed panel,daivy.merlijs,2021-09-11T14:40:14.957Z,2,,1,84
+66160,Subscribe to Twitter  Facebook  Google and Reddit feeds,daivy.merlijs,2021-09-11T14:36:46.848Z,2,,1,65
+62377,import feeds html,shawnpeterson77,2021-06-11T21:26:18.538Z,2,,5,114
+62078,Change window for feed/mail panel,alexandremckinnon,2021-06-09T14:31:31.037Z,2,,1,60
+54602,Create RSS feed from Twitter  Facebook,bugmenot3,2020-12-17T19:53:34.041Z,2,,1,79
+53627,Switch focus to message list when opening a feed,Jaws,2020-11-29T06:48:43.627Z,2,,1,21
+77125,Reader Comments at Bottom of Feed Preview,cecille,2022-06-27T20:29:32.190Z,1,,1,19
+76805,import/export an RSS list and add it to the sync,tachyglossues,2022-06-17T18:50:36.773Z,1,,2,47
+74895,RSS Feed panel horizontally on top,Zakalwe,2022-04-30T22:31:17.767Z,1,,2,70
+77125,Reader Comments at Bottom of Feed Preview,cecille,2022-06-27T20:29:32.190Z,1,,1,19
+76805,import/export an RSS list and add it to the sync,tachyglossues,2022-06-17T18:50:36.773Z,1,,2,47
+74895,RSS Feed panel horizontally on top,Zakalwe,2022-04-30T22:31:17.767Z,1,,2,70
+72192,integrate the extension bar in the RSS / mail tabs,tachyglossues,2022-02-17T17:22:37.334Z,1,,6,111
+72314,Search feature in Feed Reader,srikarjam,2022-02-20T16:35:28.651Z,1,,2,55
+66675,Display channel list inside the RSS interface,molex,2021-09-23T07:17:01.428Z,1,,1,76
+66164,Flickr Group Pools: Show the Author  Not the Group,KoHoSo,2021-09-11T15:56:51.286Z,1,,1,57
+65480,Notification by keywords,summoner,2021-08-21T07:23:21.875Z,1,,1,65
+64757,Add a filter to only show un-read items,rolypoly,2021-08-02T23:13:44.167Z,1,,3,58
+64100,A keyboard shortcut to switch to next feed with unread items.,KuramaDono,2021-07-18T11:36:38.272Z,1,,5,134
+63048,Ability to scroll multiple items,Sennarok,2021-06-23T08:00:28.533Z,1,,3,52
+54194,'Mark as Read' from Status Bar/Panel icon's content menu,npro,2020-12-10T14:46:44.541Z,1,,1,29
+53975,Filter for duplicate articles across feeds,Crimsonshade,2020-12-06T23:52:06.534Z,1,,5,65
+77243,Import all received rss from Opera Mail,DS2902,2022-07-01T21:35:29.136Z,0,,1,14
+77160,Filter Flagged Feeds in the view bar,marcelobianchi,2022-06-29T02:11:02.066Z,0,,1,13
+77126,Attachments at Bottom of Feed Preview,cecille,2022-06-27T20:32:48.862Z,0,,1,21
+76972,Separate Feed Reader from Mail and Calendar,Gordonbleu,2022-06-23T16:40:39.022Z,0,,1,26
+76580,Show the RSS button when Feeds are disabled,moimadmax,2022-06-13T11:09:04.985Z,0,,1,22
+76544,Keyboard shortcuts,Gregor,2022-06-12T19:39:06.480Z,0,,1,22
+75813,Give Option to have white background for feeds,Dancer18,2022-05-31T20:23:07.198Z,0,,3,61
+76386,Problem with fonts - importing opml,helixo,2022-06-09T17:18:44.954Z,0,,1,26
+76252,Feed Reader context menu is not customizable,ffuser1,2022-06-07T14:42:49.046Z,0,,1,26
+74009,Offline RSS Reading,Artex,2022-04-09T00:53:20.616Z,0,,1,63
+77243,Import all received rss from Opera Mail,DS2902,2022-07-01T21:35:29.136Z,0,,1,14
+77160,Filter Flagged Feeds in the view bar,marcelobianchi,2022-06-29T02:11:02.066Z,0,,1,13
+77126,Attachments at Bottom of Feed Preview,cecille,2022-06-27T20:32:48.862Z,0,,1,21
+76972,Separate Feed Reader from Mail and Calendar,Gordonbleu,2022-06-23T16:40:39.022Z,0,,1,26
+76580,Show the RSS button when Feeds are disabled,moimadmax,2022-06-13T11:09:04.985Z,0,,1,22
+76544,Keyboard shortcuts,Gregor,2022-06-12T19:39:06.480Z,0,,1,22
+75813,Give Option to have white background for feeds,Dancer18,2022-05-31T20:23:07.198Z,0,,3,61
+76386,Problem with fonts - importing opml,helixo,2022-06-09T17:18:44.954Z,0,,1,26
+76252,Feed Reader context menu is not customizable,ffuser1,2022-06-07T14:42:49.046Z,0,,1,26
+74009,Offline RSS Reading,Artex,2022-04-09T00:53:20.616Z,0,,1,63
+69590,Auto Select Feed Title,mdoverl,2021-12-07T22:05:06.653Z,0,,1,38
+69436,Save .eml content as markdown via the context menu,novikoiva,2021-12-05T09:47:18.160Z,0,,1,47
+68187,General refresh interval for importing multiple feeds,govivald1,2021-11-01T13:24:31.272Z,0,,1,60
+68142,Deleting articles like Opera 12,david760,2021-10-30T19:51:57.556Z,0,,1,83
+67327,Default/General feeds settings,Seji,2021-10-09T11:19:57.985Z,0,,1,79
+65523,Group by day received - like Thunderbird,mozi,2021-08-22T22:58:27.346Z,0,,1,53
+65397,Star and Archive Features for Feed Reader,brimwats,2021-08-19T03:28:21.444Z,0,,2,69
+63976,Feed detection for other services,zakius,2021-07-14T10:21:24.328Z,0,,2,58
+62709,Don't merge different feeds from the same site,baoutsi,2021-06-16T11:40:22.246Z,0,,1,38
+62707,Disable images in Feed Reader don't work,Trent,2021-06-16T11:24:30.005Z,0,,1,27
+61513,Sound Notification when,juanvase,2021-05-25T15:24:23.196Z,0,,1,45
+55770,Create RSS feed from instagram,el3ctron,2021-01-22T09:52:59.855Z,0,,6,443
