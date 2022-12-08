@@ -9,16 +9,10 @@ ALL_DATA = []
 TAGS = {}
 DATA_FILES = [
     ["185.csv", ["DESKTOP"]],
-    ["127.csv", ["DESKTOP", "ADDRESS BAR"]],
-    ["128.csv", ["DESKTOP", "BOOKMARKS"]],
-    ["129.csv", ["DESKTOP", "PANELS"]],
-    ["130.csv", ["DESKTOP", "SETTINGS"]],
-    ["131.csv", ["DESKTOP", "TABS"]],
-    ["132.csv", ["DESKTOP", "THEMES"]],
-    ["194.csv", ["DESKTOP", "MAIL"]],
-    ["195.csv", ["DESKTOP", "CALENDAR"]],
-    ["196.csv", ["DESKTOP", "FEEDS"]],
-    ["136.csv", ["ANDROID"]],
+    ["194.csv", ["DESKTOP", "MAIL AND FEEDS"]],
+    ["136.csv", ["MOBILE"]],
+    ["131.csv", ["AUTOMOTIVE"]],
+    ["186.csv", ["COMMUNITY"]],
 ]
 
 ALREADY_PROCESSED = set([])

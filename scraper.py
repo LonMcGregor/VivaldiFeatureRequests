@@ -13,7 +13,7 @@ def cat(category_id, pageno=None):
         print("Error! Response code %d" % result.status_code)
         raise "Failed to query server: %d" % result.status_code
 
-categories = [127, 128, 129, 130, 131, 132, 136, 185, 194, 195, 196]
+categories = [185, 194, 136, 131, 186]
 
 def do_a_category(category):
     print("Start getting category %s" % str(category))
