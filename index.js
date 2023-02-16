@@ -313,7 +313,11 @@ class FilterableSet extends HTMLElement{
         const div = document.createElement("div");
         this.dataArray.forEach(element => {
             const newel = elementGeneratorFn(element);
-            div.appendChild(newel);
+            if(newel.hasAttribute('special')){
+                summary.appendChild(newel);
+            } else {
+                div.appendChild(newel);
+            }
             this.dataObjectArray.push(newel);
         });
         details.appendChild(div);
@@ -362,6 +366,9 @@ const initialCountFilter = initialCountMatch ? initialCountMatch[1] : 0;
 
 TAGSET = new FilterableSet(TAGS, "Tags", false, tag => {
     const tagtag = new TagItem(tag[0], tag[1]);
+    if(['DESKTOP','MAIL AND FEEDS','MOBILE','COMMUNITY','AUTOMOTIVE'].indexOf(tag[0]) > -1){
+        tagtag.setAttribute('special','special');
+    }
     tagtag.setSelected(initialTagsEnabled.indexOf(tag[0]) >= 0);
     return tagtag;
 });

@@ -24,6 +24,11 @@ tag-item[unselected] {
     background: transparent;
 }
 
+tag-item[special] {
+    order: -9999999 !important;
+    font-size: x-large;
+}
+
 #reqs div {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
