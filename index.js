@@ -367,7 +367,7 @@ const initialCountFilter = initialCountMatch ? initialCountMatch[1] : 0;
 
 TAGSET = new FilterableSet(TAGS, "Tags", false, tag => {
     const tagtag = new TagItem(tag[0], tag[1]);
-    if(['DESKTOP','MAIL AND FEEDS','MOBILE','COMMUNITY','AUTOMOTIVE'].indexOf(tag[0]) > -1){
+    if(['DESKTOP','MAIL AND FEEDS','MOBILE','COMMUNITY','AUTOMOTIVE', 'IN PROGRESS', 'PIPELINE'].indexOf(tag[0]) > -1){
         tagtag.setAttribute('special','special');
     }
     tagtag.setSelected(initialTagsEnabled.indexOf(tag[0]) >= 0);
