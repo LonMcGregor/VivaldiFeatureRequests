@@ -173,9 +173,10 @@ class TagItem extends FilterableElement {
         this.selected = !this.hasAttribute("unselected");
     }
 
-    toggleSelection(){
+    toggleSelection(event){
         this.setSelected(!this.selected);
         this.dispatchEvent(new CustomEvent("TagToggled", {bubbles: true}));
+        event.preventDefault();
     }
 
     connectedCallback() {
