@@ -394,3 +394,27 @@ if(initialRequestFilter){
 }
 FRQSET.filterForm.filterCount = initialCountFilter;
 FRQSET.filter();
+
+
+function isOlderThanFourYears(olddate){
+    return new Date() - new Date(olddate) > (1000 * 60 * 60 * 24 * 365.25 * 4);
+}
+
+function genReport(){
+	let allstring = "<!DOCTYPE html><body><h1>Old requests with less than 5 score older than 4 years\n";
+	["DESKTOP","MOBILE","COMMUNITY"].forEach(brand => {
+		allstring += `<h1>${brand}</h1>\n`;
+		allstring += DATA.filter(x => x[4] < 5) //min score
+            .filter(x => isOlderThanFourYears(x[3]))
+            .filter(x => x[5].includes(brand))
+            .map(x => `<a href="https://forum.vivaldi.net/topic/${x[0]}">${x[1]}</a>`)
+            .join("<br>\n");
+	});
+	const htmlfile = new File(
+		[allstring],
+		"requestexport.html",
+		{type: "text/html"}
+	);
+	const blob = window.URL.createObjectURL(htmlfile);
+	window.open(blob);
+}
