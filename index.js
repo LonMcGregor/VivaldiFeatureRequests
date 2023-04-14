@@ -402,7 +402,7 @@ function isOlderThanFourYears(olddate){
 
 function genReport(){
 	let allstring = "<!DOCTYPE html><body><h1>Old requests with less than 5 score older than 4 years\n";
-	["DESKTOP","MOBILE","COMMUNITY"].forEach(brand => {
+	["DESKTOP","MAIL AND FEEDS","MOBILE","COMMUNITY"].forEach(brand => {
 		allstring += `<h1>${brand}</h1>\n`;
 		allstring += DATA.filter(x => x[4] < 5) //min score
             .filter(x => isOlderThanFourYears(x[3]))
@@ -418,3 +418,9 @@ function genReport(){
 	const blob = window.URL.createObjectURL(htmlfile);
 	window.open(blob);
 }
+
+document.querySelector("footer").addEventListener("click", e => {
+    if(e.ctrlKey){
+        genReport();
+    }
+})
