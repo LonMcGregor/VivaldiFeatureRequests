@@ -1,701 +1,661 @@
 ID,Title,Author,Date,Votes,Tags,Posts,Views
-53420,Sync email/RSS/Calendar configurations and seen/read statuses,pauloaguia,2020-11-25T22:08:49.432Z,189,MAIL,41,5353
-53420,Sync email/RSS/Calendar configurations and seen/read statuses,pauloaguia,2020-11-25T22:08:49.432Z,189,MAIL,41,5353
-53314,Contacts CardDav sync,Topha,2020-11-24T15:17:50.371Z,103,MAIL,52,6798
-53314,Contacts CardDav sync,Topha,2020-11-24T15:17:50.371Z,103,MAIL,52,6798
-53626,Reorder feeds (via settings or drag&drop),Jaws,2020-11-29T06:46:22.833Z,84,PIPELINE:FEEDS,22,1805
-53626,Reorder feeds (via settings or drag&drop),Jaws,2020-11-29T06:46:22.833Z,84,PIPELINE:FEEDS,22,1805
-53298,PGP/GPG De-/Encryption and Signing,LonM,2020-11-24T13:44:08.216Z,68,MAIL:PIPELINE,27,2965
-53785,Synchronization RSS reader,Kevinar,2020-12-02T13:23:59.854Z,68,FEEDS,11,2781
-73562,STARTTLS support || [Proton Bridge],jchortala,2022-03-30T12:05:34.658Z,48,PIPELINE:MAIL,81,12072
-73562,STARTTLS support || [Proton Bridge],jchortala,2022-03-30T12:05:34.658Z,48,PIPELINE:MAIL,81,12072
-53503,Fully split Mail and Feed Reader,NSANE,2020-11-27T10:48:50.293Z,48,IN PROGRESS:MAIL,28,2689
-53327,Import & Export for Mail  Calendar and Feeds,Clairvaux,2020-11-24T17:29:06.455Z,47,MAIL,26,4260
-53379,Allow editing of sender address when composing,jumpsq,2020-11-25T11:06:41.976Z,42,MAIL,15,1322
-66512,Option to send e-mails as a plain text,cdrozak,2021-09-19T10:18:06.322Z,38,MAIL,17,1149
-54015,Rearrange Mail Accounts in list,JodyW,2020-12-07T22:21:58.460Z,37,MAIL,48,3211
-53321,Add Folder and Label settings,jumpsq,2020-11-24T16:22:04.815Z,34,MAIL,10,941
-54439,Unique colors per mail account,GilgaMensch,2020-12-14T18:08:36.883Z,33,MAIL,4,242
-53706,Add list support for group of addresses,FloridaMatt,2020-11-30T18:40:47.679Z,30,MAIL,22,1552
-83589,Option to always load external content,MarciAmon,2023-02-07T12:42:48.450Z,25,MAIL,25,1780
-55208,Organize contacts in folders,larsen0815,2021-01-06T20:36:21.806Z,25,MAIL,18,733
-54422,Support for Microsoft Exchange,eriklothe,2020-12-14T10:21:54.726Z,25,MAIL,18,5284
-53410,Copy email to calendar entry / task (or create calendar entry from email),WildEnte,2020-11-25T19:56:04.578Z,24,MAIL,4,594
-64310,Printing Mail with Header-Information,Wolfgang,2021-07-24T06:20:57.435Z,24,MAIL,30,2014
-53410,Copy email to calendar entry / task (or create calendar entry from email),WildEnte,2020-11-25T19:56:04.578Z,24,MAIL,4,594
-64310,Printing Mail with Header-Information,Wolfgang,2021-07-24T06:20:57.435Z,24,MAIL,30,2014
-60057,Label management,WildEnte,2021-04-25T10:30:03.195Z,23,MAIL,11,898
-53641,Markdown Editor for Composing HTML Messages,burnout426,2020-11-29T12:07:59.215Z,22,MAIL,3,230
-59140,Use new translation engine also for emails,WildEnte,2021-04-02T21:28:23.570Z,19,MAIL,17,1088
-57784,Allow linking to specific emails (e.g. m3://<db-item>),WildEnte,2021-03-05T19:25:15.306Z,18,MAIL,17,1000
-72165,Coloured Email Labels,wanageeska,2022-02-17T00:13:59.513Z,18,MAIL,34,2499
-53596,Make M3 usable with all UI configurations,[[global:former-user]],2020-11-28T17:20:40.190Z,18,MAIL,20,984
-54510,Automatic emptying of Trash & Spam folders,fred8615,2020-12-15T22:45:27.703Z,17,MAIL,9,517
-64760,Dissociate feeds from mail,garyo,2021-08-03T00:44:40.922Z,17,FEEDS,9,619
-66697,Sorting Mail Folders,jcullins,2021-09-23T17:07:08.492Z,17,MAIL,11,779
-54696,Enable row shading for message list,Jaws,2020-12-19T22:02:38.749Z,17,MAIL,10,364
-53349,"List View Only" as Mail view option,greybeard,2020-11-25T00:08:00.900Z,16,MAIL,10,477
-53349,"List View Only" as Mail view option,greybeard,2020-11-25T00:08:00.900Z,16,MAIL,10,477
-53534,Better Mail Filters Support,Hadden89,2020-11-27T15:52:27.092Z,16,MAIL,8,532
-62099,Separate Mail from Panels,qazserNOS,2021-06-09T18:13:30.989Z,16,MAIL,23,1561
-53412,Snooze / Mark as read for xy days or "follow up in xy days" label,WildEnte,2020-11-25T20:08:52.831Z,15,MAIL,6,560
-93236,Prompt if no Subject on new email,MisterAP,2023-12-11T10:52:50.551Z,15,MAIL,5,206
-53435,Multiple Word Search Filter with AND / OR functionality,DarylO,2020-11-26T03:36:50.201Z,15,MAIL,10,482
-63970,Move Mail/Feeds to specific window,PatchesOnHand,2021-07-14T05:00:39.402Z,14,MAIL,8,700
-75706,Improve open PDF in attachments,Dancer18,2022-05-27T05:57:57.153Z,14,MAIL,11,513
-54533,Preview the page in the feed reader,pauloaguia,2020-12-16T13:03:07.453Z,14,FEEDS,6,376
-54039,Better support for tasks in Calendar panel,valiowk,2020-12-08T10:05:56.387Z,14,PIPELINE:CALENDAR,1,248
-53774,Forward as attachment,maiiler,2020-12-02T10:20:13.502Z,13,MAIL,10,358
-71448,accent color for each email account,jgyvomojlpsebjpqllibkzmbwzkeuw,2022-01-31T01:09:54.776Z,13,MAIL,2,176
-60991,Mail and bookmark bars: switch positions or hide bookmark bar,exefex,2021-05-12T18:20:15.478Z,13,MAIL,25,952
-53716,Mark and filter messages with attachments,Zsul,2020-12-01T02:44:35.902Z,13,MAIL,9,363
-57203,Default Sender option - always ask/not defined,sqlmiles,2021-02-18T16:54:16.701Z,13,MAIL,3,142
-53612,HTML Support in Email Composer,DarylO,2020-11-29T01:30:15.203Z,13,MAIL,4,365
-95078,Proton Mail integration,catharticwaffle,2024-02-12T01:43:39.060Z,12,MAIL,7,1274
-76710,Vivaldi Mail Dark Mode,calebtimms,2022-06-15T16:22:41.236Z,12,MAIL,8,618
-53880,Allow middle click on article list to open original page in new tab,zakius,2020-12-04T11:09:18.068Z,12,FEEDS,6,280
-54047,Tag Support for Contacts,burnout426,2020-12-08T12:48:57.651Z,12,MAIL,3,319
-55611,mail search for attachments - include at least file names please,WildEnte,2021-01-17T20:42:41.075Z,12,MAIL,10,316
-71118,Schedule Emails and Follow-Up-Reminders (Boomerang),MKluge,2022-01-21T10:43:04.347Z,11,MAIL,5,479
-62607,"Archive" emails,deathau,2021-06-15T00:35:34.099Z,11,MAIL,12,1559
-53963,Per-Account Mail Check Interval,burnout426,2020-12-06T11:51:31.991Z,11,MAIL,3,142
-53350,Allow nesting views in symbolic folders/subfolders,Hadden89,2020-11-25T00:47:53.376Z,11,MAIL,3,318
-54479,Import full contents from Opera 12 feed reader ...,DF55,2020-12-15T15:21:49.027Z,11,FEEDS,3,243
-53299,Microsoft Calendar Sync support,LonM,2020-11-24T13:51:40.750Z,11,CALENDAR,5,2760
-53513,Remove items from mail panel,Vistaus,2020-11-27T12:48:11.633Z,11,MAIL,1,93
-53444,Mail Window Theme,mib2berlin,2020-11-26T10:01:41.946Z,11,MAIL,1,132
-92066,Mail panel: Favorites category & ability to reorder and hide items within a category,WildEnte,2023-11-01T10:15:29.385Z,10,MAIL,3,233
-92066,Mail panel: Favorites category & ability to reorder and hide items within a category,WildEnte,2023-11-01T10:15:29.385Z,10,MAIL,3,233
-54099,send email receipts  when email is "received" or "read",peefy,2020-12-09T04:43:56.757Z,10,MAIL,22,1571
-53441,Notifications per account / filter,pauloaguia,2020-11-26T09:10:58.029Z,10,MAIL,8,349
-76512,Option to AUTO SEND E-MAILS LATER,advominator,2022-06-12T02:59:09.916Z,10,MAIL,3,202
-55077,Handle eml messages,felagund,2021-01-02T13:51:00.464Z,10,MAIL,15,1383
-77096,Implement printing of the Vivaldi calendar,hstoellinger,2022-06-27T09:26:54.636Z,10,CALENDAR,3,257
-56348,Sort by multiple columns,kbs1,2021-02-02T14:37:36.518Z,10,PIPELINE:MAIL,3,405
-71122,Import and export of mail messages,mossman,2022-01-21T12:41:29.663Z,10,MAIL,6,756
-55489,Podcast support in M3,luetage,2021-01-14T18:06:08.431Z,10,FEEDS,11,542
-54315,Auto-delete empty auto-created mailing lists,stevenpemberton,2020-12-12T10:27:09.923Z,10,MAIL,1,78
-54180,Each RSS has its own notification,Ryanchuang,2020-12-10T11:24:08.918Z,10,FEEDS,1,94
-53969,IMAP Server-Side Search,burnout426,2020-12-06T16:54:06.499Z,9,MAIL,8,402
-53400,Printable monthly view,summoner,2020-11-25T17:45:36.680Z,9,CALENDAR,6,338
-68726,Automatically Bcc,milamber,2021-11-18T16:27:11.565Z,9,MAIL,8,385
-72150,RSS Feed Delete Problem and Proposed Solutions,cobalt3096,2022-02-16T18:14:14.679Z,9,FEEDS,3,333
-56223,Pause fetching mail for certain accounts according to schedule / work hours,LonM,2021-01-31T15:57:48.019Z,9,MAIL,6,237
-84624,Option to hide certain accounts in All Messages views,WildEnte,2023-03-09T20:31:52.840Z,9,MAIL,1,121
-67731,Delete attachments from emails,WildEnte,2021-10-19T21:10:31.716Z,9,MAIL,2,186
-78433,add lunar hijri calendar (Islamic Shamsi and Ghamari),mojienjoyment,2022-08-15T08:42:06.799Z,9,CALENDAR,2,419
-76603,Allow labels editing,rromanov,2022-06-13T17:02:53.324Z,9,MAIL,15,494
-53365,Add Sender to the block list,pauloaguia,2020-11-25T09:23:52.266Z,9,MAIL,2,119
-53340,Shortcuts for Compose  Open Mail & Focus Mail Search,jumpsq,2020-11-24T19:44:21.359Z,9,MAIL,20,443
-54016,[Option] Sidebar-like mail layout,Hadden89,2020-12-07T22:29:00.329Z,9,MAIL,24,1437
-54444,Dragging Image File into Body Should Insert the Image,burnout426,2020-12-14T18:58:12.878Z,9,MAIL,5,158
-53750,Add a setting for how long a feed should keep it's content,Popanz,2020-12-01T18:08:00.146Z,9,FEEDS,1,76
-53733,"Are you sure?" prompt when deleting a feed,Jaws,2020-12-01T13:56:33.443Z,9,FEEDS,1,118
-53599,Support accented characters consistently in Mail,gunainm,2020-11-28T20:18:59.059Z,9,MAIL,1,81
-54019,Filter By Account,phyddeaux,2020-12-08T01:21:54.790Z,8,MAIL,4,307
-72108,Keyboard Shortcut for Applying a Label,glassich,2022-02-16T00:34:56.500Z,8,MAIL,16,656
-90674,Add S/MIME to Vivaldi Mail,DoctorG,2023-09-17T15:49:44.940Z,8,MAIL,1,368
-53425,Allow Extensions to Work in Vivaldi Mail,DarylO,2020-11-26T00:17:02.139Z,8,MAIL,19,1089
-54740,"Send button" should not be immediately next to "add attachment button".,felagund,2020-12-21T12:33:07.554Z,8,MAIL,8,225
-64098,Separate count for unread feed items (instead of only showing count on Mail Panel icon),KuramaDono,2021-07-18T11:24:01.240Z,8,FEEDS,4,269
-53960,Quote Selection when Replying,burnout426,2020-12-06T11:37:31.434Z,8,MAIL,4,137
-53497,Option to archive email on server when marking as Read,pauloaguia,2020-11-27T07:48:46.038Z,8,MAIL,1,323
-74714,Redirect,YDForums,2022-04-25T07:02:15.697Z,7,MAIL,9,278
-76591,Add mail account without SSL/TLS,michaa7,2022-06-13T13:56:45.980Z,7,MAIL,35,3030
-74937,Add mail filter action "move to IMAP Folder",holpemen,2022-05-02T02:08:09.077Z,7,MAIL,16,924
-74593,The "Open Article" button being at the top of a feed item instead of the bottom,KuramaDono,2022-04-21T06:43:03.150Z,7,FEEDS,2,200
-81819,Better support for moving emails between IMAP folders,S_Paternotte,2022-12-10T16:49:22.344Z,7,MAIL,17,851
-53367,Fix Width for week view and panel,jumpsq,2020-11-25T09:49:58.080Z,7,CALENDAR,10,510
-91753,Highlight search results in mail preview,LonM,2023-10-24T16:02:48.538Z,7,MAIL:FEEDS,3,166
-85640,Add Vivaldi Tips feed by default,WildEnte,2023-04-15T12:07:32.658Z,7,FEEDS,14,625
-87268,Pinned contacts,maxfl,2023-05-24T11:37:12.814Z,7,MAIL:CONTACTS,8,379
-38213,Copy Note to Vivaldi Email,coppolajj,2019-06-18T13:09:14.232Z,7,MAIL,9,650
-65414,More key bindings for mail operations,pauloaguia,2021-08-19T12:44:42.604Z,7,MAIL,3,143
-53453,Preview pdfs/image attachments in a new tab before saving them,AltCode,2020-11-26T13:15:59.998Z,7,MAIL,7,266
-101580,Allow change of mail protocol for a mail account,mossman,2024-10-02T12:24:49.475Z,6,MAIL,5,115
-77039,New filter toggle "filtered" or "special" to filter for "only cc'd"  support Inbox Zero  and more,WildEnte,2022-06-25T16:30:57.877Z,6,MAIL,8,361
-97739,Attachment Reminder - Warn on missing attachment,LonM,2024-05-09T15:10:16.970Z,6,MAIL,2,122
-54049,Per-View Message List Sorting,burnout426,2020-12-08T13:05:16.172Z,6,MAIL:IN PROGRESS,5,297
-91476,Request for "Sort by Size" in Emails Listing,lavanyadeepak,2023-10-13T06:32:37.137Z,6,MAIL,2,132
-89591,Mail draft IMAP sync,pfpinto,2023-08-14T12:51:31.942Z,6,MAIL,1,120
-72024,Automatically load images in emails,mking90031,2022-02-14T15:30:33.436Z,6,MAIL,12,838
-60024,Email at a glance panel incl list and preview ("Unread Panel"),WildEnte,2021-04-24T14:27:25.064Z,6,MAIL,7,493
-53427,Open Emails in New Window,DarylO,2020-11-26T00:26:10.629Z,6,MAIL,8,469
-69747,Photo in the signature,praded2007,2021-12-10T07:58:40.176Z,6,MAIL,2,199
-80344,Drag and drop for tasks,Saenner,2022-10-19T19:52:32.979Z,6,TASKS:CALENDAR,4,356
-78042,Make parts of subject "copyable",razor79,2022-08-03T19:36:24.129Z,6,MAIL,4,127
-68067,Import M2 Labels,ugly,2021-10-28T23:10:39.038Z,6,MAIL,7,441
-65080,Show feed reader in its own tab,stardepp,2021-08-09T16:10:20.781Z,6,FEEDS,11,610
-72377,Import contacts from other clients/services,FloridaMatt,2022-02-22T10:42:40.648Z,6,MAIL,8,539
-71540,accept self signed cert,stealthv,2022-02-02T23:17:44.106Z,6,MAIL,1,173
-65938,Save email into file systém by drag-and-drop,Duski,2021-09-04T05:12:07.301Z,6,MAIL,1,94
-62177,Calendar Icon in Panel should display the current date,HellbillyDeluxe,2021-06-10T07:20:52.289Z,6,CALENDAR,4,100
-55142,Display notes in the calendar as an option,alvk,2021-01-04T12:56:44.019Z,6,CALENDAR,2,103
-54114,Default notification for new Events / Tasks,jumpsq,2020-12-09T10:29:52.939Z,6,CALENDAR,2,94
-56127,New feature: Re-Index Emails,luteva,2021-01-29T21:14:10.635Z,6,IN PROGRESS:MAIL,3,439
-53748,Option to have double-click mark message as 'read',jdvernet,2020-12-01T17:26:11.613Z,6,MAIL,6,191
-53499,Warning when replying/forwarding and your sender address is not in the list of recipients,pauloaguia,2020-11-27T08:44:58.969Z,6,MAIL,2,72
-53639,Option to Manually Set IMAP Special-Use Folders,burnout426,2020-11-29T11:51:06.083Z,6,MAIL,1,104
-53496,Option to view and/or copy custom mail headers,bimlas,2020-11-27T07:43:51.567Z,6,MAIL,4,155
-100548,Open feeds in a separate tab from mail,Geniusak,2024-08-28T20:01:03.650Z,5,FEEDS:MAIL,2,74
-62937,3 or 4 day view,johnvn,2021-06-20T19:49:58.145Z,5,CALENDAR,8,275
-59344,Show Article Cover Image/Thumbnails,Geniusak,2021-04-07T22:24:54.913Z,5,FEEDS:PIPELINE,3,238
-59616,Keyboard Shortcut “Mark as read and go to previous Unread”,Trent,2021-04-15T11:01:01.329Z,5,MAIL,3,158
-87514,Sync mail filters,bkeevins,2023-06-01T17:58:15.647Z,5,MAIL,5,236
-56834,Email Filter by Date,janrifkinson,2021-02-11T15:23:50.527Z,5,MAIL,2,165
-56089,Using a label to exclude certain emails from other views,Johns4dogs,2021-01-29T11:00:23.657Z,5,MAIL,3,179
-78342,Keyboard shortcuts to include 'move' 'archive' and 'delete',DMcDowall,2022-08-12T18:42:27.463Z,5,MAIL,5,307
-79044,Add "Inbox" to "All Messages",NaXsa,2022-09-03T07:22:52.153Z,5,MAIL,24,1728
-65892,Stop Notification for read Mails,wernermic,2021-09-02T16:08:01.087Z,5,MAIL,4,163
-53396,Entry rules for filtering RSS posts,Obiwan2208,2020-11-25T16:15:24.846Z,5,FEEDS,5,524
-78054,Drag and Drop addresses between To Cc and Bcc,lavanyadeepak,2022-08-04T10:40:18.846Z,5,MAIL,1,89
-53959,Option to Start Reply Below Quote,burnout426,2020-12-06T11:33:02.303Z,5,MAIL,2,79
-72373,Ability to choose time zone for calendar view,shapesinaframe,2022-02-22T09:24:07.526Z,5,CALENDAR,2,173
-73631,Grouping conversations by date in the message list,tomasz.kozlowski,2022-04-01T05:37:24.145Z,5,MAIL,1,102
-73157,Nicer quote level display in plain text mails,WildEnte,2022-03-17T21:57:44.573Z,5,MAIL,2,127
-71025,Working With Labels,janrif,2022-01-18T14:29:17.210Z,5,MAIL,3,137
-70480,Allow setting custom time for calendar event's alarms,inuvik,2021-12-31T11:33:45.481Z,5,CALENDAR,2,80
-67527,turning off notifications for calendar events,tuckerw,2021-10-13T20:55:11.598Z,5,CALENDAR,4,190
-61016,Import emails from .pst file,supr3,2021-05-13T07:45:34.783Z,5,MAIL,4,500
-61840,Exchange/Active Sync support,zakius,2021-06-03T20:55:26.781Z,5,MAIL,5,910
-62840,Add option to show "Account" name in email list table,foresto,2021-06-18T17:23:48.062Z,5,MAIL,4,125
-54288,Manage Mailing lists that don't use list-id correctly,WildEnte,2020-12-11T19:27:14.819Z,5,MAIL,9,838
-58102,Conversation View,code3,2021-03-14T01:49:23.856Z,5,MAIL,14,808
-54193,'Mark as Read' from Status Bar/Panel icon's content menu,npro,2020-12-10T14:42:03.705Z,5,MAIL:FEEDS,2,167
-54021,Customize > "Add separator" after this button...,Hadden89,2020-12-08T03:28:23.121Z,5,MAIL,1,81
-53881,Add additional article views,zakius,2020-12-04T11:13:05.946Z,5,FEEDS,1,90
-53638,Style Markdown in Plain Text Messages,burnout426,2020-11-29T11:41:25.961Z,5,MAIL,4,138
-64756,Remove duplicate news items,rolypoly,2021-08-02T23:03:32.231Z,4,FEEDS,10,450
-64756,Remove duplicate news items,rolypoly,2021-08-02T23:03:32.231Z,4,FEEDS,10,450
-101581,Remove restrictive need for server authentication during mail set-up,mossman,2024-10-02T12:30:47.935Z,4,MAIL,1,45
-98958,Quick Reply Signinature,CoolCoderSuper,2024-06-26T17:50:53.494Z,4,MAIL,9,214
-92077,Needed features for Notes/Tasks/Reminders,telmob,2023-11-01T14:30:32.709Z,4,TASKS:MAIL:FEEDS,11,933
-76395,Add colors or tags to calendar events,hbowyer,2022-06-09T19:14:10.255Z,4,CALENDAR,7,454
-69171,Add a switch to make search case sensitive (a bonus: regex searches),felagund,2021-12-02T09:37:16.729Z,4,MAIL,8,352
-80363,Diacritics/accents insensitive mail search,xhpohanka,2022-10-20T12:39:54.639Z,4,MAIL,3,170
-92242,Provide a "RSS Status" button similar to "Mail Status" (= show latest Feeds),npro,2023-11-06T13:16:07.835Z,4,FEEDS,3,224
-91867,Cancel sending email with Vivaldi Mail,flyeric777,2023-10-27T09:35:27.397Z,4,MAIL,4,209
-78132,Mail Notifications in Windows SysTray,howards,2022-08-07T19:45:14.623Z,4,MAIL,4,404
-87393,Calendar reminders: add "open event",WildEnte,2023-05-28T18:06:25.756Z,4,CALENDAR,1,112
-87047,Calendar Tasks Unable to change color,ghostw4ve,2023-05-18T13:55:50.638Z,4,CALENDAR:TASKS,1,199
-82743,Selected portion does not appear in reply,janrif,2023-01-09T18:31:12.715Z,4,MAIL,4,171
-82095,Hide Filtered Mails From Views,Hadden89,2022-12-16T20:15:55.979Z,4,MAIL:TASKS,4,245
-80375,Upcoming/undone badge on sidebar for calendar and tasks,somnomania,2022-10-20T20:11:04.586Z,4,TASKS:CALENDAR,2,199
-76545,Option to disable distinction between unseen/unread mails/feeds.,Gregor,2022-06-12T19:50:05.412Z,4,FEEDS,3,206
-76447,Keyboard shortcut for archiving mails,mfsmfs,2022-06-10T11:39:18.192Z,4,MAIL,1,103
-74024,Adding mail recipients by typing @name in mail body plus overview over such mentions in contacts,WildEnte,2022-04-09T08:44:50.725Z,4,MAIL,1,86
-73840,Per Feed Notifications,Geniusak,2022-04-06T18:56:51.509Z,4,FEEDS,1,121
-67271,Option to open email links in the default browser,crankdude,2021-10-08T11:07:26.774Z,4,MAIL,2,188
-70248,Enable|Disable filter checkbox,Hadden89,2021-12-22T20:13:15.871Z,4,MAIL:TASKS,1,137
-69969,download all attachments with a click,nik57,2021-12-15T07:18:18.657Z,4,MAIL,4,151
-69583,Add an "Empty Trash" button for the Mail client,ndeshmukh,2021-12-07T17:30:58.035Z,4,MAIL,1,97
-61841,Mail filters include/exclude groups: add labels  bodies  other filters etc,WildEnte,2021-06-03T20:58:38.878Z,4,MAIL,6,313
-67247,Auto focus & raise Window with Mail client when summon Mail manager/panel,dude99,2021-10-08T05:03:25.640Z,4,MAIL,3,129
-62899,Office 365 Mail support,AhmadMS1988,2021-06-19T19:01:58.180Z,4,MAIL,6,1803
-62710,iCloud Support like Thunderbirds "tbSync",hosh0815,2021-06-16T12:08:31.697Z,4,CALENDAR,3,211
-65161,Quarterly events ie appointments & tasks,CThomas,2021-08-11T20:36:50.829Z,4,CALENDAR,1,99
-63880,Allow email account of nonexistent address.,Navel,2021-07-11T22:58:24.600Z,4,MAIL,2,88
-64070,time stamps on events,AbdSah,2021-07-17T14:17:59.718Z,4,CALENDAR,1,87
-62450,A generalized and more user-centered feed ; data streams monitoring (mail  html differences  rss feed),Seasonly,2021-06-12T17:42:31.206Z,4,FEEDS,7,497
-62900,G-Suite support,AhmadMS1988,2021-06-19T19:05:21.601Z,4,IN PROGRESS:MAIL,1,465
-62819,Choose local sound file as Notification Sound,[[global:former-user]],2021-06-18T12:29:50.182Z,4,CALENDAR,0,84
-62636,Wildcards/boolean/regexp in searches and filters,kepic,2021-06-15T10:40:21.022Z,4,MAIL,1,131
-61660,Some minor M3 usability suggestions,Codehunter,2021-05-29T17:31:39.342Z,4,MAIL,11,310
-53775,"Edit as new" versus "Forward" versus "Templates",maiiler,2020-12-02T10:43:49.086Z,4,MAIL,2,104
-57612,Labels Shortcut,janrifkinson,2021-02-28T16:25:47.791Z,4,MAIL,7,221
-57421,Removable Sections,Frax0,2021-02-23T16:19:18.375Z,4,MAIL,4,104
-54046,Option to Not Add Contacts from Sent Messages,burnout426,2020-12-08T12:46:33.419Z,4,MAIL,2,90
-54689,Option to Locate Mail in Another Directory,DarylO,2020-12-19T19:03:53.276Z,4,MAIL,1,53
-53870,Differentiate feeds from mail visually,jumpsq,2020-12-04T07:28:14.055Z,4,MAIL,1,68
-85136,Hide Message Content,Pesala,2023-03-27T04:36:41.585Z,3,MAIL,4,200
-85136,Hide Message Content,Pesala,2023-03-27T04:36:41.585Z,3,MAIL,4,200
-101579,Allow set-up of new account to use existing mail address,mossman,2024-10-02T12:21:05.474Z,3,MAIL,2,76
-88414,Better keyboard shortcuts and article viewing when reading feeds,mossman,2023-06-27T12:56:23.584Z,3,FEEDS,4,279
-91630,Allow changing keyboard shortcut for "Delete Message" (i.e. to Trash  not "Delete Permanently") in Vivaldi Mail,romwell,2023-10-19T09:32:02.405Z,3,MAIL,4,203
-89346,Mail default font size,pfpinto,2023-08-04T14:07:42.870Z,3,MAIL,3,231
-57104,Shortcut for moving mails to folders,HrvGui,2021-02-16T13:34:30.748Z,3,MAIL,6,246
-64558,Allow configuring a SEND ONLY Email account,panamavibes,2021-07-29T18:46:26.826Z,3,MAIL,8,361
-92758,Prioritizing Tasks,aranga,2023-11-23T22:08:38.695Z,3,TASKS,2,180
-89976,Mail Filter | Mark as Read after X Days,Hadden89,2023-08-28T21:20:14.461Z,3,MAIL,1,98
-85995,Option to set preselected font for new email messages,thimo,2023-04-22T08:14:45.346Z,3,MAIL,2,90
-85431,Sort RSS feeds in Settings,joeduffus,2023-04-07T19:30:04.759Z,3,FEEDS,2,213
-55078,Panel to show certain mail like messenger conversations (aka Spike email / Delta Chat),WildEnte,2021-01-02T14:36:46.969Z,3,MAIL,11,1054
-83421,Filter message by time?,mcastel,2023-02-01T13:04:49.989Z,3,MAIL,1,88
-81332,Auto forward incoming emails,aybesea,2022-11-29T22:04:40.129Z,3,MAIL,1,131
-80123,Support for "MAPI" (Send to Mail Recipient) or "Share" feature in Windows?,jan.ripper,2022-10-12T08:46:33.804Z,3,MAIL,9,641
-78908,change the location where emails are stored,stercomm4,2022-08-29T16:11:39.991Z,3,MAIL,10,333
-78062,Favicon on emails,barbudo2005,2022-08-04T18:12:18.112Z,3,MAIL,2,127
-77181,Ability to add label to email being composed,Starr88,2022-06-29T19:17:45.602Z,3,MAIL,1,37
-53472,Ability to fix calendar panel on the right side of the window,WildEnte,2020-11-26T18:19:49.694Z,3,CALENDAR,4,185
-74658,Add a label for aliases to be easier to identify,Hallker,2022-04-22T18:12:17.142Z,3,MAIL,1,108
-71995,Calendar Need Better Default Highlighting of Current Day,g_bartsch,2022-02-13T21:00:03.841Z,3,CALENDAR,5,218
-71732,UI Bug: No option to undo "Always allow <sender> to load external content",ravionline,2022-02-09T08:13:12.207Z,3,MAIL,1,116
-56411,URL list from bookmark folder,Privacy,2021-02-03T17:32:12.890Z,3,FEEDS,3,223
-67432,Allow mail be opened in multiple tabs,felagund,2021-10-11T13:34:20.285Z,3,MAIL,3,246
-67770,Dismissing a calendar notification in 1 window dismisses in all,RichardJActon,2021-10-20T15:23:21.046Z,3,CALENDAR,1,72
-66325,Addition of a "To:" Column in the "Unread" Box,jdvernet,2021-09-15T14:34:39.554Z,3,MAIL,1,62
-65870,"Copy address" option in the RSS button,Olomorn,2021-09-01T22:02:57.997Z,3,FEEDS,2,101
-63561,Make "Empty Trash" available on right click,Sataylor56,2021-07-04T21:03:04.783Z,3,MAIL,1,57
-62897,Office 365 support,AhmadMS1988,2021-06-19T18:59:51.933Z,3,CALENDAR,5,464
-62528,No links in email signature supported,loxal,2021-06-13T21:56:11.998Z,3,MAIL,4,143
-62241,More options for checking frequency,ghpy,2021-06-10T14:51:51.482Z,3,MAIL,6,168
-62221,Option to hide most of mail custom folders,Erehr,2021-06-10T12:08:50.017Z,3,MAIL,2,100
-62058,Administrative Deactivation of Email-Feature,HansHansen,2021-06-09T11:55:48.255Z,3,MAIL,1,77
-60429,handle labels,janrifkinson,2021-05-01T16:29:27.862Z,3,MAIL,2,98
-59779,Better support for Gmail,silverhr,2021-04-18T21:19:12.677Z,3,MAIL,2,285
-56727,When entering a view  add an option to always go to the top or bottom according to the selected sorting criterium,felagund,2021-02-09T15:55:56.496Z,3,MAIL,5,122
-59703,Empty trash,AdeurD,2021-04-17T02:41:25.073Z,3,MAIL,3,262
-57639,Copying parts of the email subject by double-click.,razor79,2021-03-01T13:04:04.047Z,3,MAIL,4,107
-56551,Search for feeds,pauloaguia,2021-02-06T07:52:51.174Z,3,FEEDS,1,110
-54602,Create RSS feed from Twitter  Facebook,bugmenot3,2020-12-17T19:53:34.041Z,3,FEEDS,1,251
-54316,Add Day Headers,stevenpemberton,2020-12-12T10:28:54.506Z,3,MAIL,1,72
-54020,[Option] Show the URL bar on M3,Hadden89,2020-12-08T03:18:36.320Z,3,MAIL,2,152
-53965,Feed Article Link Should Be in the Header Bar,burnout426,2020-12-06T12:27:32.693Z,3,MAIL,2,80
-53945,Separate Internal Address For Each Email  Feed  ect.,legobuilder26,2020-12-05T21:48:03.555Z,3,MAIL,1,72
-53683,Drop-down menu for labels and flags,jumpsq,2020-11-30T09:20:04.002Z,3,MAIL,1,102
-53650,Set differing standard account for contacts,Popanz,2020-11-29T15:20:55.653Z,3,MAIL,1,60
-53473,Add 'countdown to next calendar entry' in clock,WildEnte,2020-11-26T18:35:10.678Z,3,MAIL,3,104
-98992,Reply-To Header Support,aerogems,2024-06-27T20:45:06.205Z,2,MAIL,2,88
-80663,Expand on "Save As" feature,dmkroslindale,2022-11-01T21:26:53.602Z,2,MAIL,2,69
-98992,Reply-To Header Support,aerogems,2024-06-27T20:45:06.205Z,2,MAIL,2,88
-80663,Expand on "Save As" feature,dmkroslindale,2022-11-01T21:26:53.602Z,2,MAIL,2,69
-101866,Ability to search in mail compose,greench,2024-10-13T14:39:15.863Z,2,MAIL,1,25
-76991,Separate window for mail,cheyrn,2022-06-24T05:12:53.262Z,2,MAIL,5,253
-100055,Individual mail accounts Drafts folder should include message to check All Messages Drafts folder,paaljoachim,2024-08-06T19:39:04.992Z,2,MAIL,4,90
-99580,Calendar Sidebar options (agenda and task view),CptnChicken,2024-07-19T04:09:25.806Z,2,CALENDAR,2,73
-98837,Add a filter function "older than X days" for an offline autoarchive option.,Popanz,2024-06-23T11:59:19.255Z,2,MAIL,1,56
-98760,Unset the character limit if we search for the mail using Chinese or some language,YsPan,2024-06-21T09:31:10.556Z,2,,1,46
-75813,Give Option to have white background for feeds,Dancer18,2022-05-31T20:23:07.198Z,2,FEEDS,5,473
-94600,Add Email Filter by Flag & Label,janrif,2024-01-25T17:14:28.890Z,2,MAIL,1,125
-81839,Keyboard shortcut for focusing a certain view's search field,WildEnte,2022-12-11T10:54:01.227Z,2,MAIL,3,188
-65658,E-Mail alias,lamius,2021-08-26T13:19:19.951Z,2,MAIL,3,669
-91845,Calendar: Add conference link,rkfoster485,2023-10-27T00:02:50.575Z,2,CALENDAR,2,151
-91577,Mail Notification settings per mail account  not globally for all accounts,alexanderyl,2023-10-17T13:17:40.156Z,2,MAIL,1,78
-75111,Adding More Fonts to Signatures,mking90031,2022-05-07T11:39:38.534Z,2,MAIL,11,343
-87705,Multiple calendars and tasks account,vivaldiuser112020,2023-06-08T04:42:11.913Z,2,TASKS:CALENDAR,6,279
-85584,Next message to display after marking as read/spam/delete should not depend on sorting direction,WildEnte,2023-04-13T19:14:32.162Z,2,MAIL:FEEDS,2,160
-86768,Hide Weekends,fgladitz,2023-05-10T20:47:08.188Z,2,CALENDAR,2,176
-85984,Reply-To Support,aerogems,2023-04-21T21:42:04.331Z,2,MAIL,1,75
-85555,Show event date in calendar event reminders,winghongchan,2023-04-12T20:25:10.834Z,2,CALENDAR,1,90
-84456,Telephone number formatting,TryingNewThings,2023-03-05T02:05:52.579Z,2,CONTACTS,3,188
-84181,RSS date defaulting when date is missing,vekkq,2023-02-24T11:42:00.275Z,2,FEEDS,4,167
-53337,Save drafts locally when closing them,jumpsq,2020-11-24T19:29:42.937Z,2,MAIL,10,317
-83771,Allow calendar reminders to be set longer than 2 days.,thegreensplurge,2023-02-13T23:30:31.505Z,2,CALENDAR,3,140
-83562,Mark old feeds as read,mcastel,2023-02-06T12:19:36.124Z,2,FEEDS,4,204
-82644,Removing "Reply to doesn't match . . .",MrCPCHS,2023-01-05T20:16:21.367Z,2,MAIL,2,115
-82554,Ability to configure Calendar views,S_Paternotte,2023-01-02T14:28:31.820Z,2,CALENDAR,1,104
-66841,How about a simple on/off label filter?,janrif,2021-09-27T15:19:15.170Z,2,MAIL,5,317
-68470,Option to not show an email in "Unread" if it shows in a filter view?,Sataylor56,2021-11-10T16:34:58.073Z,2,MAIL,7,198
-79747,Remove any type of tracking,munjean,2022-09-30T05:00:10.818Z,2,MAIL,6,246
-54119,Drag eml File from Hard Drive to Account Folder,burnout426,2020-12-09T11:01:46.258Z,2,MAIL,7,318
-78046,Support for Gmail (other?) labels,ubuntumuntu,2022-08-04T01:19:41.103Z,2,MAIL,4,583
-78901,change location where mail is stored,stercomm4,2022-08-29T12:25:50.170Z,2,MAIL,4,177
-78130,Add option for larger icons on mail toolbar,howards,2022-08-07T19:06:33.857Z,2,MAIL,2,121
-77392,Formatting in Plain Text Signatures,jdvernet,2022-07-07T14:26:58.846Z,2,MAIL,11,346
-74351,Changing Calendar to 12-hour instead of 24-hour,theericbeaty,2022-04-14T22:19:16.445Z,2,CALENDAR,6,380
-77125,Reader Comments at Bottom of Feed Preview,cecille,2022-06-27T20:29:32.190Z,2,FEEDS,1,101
-77077,Ability to make an alias the default "sender" account,williamcallahan,2022-06-26T16:01:43.335Z,2,MAIL,1,84
-76597,Confirm Filter deletion,rromanov,2022-06-13T15:07:08.023Z,2,MAIL,1,51
-76453,Calendar GUI re:  Today <>,janrif,2022-06-10T13:52:40.612Z,2,CALENDAR,1,107
-75306,Allow flags to be used in filters,felagund,2022-05-13T12:29:41.994Z,2,MAIL,2,69
-76274,Option to disable feeds panel unread badge,AltCode,2022-06-07T21:34:41.133Z,2,FEEDS,4,331
-75673,Simplifying Label Entry,janrif,2022-05-25T18:09:00.465Z,2,MAIL,1,66
-74717,Who gets which attachments,YDForums,2022-04-25T07:19:16.559Z,2,MAIL,2,84
-73848,Show event/s from calendar on Speed Dial.,radoivanov,2022-04-06T20:29:07.505Z,2,CALENDAR,2,151
-71998,Include POP3 Accounts when Re-Indexing,jumpsq,2022-02-13T23:02:13.966Z,2,MAIL,1,70
-71764,A Reader View for Vivaldi Mail,olivir,2022-02-09T19:17:53.411Z,2,MAIL,11,366
-71290,Set input focus to mail list when changing the folder,Codehunter,2022-01-26T10:39:39.262Z,2,MAIL,1,42
-67099,Monthly calendar view,PerFischer,2021-10-04T21:54:36.089Z,2,CALENDAR,2,144
-69593,change the "not spam" icon,milamber,2021-12-07T22:56:08.689Z,2,MAIL,1,65
-53516,Read mail in side panel,Vistaus,2020-11-27T12:52:39.333Z,2,MAIL,3,197
-68567,Labeling GUI,janrif,2021-11-13T19:39:28.742Z,2,MAIL,1,98
-67327,Default/General feeds settings,Seji,2021-10-09T11:19:57.985Z,2,FEEDS,2,195
-67517,Quick Control Buttons In Mail Status,2008Choco,2021-10-13T15:42:09.857Z,2,MAIL,1,64
-53966,Display Attachments Inline,burnout426,2020-12-06T12:50:45.687Z,2,MAIL,4,951
-66676,Translate RSS titles (and maybe content) with built in translator,molex,2021-09-23T07:23:34.595Z,2,FEEDS,1,112
-64660,Faster way of creating events : Writing the date in the title,AbdSah,2021-08-01T02:20:22.254Z,2,CALENDAR,5,179
-66517,Change Default Font When Viewing Plain-Text Emails,BigRed314159,2021-09-19T13:32:42.172Z,2,MAIL,11,708
-65439,Setting to search in all messages by default,jumpsq,2021-08-20T06:44:06.183Z,2,MAIL,4,131
-66161,Abbility to read article in RSS feed panel,daivy.merlijs,2021-09-11T14:40:14.957Z,2,FEEDS,1,123
-64831,"Description Area" be able to newline by press key `Enter`,full,2021-08-04T08:37:17.487Z,2,CALENDAR,3,131
-65074,Automatic deletion of calendar entries,Horst2021,2021-08-09T13:53:03.583Z,2,CALENDAR,2,99
-64014,No way to configure client without smtp?..,vdrandom,2021-07-15T15:17:01.090Z,2,MAIL,2,89
-63194,RTL support,RoyR,2021-06-26T09:59:34.769Z,2,MAIL,1,66
-62922,Please add a "Compose" email icon to the mail reader header,Durhammer,2021-06-20T14:48:31.722Z,2,MAIL,3,101
-62104,Don't hide read messages until next session,qazserNOS,2021-06-09T18:45:35.580Z,2,MAIL,2,85
-59734,From Inbox  Move to....,janrifkinson,2021-04-17T20:40:08.329Z,2,MAIL,32,1377
-61380,Import/export calendar entries as spreadsheet-file (.csv),uhbwitt64,2021-05-21T14:20:30.577Z,2,CALENDAR,1,68
-58061,"Unsubscribe" and "Mark as Read" on Notifications,code3,2021-03-12T18:53:17.214Z,2,MAIL,2,96
-57316,Add "Move to trash" mouse gesture command,arcsnim,2021-02-20T20:47:39.497Z,2,MAIL,1,54
-56725,Birthdays imported by contacts.vcf are not displayed in Calendar,valdorox,2021-02-09T15:21:50.103Z,2,CALENDAR,1,107
-56404,Add Compose new mail  Check specific account  Undo to mail toolbar,pauloaguia,2021-02-03T16:23:23.532Z,2,MAIL,1,68
-56392,Better Naming for Mail Account Storage Folders,burnout426,2021-02-03T10:18:12.550Z,2,MAIL,1,66
-55051,Calendar user interface - too small and crammed,WildEnte,2021-01-01T15:57:29.749Z,2,CALENDAR,7,305
-54626,Ability to toggle "Show messages in Filters" in "Unread" view,Fonant,2020-12-18T10:40:56.064Z,2,MAIL,1,62
-54534,Close in system tray with the mail client still active,leevyou67,2020-12-16T13:48:57.809Z,2,MAIL,1,59
-54411,Zero-pad Dates,kiriya.aoi,2020-12-14T05:04:04.513Z,2,MAIL,9,212
-54370,Intelligent Alias/Forwarder Support,vertex,2020-12-13T11:28:44.936Z,2,MAIL,2,86
-53946,Alert When Event is Over,legobuilder26,2020-12-05T22:09:52.352Z,2,CALENDAR,3,107
-54117,Copy Message from One Account to Another,burnout426,2020-12-09T10:51:23.257Z,2,MAIL,1,82
-53968,IMAP QUOTA Extension,burnout426,2020-12-06T16:25:26.083Z,2,MAIL,1,99
-53879,Keep main toolbar available + show address in address bar,zakius,2020-12-04T11:08:12.891Z,2,FEEDS,1,68
-53431,Time-Based Slider Request,DarylO,2020-11-26T01:36:39.128Z,2,MAIL,3,98
-53515,Open mail view in one click,Vistaus,2020-11-27T12:51:09.553Z,2,MAIL,1,84
-102458,Add a post from a feed in the Feeds feature to the "Reading List"  without opening the web page first?,jbove,2024-10-28T08:46:17.223Z,1,FEEDS,2,37
-102385,font size in account and message list pane,mattzur,2024-10-26T15:30:12.289Z,1,MAIL:CALENDAR,2,27
-102093,Restrict fetching emails older than 'n' years . N configurable,3dvs,2024-10-21T15:35:08.560Z,1,,5,73
-102458,Add a post from a feed in the Feeds feature to the "Reading List"  without opening the web page first?,jbove,2024-10-28T08:46:17.223Z,1,FEEDS,2,37
-102385,font size in account and message list pane,mattzur,2024-10-26T15:30:12.289Z,1,MAIL:CALENDAR,2,27
-102093,Restrict fetching emails older than 'n' years . N configurable,3dvs,2024-10-21T15:35:08.560Z,1,,5,73
-102147,Show unread count in the (beginning of) inbox tab,YakovL_,2024-10-23T08:05:10.470Z,1,MAIL,1,33
-101717,Assign Hot Keys in Settings for Remove Flag and Adding Colored Flags,dalinar,2024-10-08T11:28:36.673Z,1,MAIL,1,46
-101599,Calendar visible from the Calendar Status icon from the status bar,Kiloneie,2024-10-02T22:05:19.059Z,1,CALENDAR,7,132
-100291,Store incoming mail as one file per month per account,dudi2,2024-08-17T14:37:50.952Z,1,MAIL,4,106
-99529,Parse feeds to display a proper preview,Geniusak,2024-07-17T13:24:28.999Z,1,FEEDS,7,187
-100028,Show mail address in contact list,marlinus,2024-08-05T13:14:22.124Z,1,CONTACTS,6,306
-99802,Mails from contact - remember search criteria,marlinus,2024-07-27T19:46:38.045Z,1,MAIL:CONTACTS,1,58
-75000,Creating email filters/rules from mailclient interface,rafaelkbarros,2022-05-04T00:39:16.121Z,1,MAIL,9,442
-98458,"From" display,eggdog,2024-06-07T19:25:59.080Z,1,MAIL,4,178
-97639,Option to Disable Signature Seperator,Ben,2024-05-06T08:45:57.597Z,1,MAIL,4,174
-97539,Customizable keyboard scroll distance in mail,brandonaut,2024-05-02T23:31:19.931Z,1,MAIL,1,80
-96932,Search Mail to include All Mail (Gmail) / Archive question,DavyLJones,2024-04-15T00:01:38.048Z,1,MAIL,40,1080
-96931,Add attachments to google calendar events,DavyLJones,2024-04-14T23:53:48.855Z,1,CALENDAR,1,112
-96825,Please add font-size preferences to received mail content,Dancer18,2024-04-10T19:04:42.473Z,1,MAIL:FEEDS,3,165
-94796,Mail Multiple Label Selection,janrif,2024-02-01T12:34:16.529Z,1,MAIL,9,323
-55217,Deleting mails when content window is active,larsen0815,2021-01-07T09:09:48.767Z,1,MAIL,10,301
-96286,Select all when folder selected,jtittsler,2024-03-21T13:05:29.181Z,1,MAIL,1,66
-93357,Calendar | Monthly Event Template,Hadden89,2023-12-14T18:41:25.466Z,1,CALENDAR,2,207
-94971,Mail GUI improvement,janrif,2024-02-07T11:20:41.393Z,1,MAIL,1,130
-94680,Custom Notification Sound and separate Mail & RSS feeds into separate folders.,Gravitorvox,2024-01-29T00:43:02.253Z,1,MAIL:FEEDS,10,464
-75789,Aliases with custom SMTP server and credentials,petersaints,2022-05-30T23:17:18.988Z,1,MAIL,6,416
-93560,Add new-mail-indicator on parent-folder,jrkl,2023-12-19T16:36:28.210Z,1,MAIL,1,107
-93083,Global Search / Keep Search Term when changing folders,helmar,2023-12-05T09:49:27.548Z,1,MAIL,1,117
-92462,More generic filters for email,janrif,2023-11-14T11:21:11.774Z,1,MAIL,1,96
-92026,Show dropdown of recently used/modified files when trying to attach items to mail,guylfe,2023-10-31T09:10:03.708Z,1,MAIL,1,70
-76992,How to open an event and click a URL in description?,gamerka,2022-06-24T07:49:22.601Z,1,CALENDAR,5,337
-91260,Show unread message count on system task bar icon,stevedperkins,2023-10-05T15:13:30.460Z,1,MAIL,1,242
-90449,reply with outlook style headers,rubie,2023-09-11T02:38:20.699Z,1,MAIL,2,104
-90754,Mailbox Favorites,seanfrisbey,2023-09-19T22:46:12.260Z,1,USER INTERFACE,6,211
-89001,Mailboxes support unified reminders at specified times,Poto,2023-07-21T04:20:15.837Z,1,MAIL,1,78
-88616,Link-based filtering of repeated feed items,mossman,2023-07-05T11:19:09.318Z,1,FEEDS,7,454
-84087,Rename Flags [ Completed ],janrif,2023-02-22T12:40:05.843Z,1,MAIL,19,811
-87688,Nextcloud News API integration,oriold,2023-06-07T14:21:53.379Z,1,FEEDS,3,257
-87513,Move email list to righthand side,bkeevins,2023-06-01T17:48:59.744Z,1,MAIL,8,223
-86974,Tasks per Calendar,ResearchScientist,2023-05-16T17:06:41.169Z,1,TASKS,7,318
-84766,Reduce Mail CPU usage,karstux,2023-03-14T08:53:09.670Z,1,MAIL,7,847
-86319,Right-align email size column,Shanshorshe,2023-04-29T07:44:36.979Z,1,MAIL,2,100
-86253,Updating my phone number,sybiltonk,2023-04-28T03:38:12.267Z,1,MAIL,5,153
-85945,Edit mail as new,EyesOnly5x5,2023-04-21T13:44:54.655Z,1,,1,70
-85522,RSS Feed Reader Feature Request/Improvements,paulhey,2023-04-11T16:43:19.174Z,1,FEEDS,3,616
-84520,automatically allow external content in email,photonnix,2023-03-06T23:35:35.755Z,1,MAIL:TASKS,6,556
-84094,Multi-Select Label Drop Down Menu,janrif,2023-02-22T16:57:07.372Z,1,MAIL,6,204
-83636,Expanded view layout,JustABrowser58,2023-02-09T04:31:52.202Z,1,FEEDS:MAIL,3,209
-82800,Add bayesian spam filtering,lukaszj,2023-01-11T20:58:55.579Z,1,MAIL,5,259
-82611,Filtered e-mails notifications and actions,giannilupindo,2023-01-04T11:28:52.682Z,1,MAIL,1,63
-82518,Buttons on the Email feed,Layers030,2022-12-31T02:01:13.626Z,1,MAIL,4,130
-82407,Better integration with Windows 11 Notifications,dlupo,2022-12-27T12:38:19.360Z,1,MAIL:CALENDAR:TASKS,1,214
-54103,Text labels instead of Icons in Mail,saudiqbal,2020-12-09T05:19:08.436Z,1,MAIL,2,104
-81100,Auto-detect Mastodon RSS feeds,AltCode,2022-11-21T16:33:39.656Z,1,FEEDS,2,226
-81806,Filters | Remember Last Used User Combination | UX Bug,Hadden89,2022-12-10T11:47:08.635Z,1,MAIL:TASKS,1,134
-81735,toggle mail view per keyboard shortcut,schmidtjs,2022-12-09T01:36:17.780Z,1,MAIL,6,132
-81699,Click in any folder to go to TOP,Cjcr,2022-12-08T14:24:54.068Z,1,MAIL:FEEDS,2,100
-81414,Ability to change (at least) the color of the email account db icon,mdiblasi,2022-12-02T15:45:48.536Z,1,MAIL,1,69
-81330,Auto clean folders,aybesea,2022-11-29T22:02:17.896Z,1,MAIL,1,71
-81203,vim keybindings for mail,stanthesam,2022-11-26T00:02:13.191Z,1,MAIL:FEEDS,1,114
-80646,Mark as read mails older than x days,Hadden89,2022-11-01T12:55:03.676Z,1,MAIL,1,115
-80420,Mail: sort by flag or label,longrun,2022-10-22T13:40:51.536Z,1,MAIL,1,97
-80214,📌Show feeds in a separate tab 📌,stardepp,2022-10-14T20:44:40.313Z,1,MAIL:CALENDAR,1,136
-79857,Horizontal Calendar View,Geniusak,2022-10-05T16:34:11.357Z,1,CALENDAR,1,81
-78562,Limiting mail downloads,iwaldner,2022-08-18T18:48:10.121Z,1,MAIL,3,126
-79072,Button for adding Vivaldi.net account,Omen_20,2022-09-04T07:18:00.354Z,1,MAIL,2,71
-78460,event recurrence in calendar,Miikl,2022-08-15T21:35:06.065Z,1,CALENDAR,1,95
-78044,Support for Sieve Syntax for better/richer search & filtering,ubuntumuntu,2022-08-04T00:45:45.448Z,1,MAIL,1,100
-76589,Add reorder feature,rromanov,2022-06-13T13:51:44.437Z,1,MAIL,2,105
-77661,Add show label toggle like "read"  "trash" etc,janrif,2022-07-19T02:59:55.606Z,1,MAIL,1,65
-77233,Support Natural Language Search,AltCode,2022-07-01T12:59:08.956Z,1,MAIL,1,74
-77226,LanguageTool Extension,winsport,2022-07-01T06:20:08.271Z,1,MAIL,13,712
-76984,Add Description field to accounts that shows instead of the email address in the left pane,luminouslemon,2022-06-23T23:49:32.719Z,1,MAIL,1,70
-76470,Limit dates synced(Vivaldi Freeze fix),Dakingof,2022-06-11T00:25:36.020Z,1,CALENDAR,4,188
-76534,Display mail reading pane according to theme,jswinner59,2022-06-12T16:10:24.408Z,1,MAIL,3,111
-75466,Displaying Flagged Emails,mking90031,2022-05-18T11:01:54.101Z,1,MAIL,3,103
-74895,RSS Feed panel horizontally on top,Zakalwe,2022-04-30T22:31:17.767Z,1,FEEDS,2,155
-73637,Show contact icon on message list,Thescorb0,2022-04-01T09:00:16.232Z,1,MAIL,1,65
-73604,Ability to Change Mail Composition Font,jdvernet,2022-03-31T11:35:17.797Z,1,MAIL,1,144
-73330,Allow editing of Holiday Events,JMRobinson,2022-03-23T07:02:57.461Z,1,CALENDAR,1,108
-66556,Notification of past alarms on next start of Vivaldi,snertev,2021-09-20T14:46:18.983Z,1,CALENDAR,11,301
-70606,Evenly distributed column width in week view,JoergP,2022-01-05T13:14:53.883Z,1,CALENDAR,1,68
-69582,Using "Send by Mail" puts URL in subject line,jdvernet,2021-12-07T16:53:39.100Z,1,MAIL,6,188
-66324,Import/export calendars through ics files,AltCode,2021-09-15T13:30:54.744Z,1,CALENDAR,8,668
-68736,Missing compose email button,JJDP,2021-11-19T00:35:10.027Z,1,MAIL,4,177
-67954,Default ctrl+v to "Paste as plain text" in emails,WildEnte,2021-10-25T21:18:36.585Z,1,MAIL,3,130
-67917,Single request for subcategories note & email & URL,janrif,2021-10-24T21:46:49.821Z,1,MAIL,2,80
-67793,To scale hours display,deniscremer,2021-10-21T08:13:10.587Z,1,CALENDAR,1,84
-66482,Yubico key support,robodonster65,2021-09-18T14:10:31.076Z,1,MAIL,2,162
-66876,Tick Tick Integration,canders,2021-09-28T14:07:30.625Z,1,CALENDAR,2,300
-66395,Group mails by field,HaydnLaerm,2021-09-16T18:44:28.078Z,1,MAIL,3,114
-66164,Flickr Group Pools: Show the Author  Not the Group,KoHoSo,2021-09-11T15:56:51.286Z,1,FEEDS,1,112
-65840,New mail badge colour.,GeoffreyM,2021-08-31T23:43:16.239Z,1,MAIL,1,60
-65826,Location of Action buttons on Mail,mozi,2021-08-31T14:58:03.676Z,1,MAIL,3,90
-65480,Notification by keywords,summoner,2021-08-21T07:23:21.875Z,1,FEEDS,1,107
-65132,Domain filter.,jhmichalak,2021-08-11T06:45:59.208Z,1,MAIL,1,61
-64722,A mailing list like functionality,Codehunter,2021-08-02T06:37:37.657Z,1,MAIL,3,120
-64757,Add a filter to only show un-read items,rolypoly,2021-08-02T23:13:44.167Z,1,FEEDS,3,124
-64100,A keyboard shortcut to switch to next feed with unread items.,KuramaDono,2021-07-18T11:36:38.272Z,1,FEEDS,5,216
-64074,Shades  patterns  textures for events,AbdSah,2021-07-17T16:37:54.871Z,1,CALENDAR,1,104
-64072,Transparent colors for events,AbdSah,2021-07-17T15:15:29.499Z,1,CALENDAR,1,82
-63955,Allow loading images from urls in the case of contacts,mynameismon,2021-07-13T18:36:48.177Z,1,MAIL,3,89
-63506,Quick access to mail actions right in the list item,WildEnte,2021-07-03T14:51:02.346Z,1,MAIL,1,80
-63123,One more mail desktop layout  please!,Ansy,2021-06-24T16:50:03.630Z,1,MAIL,1,86
-63048,Ability to scroll multiple items,Sennarok,2021-06-23T08:00:28.533Z,1,FEEDS,3,101
-61656,Collapsible text in Email,code3,2021-05-29T16:36:01.781Z,1,MAIL,1,76
-61381,Tagging events,uhbwitt64,2021-05-21T14:29:52.670Z,1,CALENDAR,1,67
-60585,Label Special Characters?,janrifkinson,2021-05-03T23:57:56.692Z,1,MAIL,3,94
-60568,Add the image of the Person's Profile  to the e-mail messages tab  in Vivaldi Desktop Mail client,newscpq,2021-05-03T19:23:35.115Z,1,MAIL,1,58
-53819,Option to Modify Sent Folder Double-Click Behaviour,DarylO,2020-12-03T04:17:43.199Z,1,MAIL,5,92
-59231,Notification window for missed calendar/task events,arcsnim,2021-04-05T06:22:34.687Z,1,CALENDAR,2,87
-59512,consistent highlight day of week,janrifkinson,2021-04-12T13:00:40.340Z,1,CALENDAR,1,71
-58114,Autocrypt Support,code3,2021-03-14T16:09:46.064Z,1,MAIL,7,214
-57102,Predefined colours in colour picker,felagund,2021-02-16T13:05:31.517Z,1,MAIL,3,94
-57271,Allow clicking links from Google Calendar task description?,Iaaa123456789,2021-02-19T22:33:20.571Z,1,CALENDAR,4,129
-57431,Seperate keyboard shortcuts for Mail and Everything Else,legobuilder26,2021-02-23T21:33:37.901Z,1,MAIL,1,52
-56564,Allow linking notes to Emails (not just web pages),WildEnte,2021-02-06T10:47:37.373Z,1,MAIL,1,66
-56461,Need notification (error message) using 'mailto:' in secondary window,greybeard,2021-02-04T17:33:41.804Z,1,MAIL,3,97
-55770,Create RSS feed from instagram,el3ctron,2021-01-22T09:52:59.855Z,1,FEEDS,6,954
-55497,Button to share a link via email,edwardp,2021-01-14T20:09:56.834Z,1,MAIL,2,201
-55280,Mail insert link mechanics: drag&drop of tab into email body; 'find as you type'; select link from open tabs,WildEnte,2021-01-08T19:18:21.933Z,1,MAIL,8,186
-55237,Shortcut to open mail tab,larsen0815,2021-01-07T16:11:16.017Z,1,MAIL,3,131
-54073,Default Message List Sorting Should Be Descending,burnout426,2020-12-08T19:34:22.490Z,1,MAIL,9,200
-54194,'Mark as Read' from Status Bar/Panel icon's content menu,npro,2020-12-10T14:46:44.541Z,1,FEEDS,1,71
-54023,Customize > "Show label on this button",Hadden89,2020-12-08T03:36:40.295Z,1,MAIL,1,63
-53964,Option to Send Body as 8bit,burnout426,2020-12-06T12:22:35.174Z,1,MAIL,1,66
-53962,Properties Item when Right-Clicking on an Account in the Mail Panel,burnout426,2020-12-06T11:47:32.433Z,1,MAIL,1,61
-53790,Remember Composition / Formatting preferences,jdvernet,2020-12-02T14:02:01.453Z,1,MAIL,1,119
-53781,To avoid all spams : please allow two times verification as in Thunderbird,eiua,2020-12-02T11:57:39.581Z,1,MAIL,1,70
-53720,Lacking of manual proxy settings in the new email panel,ibin7777,2020-12-01T05:22:34.615Z,1,MAIL,2,249
-53627,Switch focus to message list when opening a feed,Jaws,2020-11-29T06:48:43.627Z,1,FEEDS,1,56
-53370,Support HTTP basic authentication for RSS/Atom,jumpsq,2020-11-25T10:02:18.731Z,1,FEEDS,3,147
-102579,Create task from email,Kimsman,2024-10-31T01:19:28.535Z,0,TASKS:MAIL,5,51
-102567,emails to tasks,mesnitu,2024-10-30T18:22:47.726Z,0,MAIL:TASKS:CALENDAR,4,42
-102064,Make it so closing the Mail Side Panel also closes the Mail Tab and vice-versa,camemb3rt,2024-10-20T12:21:10.263Z,0,MAIL,4,57
-101887,Show count in all Mail folders,Granite1,2024-10-14T13:00:36.847Z,0,MAIL,17,228
-102052,Vivaldi onboarding for new user; email & calendar,halbrick,2024-10-20T03:33:12.271Z,0,MAIL:CALENDAR,7,108
-102579,Create task from email,Kimsman,2024-10-31T01:19:28.535Z,0,TASKS:MAIL,5,51
-102567,emails to tasks,mesnitu,2024-10-30T18:22:47.726Z,0,MAIL:TASKS:CALENDAR,4,42
-102064,Make it so closing the Mail Side Panel also closes the Mail Tab and vice-versa,camemb3rt,2024-10-20T12:21:10.263Z,0,MAIL,4,57
-101887,Show count in all Mail folders,Granite1,2024-10-14T13:00:36.847Z,0,MAIL,17,228
-102052,Vivaldi onboarding for new user; email & calendar,halbrick,2024-10-20T03:33:12.271Z,0,MAIL:CALENDAR,7,108
-101985,Support adding subtasks to existing tasks,jakubtwisepeople,2024-10-17T07:33:13.137Z,0,TASKS,1,26
-101983,where is options to separate mail and feeds?,unchanged,2024-10-17T04:11:24.498Z,0,FEEDS:MAIL,2,52
-101807,Unread Folders for each Individual Mail Account,dalinar,2024-10-11T12:13:59.959Z,0,MAIL,6,109
-101867,Mail address hints from mail headers and Contacts,greench,2024-10-13T14:43:47.379Z,0,MAIL:CONTACTS,2,57
-101781,Ability hide some accounts from the Unified Inbox/Folders,dalinar,2024-10-10T17:22:31.694Z,0,MAIL,2,58
-101688,Assigned Tasks support for Google Tasks,ianzhuo,2024-10-07T06:00:27.089Z,0,TASKS,1,66
-101607,Break Vivaldi Mail out for easier access,dies_felices,2024-10-03T11:47:53.113Z,0,MAIL:CONTACTS:CALENDAR,4,109
-101606,Allow Vivaldi Mail to launch in its own window,dies_felices,2024-10-03T11:39:16.392Z,0,MAIL:CALENDAR:CONTACTS,1,46
-101271,Photo for signature,taisheng,2024-09-19T23:48:37.872Z,0,MAIL,3,70
-101284,[FEATURE REQUEST] Retention policy,Granite1,2024-09-20T10:31:28.137Z,0,,1,42
-101195,Mail to event,00sapo,2024-09-17T20:29:38.544Z,0,CALENDAR:MAIL,2,47
-101196,Threat recipient as mailing list,00sapo,2024-09-17T20:32:22.967Z,0,MAIL,1,41
-101094,Please make a useful color coding system,00sapo,2024-09-13T21:39:39.315Z,0,,5,91
-100962,Bringing Reader features and Feeds a bit more together,Zyro1331,2024-09-10T02:20:37.080Z,0,FEEDS,1,45
-100604,Mail Search by Flag or Label,janrif,2024-08-29T22:34:10.679Z,0,MAIL,3,85
-98723,Delete mutiple events simultaneously,MVerwaard,2024-06-20T14:25:07.801Z,0,CALENDAR,3,109
-100139,Important Features Missing in Vivaldi Mail,hus007,2024-08-10T05:21:58.522Z,0,MAIL,2,90
-100072,Panel stay in mail when saving attachment,marlinus,2024-08-07T11:25:26.290Z,0,MAIL,3,70
-100027,Add manually timer for "Automatically Mark as Read",jrkl75,2024-08-05T11:59:11.651Z,0,MAIL,1,61
-99986,Searching scripts and auto-populate,jdstrayer,2024-08-02T20:25:37.244Z,0,MAIL,1,53
-99801,Mail client feature request: Bcc search,marlinus,2024-07-27T19:34:57.281Z,0,USER INTERFACE,3,69
-99525,RSS: Hide feeds without new posts,Capushon,2024-07-17T11:04:08.417Z,0,FEEDS,1,61
-99107,HTML Signatures,chunnel,2024-07-02T23:21:53.286Z,0,MAIL,5,142
-99166,Mail Merge feature to allow Vivaldi Mail client automatically send customized mass emails at defined time intervals (like Mail Merge in Thunderbird),victorxstc,2024-07-04T18:50:28.166Z,0,,2,90
-98999,Configurable notifications in Mail,stefanfrede,2024-06-28T06:51:21.905Z,0,MAIL,3,115
-98927,Behavior in mail tab when mail panel is set to overlay display,ryof,2024-06-25T22:46:49.054Z,0,MAIL,2,83
-98608,Support for SMTP password auth methods other than PLAIN,betazed,2024-06-15T21:58:47.950Z,0,MAIL,4,148
-98098,Working with labels,janrif,2024-05-22T11:39:27.484Z,0,MAIL,1,80
-97616,RSS Feed Format,MylesRyden,2024-05-05T13:38:33.478Z,0,FEEDS,10,428
-97180,Add Mail  calendar  feeds on Vivaldi for android and ios,Yaminoyuurei,2024-04-25T09:13:05.750Z,0,CALENDAR:FEEDS:MAIL,3,150
-97131,Number of mail in each folder,EPra,2024-04-23T09:58:07.369Z,0,MAIL,8,236
-97139,What is the security standard of mail client?,Dancer18,2024-04-23T13:42:17.063Z,0,MAIL,8,237
-97073,Export address book to contact panel,antjewagner,2024-04-20T09:22:24.013Z,0,CONTACTS,2,155
-96943,easier ways and shortcuts to move emails between folders and between accounts,DavyLJones,2024-04-15T10:47:41.757Z,0,MAIL,3,134
-96942,pin emails to the top,DavyLJones,2024-04-15T10:31:44.288Z,0,MAIL,2,92
-96941,Unread / Received to All Mail - archiving with All Mail - for synching with Gmail ,DavyLJones,2024-04-15T10:21:53.895Z,0,MAIL,7,162
-96933,Seeking a guide to managing mailing lists,DavyLJones,2024-04-15T00:07:28.673Z,0,MAIL,2,89
-96917,Modifying Vivaldi Calendar TO Use Google Colors,janrif,2024-04-14T15:46:20.876Z,0,CALENDAR,2,85
-96849,Reduce battery usage on MacOS,ayub,2024-04-11T21:04:47.715Z,0,MAIL:CALENDAR:CONTACTS,4,253
-96285,IMAP mark message as deleted,jtittsler,2024-03-21T13:01:23.103Z,0,MAIL,7,249
-96643,Function of removing mail cache,FedorKorkunov,2024-04-03T15:19:20.258Z,0,MAIL:TASKS,1,90
-96577,Mark the Browsserinstance with email client in a specific color in the task bar,FastTrackF1,2024-04-01T19:25:07.278Z,0,MAIL,1,71
-95901,Import mail-adresses from other mail-clients.,wichtig,2024-03-08T23:44:23.084Z,0,MAIL,4,140
-95051,Sorting mail by additional criteria.,janrif,2024-02-10T18:03:37.414Z,0,MAIL,1,91
-93018,Keyboard shortcut to Vivaldi Mail Tab,LassIV,2023-12-02T23:00:25.803Z,0,MAIL,2,153
-72905,Clearly visible calendar events.,shifte,2022-03-10T09:51:16.936Z,0,CALENDAR,10,951
-92756,Safe unsubscribing from (Spam?) Mailing lists,WildEnte,2023-11-23T21:10:52.962Z,0,MAIL,5,270
-92692,Add sources to task.,JulioAmestica,2023-11-22T02:14:28.486Z,0,TASKS,3,198
-92466,Filter Feeds,bkeevins,2023-11-14T12:16:43.397Z,0,FEEDS,2,207
-92322,Switching between mail boxes,uberprutser,2023-11-09T07:55:52.054Z,0,MAIL,7,340
-92226,Separate the functions,frisket,2023-11-05T22:47:02.885Z,0,MAIL:FEEDS:CALENDAR,2,163
-82710,Add Forward to Mail Filter Action -- is this a big deal?,janrif,2023-01-08T17:03:29.455Z,0,MAIL,5,272
-91726,Label support for Zoho mail accounts,TMviv,2023-10-23T12:43:29.291Z,0,MAIL,1,173
-91615,restore message from archive,daveargecy,2023-10-18T21:03:48.030Z,0,MAIL,6,164
-91536,Feed Items Do Not Show As Mail Badge Items,VulpesInculta,2023-10-15T16:11:26.424Z,0,MAIL:FEEDS,2,144
-78871,Better visual distinction between read/unread messages,SVGuss,2022-08-28T13:53:59.245Z,0,MAIL,5,295
-53773,Improve tablet experience (and experience for visually impaired with big font sizes),maiiler,2020-12-02T10:14:14.515Z,0,MAIL,11,320
-90869,Opening an article from the RSS Feed takes too long and opens too many tabs.,Kurlgargyey,2023-09-24T07:10:13.114Z,0,FEEDS,11,991
-90860,Scrollbar for Label Dropdown Menu,janrif,2023-09-23T16:31:45.383Z,0,MAIL,1,85
-90464,Change Google Tasks calendar color,NameIsKallie,2023-09-11T16:45:31.932Z,0,CALENDAR:TASKS,2,721
-90053,Switch between mail filters view by width  not display type,felagund,2023-08-30T10:36:08.590Z,0,MAIL,1,71
-66259,Standard week view,mimavox,2021-09-14T09:25:23.545Z,0,CALENDAR,4,188
-86407,Multiple signatures per one account,Soromeister,2023-05-01T11:01:01.964Z,0,MAIL,2,102
-89245,Keyboard shortcut,Fubero,2023-08-01T15:46:07.933Z,0,MAIL,4,142
-88803,Missing features (even in Premium) compared with Tbird,frisket,2023-07-12T10:48:43.359Z,0,MAIL:FEEDS,3,249
-88566,Confirm Permissions window - dark theme needed,Vioner,2023-07-03T12:43:41.226Z,0,MAIL:CALENDAR,1,107
-88337,Changing Calendar Background,janrif,2023-06-25T16:15:36.074Z,0,CALENDAR,1,109
-87832,Unchecking "Show unsubscribed Mailboxes" hides Inbox&Sent in offline accounts,WildEnte,2023-06-10T08:58:12.388Z,0,MAIL,6,155
-86797,Hierarchical filters,elmotivator,2023-05-11T15:55:44.718Z,0,MAIL,9,525
-87701,Grouping Calendars together,dk224,2023-06-07T20:52:36.414Z,0,CALENDAR,1,112
-87631,Add "Move to Trash" Filter,janrif,2023-06-05T20:50:04.445Z,0,MENUS:COMMAND CHAINS,1,153
-87599,Maintain filter settings when adding new search.,Sataylor56,2023-06-04T22:02:14.019Z,0,MAIL,1,77
-87511,More intuitive way to create Mail rules,greybeard,2023-06-01T16:55:52.156Z,0,MAIL,1,143
-87429,Keyboard shortcut for moving mail to another folder,Qbi-Wan,2023-05-30T10:13:41.107Z,0,MAIL,5,148
-87411,Counter of unread mail in Vivaldi Mail TabTab.,richb,2023-05-29T14:52:24.743Z,0,MAIL,1,86
-86242,Naming Color Flags [ Done ],janrif,2023-04-27T15:01:07.140Z,0,MAIL,7,212
-84701,Storage Limit,Ja27CS2g,2023-03-11T18:49:34.131Z,0,MAIL,4,282
-84378,How to restore deleted sent-folder,ringreg,2023-03-02T15:40:52.787Z,0,MAIL,10,295
-83971,Allow "Prev/Next Unread" keys to work in "Unread" mailbox,canadaduane,2023-02-18T21:37:53.932Z,0,MAIL,5,130
-83429,Command to Remove All Labels [ Done ],janrif,2023-02-01T18:44:08.670Z,0,MAIL,3,172
-83373,Option to mark specific mailing lists as read automatically,WildEnte,2023-01-30T20:22:07.514Z,0,MAIL,3,103
-83004,Log-in person,Knuthf,2023-01-18T13:13:23.393Z,0,TASKS:MAIL:FEEDS:CONTACTS:CALENDAR,7,430
-82999,Select e-mails using checkboxes,NonyaBeeswax1836,2023-01-18T05:05:59.463Z,0,MAIL:FEEDS,9,311
-82989,Time & Content of "YouGotMail" Fly-in Banner,schreck,2023-01-17T17:26:35.963Z,0,MAIL,1,95
-82625,H-Feed support,kilroo,2023-01-05T00:14:57.781Z,0,FEEDS,1,101
-82259,Move Empty recycle bin confirmation dialog window,Dancer18,2022-12-21T19:21:51.524Z,0,MAIL,1,62
-82121,Helpful Options for Email,janrif,2022-12-17T14:44:26.805Z,0,MAIL,4,147
-82164,Integration of var. accounts,S_Paternotte,2022-12-19T09:08:23.291Z,0,MAIL:CONTACTS:CALENDAR,6,326
-82096,Allow to choose which filters views are checked by default,Hadden89,2022-12-16T20:51:03.108Z,0,MAIL:TASKS,2,181
-81890,Search result to be presented with the scroll bar back at the top,Shoham,2022-12-12T12:49:18.652Z,0,MAIL,1,60
-81807,Filters Search Box | Resizable only on the Width | UX Bug,Hadden89,2022-12-10T11:52:46.407Z,0,MAIL:TASKS,1,126
-68142,Deleting articles like Opera 12,david760,2021-10-30T19:51:57.556Z,0,FEEDS,2,175
-81333,Auto sort email to existing folders (not archive),aybesea,2022-11-29T22:06:49.059Z,0,MAIL,1,79
-81204,cannot log on mail server,DonSkoe,2022-11-26T01:23:19.862Z,0,MAIL,2,137
-81229,Create custom unified folders,aybesea,2022-11-26T17:33:54.658Z,0,MAIL,1,69
-81101,Read emails return as unread,janrif,2022-11-21T17:32:15.025Z,0,MAIL,10,240
-81093,Recover an Offline OST Mailbox File in Outlook - Issue Solved,vocan202,2022-11-21T11:33:19.710Z,0,MAIL,2,105
-80476,Compress Database,immanuel.heims,2022-10-24T19:21:15.490Z,0,MAIL,2,131
-79792,Add XMPP protocol,DanMan,2022-10-02T17:06:06.000Z,0,MAIL,3,250
-79377,Bounce Spam!,oldsalt,2022-09-16T07:34:16.210Z,0,MAIL,4,163
-79128,create mailing list directly,jimofadel,2022-09-05T22:49:21.139Z,0,MAIL,2,89
-78970,Please add a "mark all as read" button,Jaws,2022-09-01T05:24:23.306Z,0,FEEDS,8,282
-78866,Ability to filter out // delete duplicate emails,1rif1modo,2022-08-28T11:41:49.234Z,0,MAIL,3,112
-78509,Automatically add a Reminder when accepting an Invitation,RichardWepnerPD,2022-08-17T09:25:36.812Z,0,CALENDAR,1,111
-78027,Hide unsubscribed [IMAP] folders from account views,Hadden89,2022-08-02T22:51:20.977Z,0,MAIL,3,128
-77903,Support for Stationaries,jdvernet,2022-07-28T12:21:41.421Z,0,MAIL,1,75
-77898,Add folders to mailing lists,Shoham,2022-07-28T06:08:06.967Z,0,MAIL,1,74
-77676,Add show flag toggle like "read"  "trash" etc,janrif,2022-07-19T16:35:40.840Z,0,MAIL,1,77
-77648,Do not empty the bin completely,LEO2,2022-07-18T13:30:50.703Z,0,MAIL,4,177
-77501,Proxy Support,Poto,2022-07-12T08:23:25.745Z,0,MAIL,2,174
-77373,The productivity of the mail client is unfortunately very limited because no cataloging in local folders is possible as for example with Thinderbird.,HOREIOS,2022-07-06T23:45:57.793Z,0,MAIL,5,214
-77317,Click Flag in Flag Column to Toggle Flag,dalinar,2022-07-04T22:17:16.337Z,0,MAIL,9,207
-77194,Identities  Signature and PGP,winsport,2022-06-30T05:50:28.429Z,0,MAIL,12,422
-77204,Text Color Picker,SergeKSS,2022-06-30T14:19:03.127Z,0,MAIL,2,84
-77160,Filter Flagged Feeds in the view bar,marcelobianchi,2022-06-29T02:11:02.066Z,0,FEEDS,1,122
-77128,Choose which folders display mail counts,ssilberm,2022-06-28T00:52:23.649Z,0,MAIL,1,56
-77126,Attachments at Bottom of Feed Preview,cecille,2022-06-27T20:32:48.862Z,0,FEEDS,1,115
-76635,Mark Importance,Shoham,2022-06-14T07:27:29.731Z,0,MAIL,8,293
-76740,is it possible to customize in which folder my Sent items are placed?,jaap114,2022-06-16T07:50:41.540Z,0,MAIL,5,198
-76588,Add subfolders,rromanov,2022-06-13T13:47:29.672Z,0,MAIL,8,167
-76580,Show the RSS button when Feeds are disabled,moimadmax,2022-06-13T11:09:04.985Z,0,FEEDS,1,114
-76544,Keyboard shortcuts,Gregor,2022-06-12T19:39:06.480Z,0,FEEDS,1,102
-76252,Feed Reader context menu is not customizable,ffuser1,2022-06-07T14:42:49.046Z,0,FEEDS,1,114
-75634,See outgoing emails at the same time you see replies in your inbox,COVOSO,2022-05-24T08:31:35.550Z,0,MAIL,2,86
-75030,Women's Period 🩸,andressapcorrea,2022-05-04T20:11:58.149Z,0,CALENDAR,7,384
-74712,Send Again,YDForums,2022-04-25T06:53:48.576Z,0,MAIL,2,77
-74641,Mail Filter on Specific folder,OlanK,2022-04-22T08:59:16.951Z,0,MAIL,2,92
-74009,Offline RSS Reading,Artex,2022-04-09T00:53:20.616Z,0,FEEDS,1,147
-73681,Mail Dates from Header Data,dmkroslindale,2022-04-02T18:55:53.485Z,0,MAIL,1,76
-73443,View .msg (Outlook mail) files,Navel,2022-03-26T09:00:07.739Z,0,MAIL,1,74
-65470,Sign into calender with google,lavender29,2021-08-20T22:54:50.600Z,0,CALENDAR,5,280
-66261,Pasting multiple recipients addresses,Elwetana,2021-09-14T09:43:40.818Z,0,MAIL,4,140
-72571,Subject without UTF-8 quoted printable,DocMike65,2022-02-28T14:38:09.944Z,0,MAIL,2,112
-72573,Duplicate Meeting as NEW,DocMike65,2022-02-28T14:57:56.039Z,0,CALENDAR,1,90
-72572,Pick Meeting Participants and Locations from Contacts / Web,DocMike65,2022-02-28T14:50:44.540Z,0,CALENDAR,1,59
-62768,Allow access to local  password/username protected ICS files,ThomasHelzle,2021-06-17T12:40:37.890Z,0,CALENDAR,10,361
-68285,Hide tasks option (+ eventually a tasks app?),st0567,2021-11-04T14:31:18.768Z,0,CALENDAR,3,174
-70564,Zooming in calendar views,ZakMcKracken,2022-01-04T00:56:51.263Z,0,CALENDAR,1,96
-69743,Unread Mail Icon for pinned tab,B-iggy,2021-12-10T07:28:52.392Z,0,MAIL,1,59
-69600,Sync M3's Seen State of Messages to IMAP Server,burnout426,2021-12-08T02:31:25.681Z,0,MAIL,3,169
-69590,Auto Select Feed Title,mdoverl,2021-12-07T22:05:06.653Z,0,FEEDS,1,97
-69436,Save .eml content as markdown via the context menu,novikoiva,2021-12-05T09:47:18.160Z,0,FEEDS,1,118
-69158,Allow mail client to be shown as start page,justwannabrowse,2021-12-02T06:18:47.094Z,0,MAIL,2,78
-69054,RSS Feed Ticker,Neophyte,2021-11-29T00:54:34.304Z,0,FEEDS,4,229
-68712,Focus in email view / shortcuts for next/previous message in the list,pieterdavid,2021-11-18T11:07:18.959Z,0,MAIL,5,112
-67995,Trash  & Spam = Read,janrif,2021-10-26T17:04:15.081Z,0,MAIL,10,272
-68482,Option not to index Junk at startup,Thescorb0,2021-11-11T08:42:47.622Z,0,MAIL,1,60
-65410,Custom Theme Colors Specifically for Mail Client,Bizzet,2021-08-19T11:30:59.088Z,0,MAIL,5,159
-67929,Allow the "Time Increments" to go down to 5 minutes,romankubiv101,2021-10-25T10:41:37.282Z,0,CALENDAR,1,75
-67454,User-specified range for display,Shaare,2021-10-12T00:50:15.877Z,0,CALENDAR,1,72
-67120,Contact Info/Img service,Zalex108,2021-10-05T10:36:39.893Z,0,MAIL,1,70
-66954,Change default action of trash icon in recycling bin to permanently delete,AgentRocket,2021-09-30T11:48:15.535Z,0,MAIL,3,88
-66698,Moving mail to folder using search bar,jcullins,2021-09-23T17:13:06.741Z,0,MAIL,2,180
-66675,Display channel list inside the RSS interface,molex,2021-09-23T07:17:01.428Z,0,FEEDS,1,110
-66425,Drag folders/categories on panel with shift+mouse,Thescorb0,2021-09-17T10:30:34.133Z,0,MAIL,1,64
-66373,Alert schedule wherever using other app,ppgm,2021-09-16T11:21:17.889Z,0,CALENDAR,1,80
-66102,Center Buttons | Allow,Zalex108,2021-09-09T17:51:39.991Z,0,MAIL,4,108
-65623,Snooze units,honzamf,2021-08-25T11:38:02.998Z,0,CALENDAR,1,108
-65523,Group by day received - like Thunderbird,mozi,2021-08-22T22:58:27.346Z,0,FEEDS,1,98
-65496,Linking mail with other mail,k0valski,2021-08-21T16:51:16.772Z,0,MAIL,2,124
-65485,Customizable mail folder list (by PINs and HIDEs),Qbi-Wan,2021-08-21T10:21:13.801Z,0,MAIL,3,97
-65443,Colors within All Messages,mozi,2021-08-20T09:44:56.866Z,0,MAIL,1,41
-65334,[Feature request] Automatically empty mailbox thrash,abdellahb,2021-08-16T23:58:26.223Z,0,MAIL,2,81
-65115,Making Labels much more useful,janrif,2021-08-10T13:22:19.042Z,0,MAIL,6,289
-64770,Google calendar,ALPPHI,2021-08-03T07:50:11.660Z,0,CALENDAR,2,120
-61435,adding calendar-data with events  - in a special format,steelie,2021-05-22T19:39:49.219Z,0,CALENDAR,2,101
-64391,Allow displaying newsletters in RSS reader instead of mail,zakius,2021-07-26T11:34:52.051Z,0,MAIL,2,82
-64147,Todoist-Integration,MKluge,2021-07-19T13:41:22.804Z,0,MAIL,3,587
-64031,Option to automatically delete UTM markers from URLs,voicemorpher,2021-07-16T09:43:51.237Z,0,MAIL,1,63
-63976,Feed detection for other services,zakius,2021-07-14T10:21:24.328Z,0,FEEDS,2,118
-63824,Sorting email,hstoellinger,2021-07-10T09:34:47.243Z,0,MAIL,5,139
-63682,Allow users to disable "mail login" screen presented upon startup,WhyForceMeToRegister,2021-07-07T16:51:25.932Z,0,MAIL,6,134
-63503,Move emails with label,janrif,2021-07-03T13:49:58.761Z,0,MAIL,3,125
-57393,How to sync Tasks with Google Tasks?,AdilAkhmetov,2021-02-22T16:42:53.477Z,0,IN PROGRESS:CALENDAR,3,918
-63103,Receive Mail Sound Check Marked but Nothing,tech444,2021-06-24T10:41:20.365Z,0,MAIL,1,60
-62709,Don't merge different feeds from the same site,baoutsi,2021-06-16T11:40:22.246Z,0,FEEDS,1,70
-62707,Disable images in Feed Reader don't work,Trent,2021-06-16T11:24:30.005Z,0,FEEDS,1,78
-62609,"Current Time Bar" in day/week calendar views,deathau,2021-06-15T00:51:21.270Z,0,CALENDAR,2,68
-62596,Send attachments as link,metiu,2021-06-14T20:04:17.862Z,0,MAIL,1,57
-62536,Mail list page to speed dial,Majtika,2021-06-14T05:59:06.458Z,0,MAIL,2,61
-62435,copy-paste option,pphh,2021-06-12T14:35:38.671Z,0,MAIL,4,85
-62353,Support for MIME encoded strings in List-Id,ddddanil,2021-06-11T15:54:32.271Z,0,MAIL,2,99
-62273,Sidebar agenda,sukovec,2021-06-10T19:46:56.799Z,0,CALENDAR,5,122
-62166,Manual Setup for Gmail (Not Imap),kyrt667,2021-06-10T06:04:40.943Z,0,MAIL,1,1078
-62080,Kalendereintrag von Google Kalender,sapiatz,2021-06-09T14:48:11.140Z,0,CALENDAR,2,110
-61679,Embedded notes to emails,albertoru,2021-05-30T11:29:18.504Z,0,MAIL,6,145
-61513,Sound Notification when,[[global:former-user]],2021-05-25T15:24:23.196Z,0,FEEDS,0,79
-61080,Compose - To: address search hint or blacklist,Poli,2021-05-14T12:58:07.087Z,0,MAIL,2,80
-60569,E-mail Messages TAB should be pinned  by default,newscpq,2021-05-03T19:29:47.247Z,0,MAIL,3,89
-60238,Calendar Highlight Consistency,janrifkinson,2021-04-29T10:20:21.529Z,0,CALENDAR,1,75
-60039,Linux version mail client (preview and columns),Gabito,2021-04-24T21:57:52.797Z,0,MAIL,4,104
-59807,Color backgrounds in mail client,PC64,2021-04-19T20:07:23.511Z,0,MAIL,2,89
-59737,Delete Highlighted Mail Message with single click of trash can.,briancochrane,2021-04-17T21:55:21.629Z,0,MAIL,5,115
-59733,Option to hide mailing list emails from received emails,SmartK8,2021-04-17T19:48:30.438Z,0,MAIL,4,81
-58168,wallpaper option for mail client,horia,2021-03-15T19:20:41.705Z,0,MAIL,2,83
-58880,LaTeX support,vivicagenaux,2021-03-27T19:23:30.590Z,0,MAIL,3,142
-58816,Special Folders,PC64,2021-03-26T16:23:09.195Z,0,MAIL,1,60
-58122,Treat Folders as Labels,code3,2021-03-14T21:51:16.711Z,0,MAIL,5,184
-57772,Add date formats for other regions,cedricdes,2021-03-05T11:09:42.011Z,0,MAIL,2,61
-57613,Rules for auto-moving email when flag is added,janrifkinson,2021-02-28T16:47:13.737Z,0,MAIL,2,74
-57584,Merge elements of horizontal and vertical layout  for mobile,3x5,2021-02-27T15:19:29.489Z,0,MAIL,4,131
-57272,Support for Gmails from an organization,Iaaa123456789,2021-02-19T22:38:02.219Z,0,MAIL,2,71
-57145,Data collector,sf0greensill,2021-02-17T11:46:14.470Z,0,MAIL,1,60
-57143,Form Emails,sf0greensill,2021-02-17T11:34:44.871Z,0,MAIL,1,62
-56086,Do not auto-adjust end-date when start-date of all-day-events is changed,luator,2021-01-29T10:38:01.236Z,0,CALENDAR,1,61
-55429,Readability,mcl,2021-01-13T02:49:05.292Z,0,MAIL,1,75
-55365,Appt Color Options,janrifkinson,2021-01-11T05:21:30.173Z,0,CALENDAR,1,81
-55331,Contact "Always prefer display name over message header" Option,burnout426,2021-01-10T09:35:05.532Z,0,MAIL,1,394
-54403,spark like interface,baris.sehri,2020-12-14T00:49:32.445Z,0,MAIL,1,84
-54214,IDENTICONS for the mail client  please.,tegehel,2020-12-10T21:44:59.367Z,0,MAIL,1,77
-54050,Option to Disable IMAP IDLE for an Account,burnout426,2020-12-08T13:10:37.556Z,0,MAIL,1,84
-53961,Paste as Quotation,burnout426,2020-12-06T11:41:46.258Z,0,MAIL,1,73
-53562,Gravatar Support for Emails,DarylO,2020-11-27T23:54:31.549Z,0,MAIL,1,162
-53514,Folder list in mail view?,Vistaus,2020-11-27T12:49:25.373Z,0,MAIL,2,94
-53430,Option to Mass-Delete or -Move Emails,DarylO,2020-11-26T01:24:37.791Z,0,MAIL,2,193
+53420,Sync email/RSS/Calendar configurations and seen/read statuses,pauloaguia,2020-11-25T22:08:49.432Z,197,MAIL,43,5868
+53420,Sync email/RSS/Calendar configurations and seen/read statuses,pauloaguia,2020-11-25T22:08:49.432Z,197,MAIL,43,5868
+53314,Contacts CardDav sync,Topha,2020-11-24T15:17:50.371Z,113,MAIL,55,7397
+53314,Contacts CardDav sync,Topha,2020-11-24T15:17:50.371Z,113,MAIL,55,7397
+53626,Reorder feeds (via settings or drag&drop),Jaws,2020-11-29T06:46:22.833Z,85,PIPELINE:FEEDS,22,1980
+53785,Synchronization RSS reader,Kevinar,2020-12-02T13:23:59.854Z,73,FEEDS,11,2984
+53298,PGP/GPG De-/Encryption and Signing,LonM,2020-11-24T13:44:08.216Z,68,MAIL:PIPELINE,27,3101
+73562,STARTTLS support || [Proton Bridge],jchortala,2022-03-30T12:05:34.658Z,50,PIPELINE:MAIL,81,13041
+53503,Fully split Mail and Feed Reader,NSANE,2020-11-27T10:48:50.293Z,48,MAIL:FEEDS,28,2779
+53327,Import & Export for Mail  Calendar and Feeds,Clairvaux,2020-11-24T17:29:06.455Z,47,MAIL,26,4467
+66512,Option to send e-mails as a plain text,cdrozak,2021-09-19T10:18:06.322Z,43,MAIL,17,1240
+53379,Allow editing of sender address when composing,jumpsq,2020-11-25T11:06:41.976Z,42,MAIL,15,1353
+54015,Rearrange Mail Accounts in list,JodyW,2020-12-07T22:21:58.460Z,39,MAIL:IN PROGRESS,49,3544
+54015,Rearrange Mail Accounts in list,JodyW,2020-12-07T22:21:58.460Z,39,MAIL:IN PROGRESS,49,3544
+53321,Add Folder and Label settings,jumpsq,2020-11-24T16:22:04.815Z,35,MAIL,10,963
+54439,Unique colors per mail account,GilgaMensch,2020-12-14T18:08:36.883Z,33,MAIL,4,248
+53706,Add list support for group of addresses,FloridaMatt,2020-11-30T18:40:47.679Z,31,MAIL,22,1630
+83589,Option to always load external content,MarciAmon,2023-02-07T12:42:48.450Z,29,MAIL,30,2040
+83589,Option to always load external content,MarciAmon,2023-02-07T12:42:48.450Z,29,MAIL,30,2040
+54422,Support for Microsoft Exchange,eriklothe,2020-12-14T10:21:54.726Z,26,MAIL,18,5503
+53410,Copy email to calendar entry / task (or create calendar entry from email),WildEnte,2020-11-25T19:56:04.578Z,25,MAIL,4,665
+55208,Organize contacts in folders,larsen0815,2021-01-06T20:36:21.806Z,25,MAIL,18,797
+60057,Label management,WildEnte,2021-04-25T10:30:03.195Z,24,MAIL,11,935
+53641,Markdown Editor for Composing HTML Messages,burnout426,2020-11-29T12:07:59.215Z,22,MAIL,3,236
+72165,Coloured Email Labels,wanageeska,2022-02-17T00:13:59.513Z,19,MAIL,34,2699
+59140,Use new translation engine also for emails,WildEnte,2021-04-02T21:28:23.570Z,19,MAIL,17,1208
+57784,Allow linking to specific emails (e.g. m3://<db-item>),WildEnte,2021-03-05T19:25:15.306Z,18,MAIL,18,1045
+57784,Allow linking to specific emails (e.g. m3://<db-item>),WildEnte,2021-03-05T19:25:15.306Z,18,MAIL,18,1045
+64760,Dissociate feeds from mail,garyo,2021-08-03T00:44:40.922Z,18,FEEDS,9,663
+66697,Sorting Mail Folders,jcullins,2021-09-23T17:07:08.492Z,18,MAIL,11,872
+53596,Make M3 usable with all UI configurations,[[global:former-user]],2020-11-28T17:20:40.190Z,18,MAIL,20,1001
+54510,Automatic emptying of Trash & Spam folders,fred8615,2020-12-15T22:45:27.703Z,17,MAIL,9,550
+54696,Enable row shading for message list,Jaws,2020-12-19T22:02:38.749Z,17,MAIL,10,371
+53349,"List View Only" as Mail view option,greybeard,2020-11-25T00:08:00.900Z,16,MAIL,10,506
+93236,Prompt if no Subject on new email,MisterAP,2023-12-11T10:52:50.551Z,16,MAIL,5,220
+53534,Better Mail Filters Support,Hadden89,2020-11-27T15:52:27.092Z,16,MAIL,8,545
+62099,Separate Mail from Panels,qazserNOS,2021-06-09T18:13:30.989Z,16,MAIL,23,1612
+53412,Snooze / Mark as read for xy days or "follow up in xy days" label,WildEnte,2020-11-25T20:08:52.831Z,15,MAIL,6,587
+53435,Multiple Word Search Filter with AND / OR functionality,DarylO,2020-11-26T03:36:50.201Z,15,MAIL,10,500
+60991,Mail and bookmark bars: switch positions or hide bookmark bar,exefex,2021-05-12T18:20:15.478Z,14,MAIL,27,1153
+60991,Mail and bookmark bars: switch positions or hide bookmark bar,exefex,2021-05-12T18:20:15.478Z,14,MAIL,27,1153
+53774,Forward as attachment,maiiler,2020-12-02T10:20:13.502Z,14,MAIL,10,379
+63970,Move Mail/Feeds to specific window,PatchesOnHand,2021-07-14T05:00:39.402Z,14,MAIL,8,742
+75706,Improve open PDF in attachments,Dancer18,2022-05-27T05:57:57.153Z,14,MAIL,11,528
+54533,Preview the page in the feed reader,pauloaguia,2020-12-16T13:03:07.453Z,14,FEEDS,6,393
+54039,Better support for tasks in Calendar panel,valiowk,2020-12-08T10:05:56.387Z,14,PIPELINE:CALENDAR,1,262
+71448,accent color for each email account,jgyvomojlpsebjpqllibkzmbwzkeuw,2022-01-31T01:09:54.776Z,13,MAIL,2,204
+53716,Mark and filter messages with attachments,Zsul,2020-12-01T02:44:35.902Z,13,MAIL,9,368
+57203,Default Sender option - always ask/not defined,sqlmiles,2021-02-18T16:54:16.701Z,13,MAIL,3,146
+53612,HTML Support in Email Composer,DarylO,2020-11-29T01:30:15.203Z,13,MAIL,4,373
+53299,Microsoft Calendar Sync support,LonM,2020-11-24T13:51:40.750Z,13,CALENDAR,5,2843
+53441,Notifications per account / filter,pauloaguia,2020-11-26T09:10:58.029Z,12,MAIL,9,402
+92066,Mail panel: Favorites category & ability to reorder and hide items within a category,WildEnte,2023-11-01T10:15:29.385Z,12,MAIL,3,259
+95078,Proton Mail integration,catharticwaffle,2024-02-12T01:43:39.060Z,12,MAIL,7,1929
+76710,Vivaldi Mail Dark Mode,calebtimms,2022-06-15T16:22:41.236Z,12,MAIL,8,686
+53880,Allow middle click on article list to open original page in new tab,zakius,2020-12-04T11:09:18.068Z,12,FEEDS,6,285
+54047,Tag Support for Contacts,burnout426,2020-12-08T12:48:57.651Z,12,MAIL,3,327
+55611,mail search for attachments - include at least file names please,WildEnte,2021-01-17T20:42:41.075Z,12,MAIL,10,327
+71118,Schedule Emails and Follow-Up-Reminders (Boomerang),MKluge,2022-01-21T10:43:04.347Z,11,MAIL,5,511
+62607,"Archive" emails,deathau,2021-06-15T00:35:34.099Z,11,MAIL,12,1685
+71122,Import and export of mail messages,mossman,2022-01-21T12:41:29.663Z,11,MAIL,6,816
+53963,Per-Account Mail Check Interval,burnout426,2020-12-06T11:51:31.991Z,11,MAIL,3,145
+53350,Allow nesting views in symbolic folders/subfolders,Hadden89,2020-11-25T00:47:53.376Z,11,MAIL,3,334
+54479,Import full contents from Opera 12 feed reader ...,DF55,2020-12-15T15:21:49.027Z,11,FEEDS,3,256
+53513,Remove items from mail panel,Vistaus,2020-11-27T12:48:11.633Z,11,MAIL,1,97
+53444,Mail Window Theme,mib2berlin,2020-11-26T10:01:41.946Z,11,MAIL,1,139
+54099,send email receipts  when email is "received" or "read",peefy,2020-12-09T04:43:56.757Z,10,MAIL,22,1721
+76512,Option to AUTO SEND E-MAILS LATER,advominator,2022-06-12T02:59:09.916Z,10,MAIL,3,220
+55077,Handle eml messages,felagund,2021-01-02T13:51:00.464Z,10,MAIL,15,1470
+77096,Implement printing of the Vivaldi calendar,hstoellinger,2022-06-27T09:26:54.636Z,10,CALENDAR,3,266
+56348,Sort by multiple columns,kbs1,2021-02-02T14:37:36.518Z,10,PIPELINE:MAIL,3,417
+78433,add lunar hijri calendar (Islamic Shamsi and Ghamari),mojienjoyment,2022-08-15T08:42:06.799Z,10,CALENDAR,2,437
+55489,Podcast support in M3,luetage,2021-01-14T18:06:08.431Z,10,FEEDS,11,547
+54315,Auto-delete empty auto-created mailing lists,stevenpemberton,2020-12-12T10:27:09.923Z,10,MAIL,1,84
+54180,Each RSS has its own notification,Ryanchuang,2020-12-10T11:24:08.918Z,10,FEEDS,1,100
+53969,IMAP Server-Side Search,burnout426,2020-12-06T16:54:06.499Z,9,MAIL,8,423
+53400,Printable monthly view,summoner,2020-11-25T17:45:36.680Z,9,CALENDAR,6,345
+68726,Automatically Bcc,milamber,2021-11-18T16:27:11.565Z,9,MAIL,8,396
+72150,RSS Feed Delete Problem and Proposed Solutions,cobalt3096,2022-02-16T18:14:14.679Z,9,FEEDS,3,341
+56223,Pause fetching mail for certain accounts according to schedule / work hours,LonM,2021-01-31T15:57:48.019Z,9,MAIL,6,243
+84624,Option to hide certain accounts in All Messages views,WildEnte,2023-03-09T20:31:52.840Z,9,MAIL,1,136
+67731,Delete attachments from emails,WildEnte,2021-10-19T21:10:31.716Z,9,MAIL,2,196
+76603,Allow labels editing,rromanov,2022-06-13T17:02:53.324Z,9,MAIL,15,507
+53365,Add Sender to the block list,pauloaguia,2020-11-25T09:23:52.266Z,9,MAIL,2,123
+53340,Shortcuts for Compose  Open Mail & Focus Mail Search,jumpsq,2020-11-24T19:44:21.359Z,9,MAIL,20,459
+54016,[Option] Sidebar-like mail layout,Hadden89,2020-12-07T22:29:00.329Z,9,MAIL,24,1484
+54444,Dragging Image File into Body Should Insert the Image,burnout426,2020-12-14T18:58:12.878Z,9,MAIL,5,162
+53750,Add a setting for how long a feed should keep it's content,Popanz,2020-12-01T18:08:00.146Z,9,FEEDS,1,81
+53733,"Are you sure?" prompt when deleting a feed,Jaws,2020-12-01T13:56:33.443Z,9,FEEDS,1,121
+53599,Support accented characters consistently in Mail,gunainm,2020-11-28T20:18:59.059Z,9,MAIL,1,86
+74937,Add mail filter action "move to IMAP Folder",holpemen,2022-05-02T02:08:09.077Z,8,MAIL,16,957
+54019,Filter By Account,phyddeaux,2020-12-08T01:21:54.790Z,8,MAIL,4,341
+72108,Keyboard Shortcut for Applying a Label,glassich,2022-02-16T00:34:56.500Z,8,MAIL,16,688
+90674,Add S/MIME to Vivaldi Mail,DoctorG,2023-09-17T15:49:44.940Z,8,MAIL,1,412
+53425,Allow Extensions to Work in Vivaldi Mail,DarylO,2020-11-26T00:17:02.139Z,8,MAIL,19,1153
+54740,"Send button" should not be immediately next to "add attachment button".,felagund,2020-12-21T12:33:07.554Z,8,MAIL,8,229
+64098,Separate count for unread feed items (instead of only showing count on Mail Panel icon),KuramaDono,2021-07-18T11:24:01.240Z,8,FEEDS,4,275
+38213,Copy Note to Vivaldi Email,coppolajj,2019-06-18T13:09:14.232Z,8,MAIL,9,658
+53960,Quote Selection when Replying,burnout426,2020-12-06T11:37:31.434Z,8,MAIL,4,143
+53497,Option to archive email on server when marking as Read,pauloaguia,2020-11-27T07:48:46.038Z,8,MAIL,1,337
+74714,Redirect,YDForums,2022-04-25T07:02:15.697Z,7,MAIL,9,292
+76591,Add mail account without SSL/TLS,michaa7,2022-06-13T13:56:45.980Z,7,MAIL,35,3223
+74593,The "Open Article" button being at the top of a feed item instead of the bottom,KuramaDono,2022-04-21T06:43:03.150Z,7,FEEDS,2,209
+81819,Better support for moving emails between IMAP folders,S_Paternotte,2022-12-10T16:49:22.344Z,7,MAIL,17,876
+53367,Fix Width for week view and panel,jumpsq,2020-11-25T09:49:58.080Z,7,CALENDAR,10,552
+91753,Highlight search results in mail preview,LonM,2023-10-24T16:02:48.538Z,7,MAIL:FEEDS,3,180
+85640,Add Vivaldi Tips feed by default,WildEnte,2023-04-15T12:07:32.658Z,7,FEEDS,14,632
+87268,Pinned contacts,maxfl,2023-05-24T11:37:12.814Z,7,MAIL:CONTACTS,8,403
+65414,More key bindings for mail operations,pauloaguia,2021-08-19T12:44:42.604Z,7,MAIL,3,154
+53453,Preview pdfs/image attachments in a new tab before saving them,AltCode,2020-11-26T13:15:59.998Z,7,MAIL,7,277
+86311,Mail Status support mark as read,Poto,2023-04-29T03:27:23.511Z,6,,7,244
+86311,Mail Status support mark as read,Poto,2023-04-29T03:27:23.511Z,6,,7,244
+101580,Allow change of mail protocol for a mail account,mossman,2024-10-02T12:24:49.475Z,6,MAIL,5,131
+77039,New filter toggle "filtered" or "special" to filter for "only cc'd"  support Inbox Zero  and more,WildEnte,2022-06-25T16:30:57.877Z,6,MAIL,8,431
+97739,Attachment Reminder - Warn on missing attachment,LonM,2024-05-09T15:10:16.970Z,6,MAIL,2,126
+91476,Request for "Sort by Size" in Emails Listing,lavanyadeepak,2023-10-13T06:32:37.137Z,6,MAIL,2,145
+89591,Mail draft IMAP sync,pfpinto,2023-08-14T12:51:31.942Z,6,MAIL,1,126
+72024,Automatically load images in emails,mking90031,2022-02-14T15:30:33.436Z,6,MAIL,12,930
+60024,Email at a glance panel incl list and preview ("Unread Panel"),WildEnte,2021-04-24T14:27:25.064Z,6,MAIL,7,507
+53427,Open Emails in New Window,DarylO,2020-11-26T00:26:10.629Z,6,MAIL,8,488
+69747,Photo in the signature,praded2007,2021-12-10T07:58:40.176Z,6,MAIL,2,204
+80344,Drag and drop for tasks,Saenner,2022-10-19T19:52:32.979Z,6,TASKS:CALENDAR,4,361
+78042,Make parts of subject "copyable",razor79,2022-08-03T19:36:24.129Z,6,MAIL,4,131
+68067,Import M2 Labels,ugly,2021-10-28T23:10:39.038Z,6,MAIL,7,446
+65080,Show feed reader in its own tab,stardepp,2021-08-09T16:10:20.781Z,6,FEEDS,11,626
+73631,Grouping conversations by date in the message list,tomasz.kozlowski,2022-04-01T05:37:24.145Z,6,MAIL,1,112
+72377,Import contacts from other clients/services,FloridaMatt,2022-02-22T10:42:40.648Z,6,MAIL,8,578
+71540,accept self signed cert,stealthv,2022-02-02T23:17:44.106Z,6,MAIL,1,179
+65938,Save email into file systém by drag-and-drop,Duski,2021-09-04T05:12:07.301Z,6,MAIL,1,97
+62177,Calendar Icon in Panel should display the current date,HellbillyDeluxe,2021-06-10T07:20:52.289Z,6,CALENDAR,4,106
+55142,Display notes in the calendar as an option,alvk,2021-01-04T12:56:44.019Z,6,CALENDAR,2,109
+54114,Default notification for new Events / Tasks,jumpsq,2020-12-09T10:29:52.939Z,6,CALENDAR,2,100
+56127,New feature: Re-Index Emails,luteva,2021-01-29T21:14:10.635Z,6,MAIL,3,452
+53748,Option to have double-click mark message as 'read',jdvernet,2020-12-01T17:26:11.613Z,6,MAIL,6,195
+53499,Warning when replying/forwarding and your sender address is not in the list of recipients,pauloaguia,2020-11-27T08:44:58.969Z,6,MAIL,2,76
+53639,Option to Manually Set IMAP Special-Use Folders,burnout426,2020-11-29T11:51:06.083Z,6,MAIL,1,109
+53496,Option to view and/or copy custom mail headers,bimlas,2020-11-27T07:43:51.567Z,6,MAIL,4,165
+103690,Trash should be accessible when using feeds but no mail,mossman,2024-12-10T20:37:51.529Z,5,FEEDS,3,91
+103690,Trash should be accessible when using feeds but no mail,mossman,2024-12-10T20:37:51.529Z,5,FEEDS,3,91
+100548,Open feeds in a separate tab from mail,Geniusak,2024-08-28T20:01:03.650Z,5,FEEDS:MAIL,2,91
+62937,3 or 4 day view,johnvn,2021-06-20T19:49:58.145Z,5,CALENDAR,8,285
+59344,Show Article Cover Image/Thumbnails,Geniusak,2021-04-07T22:24:54.913Z,5,FEEDS:PIPELINE,3,282
+59616,Keyboard Shortcut “Mark as read and go to previous Unread”,Trent,2021-04-15T11:01:01.329Z,5,MAIL,3,162
+87514,Sync mail filters,bkeevins,2023-06-01T17:58:15.647Z,5,MAIL,5,242
+56834,Email Filter by Date,janrifkinson,2021-02-11T15:23:50.527Z,5,MAIL,2,169
+56089,Using a label to exclude certain emails from other views,Johns4dogs,2021-01-29T11:00:23.657Z,5,MAIL,3,184
+78342,Keyboard shortcuts to include 'move' 'archive' and 'delete',DMcDowall,2022-08-12T18:42:27.463Z,5,MAIL,5,319
+79044,Add "Inbox" to "All Messages",NaXsa,2022-09-03T07:22:52.153Z,5,MAIL,24,1904
+65892,Stop Notification for read Mails,wernermic,2021-09-02T16:08:01.087Z,5,MAIL,4,167
+53396,Entry rules for filtering RSS posts,Obiwan2208,2020-11-25T16:15:24.846Z,5,FEEDS,5,566
+78054,Drag and Drop addresses between To Cc and Bcc,lavanyadeepak,2022-08-04T10:40:18.846Z,5,MAIL,1,93
+53959,Option to Start Reply Below Quote,burnout426,2020-12-06T11:33:02.303Z,5,MAIL,2,86
+72373,Ability to choose time zone for calendar view,shapesinaframe,2022-02-22T09:24:07.526Z,5,CALENDAR,2,178
+73157,Nicer quote level display in plain text mails,WildEnte,2022-03-17T21:57:44.573Z,5,MAIL,2,143
+71025,Working With Labels,janrif,2022-01-18T14:29:17.210Z,5,MAIL,3,148
+70480,Allow setting custom time for calendar event's alarms,inuvik,2021-12-31T11:33:45.481Z,5,CALENDAR,2,84
+67527,turning off notifications for calendar events,tuckerw,2021-10-13T20:55:11.598Z,5,CALENDAR,4,198
+61016,Import emails from .pst file,supr3,2021-05-13T07:45:34.783Z,5,MAIL,4,536
+61840,Exchange/Active Sync support,zakius,2021-06-03T20:55:26.781Z,5,MAIL,5,933
+62840,Add option to show "Account" name in email list table,foresto,2021-06-18T17:23:48.062Z,5,MAIL,4,129
+62636,Wildcards/boolean/regexp in searches and filters,kepic,2021-06-15T10:40:21.022Z,5,MAIL,1,138
+54288,Manage Mailing lists that don't use list-id correctly,WildEnte,2020-12-11T19:27:14.819Z,5,MAIL,9,939
+58102,Conversation View,code3,2021-03-14T01:49:23.856Z,5,MAIL,14,834
+54046,Option to Not Add Contacts from Sent Messages,burnout426,2020-12-08T12:46:33.419Z,5,MAIL,2,96
+54689,Option to Locate Mail in Another Directory,DarylO,2020-12-19T19:03:53.276Z,5,MAIL,1,58
+54193,'Mark as Read' from Status Bar/Panel icon's content menu,npro,2020-12-10T14:42:03.705Z,5,MAIL:FEEDS,2,172
+54021,Customize > "Add separator" after this button...,Hadden89,2020-12-08T03:28:23.121Z,5,MAIL,1,85
+53881,Add additional article views,zakius,2020-12-04T11:13:05.946Z,5,FEEDS,1,145
+53638,Style Markdown in Plain Text Messages,burnout426,2020-11-29T11:41:25.961Z,5,MAIL,4,143
+77077,Ability to make an alias the default "sender" account,williamcallahan,2022-06-26T16:01:43.335Z,4,MAIL,2,123
+64756,Remove duplicate news items,rolypoly,2021-08-02T23:03:32.231Z,4,FEEDS,10,514
+101581,Remove restrictive need for server authentication during mail set-up,mossman,2024-10-02T12:30:47.935Z,4,MAIL,1,55
+98958,Quick Reply Signinature,CoolCoderSuper,2024-06-26T17:50:53.494Z,4,MAIL,9,241
+92077,Needed features for Notes/Tasks/Reminders,telmob,2023-11-01T14:30:32.709Z,4,TASKS:MAIL:FEEDS,11,1005
+76395,Add colors or tags to calendar events,hbowyer,2022-06-09T19:14:10.255Z,4,CALENDAR,7,463
+69171,Add a switch to make search case sensitive (a bonus: regex searches),felagund,2021-12-02T09:37:16.729Z,4,MAIL,8,360
+80363,Diacritics/accents insensitive mail search,xhpohanka,2022-10-20T12:39:54.639Z,4,MAIL,3,178
+94600,Add Email Filter by Flag & Label,janrif,2024-01-25T17:14:28.890Z,4,MAIL,1,143
+64558,Allow configuring a SEND ONLY Email account,panamavibes,2021-07-29T18:46:26.826Z,4,MAIL,8,381
+92242,Provide a "RSS Status" button similar to "Mail Status" (= show latest Feeds),npro,2023-11-06T13:16:07.835Z,4,FEEDS,3,250
+91867,Cancel sending email with Vivaldi Mail,flyeric777,2023-10-27T09:35:27.397Z,4,MAIL,4,217
+78132,Mail Notifications in Windows SysTray,howards,2022-08-07T19:45:14.623Z,4,MAIL,4,426
+87393,Calendar reminders: add "open event",WildEnte,2023-05-28T18:06:25.756Z,4,CALENDAR,1,116
+87047,Calendar Tasks Unable to change color,ghostw4ve,2023-05-18T13:55:50.638Z,4,CALENDAR:TASKS,1,218
+82743,Selected portion does not appear in reply,janrif,2023-01-09T18:31:12.715Z,4,MAIL,4,176
+82095,Hide Filtered Mails From Views,Hadden89,2022-12-16T20:15:55.979Z,4,MAIL:TASKS,4,262
+81332,Auto forward incoming emails,aybesea,2022-11-29T22:04:40.129Z,4,MAIL,1,147
+80375,Upcoming/undone badge on sidebar for calendar and tasks,somnomania,2022-10-20T20:11:04.586Z,4,TASKS:CALENDAR,2,205
+76545,Option to disable distinction between unseen/unread mails/feeds.,Gregor,2022-06-12T19:50:05.412Z,4,FEEDS,3,211
+76447,Keyboard shortcut for archiving mails,mfsmfs,2022-06-10T11:39:18.192Z,4,MAIL,1,107
+74024,Adding mail recipients by typing @name in mail body plus overview over such mentions in contacts,WildEnte,2022-04-09T08:44:50.725Z,4,MAIL,1,93
+73840,Per Feed Notifications,Geniusak,2022-04-06T18:56:51.509Z,4,FEEDS,1,131
+67271,Option to open email links in the default browser,crankdude,2021-10-08T11:07:26.774Z,4,MAIL,2,202
+70248,Enable|Disable filter checkbox,Hadden89,2021-12-22T20:13:15.871Z,4,MAIL:TASKS,1,143
+69969,download all attachments with a click,nik57,2021-12-15T07:18:18.657Z,4,MAIL,4,154
+69583,Add an "Empty Trash" button for the Mail client,ndeshmukh,2021-12-07T17:30:58.035Z,4,MAIL,1,104
+61841,Mail filters include/exclude groups: add labels  bodies  other filters etc,WildEnte,2021-06-03T20:58:38.878Z,4,MAIL,6,325
+67247,Auto focus & raise Window with Mail client when summon Mail manager/panel,dude99,2021-10-08T05:03:25.640Z,4,MAIL,3,135
+62899,Office 365 Mail support,AhmadMS1988,2021-06-19T19:01:58.180Z,4,MAIL,6,1875
+62710,iCloud Support like Thunderbirds "tbSync",hosh0815,2021-06-16T12:08:31.697Z,4,CALENDAR,3,216
+65161,Quarterly events ie appointments & tasks,CThomas,2021-08-11T20:36:50.829Z,4,CALENDAR,1,106
+63880,Allow email account of nonexistent address.,Navel,2021-07-11T22:58:24.600Z,4,MAIL,2,93
+64070,time stamps on events,AbdSah,2021-07-17T14:17:59.718Z,4,CALENDAR,1,93
+62450,A generalized and more user-centered feed ; data streams monitoring (mail  html differences  rss feed),Seasonly,2021-06-12T17:42:31.206Z,4,FEEDS,7,520
+62900,G-Suite support,AhmadMS1988,2021-06-19T19:05:21.601Z,4,MAIL,1,476
+62819,Choose local sound file as Notification Sound,[[global:former-user]],2021-06-18T12:29:50.182Z,4,CALENDAR,0,90
+61660,Some minor M3 usability suggestions,Codehunter,2021-05-29T17:31:39.342Z,4,MAIL,11,316
+57612,Labels Shortcut,janrifkinson,2021-02-28T16:25:47.791Z,4,MAIL,7,229
+57421,Removable Sections,Frax0,2021-02-23T16:19:18.375Z,4,MAIL,4,110
+53870,Differentiate feeds from mail visually,jumpsq,2020-12-04T07:28:14.055Z,4,MAIL,1,73
+104017,Improve Message When External Content is Unavailable,Pesala,2024-12-22T20:07:00.427Z,3,MAIL,1,36
+101284,[FEATURE REQUEST] Retention policy,Granite1,2024-09-20T10:31:28.137Z,3,,3,128
+104017,Improve Message When External Content is Unavailable,Pesala,2024-12-22T20:07:00.427Z,3,MAIL,1,36
+101284,[FEATURE REQUEST] Retention policy,Granite1,2024-09-20T10:31:28.137Z,3,,3,128
+85136,Hide Message Content,Pesala,2023-03-27T04:36:41.585Z,3,MAIL,4,214
+101579,Allow set-up of new account to use existing mail address,mossman,2024-10-02T12:21:05.474Z,3,MAIL,2,83
+88414,Better keyboard shortcuts and article viewing when reading feeds,mossman,2023-06-27T12:56:23.584Z,3,FEEDS,4,305
+91630,Allow changing keyboard shortcut for "Delete Message" (i.e. to Trash  not "Delete Permanently") in Vivaldi Mail,romwell,2023-10-19T09:32:02.405Z,3,MAIL,4,221
+89346,Mail default font size,pfpinto,2023-08-04T14:07:42.870Z,3,MAIL,3,253
+57104,Shortcut for moving mails to folders,HrvGui,2021-02-16T13:34:30.748Z,3,MAIL,6,273
+92758,Prioritizing Tasks,aranga,2023-11-23T22:08:38.695Z,3,TASKS,2,197
+89976,Mail Filter | Mark as Read after X Days,Hadden89,2023-08-28T21:20:14.461Z,3,MAIL,1,102
+85995,Option to set preselected font for new email messages,thimo,2023-04-22T08:14:45.346Z,3,MAIL,2,94
+85431,Sort RSS feeds in Settings,joeduffus,2023-04-07T19:30:04.759Z,3,FEEDS,2,272
+83421,Filter message by time?,mcastel,2023-02-01T13:04:49.989Z,3,MAIL,1,91
+80123,Support for "MAPI" (Send to Mail Recipient) or "Share" feature in Windows?,jan.ripper,2022-10-12T08:46:33.804Z,3,MAIL,9,723
+78908,change the location where emails are stored,stercomm4,2022-08-29T16:11:39.991Z,3,MAIL,10,370
+78062,Favicon on emails,barbudo2005,2022-08-04T18:12:18.112Z,3,MAIL,2,132
+77181,Ability to add label to email being composed,Starr88,2022-06-29T19:17:45.602Z,3,MAIL,1,42
+74658,Add a label for aliases to be easier to identify,Hallker,2022-04-22T18:12:17.142Z,3,MAIL,1,114
+71995,Calendar Need Better Default Highlighting of Current Day,g_bartsch,2022-02-13T21:00:03.841Z,3,CALENDAR,5,220
+71732,UI Bug: No option to undo "Always allow <sender> to load external content",ravionline,2022-02-09T08:13:12.207Z,3,MAIL,1,119
+56411,URL list from bookmark folder,Privacy,2021-02-03T17:32:12.890Z,3,FEEDS,3,227
+67432,Allow mail be opened in multiple tabs,felagund,2021-10-11T13:34:20.285Z,3,MAIL,3,264
+67770,Dismissing a calendar notification in 1 window dismisses in all,RichardJActon,2021-10-20T15:23:21.046Z,3,CALENDAR,1,78
+67517,Quick Control Buttons In Mail Status,2008Choco,2021-10-13T15:42:09.857Z,3,MAIL,1,68
+66325,Addition of a "To:" Column in the "Unread" Box,jdvernet,2021-09-15T14:34:39.554Z,3,MAIL,1,66
+65870,"Copy address" option in the RSS button,Olomorn,2021-09-01T22:02:57.997Z,3,FEEDS,2,105
+63561,Make "Empty Trash" available on right click,Sataylor56,2021-07-04T21:03:04.783Z,3,MAIL,1,62
+62897,Office 365 support,AhmadMS1988,2021-06-19T18:59:51.933Z,3,CALENDAR,5,479
+62528,No links in email signature supported,loxal,2021-06-13T21:56:11.998Z,3,MAIL,4,148
+62241,More options for checking frequency,ghpy,2021-06-10T14:51:51.482Z,3,MAIL,6,174
+62221,Option to hide most of mail custom folders,Erehr,2021-06-10T12:08:50.017Z,3,MAIL,2,106
+62058,Administrative Deactivation of Email-Feature,HansHansen,2021-06-09T11:55:48.255Z,3,MAIL,1,80
+60429,handle labels,janrifkinson,2021-05-01T16:29:27.862Z,3,MAIL,2,103
+59779,Better support for Gmail,silverhr,2021-04-18T21:19:12.677Z,3,MAIL,2,291
+56727,When entering a view  add an option to always go to the top or bottom according to the selected sorting criterium,felagund,2021-02-09T15:55:56.496Z,3,MAIL,5,128
+59703,Empty trash,AdeurD,2021-04-17T02:41:25.073Z,3,MAIL,3,274
+57639,Copying parts of the email subject by double-click.,razor79,2021-03-01T13:04:04.047Z,3,MAIL,4,111
+56551,Search for feeds,pauloaguia,2021-02-06T07:52:51.174Z,3,FEEDS,1,113
+104241,Idea: Sending attachments through Nextcloud,voyager1sun,2025-01-02T21:30:28.158Z,2,,10,113
+104241,Idea: Sending attachments through Nextcloud,voyager1sun,2025-01-02T21:30:28.158Z,2,,10,113
+102972,Toggle Preview Window On and Off,Relaxo,2024-11-11T07:03:30.686Z,2,MAIL:FEEDS,2,68
+98992,Reply-To Header Support,aerogems,2024-06-27T20:45:06.205Z,2,MAIL,2,104
+80663,Expand on "Save As" feature,dmkroslindale,2022-11-01T21:26:53.602Z,2,MAIL,2,82
+101866,Ability to search in mail compose,greench,2024-10-13T14:39:15.863Z,2,MAIL,1,40
+76991,Separate window for mail,cheyrn,2022-06-24T05:12:53.262Z,2,MAIL,5,267
+100055,Individual mail accounts Drafts folder should include message to check All Messages Drafts folder,paaljoachim,2024-08-06T19:39:04.992Z,2,MAIL,4,99
+99580,Calendar Sidebar options (agenda and task view),CptnChicken,2024-07-19T04:09:25.806Z,2,CALENDAR,2,90
+98837,Add a filter function "older than X days" for an offline autoarchive option.,Popanz,2024-06-23T11:59:19.255Z,2,MAIL,1,61
+98760,Unset the character limit if we search for the mail using Chinese or some language,YsPan,2024-06-21T09:31:10.556Z,2,,1,48
+75813,Give Option to have white background for feeds,Dancer18,2022-05-31T20:23:07.198Z,2,FEEDS,5,487
+75789,Aliases with custom SMTP server and credentials,petersaints,2022-05-30T23:17:18.988Z,2,MAIL,6,434
+81839,Keyboard shortcut for focusing a certain view's search field,WildEnte,2022-12-11T10:54:01.227Z,2,MAIL,3,190
+65658,E-Mail alias,lamius,2021-08-26T13:19:19.951Z,2,MAIL,3,715
+91845,Calendar: Add conference link,rkfoster485,2023-10-27T00:02:50.575Z,2,CALENDAR,2,175
+91577,Mail Notification settings per mail account  not globally for all accounts,alexanderyl,2023-10-17T13:17:40.156Z,2,MAIL,1,84
+91260,Show unread message count on system task bar icon,stevedperkins,2023-10-05T15:13:30.460Z,2,MAIL,1,251
+75111,Adding More Fonts to Signatures,mking90031,2022-05-07T11:39:38.534Z,2,MAIL,11,359
+87705,Multiple calendars and tasks account,vivaldiuser112020,2023-06-08T04:42:11.913Z,2,TASKS:CALENDAR,6,312
+85584,Next message to display after marking as read/spam/delete should not depend on sorting direction,WildEnte,2023-04-13T19:14:32.162Z,2,MAIL:FEEDS,2,171
+86768,Hide Weekends,fgladitz,2023-05-10T20:47:08.188Z,2,CALENDAR,2,183
+85984,Reply-To Support,aerogems,2023-04-21T21:42:04.331Z,2,MAIL,1,80
+85555,Show event date in calendar event reminders,winghongchan,2023-04-12T20:25:10.834Z,2,CALENDAR,1,95
+84456,Telephone number formatting,TryingNewThings,2023-03-05T02:05:52.579Z,2,CONTACTS,3,200
+84181,RSS date defaulting when date is missing,vekkq,2023-02-24T11:42:00.275Z,2,FEEDS,4,173
+83771,Allow calendar reminders to be set longer than 2 days.,thegreensplurge,2023-02-13T23:30:31.505Z,2,CALENDAR,3,148
+83562,Mark old feeds as read,mcastel,2023-02-06T12:19:36.124Z,2,FEEDS,4,214
+82644,Removing "Reply to doesn't match . . .",MrCPCHS,2023-01-05T20:16:21.367Z,2,MAIL,2,122
+82554,Ability to configure Calendar views,S_Paternotte,2023-01-02T14:28:31.820Z,2,CALENDAR,1,110
+66841,How about a simple on/off label filter?,janrif,2021-09-27T15:19:15.170Z,2,MAIL,5,340
+68470,Option to not show an email in "Unread" if it shows in a filter view?,Sataylor56,2021-11-10T16:34:58.073Z,2,MAIL,7,208
+79747,Remove any type of tracking,munjean,2022-09-30T05:00:10.818Z,2,MAIL,6,259
+78046,Support for Gmail (other?) labels,ubuntumuntu,2022-08-04T01:19:41.103Z,2,MAIL,4,655
+78901,change location where mail is stored,stercomm4,2022-08-29T12:25:50.170Z,2,MAIL,4,195
+78130,Add option for larger icons on mail toolbar,howards,2022-08-07T19:06:33.857Z,2,MAIL,2,126
+77392,Formatting in Plain Text Signatures,jdvernet,2022-07-07T14:26:58.846Z,2,MAIL,11,350
+74351,Changing Calendar to 12-hour instead of 24-hour,theericbeaty,2022-04-14T22:19:16.445Z,2,CALENDAR,6,386
+77125,Reader Comments at Bottom of Feed Preview,cecille,2022-06-27T20:29:32.190Z,2,FEEDS,1,107
+76597,Confirm Filter deletion,rromanov,2022-06-13T15:07:08.023Z,2,MAIL,1,56
+76453,Calendar GUI re:  Today <>,janrif,2022-06-10T13:52:40.612Z,2,CALENDAR,1,112
+75306,Allow flags to be used in filters,felagund,2022-05-13T12:29:41.994Z,2,MAIL,2,73
+76274,Option to disable feeds panel unread badge,AltCode,2022-06-07T21:34:41.133Z,2,FEEDS,4,346
+75673,Simplifying Label Entry,janrif,2022-05-25T18:09:00.465Z,2,MAIL,1,70
+74717,Who gets which attachments,YDForums,2022-04-25T07:19:16.559Z,2,MAIL,2,88
+73848,Show event/s from calendar on Speed Dial.,radoivanov,2022-04-06T20:29:07.505Z,2,CALENDAR,2,154
+71998,Include POP3 Accounts when Re-Indexing,jumpsq,2022-02-13T23:02:13.966Z,2,MAIL,1,74
+71764,A Reader View for Vivaldi Mail,olivir,2022-02-09T19:17:53.411Z,2,MAIL,11,374
+71290,Set input focus to mail list when changing the folder,Codehunter,2022-01-26T10:39:39.262Z,2,MAIL,1,46
+67099,Monthly calendar view,PerFischer,2021-10-04T21:54:36.089Z,2,CALENDAR,2,151
+69593,change the "not spam" icon,milamber,2021-12-07T22:56:08.689Z,2,MAIL,1,76
+68567,Labeling GUI,janrif,2021-11-13T19:39:28.742Z,2,MAIL,1,102
+67327,Default/General feeds settings,Seji,2021-10-09T11:19:57.985Z,2,FEEDS,2,202
+66676,Translate RSS titles (and maybe content) with built in translator,molex,2021-09-23T07:23:34.595Z,2,FEEDS,1,117
+64660,Faster way of creating events : Writing the date in the title,AbdSah,2021-08-01T02:20:22.254Z,2,CALENDAR,5,189
+66517,Change Default Font When Viewing Plain-Text Emails,BigRed314159,2021-09-19T13:32:42.172Z,2,MAIL,11,776
+65439,Setting to search in all messages by default,jumpsq,2021-08-20T06:44:06.183Z,2,MAIL,4,133
+66161,Abbility to read article in RSS feed panel,daivy.merlijs,2021-09-11T14:40:14.957Z,2,FEEDS,1,128
+64831,"Description Area" be able to newline by press key `Enter`,full,2021-08-04T08:37:17.487Z,2,CALENDAR,3,140
+65074,Automatic deletion of calendar entries,Horst2021,2021-08-09T13:53:03.583Z,2,CALENDAR,2,109
+64014,No way to configure client without smtp?..,vdrandom,2021-07-15T15:17:01.090Z,2,MAIL,2,92
+63194,RTL support,RoyR,2021-06-26T09:59:34.769Z,2,MAIL,1,72
+62922,Please add a "Compose" email icon to the mail reader header,Durhammer,2021-06-20T14:48:31.722Z,2,MAIL,3,107
+62104,Don't hide read messages until next session,qazserNOS,2021-06-09T18:45:35.580Z,2,MAIL,2,90
+59734,From Inbox  Move to....,janrifkinson,2021-04-17T20:40:08.329Z,2,MAIL,32,1421
+61380,Import/export calendar entries as spreadsheet-file (.csv),uhbwitt64,2021-05-21T14:20:30.577Z,2,CALENDAR,1,72
+58061,"Unsubscribe" and "Mark as Read" on Notifications,code3,2021-03-12T18:53:17.214Z,2,MAIL,2,103
+57316,Add "Move to trash" mouse gesture command,arcsnim,2021-02-20T20:47:39.497Z,2,MAIL,1,58
+56725,Birthdays imported by contacts.vcf are not displayed in Calendar,valdorox,2021-02-09T15:21:50.103Z,2,CALENDAR,1,113
+56404,Add Compose new mail  Check specific account  Undo to mail toolbar,pauloaguia,2021-02-03T16:23:23.532Z,2,MAIL,1,73
+56392,Better Naming for Mail Account Storage Folders,burnout426,2021-02-03T10:18:12.550Z,2,MAIL,1,70
+53424,Option to Open Web Links in Alternative Browser,DarylO,2020-11-25T23:47:13.222Z,2,MAIL,1,74
+92466,Filter Feeds,bkeevins,2023-11-14T12:16:43.397Z,1,FEEDS,3,269
+103596,Add "Clear Label" command,janrif,2024-12-06T17:47:02.273Z,1,MAIL,5,135
+103433,Automatically delete or archive emails after X days,dheffer,2024-11-29T11:53:35.284Z,1,MAIL,2,41
+92466,Filter Feeds,bkeevins,2023-11-14T12:16:43.397Z,1,FEEDS,3,269
+103596,Add "Clear Label" command,janrif,2024-12-06T17:47:02.273Z,1,MAIL,5,135
+103433,Automatically delete or archive emails after X days,dheffer,2024-11-29T11:53:35.284Z,1,MAIL,2,41
+103415,Undo | Apply To More Actions,Shoham,2024-11-28T05:21:31.080Z,1,,1,37
+64147,Todoist-Integration,MKluge,2021-07-19T13:41:22.804Z,1,MAIL,4,662
+102458,Add a post from a feed in the Feeds feature to the "Reading List"  without opening the web page first?,jbove,2024-10-28T08:46:17.223Z,1,FEEDS,2,87
+102385,font size in account and message list pane,mattzur,2024-10-26T15:30:12.289Z,1,MAIL:CALENDAR,2,59
+102093,Restrict fetching emails older than 'n' years . N configurable,3dvs,2024-10-21T15:35:08.560Z,1,,5,88
+102147,Show unread count in the (beginning of) inbox tab,YakovL_,2024-10-23T08:05:10.470Z,1,MAIL,1,61
+101717,Assign Hot Keys in Settings for Remove Flag and Adding Colored Flags,dalinar,2024-10-08T11:28:36.673Z,1,MAIL,1,58
+101599,Calendar visible from the Calendar Status icon from the status bar,Kiloneie,2024-10-02T22:05:19.059Z,1,CALENDAR,7,150
+100291,Store incoming mail as one file per month per account,dudi2,2024-08-17T14:37:50.952Z,1,MAIL,4,112
+99529,Parse feeds to display a proper preview,Geniusak,2024-07-17T13:24:28.999Z,1,FEEDS,7,217
+100028,Show mail address in contact list,marlinus,2024-08-05T13:14:22.124Z,1,CONTACTS,6,350
+100027,Add manually timer for "Automatically Mark as Read",jrkl75,2024-08-05T11:59:11.651Z,1,MAIL,1,91
+99802,Mails from contact - remember search criteria,marlinus,2024-07-27T19:46:38.045Z,1,MAIL:CONTACTS,1,67
+75000,Creating email filters/rules from mailclient interface,rafaelkbarros,2022-05-04T00:39:16.121Z,1,MAIL,9,476
+98458,"From" display,eggdog,2024-06-07T19:25:59.080Z,1,MAIL,4,184
+97639,Option to Disable Signature Seperator,Ben,2024-05-06T08:45:57.597Z,1,MAIL,4,234
+97539,Customizable keyboard scroll distance in mail,brandonaut,2024-05-02T23:31:19.931Z,1,MAIL,1,84
+96932,Search Mail to include All Mail (Gmail) / Archive question,DavyLJones,2024-04-15T00:01:38.048Z,1,MAIL,40,1138
+96931,Add attachments to google calendar events,DavyLJones,2024-04-14T23:53:48.855Z,1,CALENDAR,1,129
+96825,Please add font-size preferences to received mail content,Dancer18,2024-04-10T19:04:42.473Z,1,MAIL:FEEDS,3,186
+94796,Mail Multiple Label Selection,janrif,2024-02-01T12:34:16.529Z,1,MAIL,9,331
+96286,Select all when folder selected,jtittsler,2024-03-21T13:05:29.181Z,1,MAIL,1,73
+93357,Calendar | Monthly Event Template,Hadden89,2023-12-14T18:41:25.466Z,1,CALENDAR,2,220
+94971,Mail GUI improvement,janrif,2024-02-07T11:20:41.393Z,1,MAIL,1,135
+94680,Custom Notification Sound and separate Mail & RSS feeds into separate folders.,Gravitorvox,2024-01-29T00:43:02.253Z,1,MAIL:FEEDS,10,522
+93560,Add new-mail-indicator on parent-folder,jrkl,2023-12-19T16:36:28.210Z,1,MAIL,1,111
+93083,Global Search / Keep Search Term when changing folders,helmar,2023-12-05T09:49:27.548Z,1,MAIL,1,120
+92462,More generic filters for email,janrif,2023-11-14T11:21:11.774Z,1,MAIL,1,101
+92026,Show dropdown of recently used/modified files when trying to attach items to mail,guylfe,2023-10-31T09:10:03.708Z,1,MAIL,1,76
+76992,How to open an event and click a URL in description?,gamerka,2022-06-24T07:49:22.601Z,1,CALENDAR,5,386
+90449,reply with outlook style headers,rubie,2023-09-11T02:38:20.699Z,1,MAIL,2,108
+90754,Mailbox Favorites,seanfrisbey,2023-09-19T22:46:12.260Z,1,USER INTERFACE,6,221
+89001,Mailboxes support unified reminders at specified times,Poto,2023-07-21T04:20:15.837Z,1,MAIL,1,83
+88803,Missing features (even in Premium) compared with Tbird,frisket,2023-07-12T10:48:43.359Z,1,MAIL:FEEDS,3,262
+88616,Link-based filtering of repeated feed items,mossman,2023-07-05T11:19:09.318Z,1,FEEDS,7,472
+84087,Rename Flags [ Completed ],janrif,2023-02-22T12:40:05.843Z,1,MAIL,19,826
+87688,Nextcloud News API integration,oriold,2023-06-07T14:21:53.379Z,1,FEEDS,3,271
+87513,Move email list to righthand side,bkeevins,2023-06-01T17:48:59.744Z,1,MAIL,8,235
+87511,More intuitive way to create Mail rules,greybeard,2023-06-01T16:55:52.156Z,1,MAIL,1,170
+86974,Tasks per Calendar,ResearchScientist,2023-05-16T17:06:41.169Z,1,TASKS,7,342
+84766,Reduce Mail CPU usage,karstux,2023-03-14T08:53:09.670Z,1,MAIL,7,899
+86319,Right-align email size column,Shanshorshe,2023-04-29T07:44:36.979Z,1,MAIL,2,108
+86253,Updating my phone number,sybiltonk,2023-04-28T03:38:12.267Z,1,MAIL,5,158
+85945,Edit mail as new,EyesOnly5x5,2023-04-21T13:44:54.655Z,1,,1,74
+85522,RSS Feed Reader Feature Request/Improvements,paulhey,2023-04-11T16:43:19.174Z,1,FEEDS,3,652
+84520,automatically allow external content in email,photonnix,2023-03-06T23:35:35.755Z,1,MAIL:TASKS,6,662
+84094,Multi-Select Label Drop Down Menu,janrif,2023-02-22T16:57:07.372Z,1,MAIL,6,218
+83636,Expanded view layout,JustABrowser58,2023-02-09T04:31:52.202Z,1,FEEDS:MAIL,3,224
+82800,Add bayesian spam filtering,lukaszj,2023-01-11T20:58:55.579Z,1,MAIL,5,272
+82611,Filtered e-mails notifications and actions,giannilupindo,2023-01-04T11:28:52.682Z,1,MAIL,1,68
+82518,Buttons on the Email feed,Layers030,2022-12-31T02:01:13.626Z,1,MAIL,4,135
+82407,Better integration with Windows 11 Notifications,dlupo,2022-12-27T12:38:19.360Z,1,MAIL:CALENDAR:TASKS,1,233
+81100,Auto-detect Mastodon RSS feeds,AltCode,2022-11-21T16:33:39.656Z,1,FEEDS,2,242
+81806,Filters | Remember Last Used User Combination | UX Bug,Hadden89,2022-12-10T11:47:08.635Z,1,MAIL:TASKS,1,146
+81735,toggle mail view per keyboard shortcut,schmidtjs,2022-12-09T01:36:17.780Z,1,MAIL,6,135
+81699,Click in any folder to go to TOP,Cjcr,2022-12-08T14:24:54.068Z,1,MAIL:FEEDS,2,108
+81414,Ability to change (at least) the color of the email account db icon,mdiblasi,2022-12-02T15:45:48.536Z,1,MAIL,1,73
+81330,Auto clean folders,aybesea,2022-11-29T22:02:17.896Z,1,MAIL,1,81
+81203,vim keybindings for mail,stanthesam,2022-11-26T00:02:13.191Z,1,MAIL:FEEDS,1,120
+80646,Mark as read mails older than x days,Hadden89,2022-11-01T12:55:03.676Z,1,MAIL,1,119
+80420,Mail: sort by flag or label,longrun,2022-10-22T13:40:51.536Z,1,MAIL,1,102
+80214,📌Show feeds in a separate tab 📌,stardepp,2022-10-14T20:44:40.313Z,1,MAIL:CALENDAR,1,140
+79857,Horizontal Calendar View,Geniusak,2022-10-05T16:34:11.357Z,1,CALENDAR,1,86
+78562,Limiting mail downloads,iwaldner,2022-08-18T18:48:10.121Z,1,MAIL,3,131
+79072,Button for adding Vivaldi.net account,Omen_20,2022-09-04T07:18:00.354Z,1,MAIL,2,75
+78460,event recurrence in calendar,Miikl,2022-08-15T21:35:06.065Z,1,CALENDAR,1,99
+78044,Support for Sieve Syntax for better/richer search & filtering,ubuntumuntu,2022-08-04T00:45:45.448Z,1,MAIL,1,106
+76589,Add reorder feature,rromanov,2022-06-13T13:51:44.437Z,1,MAIL,2,108
+77661,Add show label toggle like "read"  "trash" etc,janrif,2022-07-19T02:59:55.606Z,1,MAIL,1,68
+77233,Support Natural Language Search,AltCode,2022-07-01T12:59:08.956Z,1,MAIL,1,77
+77226,LanguageTool Extension,winsport,2022-07-01T06:20:08.271Z,1,MAIL,13,783
+76984,Add Description field to accounts that shows instead of the email address in the left pane,luminouslemon,2022-06-23T23:49:32.719Z,1,MAIL,1,75
+76470,Limit dates synced(Vivaldi Freeze fix),Dakingof,2022-06-11T00:25:36.020Z,1,CALENDAR,4,192
+76534,Display mail reading pane according to theme,jswinner59,2022-06-12T16:10:24.408Z,1,MAIL,3,120
+75466,Displaying Flagged Emails,mking90031,2022-05-18T11:01:54.101Z,1,MAIL,3,110
+74895,RSS Feed panel horizontally on top,Zakalwe,2022-04-30T22:31:17.767Z,1,FEEDS,2,161
+73637,Show contact icon on message list,Thescorb0,2022-04-01T09:00:16.232Z,1,MAIL,1,69
+73604,Ability to Change Mail Composition Font,jdvernet,2022-03-31T11:35:17.797Z,1,MAIL,1,150
+73330,Allow editing of Holiday Events,JMRobinson,2022-03-23T07:02:57.461Z,1,CALENDAR,1,110
+66556,Notification of past alarms on next start of Vivaldi,snertev,2021-09-20T14:46:18.983Z,1,CALENDAR,11,318
+70606,Evenly distributed column width in week view,JoergP,2022-01-05T13:14:53.883Z,1,CALENDAR,1,71
+69582,Using "Send by Mail" puts URL in subject line,jdvernet,2021-12-07T16:53:39.100Z,1,MAIL,6,201
+66324,Import/export calendars through ics files,AltCode,2021-09-15T13:30:54.744Z,1,CALENDAR,8,695
+68736,Missing compose email button,JJDP,2021-11-19T00:35:10.027Z,1,MAIL,4,186
+67954,Default ctrl+v to "Paste as plain text" in emails,WildEnte,2021-10-25T21:18:36.585Z,1,MAIL,3,138
+67917,Single request for subcategories note & email & URL,janrif,2021-10-24T21:46:49.821Z,1,MAIL,2,85
+67793,To scale hours display,deniscremer,2021-10-21T08:13:10.587Z,1,CALENDAR,1,92
+66482,Yubico key support,robodonster65,2021-09-18T14:10:31.076Z,1,MAIL,2,165
+66876,Tick Tick Integration,canders,2021-09-28T14:07:30.625Z,1,CALENDAR,2,329
+66395,Group mails by field,HaydnLaerm,2021-09-16T18:44:28.078Z,1,MAIL,3,122
+66164,Flickr Group Pools: Show the Author  Not the Group,KoHoSo,2021-09-11T15:56:51.286Z,1,FEEDS,1,117
+65840,New mail badge colour.,GeoffreyM,2021-08-31T23:43:16.239Z,1,MAIL,1,64
+65826,Location of Action buttons on Mail,mozi,2021-08-31T14:58:03.676Z,1,MAIL,3,97
+65480,Notification by keywords,summoner,2021-08-21T07:23:21.875Z,1,FEEDS,1,113
+65132,Domain filter.,jhmichalak,2021-08-11T06:45:59.208Z,1,MAIL,1,65
+64722,A mailing list like functionality,Codehunter,2021-08-02T06:37:37.657Z,1,MAIL,3,124
+64757,Add a filter to only show un-read items,rolypoly,2021-08-02T23:13:44.167Z,1,FEEDS,3,131
+64100,A keyboard shortcut to switch to next feed with unread items.,KuramaDono,2021-07-18T11:36:38.272Z,1,FEEDS,5,221
+64074,Shades  patterns  textures for events,AbdSah,2021-07-17T16:37:54.871Z,1,CALENDAR,1,113
+64072,Transparent colors for events,AbdSah,2021-07-17T15:15:29.499Z,1,CALENDAR,1,89
+63955,Allow loading images from urls in the case of contacts,mynameismon,2021-07-13T18:36:48.177Z,1,MAIL,3,92
+63506,Quick access to mail actions right in the list item,WildEnte,2021-07-03T14:51:02.346Z,1,MAIL,1,86
+63123,One more mail desktop layout  please!,Ansy,2021-06-24T16:50:03.630Z,1,MAIL,1,91
+63048,Ability to scroll multiple items,Sennarok,2021-06-23T08:00:28.533Z,1,FEEDS,3,104
+61656,Collapsible text in Email,code3,2021-05-29T16:36:01.781Z,1,MAIL,1,80
+61381,Tagging events,uhbwitt64,2021-05-21T14:29:52.670Z,1,CALENDAR,1,71
+60585,Label Special Characters?,janrifkinson,2021-05-03T23:57:56.692Z,1,MAIL,3,102
+60568,Add the image of the Person's Profile  to the e-mail messages tab  in Vivaldi Desktop Mail client,newscpq,2021-05-03T19:23:35.115Z,1,MAIL,1,62
+59231,Notification window for missed calendar/task events,arcsnim,2021-04-05T06:22:34.687Z,1,CALENDAR,2,91
+59512,consistent highlight day of week,janrifkinson,2021-04-12T13:00:40.340Z,1,CALENDAR,1,75
+58114,Autocrypt Support,code3,2021-03-14T16:09:46.064Z,1,MAIL,7,219
+57102,Predefined colours in colour picker,felagund,2021-02-16T13:05:31.517Z,1,MAIL,3,98
+57271,Allow clicking links from Google Calendar task description?,Iaaa123456789,2021-02-19T22:33:20.571Z,1,CALENDAR,4,135
+57431,Seperate keyboard shortcuts for Mail and Everything Else,legobuilder26,2021-02-23T21:33:37.901Z,1,MAIL,1,56
+56564,Allow linking notes to Emails (not just web pages),WildEnte,2021-02-06T10:47:37.373Z,1,MAIL,1,70
+56461,Need notification (error message) using 'mailto:' in secondary window,greybeard,2021-02-04T17:33:41.804Z,1,MAIL,3,102
+104717,Calender Scrolling,aranga,2025-01-22T15:26:19.033Z,0,CALENDAR,3,28
+104450,Notifications | Choose Folder,emersont317,2025-01-10T16:52:03.943Z,0,MAIL,1,30
+103968,Show by filtered,janrif,2024-12-21T19:00:53.887Z,0,MAIL,11,169
+102579,Create task from email,Kimsman,2024-10-31T01:19:28.535Z,0,TASKS:MAIL,8,173
+103974,Ability to Easily Disable Mail Account (e.g. checkbox),dalinar,2024-12-21T19:34:55.357Z,0,MAIL,3,37
+103762,When in iOS?,javicmrs,2024-12-12T21:18:22.898Z,0,MAIL:CALENDAR:CONTACTS,2,49
+104717,Calender Scrolling,aranga,2025-01-22T15:26:19.033Z,0,CALENDAR,3,28
+104450,Notifications | Choose Folder,emersont317,2025-01-10T16:52:03.943Z,0,MAIL,1,30
+103968,Show by filtered,janrif,2024-12-21T19:00:53.887Z,0,MAIL,11,169
+102579,Create task from email,Kimsman,2024-10-31T01:19:28.535Z,0,TASKS:MAIL,8,173
+103974,Ability to Easily Disable Mail Account (e.g. checkbox),dalinar,2024-12-21T19:34:55.357Z,0,MAIL,3,37
+103762,When in iOS?,javicmrs,2024-12-12T21:18:22.898Z,0,MAIL:CALENDAR:CONTACTS,2,49
+103176,Different signature for each email,petaqui,2024-11-18T09:54:48.756Z,0,MAIL,10,156
+103163,Default Contact Action - Edit Contact,dheffer,2024-11-18T00:41:26.378Z,0,CONTACTS,2,51
+102567,emails to tasks,mesnitu,2024-10-30T18:22:47.726Z,0,MAIL:TASKS:CALENDAR,4,92
+102064,Make it so closing the Mail Side Panel also closes the Mail Tab and vice-versa,camemb3rt,2024-10-20T12:21:10.263Z,0,MAIL,4,82
+101887,Show count in all Mail folders,Granite1,2024-10-14T13:00:36.847Z,0,MAIL,17,267
+102052,Vivaldi onboarding for new user; email & calendar,halbrick,2024-10-20T03:33:12.271Z,0,MAIL:CALENDAR,7,159
+101985,Support adding subtasks to existing tasks,jakubtwisepeople,2024-10-17T07:33:13.137Z,0,TASKS,1,53
+101983,where is options to separate mail and feeds?,unchanged,2024-10-17T04:11:24.498Z,0,FEEDS:MAIL,2,86
+101807,Unread Folders for each Individual Mail Account,dalinar,2024-10-11T12:13:59.959Z,0,MAIL,6,128
+101867,Mail address hints from mail headers and Contacts,greench,2024-10-13T14:43:47.379Z,0,MAIL:CONTACTS,2,83
+101781,Ability hide some accounts from the Unified Inbox/Folders,dalinar,2024-10-10T17:22:31.694Z,0,MAIL,2,72
+101688,Assigned Tasks support for Google Tasks,ianzhuo,2024-10-07T06:00:27.089Z,0,TASKS,1,84
+101607,Break Vivaldi Mail out for easier access,dies_felices,2024-10-03T11:47:53.113Z,0,MAIL:CONTACTS:CALENDAR,4,147
+101606,Allow Vivaldi Mail to launch in its own window,dies_felices,2024-10-03T11:39:16.392Z,0,MAIL:CALENDAR:CONTACTS,1,64
+101271,Photo for signature,taisheng,2024-09-19T23:48:37.872Z,0,MAIL,3,77
+101195,Mail to event,00sapo,2024-09-17T20:29:38.544Z,0,CALENDAR:MAIL,2,62
+101196,Threat recipient as mailing list,00sapo,2024-09-17T20:32:22.967Z,0,MAIL,1,46
+101094,Please make a useful color coding system,00sapo,2024-09-13T21:39:39.315Z,0,,5,101
+100962,Bringing Reader features and Feeds a bit more together,Zyro1331,2024-09-10T02:20:37.080Z,0,FEEDS,1,60
+100604,Mail Search by Flag or Label,janrif,2024-08-29T22:34:10.679Z,0,MAIL,3,90
+98723,Delete mutiple events simultaneously,MVerwaard,2024-06-20T14:25:07.801Z,0,CALENDAR,3,118
+100139,Important Features Missing in Vivaldi Mail,hus007,2024-08-10T05:21:58.522Z,0,MAIL,2,99
+100072,Panel stay in mail when saving attachment,marlinus,2024-08-07T11:25:26.290Z,0,MAIL,3,77
+99986,Searching scripts and auto-populate,jdstrayer,2024-08-02T20:25:37.244Z,0,MAIL,1,56
+99801,Mail client feature request: Bcc search,marlinus,2024-07-27T19:34:57.281Z,0,USER INTERFACE,3,82
+99525,RSS: Hide feeds without new posts,Capushon,2024-07-17T11:04:08.417Z,0,FEEDS,1,81
+99107,HTML Signatures,chunnel,2024-07-02T23:21:53.286Z,0,MAIL,5,164
+99166,Mail Merge feature to allow Vivaldi Mail client automatically send customized mass emails at defined time intervals (like Mail Merge in Thunderbird),victorxstc,2024-07-04T18:50:28.166Z,0,,2,113
+98999,Configurable notifications in Mail,stefanfrede,2024-06-28T06:51:21.905Z,0,MAIL,3,130
+98927,Behavior in mail tab when mail panel is set to overlay display,ryof,2024-06-25T22:46:49.054Z,0,MAIL,2,88
+98608,Support for SMTP password auth methods other than PLAIN,betazed,2024-06-15T21:58:47.950Z,0,MAIL,4,155
+98098,Working with labels,janrif,2024-05-22T11:39:27.484Z,0,MAIL,1,85
+97616,RSS Feed Format,MylesRyden,2024-05-05T13:38:33.478Z,0,FEEDS,10,513
+97180,Add Mail  calendar  feeds on Vivaldi for android and ios,Yaminoyuurei,2024-04-25T09:13:05.750Z,0,CALENDAR:FEEDS:MAIL,3,200
+97131,Number of mail in each folder,EPra,2024-04-23T09:58:07.369Z,0,MAIL,8,247
+97139,What is the security standard of mail client?,Dancer18,2024-04-23T13:42:17.063Z,0,MAIL,8,269
+97073,Export address book to contact panel,antjewagner,2024-04-20T09:22:24.013Z,0,CONTACTS,2,185
+96943,easier ways and shortcuts to move emails between folders and between accounts,DavyLJones,2024-04-15T10:47:41.757Z,0,MAIL,3,147
+96942,pin emails to the top,DavyLJones,2024-04-15T10:31:44.288Z,0,MAIL,2,98
+96941,Unread / Received to All Mail - archiving with All Mail - for synching with Gmail ,DavyLJones,2024-04-15T10:21:53.895Z,0,MAIL,7,176
+96933,Seeking a guide to managing mailing lists,DavyLJones,2024-04-15T00:07:28.673Z,0,MAIL,2,99
+96917,Modifying Vivaldi Calendar TO Use Google Colors,janrif,2024-04-14T15:46:20.876Z,0,CALENDAR,2,96
+96849,Reduce battery usage on MacOS,ayub,2024-04-11T21:04:47.715Z,0,MAIL:CALENDAR:CONTACTS,4,301
+96285,IMAP mark message as deleted,jtittsler,2024-03-21T13:01:23.103Z,0,MAIL,7,275
+96643,Function of removing mail cache,FedorKorkunov,2024-04-03T15:19:20.258Z,0,MAIL:TASKS,1,107
+96577,Mark the Browsserinstance with email client in a specific color in the task bar,FastTrackF1,2024-04-01T19:25:07.278Z,0,MAIL,1,76
+95901,Import mail-adresses from other mail-clients.,wichtig,2024-03-08T23:44:23.084Z,0,MAIL,4,150
+95051,Sorting mail by additional criteria.,janrif,2024-02-10T18:03:37.414Z,0,MAIL,1,96
+93018,Keyboard shortcut to Vivaldi Mail Tab,LassIV,2023-12-02T23:00:25.803Z,0,MAIL,2,161
+72905,Clearly visible calendar events.,shifte,2022-03-10T09:51:16.936Z,0,CALENDAR,10,994
+92756,Safe unsubscribing from (Spam?) Mailing lists,WildEnte,2023-11-23T21:10:52.962Z,0,MAIL,5,283
+92692,Add sources to task.,JulioAmestica,2023-11-22T02:14:28.486Z,0,TASKS,3,224
+92322,Switching between mail boxes,uberprutser,2023-11-09T07:55:52.054Z,0,MAIL,7,394
+92226,Separate the functions,frisket,2023-11-05T22:47:02.885Z,0,MAIL:FEEDS:CALENDAR,2,200
+82710,Add Forward to Mail Filter Action -- is this a big deal?,janrif,2023-01-08T17:03:29.455Z,0,MAIL,5,283
+91726,Label support for Zoho mail accounts,TMviv,2023-10-23T12:43:29.291Z,0,MAIL,1,180
+91615,restore message from archive,daveargecy,2023-10-18T21:03:48.030Z,0,MAIL,6,169
+91536,Feed Items Do Not Show As Mail Badge Items,VulpesInculta,2023-10-15T16:11:26.424Z,0,MAIL:FEEDS,2,160
+78871,Better visual distinction between read/unread messages,SVGuss,2022-08-28T13:53:59.245Z,0,MAIL,5,309
+90869,Opening an article from the RSS Feed takes too long and opens too many tabs.,Kurlgargyey,2023-09-24T07:10:13.114Z,0,FEEDS,11,1083
+90860,Scrollbar for Label Dropdown Menu,janrif,2023-09-23T16:31:45.383Z,0,MAIL,1,89
+90464,Change Google Tasks calendar color,NameIsKallie,2023-09-11T16:45:31.932Z,0,CALENDAR:TASKS,2,900
+90053,Switch between mail filters view by width  not display type,felagund,2023-08-30T10:36:08.590Z,0,MAIL,1,76
+66259,Standard week view,mimavox,2021-09-14T09:25:23.545Z,0,CALENDAR,4,194
+86407,Multiple signatures per one account,Soromeister,2023-05-01T11:01:01.964Z,0,MAIL,2,109
+89245,Keyboard shortcut,Fubero,2023-08-01T15:46:07.933Z,0,MAIL,4,146
+88566,Confirm Permissions window - dark theme needed,Vioner,2023-07-03T12:43:41.226Z,0,MAIL:CALENDAR,1,116
+88337,Changing Calendar Background,janrif,2023-06-25T16:15:36.074Z,0,CALENDAR,1,115
+87832,Unchecking "Show unsubscribed Mailboxes" hides Inbox&Sent in offline accounts,WildEnte,2023-06-10T08:58:12.388Z,0,MAIL,6,159
+86797,Hierarchical filters,elmotivator,2023-05-11T15:55:44.718Z,0,MAIL,9,550
+87701,Grouping Calendars together,dk224,2023-06-07T20:52:36.414Z,0,CALENDAR,1,117
+87631,Add "Move to Trash" Filter,janrif,2023-06-05T20:50:04.445Z,0,MENUS:COMMAND CHAINS,1,157
+87599,Maintain filter settings when adding new search.,Sataylor56,2023-06-04T22:02:14.019Z,0,MAIL,1,80
+87429,Keyboard shortcut for moving mail to another folder,Qbi-Wan,2023-05-30T10:13:41.107Z,0,MAIL,5,154
+87411,Counter of unread mail in Vivaldi Mail TabTab.,richb,2023-05-29T14:52:24.743Z,0,MAIL,1,89
+86242,Naming Color Flags [ Done ],janrif,2023-04-27T15:01:07.140Z,0,MAIL,7,216
+84701,Storage Limit,Ja27CS2g,2023-03-11T18:49:34.131Z,0,MAIL,4,307
+84378,How to restore deleted sent-folder,ringreg,2023-03-02T15:40:52.787Z,0,MAIL,10,310
+83971,Allow "Prev/Next Unread" keys to work in "Unread" mailbox,canadaduane,2023-02-18T21:37:53.932Z,0,MAIL,5,137
+83429,Command to Remove All Labels [ Done ],janrif,2023-02-01T18:44:08.670Z,0,MAIL,3,181
+83373,Option to mark specific mailing lists as read automatically,WildEnte,2023-01-30T20:22:07.514Z,0,MAIL,3,112
+83004,Log-in person,Knuthf,2023-01-18T13:13:23.393Z,0,TASKS:MAIL:FEEDS:CONTACTS:CALENDAR,7,475
+82999,Select e-mails using checkboxes,NonyaBeeswax1836,2023-01-18T05:05:59.463Z,0,MAIL:FEEDS,9,334
+82989,Time & Content of "YouGotMail" Fly-in Banner,schreck,2023-01-17T17:26:35.963Z,0,MAIL,1,99
+82625,H-Feed support,kilroo,2023-01-05T00:14:57.781Z,0,FEEDS,1,107
+82259,Move Empty recycle bin confirmation dialog window,Dancer18,2022-12-21T19:21:51.524Z,0,MAIL,1,67
+82121,Helpful Options for Email,janrif,2022-12-17T14:44:26.805Z,0,MAIL,4,152
+82164,Integration of var. accounts,S_Paternotte,2022-12-19T09:08:23.291Z,0,MAIL:CONTACTS:CALENDAR,6,340
+82096,Allow to choose which filters views are checked by default,Hadden89,2022-12-16T20:51:03.108Z,0,MAIL:TASKS,2,193
+81890,Search result to be presented with the scroll bar back at the top,Shoham,2022-12-12T12:49:18.652Z,0,MAIL,1,62
+81807,Filters Search Box | Resizable only on the Width | UX Bug,Hadden89,2022-12-10T11:52:46.407Z,0,MAIL:TASKS,1,136
+68142,Deleting articles like Opera 12,david760,2021-10-30T19:51:57.556Z,0,FEEDS,2,184
+81333,Auto sort email to existing folders (not archive),aybesea,2022-11-29T22:06:49.059Z,0,MAIL,1,87
+81204,cannot log on mail server,DonSkoe,2022-11-26T01:23:19.862Z,0,MAIL,2,155
+81229,Create custom unified folders,aybesea,2022-11-26T17:33:54.658Z,0,MAIL,1,75
+81101,Read emails return as unread,janrif,2022-11-21T17:32:15.025Z,0,MAIL,10,257
+81093,Recover an Offline OST Mailbox File in Outlook - Issue Solved,vocan202,2022-11-21T11:33:19.710Z,0,MAIL,2,110
+80476,Compress Database,immanuel.heims,2022-10-24T19:21:15.490Z,0,MAIL,2,136
+79792,Add XMPP protocol,DanMan,2022-10-02T17:06:06.000Z,0,MAIL,3,260
+79377,Bounce Spam!,oldsalt,2022-09-16T07:34:16.210Z,0,MAIL,4,170
+79128,create mailing list directly,jimofadel,2022-09-05T22:49:21.139Z,0,MAIL,2,93
+78970,Please add a "mark all as read" button,Jaws,2022-09-01T05:24:23.306Z,0,FEEDS,8,296
+78866,Ability to filter out // delete duplicate emails,1rif1modo,2022-08-28T11:41:49.234Z,0,MAIL,3,117
+78509,Automatically add a Reminder when accepting an Invitation,RichardWepnerPD,2022-08-17T09:25:36.812Z,0,CALENDAR,1,116
+78027,Hide unsubscribed [IMAP] folders from account views,Hadden89,2022-08-02T22:51:20.977Z,0,MAIL,3,133
+77903,Support for Stationaries,jdvernet,2022-07-28T12:21:41.421Z,0,MAIL,1,78
+77898,Add folders to mailing lists,Shoham,2022-07-28T06:08:06.967Z,0,MAIL,1,77
+77676,Add show flag toggle like "read"  "trash" etc,janrif,2022-07-19T16:35:40.840Z,0,MAIL,1,80
+77648,Do not empty the bin completely,LEO2,2022-07-18T13:30:50.703Z,0,MAIL,4,180
+77501,Proxy Support,Poto,2022-07-12T08:23:25.745Z,0,MAIL,2,186
+77373,The productivity of the mail client is unfortunately very limited because no cataloging in local folders is possible as for example with Thinderbird.,HOREIOS,2022-07-06T23:45:57.793Z,0,MAIL,5,219
+77317,Click Flag in Flag Column to Toggle Flag,dalinar,2022-07-04T22:17:16.337Z,0,MAIL,9,212
+77194,Identities  Signature and PGP,winsport,2022-06-30T05:50:28.429Z,0,MAIL,12,436
+77204,Text Color Picker,SergeKSS,2022-06-30T14:19:03.127Z,0,MAIL,2,90
+77160,Filter Flagged Feeds in the view bar,marcelobianchi,2022-06-29T02:11:02.066Z,0,FEEDS,1,131
+77128,Choose which folders display mail counts,ssilberm,2022-06-28T00:52:23.649Z,0,MAIL,1,61
+77126,Attachments at Bottom of Feed Preview,cecille,2022-06-27T20:32:48.862Z,0,FEEDS,1,124
+76635,Mark Importance,Shoham,2022-06-14T07:27:29.731Z,0,MAIL,8,307
+76740,is it possible to customize in which folder my Sent items are placed?,jaap114,2022-06-16T07:50:41.540Z,0,MAIL,5,210
+76588,Add subfolders,rromanov,2022-06-13T13:47:29.672Z,0,MAIL,8,176
+76580,Show the RSS button when Feeds are disabled,moimadmax,2022-06-13T11:09:04.985Z,0,FEEDS,1,124
+76544,Keyboard shortcuts,Gregor,2022-06-12T19:39:06.480Z,0,FEEDS,1,109
+76252,Feed Reader context menu is not customizable,ffuser1,2022-06-07T14:42:49.046Z,0,FEEDS,1,122
+75634,See outgoing emails at the same time you see replies in your inbox,COVOSO,2022-05-24T08:31:35.550Z,0,MAIL,2,89
+75030,Women's Period 🩸,andressapcorrea,2022-05-04T20:11:58.149Z,0,CALENDAR,7,396
+74712,Send Again,YDForums,2022-04-25T06:53:48.576Z,0,MAIL,2,81
+74641,Mail Filter on Specific folder,OlanK,2022-04-22T08:59:16.951Z,0,MAIL,2,98
+74009,Offline RSS Reading,Artex,2022-04-09T00:53:20.616Z,0,FEEDS,1,157
+73681,Mail Dates from Header Data,dmkroslindale,2022-04-02T18:55:53.485Z,0,MAIL,1,80
+73443,View .msg (Outlook mail) files,Navel,2022-03-26T09:00:07.739Z,0,MAIL,1,79
+65470,Sign into calender with google,lavender29,2021-08-20T22:54:50.600Z,0,CALENDAR,5,285
+66261,Pasting multiple recipients addresses,Elwetana,2021-09-14T09:43:40.818Z,0,MAIL,4,148
+72571,Subject without UTF-8 quoted printable,DocMike65,2022-02-28T14:38:09.944Z,0,MAIL,2,117
+72573,Duplicate Meeting as NEW,DocMike65,2022-02-28T14:57:56.039Z,0,CALENDAR,1,92
+72572,Pick Meeting Participants and Locations from Contacts / Web,DocMike65,2022-02-28T14:50:44.540Z,0,CALENDAR,1,61
+62768,Allow access to local  password/username protected ICS files,ThomasHelzle,2021-06-17T12:40:37.890Z,0,CALENDAR,10,373
+68285,Hide tasks option (+ eventually a tasks app?),st0567,2021-11-04T14:31:18.768Z,0,CALENDAR,3,177
+70564,Zooming in calendar views,ZakMcKracken,2022-01-04T00:56:51.263Z,0,CALENDAR,1,99
+69743,Unread Mail Icon for pinned tab,B-iggy,2021-12-10T07:28:52.392Z,0,MAIL,1,63
+69600,Sync M3's Seen State of Messages to IMAP Server,burnout426,2021-12-08T02:31:25.681Z,0,MAIL,3,171
+69590,Auto Select Feed Title,mdoverl,2021-12-07T22:05:06.653Z,0,FEEDS,1,106
+69436,Save .eml content as markdown via the context menu,novikoiva,2021-12-05T09:47:18.160Z,0,FEEDS,1,126
+69158,Allow mail client to be shown as start page,justwannabrowse,2021-12-02T06:18:47.094Z,0,MAIL,2,91
+69054,RSS Feed Ticker,Neophyte,2021-11-29T00:54:34.304Z,0,FEEDS,4,250
+68712,Focus in email view / shortcuts for next/previous message in the list,pieterdavid,2021-11-18T11:07:18.959Z,0,MAIL,5,119
+67995,Trash  & Spam = Read,janrif,2021-10-26T17:04:15.081Z,0,MAIL,10,278
+68482,Option not to index Junk at startup,Thescorb0,2021-11-11T08:42:47.622Z,0,MAIL,1,64
+65410,Custom Theme Colors Specifically for Mail Client,Bizzet,2021-08-19T11:30:59.088Z,0,MAIL,5,163
+67929,Allow the "Time Increments" to go down to 5 minutes,romankubiv101,2021-10-25T10:41:37.282Z,0,CALENDAR,1,78
+67454,User-specified range for display,Shaare,2021-10-12T00:50:15.877Z,0,CALENDAR,1,78
+67120,Contact Info/Img service,Zalex108,2021-10-05T10:36:39.893Z,0,MAIL,1,78
+66954,Change default action of trash icon in recycling bin to permanently delete,AgentRocket,2021-09-30T11:48:15.535Z,0,MAIL,3,94
+66698,Moving mail to folder using search bar,jcullins,2021-09-23T17:13:06.741Z,0,MAIL,2,192
+66675,Display channel list inside the RSS interface,molex,2021-09-23T07:17:01.428Z,0,FEEDS,1,115
+66425,Drag folders/categories on panel with shift+mouse,Thescorb0,2021-09-17T10:30:34.133Z,0,MAIL,1,69
+66373,Alert schedule wherever using other app,ppgm,2021-09-16T11:21:17.889Z,0,CALENDAR,1,89
+66102,Center Buttons | Allow,Zalex108,2021-09-09T17:51:39.991Z,0,MAIL,4,113
+65623,Snooze units,honzamf,2021-08-25T11:38:02.998Z,0,CALENDAR,1,118
+65523,Group by day received - like Thunderbird,mozi,2021-08-22T22:58:27.346Z,0,FEEDS,1,105
+65496,Linking mail with other mail,k0valski,2021-08-21T16:51:16.772Z,0,MAIL,2,131
+65485,Customizable mail folder list (by PINs and HIDEs),Qbi-Wan,2021-08-21T10:21:13.801Z,0,MAIL,3,112
+65443,Colors within All Messages,mozi,2021-08-20T09:44:56.866Z,0,MAIL,1,47
+65334,[Feature request] Automatically empty mailbox thrash,abdellahb,2021-08-16T23:58:26.223Z,0,MAIL,2,85
+65115,Making Labels much more useful,janrif,2021-08-10T13:22:19.042Z,0,MAIL,6,293
+64770,Google calendar,ALPPHI,2021-08-03T07:50:11.660Z,0,CALENDAR,2,127
+61435,adding calendar-data with events  - in a special format,steelie,2021-05-22T19:39:49.219Z,0,CALENDAR,2,107
+64391,Allow displaying newsletters in RSS reader instead of mail,zakius,2021-07-26T11:34:52.051Z,0,MAIL,2,87
+64031,Option to automatically delete UTM markers from URLs,voicemorpher,2021-07-16T09:43:51.237Z,0,MAIL,1,67
+63976,Feed detection for other services,zakius,2021-07-14T10:21:24.328Z,0,FEEDS,2,123
+63824,Sorting email,hstoellinger,2021-07-10T09:34:47.243Z,0,MAIL,5,145
+63682,Allow users to disable "mail login" screen presented upon startup,WhyForceMeToRegister,2021-07-07T16:51:25.932Z,0,MAIL,6,138
+63503,Move emails with label,janrif,2021-07-03T13:49:58.761Z,0,MAIL,3,129
+63103,Receive Mail Sound Check Marked but Nothing,tech444,2021-06-24T10:41:20.365Z,0,MAIL,1,64
+62709,Don't merge different feeds from the same site,baoutsi,2021-06-16T11:40:22.246Z,0,FEEDS,1,74
+62707,Disable images in Feed Reader don't work,Trent,2021-06-16T11:24:30.005Z,0,FEEDS,1,82
+62609,"Current Time Bar" in day/week calendar views,deathau,2021-06-15T00:51:21.270Z,0,CALENDAR,2,71
+62596,Send attachments as link,metiu,2021-06-14T20:04:17.862Z,0,MAIL,1,61
+62536,Mail list page to speed dial,Majtika,2021-06-14T05:59:06.458Z,0,MAIL,2,67
+62435,copy-paste option,pphh,2021-06-12T14:35:38.671Z,0,MAIL,4,93
+62353,Support for MIME encoded strings in List-Id,ddddanil,2021-06-11T15:54:32.271Z,0,MAIL,2,102
+62273,Sidebar agenda,sukovec,2021-06-10T19:46:56.799Z,0,CALENDAR,5,132
+62166,Manual Setup for Gmail (Not Imap),kyrt667,2021-06-10T06:04:40.943Z,0,MAIL,1,1088
+62080,Kalendereintrag von Google Kalender,sapiatz,2021-06-09T14:48:11.140Z,0,CALENDAR,2,115
+61679,Embedded notes to emails,albertoru,2021-05-30T11:29:18.504Z,0,MAIL,6,153
+61513,Sound Notification when,[[global:former-user]],2021-05-25T15:24:23.196Z,0,FEEDS,0,84
+61080,Compose - To: address search hint or blacklist,Poli,2021-05-14T12:58:07.087Z,0,MAIL,2,82
+60569,E-mail Messages TAB should be pinned  by default,newscpq,2021-05-03T19:29:47.247Z,0,MAIL,3,94
+60238,Calendar Highlight Consistency,janrifkinson,2021-04-29T10:20:21.529Z,0,CALENDAR,1,78
+60039,Linux version mail client (preview and columns),Gabito,2021-04-24T21:57:52.797Z,0,MAIL,4,108
+59807,Color backgrounds in mail client,PC64,2021-04-19T20:07:23.511Z,0,MAIL,2,93
+59737,Delete Highlighted Mail Message with single click of trash can.,briancochrane,2021-04-17T21:55:21.629Z,0,MAIL,5,119
+59733,Option to hide mailing list emails from received emails,SmartK8,2021-04-17T19:48:30.438Z,0,MAIL,4,88
+58168,wallpaper option for mail client,horia,2021-03-15T19:20:41.705Z,0,MAIL,2,87
+58880,LaTeX support,vivicagenaux,2021-03-27T19:23:30.590Z,0,MAIL,3,155
+58816,Special Folders,PC64,2021-03-26T16:23:09.195Z,0,MAIL,1,64
+58122,Treat Folders as Labels,code3,2021-03-14T21:51:16.711Z,0,MAIL,5,188
+57772,Add date formats for other regions,cedricdes,2021-03-05T11:09:42.011Z,0,MAIL,2,65
+57613,Rules for auto-moving email when flag is added,janrifkinson,2021-02-28T16:47:13.737Z,0,MAIL,2,80
+57584,Merge elements of horizontal and vertical layout  for mobile,3x5,2021-02-27T15:19:29.489Z,0,MAIL,4,135
+57272,Support for Gmails from an organization,Iaaa123456789,2021-02-19T22:38:02.219Z,0,MAIL,2,76
+57145,Data collector,sf0greensill,2021-02-17T11:46:14.470Z,0,MAIL,1,64
+57143,Form Emails,sf0greensill,2021-02-17T11:34:44.871Z,0,MAIL,1,68
+56086,Do not auto-adjust end-date when start-date of all-day-events is changed,luator,2021-01-29T10:38:01.236Z,0,CALENDAR,1,67
+54050,Option to Disable IMAP IDLE for an Account,burnout426,2020-12-08T13:10:37.556Z,0,MAIL,1,92
