@@ -419,8 +419,44 @@ function genReport(){
 	window.open(blob);
 }
 
+function showBiggestChanges(){
+    let allstring = `<!DOCTYPE html><body><h1>Bigggest changes since last update</h1>Previous count: ${OLDDATA.length}, new count: ${DATA.length}\n<ol>`;
+    let change = [];
+
+    for (let i = 0; i < DATA.length; i++) {
+        const element = DATA[i];
+        const old = OLDDATA.find(x => x[0]===element[0]);
+        if(old){
+            const diff = old ? element[4]-old[4] : element[4];
+            change.push([element[0],element[1],diff,element[4]],false);
+        } else {
+            change.push([element[0],element[1],element[4],element[4],true]);
+        }
+    }
+
+    change = change.filter(x => x[2]>0);
+    change = change.sort((a,b) => b[2]-a[2]);
+
+    for (let i = 0; i < change.length; i++) {
+        const e = change[i];
+        allstring += `<li style="color:${e[4] ? "green" : "initial"}">+${e[2]} (${e[3]}) ${e[1]}`
+        allstring += '</li>\n';
+    }
+
+	const htmlfile = new File(
+		[allstring],
+		"requestexport.html",
+		{type: "text/html"}
+	);
+	const blob = window.URL.createObjectURL(htmlfile);
+	window.open(blob);
+}
+
 document.querySelector("footer").addEventListener("click", e => {
     if(e.ctrlKey){
         genReport();
+    }
+    if(e.shiftKey){
+        showBiggestChanges();
     }
 })

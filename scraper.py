@@ -1,4 +1,6 @@
-import functools, re, requests, time
+import functools, re, requests, time, shutil
+
+shutil.copyfile(data.js, olddata.js)
 
 def cat(category_id, pageno=None):
     if pageno is None:
