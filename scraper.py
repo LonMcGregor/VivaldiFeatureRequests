@@ -1,6 +1,6 @@
 import functools, re, requests, time, shutil
 
-shutil.copyfile(data.js, olddata.js)
+shutil.copyfile('data.js', 'olddata.js')
 
 def cat(category_id, pageno=None):
     if pageno is None:
@@ -73,3 +73,5 @@ print("Converting into JS-accessible data")
 import beautifier
 
 update_index()
+
+print('set OLDDATA and del TAGS in oldata.js')
