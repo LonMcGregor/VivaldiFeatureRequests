@@ -405,7 +405,6 @@ function genReport(){
 	["DESKTOP","MAIL AND FEEDS","MOBILE","COMMUNITY"].forEach(brand => {
 		allstring += `<h1>${brand}</h1>\n`;
 		allstring += DATA.filter(x => x[4] < 5) //min score
-            .filter(x => (brand === "DESKTOP" && !x[5].includes("MAIL AND FEEDS")) || brand !== "DESKTOP") // ensure mail reqs go into their own category
             .filter(x => isOlderThanFourYears(x[3]))
             .filter(x => x[5].includes(brand))
             .map(x => `<a href="https://forum.vivaldi.net/topic/${x[0]}">${x[1]}</a>`)
