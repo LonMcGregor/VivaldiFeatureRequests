@@ -428,7 +428,7 @@ function showBiggestChanges(){
         const old = OLDDATA.find(x => x[0]===element[0]);
         if(old){
             const diff = old ? element[4]-old[4] : element[4];
-            change.push([element[0],element[1],diff,element[4]],false);
+            change.push([element[0],element[1],diff,element[4],false]);
         } else {
             change.push([element[0],element[1],element[4],element[4],true]);
         }
@@ -440,6 +440,29 @@ function showBiggestChanges(){
     for (let i = 0; i < change.length; i++) {
         const e = change[i];
         allstring += `<li style="color:${e[4] ? "green" : "initial"}">+${e[2]} (${e[3]}) ${e[1]}`
+        allstring += '</li>\n';
+    }
+
+
+    allstring += '</ol><h1>Big Losses</h1><p>Check that there are no outliers that could indicate data loss<p><ol>'
+
+    let lostvotes = [];
+    for (let i = 0; i < OLDDATA.length; i++) {
+        const oldel = OLDDATA[i];
+        const newel = DATA.find(x => x[0]===oldel[0]);
+        if(newel){
+            const diff = newel[4]-oldel[4];
+            if(diff < 0){
+                lostvotes.push([oldel[0],oldel[1],diff,oldel[4],false]);
+            }
+        } else {
+                lostvotes.push([oldel[0],oldel[1],oldel[4],oldel[4],true]);
+        }
+    }
+    lostvotes = lostvotes.sort((a,b) => a[2]-b[2]);
+    for (let i = 0; i < lostvotes.length; i++) {
+        const e = lostvotes[i];
+        allstring += `<li style="color:${e[4] ? "red" : "initial"}">${e[2]} (${e[3]}) ${e[1]}`
         allstring += '</li>\n';
     }
 
